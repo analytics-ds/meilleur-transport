@@ -1,0 +1,288 @@
+{{ define "main" }}
+
+<section class="list-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="list-description">{{ .Description }}</p>
+    </div>
+</section>
+
+<section class="simulator-wrapper">
+    <div class="container">
+        <div class="simulator-app" id="simulator-app">
+            <!-- Rendu en JS -->
+        </div>
+    </div>
+</section>
+
+<script src="{{ "/js/transports.js" | relURL }}"></script>
+<script>
+(function(){
+
+const QUESTIONS = [
+    {
+        id: "q1",
+        title: "Usage principal",
+        text: "Pour quel usage principal recherchez-vous un transport ?",
+        options: [
+            { label: "Trajet quotidien", desc: "Domicile-travail, courses, trajets réguliers", tags: ["daily", "city"] },
+            { label: "Loisirs & voyages", desc: "Évasion, week-ends, balades, road trips", tags: ["leisure", "comfort", "road"] },
+            { label: "Famille", desc: "Enfants, transport collectif, grands bagages", tags: ["family", "space"] },
+            { label: "Professionnel", desc: "Livraisons, chantiers, activité économique", tags: ["pro", "cargo"] }
+        ]
+    },
+    {
+        id: "q2",
+        title: "Passagers",
+        text: "Combien de personnes transportez-vous habituellement ?",
+        options: [
+            { label: "Solo", desc: "Uniquement moi, transport personnel", tags: ["solo"] },
+            { label: "Duo", desc: "Couple, conjoint, compagnon de route", tags: ["duo"] },
+            { label: "3 à 4 personnes", desc: "Petite famille, covoiturage restreint", tags: ["family", "small-family"] },
+            { label: "5 personnes ou plus", desc: "Grande famille, transport collectif", tags: ["family", "large-family", "space"] }
+        ]
+    },
+    {
+        id: "q3",
+        title: "Kilométrage",
+        text: "Quel kilométrage annuel prévoyez-vous ?",
+        options: [
+            { label: "Moins de 5 000 km", desc: "Usage très occasionnel, courtes distances", tags: ["low-km", "city"] },
+            { label: "5 000 à 15 000 km", desc: "Usage régulier, typique d'un ménage urbain", tags: ["medium-km"] },
+            { label: "15 000 à 30 000 km", desc: "Usage intensif, nombreux déplacements", tags: ["high-km", "comfort"] },
+            { label: "Plus de 30 000 km", desc: "Gros rouleur, usage quasi professionnel", tags: ["very-high-km", "economic", "diesel-friendly"] }
+        ]
+    },
+    {
+        id: "q4",
+        title: "Budget",
+        text: "Quel budget d'acquisition envisagez-vous ?",
+        options: [
+            { label: "Moins de 5 000 &euro;", desc: "Solution économique, mobilité douce", tags: ["budget-low"] },
+            { label: "5 000 à 15 000 &euro;", desc: "Budget maîtrisé, occasion ou petit neuf", tags: ["budget-mid"] },
+            { label: "15 000 à 35 000 &euro;", desc: "Gamme milieu à haut, neuf ou récent", tags: ["budget-high", "comfort"] },
+            { label: "Plus de 35 000 &euro;", desc: "Premium, sans contrainte budgétaire", tags: ["budget-premium", "comfort", "performance"] }
+        ]
+    },
+    {
+        id: "q5",
+        title: "Motorisation",
+        text: "Quelle motorisation préférez-vous ?",
+        options: [
+            { label: "Électrique", desc: "Zéro émission locale, recharge maîtrisée", tags: ["electric", "eco", "electric-friendly"] },
+            { label: "Hybride", desc: "Polyvalent, consommation réduite", tags: ["hybrid", "eco"] },
+            { label: "Thermique", desc: "Essence ou diesel, autonomie maximale", tags: ["thermal"] },
+            { label: "Peu importe", desc: "Flexible selon la meilleure solution", tags: ["any-fuel"] }
+        ]
+    },
+    {
+        id: "q6",
+        title: "Priorité",
+        text: "Quelle est votre priorité absolue ?",
+        options: [
+            { label: "Économie", desc: "Coût total de possession le plus bas", tags: ["economic"] },
+            { label: "Confort", desc: "Trajets agréables, équipements premium", tags: ["comfort"] },
+            { label: "Performance", desc: "Puissance, sensations, réactivité", tags: ["performance"] },
+            { label: "Écologie", desc: "Empreinte carbone et impact minimisés", tags: ["eco", "electric-friendly"] }
+        ]
+    }
+];
+
+// Images Wikipedia officielles pour chaque véhicule (scraping API REST)
+
+// State
+let current = 0;
+let answers = {};
+
+const app = document.getElementById('simulator-app');
+
+// Check URL param q1
+const urlParams = new URLSearchParams(window.location.search);
+const q1param = urlParams.get('q1');
+if (q1param) {
+    const map = { quotidien: 0, loisirs: 1, famille: 2, pro: 3 };
+    if (map[q1param] !== undefined) {
+        answers.q1 = QUESTIONS[0].options[map[q1param]].tags;
+        current = 1;
+    }
+}
+
+let selectedIdx = null;
+
+function answerLabel(qIdx) {
+    const tagArr = answers[QUESTIONS[qIdx].id];
+    if (!tagArr) return null;
+    const opt = QUESTIONS[qIdx].options.find(o => JSON.stringify(o.tags) === JSON.stringify(tagArr));
+    return opt ? opt.label : null;
+}
+
+function render() {
+    if (current >= QUESTIONS.length) {
+        renderResults();
+        return;
+    }
+    const q = QUESTIONS[current];
+    const progress = ((current) / QUESTIONS.length) * 100;
+    selectedIdx = null;
+
+    const sidebarHtml = QUESTIONS.map((question, i) => {
+        let state = 'pending';
+        if (i < current) state = 'done';
+        if (i === current) state = 'current';
+        const ans = answerLabel(i);
+        return `
+            <li class="sim-step-${state}" data-goto="${i}">
+                <span class="sim-step-num">${String(i + 1).padStart(2, '0')}</span>
+                <div class="sim-step-info">
+                    <strong>${question.title}</strong>
+                    ${ans ? `<span>${ans}</span>` : `<span class="muted">${state === 'current' ? 'En cours' : 'À compléter'}</span>`}
+                </div>
+            </li>
+        `;
+    }).join('');
+
+    let html = `
+        <div class="sim-pro">
+            <aside class="sim-sidebar">
+                <div class="sim-sidebar-header">
+                    <span class="sim-meta">Étape ${current + 1} sur ${QUESTIONS.length}</span>
+                    <div class="sim-bar"><div class="sim-bar-fill" style="width: ${progress}%;"></div></div>
+                </div>
+                <ol class="sim-steps">${sidebarHtml}</ol>
+            </aside>
+            <main class="sim-main">
+                <div class="sim-main-header">
+                    <span class="sim-category">${q.title}</span>
+                    <h2 class="sim-question">${q.text}</h2>
+                </div>
+                <div class="sim-options-pro">
+                    ${q.options.map((opt, i) => `
+                        <label class="sim-opt" data-idx="${i}">
+                            <input type="radio" name="${q.id}" value="${i}">
+                            <div class="sim-opt-check"></div>
+                            <div class="sim-opt-body">
+                                <strong>${opt.label}</strong>
+                                <span>${opt.desc}</span>
+                            </div>
+                        </label>
+                    `).join('')}
+                </div>
+                <div class="sim-nav">
+                    <button class="btn-ghost sim-prev" ${current === 0 ? 'disabled' : ''}>Précédent</button>
+                    <button class="btn-primary-green sim-next" disabled>Valider et continuer &rarr;</button>
+                </div>
+            </main>
+        </div>
+    `;
+    app.innerHTML = html;
+
+    app.querySelectorAll('.sim-opt').forEach(lbl => {
+        lbl.addEventListener('click', function(){
+            selectedIdx = parseInt(this.dataset.idx);
+            app.querySelectorAll('.sim-opt').forEach(l => l.classList.remove('selected'));
+            this.classList.add('selected');
+            this.querySelector('input').checked = true;
+            app.querySelector('.sim-next').disabled = false;
+        });
+    });
+
+    app.querySelector('.sim-next').addEventListener('click', function(){
+        if (selectedIdx === null) return;
+        answers[q.id] = q.options[selectedIdx].tags;
+        current++;
+        render();
+    });
+
+    const prev = app.querySelector('.sim-prev');
+    if (prev && !prev.disabled) {
+        prev.addEventListener('click', function(){
+            current = Math.max(0, current - 1);
+            render();
+        });
+    }
+
+    app.querySelectorAll('.sim-steps li').forEach(li => {
+        li.addEventListener('click', function(){
+            const goto = parseInt(this.dataset.goto);
+            if (goto <= current) {
+                current = goto;
+                render();
+            }
+        });
+    });
+}
+
+function renderResults() {
+    // Flatten user tags
+    const userTags = [];
+    Object.values(answers).forEach(tags => userTags.push(...tags));
+
+    // Score each transport
+    const scored = TRANSPORTS.map(t => {
+        let score = 0;
+        t.tags.forEach(tag => { if (userTags.indexOf(tag) !== -1) score++; });
+        return { ...t, score };
+    });
+
+    scored.sort((a, b) => b.score - a.score);
+    const top5 = scored.slice(0, 5);
+
+    const profileHtml = QUESTIONS.map((q, i) => {
+        const ans = answerLabel(i);
+        return `<li><span>${q.title}</span><strong>${ans || '-'}</strong></li>`;
+    }).join('');
+
+    const maxScore = Math.max(...scored.map(s => s.score), 1);
+
+    app.innerHTML = `
+        <div class="sim-results">
+            <div class="sim-results-header">
+                <span class="cta-eyebrow">Résultat personnalisé</span>
+                <h2>Les 5 transports les plus adaptés à votre profil</h2>
+                <p>Classement par pertinence sur la base de vos ${QUESTIONS.length} réponses.</p>
+                <ul class="sim-profile-recap">${profileHtml}</ul>
+            </div>
+            <div class="sim-results-grid">
+                ${top5.map((t, i) => `
+                    <article class="sim-result-card">
+                        <div class="sim-result-rank">#${i + 1}</div>
+                        <div class="sim-result-image">
+                            <img src="${t.image}" alt="${t.name}">
+                        </div>
+                        <div class="sim-result-body">
+                            <span class="sim-result-category">${t.category}</span>
+                            <h3>${t.name}</h3>
+                            <p class="sim-result-specs">${t.specs}</p>
+                            <div class="sim-result-score">
+                                <span>Compatibilité</span>
+                                <div class="sim-match-bar"><div style="width: ${Math.round((t.score / maxScore) * 100)}%;"></div></div>
+                                <strong>${Math.round((t.score / maxScore) * 100)}%</strong>
+                            </div>
+                            <div class="sim-result-footer">
+                                <strong class="sim-result-price">${t.price}</strong>
+                                <a href="/comparer/" class="btn-book">Comparer</a>
+                            </div>
+                        </div>
+                    </article>
+                `).join('')}
+            </div>
+            <div class="sim-results-actions">
+                <button class="btn-primary-green" id="sim-restart">Refaire le simulateur</button>
+                <a href="/proposer/" class="btn-ghost">Proposer un transport manquant</a>
+            </div>
+        </div>
+    `;
+
+    document.getElementById('sim-restart').addEventListener('click', function(){
+        answers = {};
+        current = 0;
+        render();
+    });
+}
+
+render();
+
+})();
+</script>
+
+{{ end }}

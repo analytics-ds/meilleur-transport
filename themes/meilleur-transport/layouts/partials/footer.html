@@ -1,0 +1,81 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <div class="footer-logo">
+                    <span style="width: 30px; height: 30px; background: var(--primary); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; color: white;">&#9679;</span>
+                    {{ .Site.Title }}
+                </div>
+                <p>{{ .Site.Params.description }}</p>
+                <p style="margin-top: 1rem;">
+                    &#9993; contact@meilleur-transport.com
+                </p>
+            </div>
+
+            {{ if eq .Site.Language.Lang "en" }}
+
+            <div class="footer-col">
+                <h4>Categories</h4>
+                <ul>
+                    <li><a href="/en/categories/individuals/">Individuals</a></li>
+                    <li><a href="/en/categories/professionals/">Professionals</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Comparator</h4>
+                <ul>
+                    <li><a href="/en/">Home</a></li>
+                    <li><a href="/en/blog/">Blog</a></li>
+                    <li><a href="/en/about/">About</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Information</h4>
+                <ul>
+                    <li><a href="/en/contact/">Contact</a></li>
+                    <li><a href="/en/sitemap/">Site map</a></li>
+                </ul>
+            </div>
+
+            {{ else }}
+
+            <div class="footer-col">
+                <h4>Catégories</h4>
+                <ul>
+                    <li><a href="/categories/particuliers/">Particuliers</a></li>
+                    <li><a href="/categories/professionnels/">Professionnels</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Comparateur</h4>
+                <ul>
+                    <li><a href="/">Accueil</a></li>
+                    <li><a href="/comparer/">Comparer</a></li>
+                    <li><a href="/simulateur/">Simulateur</a></li>
+                    <li><a href="/proposer/">Proposer un transport</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Informations</h4>
+                <ul>
+                    <li><a href="/a-propos/">À propos</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                    <li><a href="/mentions-legales/">Mentions légales</a></li>
+                    <li><a href="/plan-du-site/">Plan du site</a></li>
+                </ul>
+            </div>
+
+            {{ end }}
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if eq .Site.Language.Lang "en" }}All rights reserved.{{ else }}Tous droits réservés.{{ end }}</p>
+            <div class="footer-social">
+                <a href="#" aria-label="Facebook">f</a>
+                <a href="#" aria-label="Twitter">X</a>
+                <a href="#" aria-label="Instagram">i</a>
+                <a href="#" aria-label="LinkedIn">in</a>
+            </div>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,203 @@
+{{ define "main" }}
+
+<section class="list-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="list-description">{{ .Description }}</p>
+    </div>
+</section>
+
+<section class="propose-wrapper">
+    <div class="container container-narrow">
+
+        <div class="propose-notice">
+            <span class="propose-notice-icon">&#9432;</span>
+            <div>
+                <strong>Comment ca marche ?</strong> Soumettez les caractéristiques du transport, votre proposition sera examinée par notre équipe sous 48h. Si elle est validée, la fiche sera ajoutée au comparateur et vous serez crédité comme contributeur.
+            </div>
+        </div>
+
+        <form class="propose-form" id="propose-form">
+
+            <h2>Caractéristiques generales</h2>
+
+            <div class="form-row">
+                <div class="form-field">
+                    <label>Catégorie *</label>
+                    <select required>
+                        <option value="">Choisir...</option>
+                        <option>Voiture</option>
+                        <option>Moto</option>
+                        <option>Scooter</option>
+                        <option>Velo electrique</option>
+                        <option>Utilitaire</option>
+                        <option>Poids lourd / fret</option>
+                        <option>Autre</option>
+                    </select>
+                </div>
+                <div class="form-field">
+                    <label>Année *</label>
+                    <input type="number" min="1990" max="2030" value="2026" required>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-field">
+                    <label>Marque *</label>
+                    <input type="text" placeholder="ex: Tesla" required>
+                </div>
+                <div class="form-field">
+                    <label>Modèle *</label>
+                    <input type="text" placeholder="ex: Model 3 Long Range" required>
+                </div>
+            </div>
+
+            <h2>Motorisation et performance</h2>
+
+            <div class="form-row">
+                <div class="form-field">
+                    <label>Type de motorisation *</label>
+                    <select required>
+                        <option value="">Choisir...</option>
+                        <option>Électrique</option>
+                        <option>Hybride rechargeable</option>
+                        <option>Hybride auto-rechargeable</option>
+                        <option>Essence</option>
+                        <option>Diesel</option>
+                        <option>Hydrogène</option>
+                        <option>Autre</option>
+                    </select>
+                </div>
+                <div class="form-field">
+                    <label>Puissance (ch)</label>
+                    <input type="text" placeholder="ex: 351">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-field">
+                    <label>Autonomie (km) / Consommation</label>
+                    <input type="text" placeholder="ex: 629 km OU 5,2 L/100">
+                </div>
+                <div class="form-field">
+                    <label>Émissions CO2 (g/km)</label>
+                    <input type="text" placeholder="ex: 0 OU 115">
+                </div>
+            </div>
+
+            <h2>Usage et dimensions</h2>
+
+            <div class="form-row">
+                <div class="form-field">
+                    <label>Nombre de places</label>
+                    <input type="number" min="1" max="50" placeholder="ex: 5">
+                </div>
+                <div class="form-field">
+                    <label>Volume bagages (L ou m&sup3;)</label>
+                    <input type="text" placeholder="ex: 542 L">
+                </div>
+            </div>
+
+            <div class="form-field">
+                <label>Prix moyen constate (&euro;) *</label>
+                <input type="text" placeholder="ex: 45 990" required>
+            </div>
+
+            <h2>Photo principale</h2>
+
+            <div class="form-field propose-upload">
+                <label>Photo du transport (facultatif mais recommandé)</label>
+                <div class="upload-zone" id="upload-zone">
+                    <span class="upload-icon">&#128247;</span>
+                    <p>Glissez-déposez une image ou <strong>cliquez pour choisir un fichier</strong></p>
+                    <span class="upload-hint">JPG, PNG ou WebP jusqu'à 5 Mo</span>
+                    <input type="file" accept="image/*" id="upload-input" style="display:none;">
+                </div>
+                <div class="upload-preview" id="upload-preview" style="display:none;"></div>
+            </div>
+
+            <h2>Description libre</h2>
+
+            <div class="form-field">
+                <label>Points forts / contexte (optionnel)</label>
+                <textarea rows="4" placeholder="Décrivez les points forts du transport, son positionnement, les équipements inclus..."></textarea>
+            </div>
+
+            <div class="form-field">
+                <label>Votre email (pour que nous vous notifiions de la validation) *</label>
+                <input type="email" placeholder="votre@email.com" required>
+            </div>
+
+            <label class="form-checkbox">
+                <input type="checkbox" required>
+                <span>Je certifie que les informations transmises sont exactes et que je dispose des droits sur la photo fournie.</span>
+            </label>
+
+            <button type="submit" class="btn-primary-green propose-submit">Soumettre ma proposition &rarr;</button>
+
+        </form>
+
+        <div class="propose-success" id="propose-success" style="display:none;">
+            <div class="success-icon">&check;</div>
+            <h2>Proposition bien reçue !</h2>
+            <p>Votre proposition est maintenant <strong>en attente de modération</strong>. Notre équipe éditoriale l'examinera sous 48 heures ouvrées.</p>
+            <p>Si elle est validée, la fiche sera ajoutée au comparateur et vous recevrez un email à l'adresse que vous avez fournie. En cas de rejet, vous serez également notifié avec le motif.</p>
+            <div class="success-status">
+                <div class="success-step done">
+                    <span>&check;</span>
+                    <div><strong>Reçue</strong><small>il y a quelques secondes</small></div>
+                </div>
+                <div class="success-step pending">
+                    <span>&#9203;</span>
+                    <div><strong>En modération</strong><small>sous 48h</small></div>
+                </div>
+                <div class="success-step waiting">
+                    <span>&#9788;</span>
+                    <div><strong>Publication</strong><small>si validée</small></div>
+                </div>
+            </div>
+            <div class="success-actions">
+                <a href="{{ "/" | relURL }}" class="btn-primary-green">Retour à l'accueil</a>
+                <button class="btn-ghost" onclick="location.reload();">Proposer un autre transport</button>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<script>
+(function(){
+    const form = document.getElementById('propose-form');
+    const success = document.getElementById('propose-success');
+    const uploadZone = document.getElementById('upload-zone');
+    const uploadInput = document.getElementById('upload-input');
+    const uploadPreview = document.getElementById('upload-preview');
+
+    uploadZone.addEventListener('click', function(){ uploadInput.click(); });
+    uploadInput.addEventListener('change', function(){
+        if (this.files && this.files[0]) {
+            const reader = new FileReader();
+            reader.onload = function(e){
+                uploadPreview.style.display = 'block';
+                uploadPreview.innerHTML = '<img src="' + e.target.result + '" alt="Preview"><button type="button" class="upload-remove">Retirer l\'image</button>';
+                uploadZone.style.display = 'none';
+                uploadPreview.querySelector('.upload-remove').addEventListener('click', function(){
+                    uploadInput.value = '';
+                    uploadPreview.style.display = 'none';
+                    uploadZone.style.display = 'flex';
+                });
+            };
+            reader.readAsDataURL(this.files[0]);
+        }
+    });
+
+    form.addEventListener('submit', function(e){
+        e.preventDefault();
+        form.style.display = 'none';
+        success.style.display = 'block';
+        window.scrollTo({top: success.offsetTop - 100, behavior: 'smooth'});
+    });
+})();
+</script>
+
+{{ end }}

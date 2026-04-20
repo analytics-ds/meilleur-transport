@@ -1,0 +1,36 @@
+# Meilleur Transport
+# https://meilleur-transport.com
+# robots.txt - Dernière mise à jour : 2026-04-20
+
+# ==============================
+# Tous les robots
+# ==============================
+User-agent: *
+Allow: /
+Disallow:
+
+Allow: /blog/
+Allow: /categories/
+Allow: /comparer/
+Allow: /simulateur/
+Allow: /proposer/
+Allow: /plan-du-site/
+Allow: /assets/
+
+# ==============================
+# Googlebot
+# ==============================
+User-agent: Googlebot
+Allow: /
+
+# ==============================
+# Bingbot
+# ==============================
+User-agent: Bingbot
+Allow: /
+
+# ==============================
+# Sitemap
+# ==============================
+Sitemap: https://meilleur-transport.com/sitemap.xml
+# Le sitemap principal (index) référence /fr/sitemap.xml et /en/sitemap.xml

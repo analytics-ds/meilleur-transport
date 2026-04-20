@@ -1,0 +1,45 @@
+# Meilleur Transport
+
+> Le comparateur indépendant de transports. Voitures, motos, vélos électriques, scooters, utilitaires et solutions professionnelles comparés sur plus de 15 critères objectifs.
+
+## À propos
+
+Meilleur Transport est un média éditorial indépendant dédié à la comparaison factuelle des solutions de transport. Aucun produit vendu, aucun contenu sponsorisé, aucune affiliation commerciale. Les fiches véhicules sont vérifiées par l'équipe éditoriale, les comparaisons sont basées sur des critères mesurables (prix, autonomie, consommation, émissions CO2, espace, fiabilité). Le site couvre les besoins des particuliers (auto, moto, mobilité douce) comme des professionnels (utilitaires, fret, logistique).
+
+## Fonctionnalités principales (FR)
+
+- Comparateur direct (2 modèles côte à côte) : https://meilleur-transport.com/comparer/
+- Simulateur personnalisé (10 questions, 5 recommandations) : https://meilleur-transport.com/simulateur/
+- Formulaire de proposition de transport : https://meilleur-transport.com/proposer/
+- Blog éditorial : https://meilleur-transport.com/blog/
+
+## Catégories (FR)
+
+- Particuliers : https://meilleur-transport.com/categories/particuliers/
+- Professionnels : https://meilleur-transport.com/categories/professionnels/
+
+## Articles de référence (FR)
+
+- Acheter une voiture d'occasion : guide complet 2026 : https://meilleur-transport.com/blog/acheter-voiture-occasion-guide/
+- Transport de marchandises : bien choisir son prestataire professionnel : https://meilleur-transport.com/blog/transport-marchandises-professionnel/
+
+## Version anglaise (EN)
+
+- Homepage EN : https://meilleur-transport.com/en/
+- Blog EN : https://meilleur-transport.com/en/blog/
+- Buying a used car: complete 2026 guide : https://meilleur-transport.com/en/blog/buying-used-car-guide/
+- Freight transport: choosing the right professional carrier : https://meilleur-transport.com/en/blog/professional-freight-transport/
+
+## Informations techniques
+
+- Générateur : Hugo (site statique)
+- Multilingue : français (défaut) + anglais
+- Sitemap : https://meilleur-transport.com/sitemap.xml
+- RSS : https://meilleur-transport.com/index.xml
+- Schema.org : Organization, BlogPosting, BreadcrumbList, WebSite, FAQPage
+- Indépendance : aucun contenu sponsorisé, aucune affiliation commerciale
+
+## Contact
+
+- URL : https://meilleur-transport.com/
+- Email : contact@meilleur-transport.com

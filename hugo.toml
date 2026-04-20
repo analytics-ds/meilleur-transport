@@ -1,0 +1,109 @@
+baseURL = "https://meilleur-transport.com/"
+title = "Meilleur Transport"
+theme = "meilleur-transport"
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = false
+enableEmoji = false
+
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+    languageName = "Francais"
+    weight = 1
+    title = "Meilleur Transport"
+    [languages.fr.params]
+      description = "Le comparateur indépendant de transports. Voitures, motos, vélos électriques, utilitaires et solutions professionnelles comparés sur plus de 15 critères objectifs."
+
+    [[languages.fr.menus.main]]
+      identifier = "particuliers"
+      name = "Particuliers"
+      url = "/categories/particuliers/"
+      weight = 1
+    [[languages.fr.menus.main]]
+      identifier = "professionnels"
+      name = "Professionnels"
+      url = "/categories/professionnels/"
+      weight = 2
+    [[languages.fr.menus.main]]
+      identifier = "a-propos"
+      name = "A propos"
+      url = "/a-propos/"
+      weight = 3
+    [[languages.fr.menus.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 4
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    weight = 2
+    title = "Meilleur Transport"
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Find the best transport for every need. Guides, comparisons and advice for individuals and professionals: car, motorcycle, maritime, air."
+
+    [[languages.en.menus.main]]
+      identifier = "individuals"
+      name = "Individuals"
+      url = "/en/categories/individuals/"
+      weight = 1
+    [[languages.en.menus.main]]
+      identifier = "professionals"
+      name = "Professionals"
+      url = "/en/categories/professionals/"
+      weight = 2
+    [[languages.en.menus.main]]
+      identifier = "about"
+      name = "About"
+      url = "/en/about/"
+      weight = 3
+    [[languages.en.menus.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  theme_name = "meilleur-transport"
+  author_name = "Julien Mercier"
+  author_url = ""
+  author_job_title = "Expert mobilite et transports"
+  color_primary = "#FFC800"
+  color_primary_light = "#FFD94D"
+  color_background = "#FFFFFF"
+  color_background_alt = "#F5F5F5"
+  color_accent = "#1A1A1A"
+  color_cta = "#FFC800"
+  color_text = "#1A1A1A"
+  font_heading = "Manrope"
+  font_body = "Inter"
+  font_ui = "Inter"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Desactiver la minification XML pour avoir un sitemap lisible
+[minify]
+  disableXML = true

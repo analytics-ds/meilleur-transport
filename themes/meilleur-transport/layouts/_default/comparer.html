@@ -1,0 +1,227 @@
+{{ define "main" }}
+
+<section class="list-header">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p class="list-description">{{ .Description }}</p>
+    </div>
+</section>
+
+<section class="compare-wrapper">
+    <div class="container">
+
+        <form class="compare-selector" id="compare-form" onsubmit="return false;">
+            <div class="compare-field">
+                <label>Catégorie</label>
+                <select class="search-input" id="cat-filter">
+                    <option value="all">Toutes catégories</option>
+                    <option value="voiture">Voitures</option>
+                    <option value="moto">Motos</option>
+                    <option value="scooter">Scooters</option>
+                    <option value="mobility">Vélos & trottinettes</option>
+                    <option value="van">Utilitaires & pro</option>
+                </select>
+            </div>
+            <div class="compare-field">
+                <label>Modèle A</label>
+                <select class="search-input" id="model-a"></select>
+            </div>
+            <div class="compare-vs">VS</div>
+            <div class="compare-field">
+                <label>Modèle B</label>
+                <select class="search-input" id="model-b"></select>
+            </div>
+            <button type="button" class="btn-search" id="swap-btn" title="Inverser A et B">&#8646;</button>
+        </form>
+
+        <div id="compare-display"></div>
+
+    </div>
+</section>
+
+<script src="{{ "/js/transports.js" | relURL }}"></script>
+<script>
+(function(){
+
+function categorize(t) {
+    const c = t.category.toLowerCase();
+    if (c.indexOf('utilitaire') !== -1 || c.indexOf('fourgon') !== -1 || c.indexOf('porteur') !== -1 || c.indexOf('pro') !== -1 && c.indexOf('suv') === -1) return 'van';
+    if (c.indexOf('scooter') !== -1) return 'scooter';
+    if (c.indexOf('vélo') !== -1 || c.indexOf('trottinette') !== -1) return 'mobility';
+    if (c.indexOf('moto') !== -1 || c.indexOf('roadster') !== -1 || c.indexOf('supersport') !== -1 || c.indexOf('trail') !== -1 || c.indexOf('naked') !== -1 || c.indexOf('custom') !== -1 || c.indexOf('classique') !== -1 || c.indexOf('sport') !== -1 && c.indexOf('suv') === -1 && c.indexOf('coupé') === -1) return 'moto';
+    return 'voiture';
+}
+
+function parsePrice(p) {
+    return parseInt((p || "0").replace(/[^0-9]/g, "")) || 0;
+}
+
+function parseNum(s, pattern) {
+    const m = (s || "").match(pattern);
+    return m ? parseFloat(m[1].replace(",", ".").replace(/\s/g, "")) : null;
+}
+
+function parseSpecs(t) {
+    const s = t.specs || "";
+    return {
+        autonomie: parseNum(s, /(\d[\d\s]*)\s*km(?:\s+d)/i) || parseNum(s, /^(\d[\d\s]*)\s*km/i),
+        conso: parseNum(s, /([\d,\.]+)\s*L\/100/i),
+        consoE: parseNum(s, /([\d,\.]+)\s*kWh/i),
+        puissance: parseNum(s, /([\d,\.]+)\s*ch/i) || parseNum(s, /([\d,\.]+)\s*Nm/i),
+        places: parseNum(s, /([\d,\.]+)\s*places?/i) || parseNum(s, /([\d,\.]+)\s*place/i),
+        volume: parseNum(s, /([\d,\.]+)\s*m(?:&sup3;|³)/i)
+    };
+}
+
+const catFilter = document.getElementById('cat-filter');
+const selA = document.getElementById('model-a');
+const selB = document.getElementById('model-b');
+const display = document.getElementById('compare-display');
+const swapBtn = document.getElementById('swap-btn');
+
+function populateSelects() {
+    const cat = catFilter.value;
+    const filtered = cat === 'all' ? TRANSPORTS : TRANSPORTS.filter(t => categorize(t) === cat);
+    const groups = {};
+    filtered.forEach(t => {
+        const g = t.category;
+        if (!groups[g]) groups[g] = [];
+        groups[g].push(t);
+    });
+
+    const options = Object.keys(groups).sort().map(g => {
+        return `<optgroup label="${g}">` + groups[g].map(t => `<option value="${t.name}">${t.name} (${t.price.replace("&euro;", "€")})</option>`).join('') + `</optgroup>`;
+    }).join('');
+
+    const currentA = selA.value;
+    const currentB = selB.value;
+
+    selA.innerHTML = options;
+    selB.innerHTML = options;
+
+    // Restore selections if still valid
+    if (filtered.find(t => t.name === currentA)) selA.value = currentA;
+    else selA.value = filtered[0] ? filtered[0].name : '';
+
+    if (filtered.find(t => t.name === currentB) && currentB !== selA.value) selB.value = currentB;
+    else {
+        const alt = filtered.find(t => t.name !== selA.value);
+        selB.value = alt ? alt.name : selA.value;
+    }
+
+    renderComparison();
+}
+
+function renderComparison() {
+    const tA = TRANSPORTS.find(t => t.name === selA.value);
+    const tB = TRANSPORTS.find(t => t.name === selB.value);
+    if (!tA || !tB) { display.innerHTML = ""; return; }
+
+    const sA = parseSpecs(tA);
+    const sB = parseSpecs(tB);
+    const pA = parsePrice(tA.price);
+    const pB = parsePrice(tB.price);
+
+    const rows = [];
+    rows.push({ label: "Catégorie", a: tA.category, b: tB.category });
+    rows.push({ label: "Prix", a: tA.price.replace("&euro;", "€"), b: tB.price.replace("&euro;", "€"), winner: pA < pB ? "a" : (pB < pA ? "b" : null) });
+    if (sA.autonomie || sB.autonomie) rows.push({ label: "Autonomie", a: sA.autonomie ? sA.autonomie + " km" : "—", b: sB.autonomie ? sB.autonomie + " km" : "—", winner: (sA.autonomie || 0) > (sB.autonomie || 0) ? "a" : ((sB.autonomie || 0) > (sA.autonomie || 0) ? "b" : null) });
+    if (sA.puissance || sB.puissance) rows.push({ label: "Puissance", a: sA.puissance ? sA.puissance + " ch" : "—", b: sB.puissance ? sB.puissance + " ch" : "—", winner: (sA.puissance || 0) > (sB.puissance || 0) ? "a" : ((sB.puissance || 0) > (sA.puissance || 0) ? "b" : null) });
+    if (sA.conso || sB.conso) rows.push({ label: "Consommation", a: sA.conso ? sA.conso + " L/100 km" : "—", b: sB.conso ? sB.conso + " L/100 km" : "—", winner: (sA.conso && sB.conso) ? (sA.conso < sB.conso ? "a" : (sB.conso < sA.conso ? "b" : null)) : null });
+    if (sA.consoE || sB.consoE) rows.push({ label: "Conso. électrique", a: sA.consoE ? sA.consoE + " kWh/100 km" : "—", b: sB.consoE ? sB.consoE + " kWh/100 km" : "—", winner: (sA.consoE && sB.consoE) ? (sA.consoE < sB.consoE ? "a" : (sB.consoE < sA.consoE ? "b" : null)) : null });
+    if (sA.places || sB.places) rows.push({ label: "Places", a: sA.places || "—", b: sB.places || "—" });
+    if (sA.volume || sB.volume) rows.push({ label: "Volume de chargement", a: sA.volume ? sA.volume + " m³" : "—", b: sB.volume ? sB.volume + " m³" : "—" });
+    rows.push({ label: "Motorisation", a: motorText(tA), b: motorText(tB) });
+    rows.push({ label: "Usage recommandé", a: tagsText(tA), b: tagsText(tB) });
+
+    const tableRows = rows.map(r => `
+        <tr>
+            <td>${r.label}</td>
+            <td class="${r.winner === 'a' ? 'winner' : ''}">${r.a}</td>
+            <td class="${r.winner === 'b' ? 'winner' : ''}">${r.b}</td>
+        </tr>
+    `).join('');
+
+    const winsA = rows.filter(r => r.winner === 'a').length;
+    const winsB = rows.filter(r => r.winner === 'b').length;
+    const totalScored = winsA + winsB;
+
+    let verdictText = "";
+    if (winsA > winsB) verdictText = `<strong>${tA.name}</strong> domine sur ${winsA} des ${totalScored} critères objectifs. Un meilleur rapport performance-prix sur ce face-à-face.`;
+    else if (winsB > winsA) verdictText = `<strong>${tB.name}</strong> domine sur ${winsB} des ${totalScored} critères objectifs. Un meilleur rapport performance-prix sur ce face-à-face.`;
+    else verdictText = `Les deux modèles sont au coude-à-coude sur les critères mesurables. Le choix final dépendra de vos préférences subjectives (design, marque, finitions).`;
+
+    display.innerHTML = `
+        <div class="compare-grid">
+            <div class="compare-card">
+                <div class="compare-image"><img src="${tA.image}" alt="${tA.name}" onerror="this.style.display='none'"></div>
+                <div class="compare-header">
+                    <span class="compare-cat">${tA.category}</span>
+                    <h2>${tA.name}</h2>
+                    <strong class="compare-price">${tA.price.replace("&euro;", "€")}</strong>
+                </div>
+            </div>
+            <div class="compare-table-wrapper">
+                <table class="compare-table">
+                    <thead><tr><th>Critère</th><th>${tA.name}</th><th>${tB.name}</th></tr></thead>
+                    <tbody>${tableRows}</tbody>
+                </table>
+            </div>
+            <div class="compare-card">
+                <div class="compare-image"><img src="${tB.image}" alt="${tB.name}" onerror="this.style.display='none'"></div>
+                <div class="compare-header">
+                    <span class="compare-cat">${tB.category}</span>
+                    <h2>${tB.name}</h2>
+                    <strong class="compare-price">${tB.price.replace("&euro;", "€")}</strong>
+                </div>
+            </div>
+        </div>
+
+        <div class="compare-verdict">
+            <span class="cta-eyebrow">Verdict éditorial</span>
+            <h2>${winsA > winsB ? tA.name + ' l\\'emporte' : (winsB > winsA ? tB.name + ' l\\'emporte' : 'Match serré')}</h2>
+            <p>${verdictText}</p>
+            <div class="compare-verdict-actions">
+                <a href="{{ "/simulateur/" | relURL }}" class="btn-primary-green">Lancer le simulateur &rarr;</a>
+                <a href="{{ "/proposer/" | relURL }}" class="btn-ghost">Proposer un transport</a>
+            </div>
+        </div>
+    `;
+}
+
+function motorText(t) {
+    if (t.tags.indexOf("electric") !== -1) return "Électrique";
+    if (t.tags.indexOf("hybrid") !== -1) return "Hybride";
+    return "Thermique";
+}
+
+function tagsText(t) {
+    const usage = [];
+    if (t.tags.indexOf("family") !== -1) usage.push("Famille");
+    if (t.tags.indexOf("pro") !== -1) usage.push("Pro");
+    if (t.tags.indexOf("daily") !== -1 || t.tags.indexOf("city") !== -1) usage.push("Urbain");
+    if (t.tags.indexOf("leisure") !== -1) usage.push("Loisirs");
+    if (t.tags.indexOf("performance") !== -1) usage.push("Performance");
+    return usage.length ? usage.join(", ") : "Polyvalent";
+}
+
+catFilter.addEventListener('change', populateSelects);
+selA.addEventListener('change', renderComparison);
+selB.addEventListener('change', renderComparison);
+swapBtn.addEventListener('click', function(){
+    const tmp = selA.value;
+    selA.value = selB.value;
+    selB.value = tmp;
+    renderComparison();
+});
+
+// Init with Tesla Model 3 vs BMW i4 by default
+populateSelects();
+if (TRANSPORTS.find(t => t.name === "Tesla Model 3 Long Range")) selA.value = "Tesla Model 3 Long Range";
+if (TRANSPORTS.find(t => t.name === "BMW i4 eDrive40")) selB.value = "BMW i4 eDrive40";
+renderComparison();
+
+})();
+</script>
+
+{{ end }}
