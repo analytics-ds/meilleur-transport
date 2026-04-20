@@ -69,6 +69,7 @@ enableEmoji = false
 [taxonomies]
   category = "categories"
   tag = "tags"
+  author = "authors"
 
 [params]
   theme_name = "meilleur-transport"

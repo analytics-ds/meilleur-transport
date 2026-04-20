@@ -94,6 +94,82 @@ Le fichier `MEMORY.md` a la racine trace tous les articles publies, classes par 
 
 Cette limite sert a eviter la publication en masse et a maintenir un rythme de publication regulier, ce qui est meilleur pour le SEO.
 
+## Regle IMPERATIVE : publication de contenu
+
+**A chaque publication d'article (fichier dans `content/blog/`), les 5 points suivants doivent etre mis a jour :**
+
+### 1. Frontmatter complet obligatoire
+
+Chaque article doit avoir :
+- `title`, `description`, `date`, `lastmod`
+- `author: "Nom Prenom"` (nom complet) + `authors: ["Nom Prenom"]` (pour la taxonomie)
+- `categories: ["Particuliers"]` ou `["Professionnels"]` (1 seule categorie)
+- `tags: [...]` (3-5 tags)
+- **`image: "https://..."`** (URL de l'image, affichee sur home, listings et article)
+- **`imageAlt: "..."`** (texte alternatif, max 125 car)
+- `translationKey: "slug-identique-fr-en"` (si traduction EN creee)
+- `draft: false`
+
+### 2. Sitemap XML (automatique)
+
+Le sitemap `/sitemap.xml` et ses versions par langue `/fr/sitemap.xml` + `/en/sitemap.xml` sont regeneres automatiquement a chaque `hugo` build. Verifier apres build :
+
+```bash
+hugo
+grep "<nouveau-slug>" public/fr/sitemap.xml public/en/sitemap.xml
+```
+
+### 3. Plan de site HTML (automatique)
+
+La page `/plan-du-site/` utilise le layout `sitemap-html.html` qui liste toutes les pages par categorie. Mise a jour automatique au build.
+
+Verifier :
+```bash
+grep "<nouveau-slug>" public/plan-du-site/index.html
+```
+
+### 4. Home : 3 derniers articles (automatique)
+
+La section "Guides & analyses" de la home affiche automatiquement les 3 articles les plus recents (tri par date decroissante) via :
+```go
+{{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+```
+
+L'image (`image` + `imageAlt` du frontmatter) est affichee en thumbnail a gauche de la card. Pour que le nouvel article remonte, il suffit de mettre `date:` au jour courant.
+
+### 5. Page auteur (automatique via taxonomie)
+
+La taxonomie `authors` est configuree dans `hugo.toml`. Chaque article avec `authors: ["Nom Prenom"]` genere automatiquement :
+- Une page `/authors/<slug>/` listant tous les articles de cet auteur
+- Un lien automatique sous chaque article sur la home
+
+Slug auto-genere : "Julien Mercier" -> `/authors/julien-mercier/`
+
+### 6. llms.txt (manuel)
+
+**A chaque publication, ajouter la ligne manuellement** dans `static/llms.txt` :
+
+```markdown
+## Articles de reference (FR)
+
+- Titre complet de l'article : https://meilleur-transport.com/blog/slug-de-larticle/
+```
+
+### Workflow post-publication checklist
+
+```bash
+# 1. Build
+hugo
+
+# 2. Verifications
+grep "<slug>" public/fr/sitemap.xml
+grep "<slug>" public/plan-du-site/index.html
+grep "<titre>" static/llms.txt
+
+# 3. Commit + push
+git add -A && git commit -m "content: <titre-article>" && git push
+```
+
 ## Regles generales
 
 - Toujours utiliser `relURL` dans les templates Hugo pour les liens (compatibilite GitHub Pages)

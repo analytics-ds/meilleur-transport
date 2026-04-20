@@ -639,14 +639,24 @@
         <div class="articles-list">
             {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
             <article class="article-card-horizontal">
-                <div class="article-meta">
-                    {{ with .Params.categories }}
-                    <span class="article-category">{{ index . 0 }}</span>
-                    {{ end }}
-                    <time>{{ .Date.Format "2 January 2006" }}</time>
+                {{ with .Params.image }}
+                <a href="{{ $.RelPermalink }}" class="article-card-thumb">
+                    <img src="{{ . }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                </a>
+                {{ end }}
+                <div class="article-body">
+                    <div class="article-meta">
+                        {{ with .Params.categories }}
+                        <span class="article-category">{{ index . 0 }}</span>
+                        {{ end }}
+                        <time>{{ .Date.Format "2 January 2006" }}</time>
+                        {{ with .Params.author }}
+                        <span class="article-author-inline">par <a href="{{ "/authors/" | relURL }}{{ . | urlize }}/">{{ . }}</a></span>
+                        {{ end }}
+                    </div>
+                    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                    <p>{{ .Description }}</p>
                 </div>
-                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-                <p>{{ .Description }}</p>
             </article>
             {{ end }}
         </div>

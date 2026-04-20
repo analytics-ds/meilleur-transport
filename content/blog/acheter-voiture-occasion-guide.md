@@ -5,8 +5,11 @@ translationKey: "used-car-guide"
 date: 2026-04-20
 lastmod: 2026-04-20
 author: "Julien Mercier"
+authors: ["Julien Mercier"]
 categories: ["Particuliers"]
 tags: ["voiture", "occasion", "achat", "guide"]
+image: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80"
+imageAlt: "Tesla Model 3 pour illustrer l'achat d'une voiture d'occasion"
 draft: false
 ---
 
