@@ -147,9 +147,16 @@ function renderComparison() {
     const totalScored = winsA + winsB;
 
     let verdictText = "";
-    if (winsA > winsB) verdictText = `<strong>${tA.name}</strong> domine sur ${winsA} des ${totalScored} critères objectifs. Un meilleur rapport performance-prix sur ce face-à-face.`;
-    else if (winsB > winsA) verdictText = `<strong>${tB.name}</strong> domine sur ${winsB} des ${totalScored} critères objectifs. Un meilleur rapport performance-prix sur ce face-à-face.`;
-    else verdictText = `Les deux modèles sont au coude-à-coude sur les critères mesurables. Le choix final dépendra de vos préférences subjectives (design, marque, finitions).`;
+    let verdictTitle = "Match serré";
+    if (winsA > winsB) {
+        verdictText = `<strong>${tA.name}</strong> domine sur ${winsA} des ${totalScored} critères objectifs. Un meilleur rapport performance-prix sur ce face-à-face.`;
+        verdictTitle = tA.name + " l'emporte";
+    } else if (winsB > winsA) {
+        verdictText = `<strong>${tB.name}</strong> domine sur ${winsB} des ${totalScored} critères objectifs. Un meilleur rapport performance-prix sur ce face-à-face.`;
+        verdictTitle = tB.name + " l'emporte";
+    } else {
+        verdictText = `Les deux modèles sont au coude-à-coude sur les critères mesurables. Le choix final dépendra de vos préférences subjectives (design, marque, finitions).`;
+    }
 
     display.innerHTML = `
         <div class="compare-grid">
@@ -179,7 +186,7 @@ function renderComparison() {
 
         <div class="compare-verdict">
             <span class="cta-eyebrow">Verdict éditorial</span>
-            <h2>${winsA > winsB ? tA.name + ' l\\'emporte' : (winsB > winsA ? tB.name + ' l\\'emporte' : 'Match serré')}</h2>
+            <h2>${verdictTitle}</h2>
             <p>${verdictText}</p>
             <div class="compare-verdict-actions">
                 <a href="{{ "/simulateur/" | relURL }}" class="btn-primary-green">Lancer le simulateur &rarr;</a>
