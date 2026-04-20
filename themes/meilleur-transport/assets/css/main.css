@@ -198,11 +198,18 @@ img {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    font-family: var(--font-heading);
-    font-size: 1.35rem;
-    font-weight: 800;
     color: var(--dark);
-    letter-spacing: -0.02em;
+    text-decoration: none;
+}
+
+.site-logo-img {
+    height: 44px;
+    width: auto;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .site-logo-img { height: 36px; }
 }
 
 .logo-icon {

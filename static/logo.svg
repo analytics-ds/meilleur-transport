@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" fill="none">
+  <!-- Vehicle icon -->
+  <circle cx="32" cy="32" r="32" fill="#67BD23"/>
+  <path d="M 12 34 C 12 30 13 29 15 29 L 22 29 L 26 22 C 27 21 28 20 30 20 L 38 20 C 40 20 41 21 42 22 L 47 29 L 53 29 C 55 29 56 30 56 34 L 56 42 L 12 42 Z" fill="#ffffff"/>
+  <path d="M 26 28 L 29 22 L 39 22 L 43 28 Z" fill="#67BD23" fill-opacity="0.45"/>
+  <circle cx="22" cy="43" r="4.5" fill="#0E1922"/>
+  <circle cx="46" cy="43" r="4.5" fill="#0E1922"/>
+  <circle cx="22" cy="43" r="2" fill="#ffffff"/>
+  <circle cx="46" cy="43" r="2" fill="#ffffff"/>
+  <!-- Wordmark -->
+  <text x="78" y="30" font-family="'DM Sans', 'Manrope', system-ui, sans-serif" font-size="22" font-weight="800" fill="#0E1922" letter-spacing="-0.5">Meilleur</text>
+  <text x="78" y="52" font-family="'DM Sans', 'Manrope', system-ui, sans-serif" font-size="15" font-weight="700" fill="#67BD23" letter-spacing="2">TRANSPORT</text>
+</svg>

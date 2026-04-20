@@ -3,8 +3,8 @@
         <div class="footer-grid">
             <div class="footer-col">
                 <div class="footer-logo">
-                    <span style="width: 30px; height: 30px; background: var(--primary); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; color: white;">&#9679;</span>
-                    {{ .Site.Title }}
+                    <img src="{{ "/logo-mark.svg" | relURL }}" alt="{{ .Site.Title }}" width="36" height="36">
+                    <span>{{ .Site.Title }}</span>
                 </div>
                 <p>{{ .Site.Params.description }}</p>
                 <p style="margin-top: 1rem;">

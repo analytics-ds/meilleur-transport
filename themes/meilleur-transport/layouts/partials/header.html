@@ -35,9 +35,8 @@
 <!-- Main header -->
 <header class="site-header">
     <div class="header-container">
-        <a href="{{ "/" | relURL }}" class="site-logo">
-            <span class="logo-icon">&#9679;</span>
-            {{ .Site.Title }}
+        <a href="{{ "/" | relURL }}" class="site-logo" aria-label="{{ .Site.Title }}">
+            <img src="{{ "/logo.svg" | relURL }}" alt="{{ .Site.Title }}" width="200" height="44" class="site-logo-img">
         </a>
 
         <button class="menu-toggle" aria-label="Menu" aria-expanded="false">
