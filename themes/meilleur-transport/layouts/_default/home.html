@@ -6,9 +6,9 @@
         <span class="hero-tagline">Le comparateur n&deg;1 des transports</span>
         <h1>Comparez les meilleurs transports<br>pour chacun de vos besoins.</h1>
         <div class="hero-features">
-            <span class="hero-feature"><span class="hero-feature-icon">&check;</span> 100% indépendant</span>
-            <span class="hero-feature"><span class="hero-feature-icon">&check;</span> Mis à jour en temps réel</span>
-            <span class="hero-feature"><span class="hero-feature-icon">&check;</span> Gratuit et sans inscription</span>
+            <span class="hero-feature"><span class="hero-feature-icon">{{ partial "icon" "check" }}</span> 100% indépendant</span>
+            <span class="hero-feature"><span class="hero-feature-icon">{{ partial "icon" "check" }}</span> Mis à jour en temps réel</span>
+            <span class="hero-feature"><span class="hero-feature-icon">{{ partial "icon" "check" }}</span> Gratuit et sans inscription</span>
         </div>
     </div>
 </section>
@@ -23,7 +23,7 @@
                 <button class="search-tab" data-cat="mobilite">Mobilité douce</button>
                 <button class="search-tab" data-cat="utilitaires">Utilitaires</button>
                 <button class="search-tab" data-cat="pro">Pro & logistique</button>
-                <span class="search-help">&#128172; Besoin d'aide ?</span>
+                <span class="search-help">{{ partial "icon" "help" }} Besoin d'aide ?</span>
             </div>
             <form class="search-fields" action="{{ "/comparer/" | relURL }}" method="get">
                 <div class="search-field">
@@ -46,7 +46,7 @@
                         <option>Émissions CO2</option>
                     </select>
                 </div>
-                <button type="submit" class="btn-search">&#9878; Comparer</button>
+                <button type="submit" class="btn-search">{{ partial "icon" "bar-chart" }} Comparer</button>
             </form>
             <datalist id="models-suggest">
                 <option value="Tesla Model 3">
@@ -103,16 +103,16 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg/330px-Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg" alt="Tesla Model 3 Long Range">
-                    <span class="vehicle-rating"><span class="star">&#9733;</span> 4.8 <span style="opacity:0.7">(2 450 comparaisons)</span></span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "star" }}</span> 4.8 <span style="opacity:0.7">(2 450 comparaisons)</span></span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Tesla Model 3 Long Range</a></h3>
-                    <span class="vehicle-location">&#127919; Voiture électrique</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Voiture électrique</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9889;</span> 629 km d'autonomie</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128663;</span> 16 kWh / 100 km</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9881;</span> 351 ch</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128100;</span> 5 places</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "zap" }}</span> 629 km d'autonomie</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "gauge" }}</span> 16 kWh / 100 km</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "settings" }}</span> 351 ch</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "users" }}</span> 5 places</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Prix moyen<strong>45 990 &euro;</strong></span>
@@ -124,16 +124,16 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BMW_i4_IMG_6695.jpg/330px-BMW_i4_IMG_6695.jpg" alt="BMW i4 eDrive40">
-                    <span class="vehicle-rating"><span class="star">&#9733;</span> 4.7 <span style="opacity:0.7">(1 892 comparaisons)</span></span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "star" }}</span> 4.7 <span style="opacity:0.7">(1 892 comparaisons)</span></span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">BMW i4 eDrive40</a></h3>
-                    <span class="vehicle-location">&#127919; Voiture électrique</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Voiture électrique</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9889;</span> 590 km d'autonomie</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128663;</span> 16 kWh / 100 km</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9881;</span> 340 ch</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128100;</span> 5 places</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "zap" }}</span> 590 km d'autonomie</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "gauge" }}</span> 16 kWh / 100 km</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "settings" }}</span> 340 ch</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "users" }}</span> 5 places</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Prix moyen<strong>58 450 &euro;</strong></span>
@@ -145,16 +145,16 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Yamaha_MT-07.jpg/330px-Yamaha_MT-07.jpg" alt="Yamaha MT-07">
-                    <span class="vehicle-rating"><span class="star">&#9733;</span> 4.7 <span style="opacity:0.7">(1 320 comparaisons)</span></span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "star" }}</span> 4.7 <span style="opacity:0.7">(1 320 comparaisons)</span></span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Yamaha MT-07 2026</a></h3>
-                    <span class="vehicle-location">&#127919; Moto routière</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Moto routière</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128663;</span> 4,3 L / 100 km</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9881;</span> 73 ch</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9981;</span> Essence</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128100;</span> 2 places</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "gauge" }}</span> 4,3 L / 100 km</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "settings" }}</span> 73 ch</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "fuel" }}</span> Essence</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "users" }}</span> 2 places</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Prix moyen<strong>8 499 &euro;</strong></span>
@@ -166,16 +166,16 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Renault_M%C3%A9gane_E-Tech_IMG_4064.jpg/330px-Renault_M%C3%A9gane_E-Tech_IMG_4064.jpg" alt="Renault Mégane E-Tech EV60">
-                    <span class="vehicle-rating"><span class="star">&#9733;</span> 4.5 <span style="opacity:0.7">(987 comparaisons)</span></span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "star" }}</span> 4.5 <span style="opacity:0.7">(987 comparaisons)</span></span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Renault Mégane E-Tech EV60</a></h3>
-                    <span class="vehicle-location">&#127919; Voiture électrique</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Voiture électrique</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9889;</span> 470 km d'autonomie</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128663;</span> 16,1 kWh / 100 km</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9881;</span> 218 ch</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128100;</span> 5 places</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "zap" }}</span> 470 km d'autonomie</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "gauge" }}</span> 16,1 kWh / 100 km</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "settings" }}</span> 218 ch</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "users" }}</span> 5 places</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Prix moyen<strong>38 200 &euro;</strong></span>
@@ -187,16 +187,16 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg/330px-2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg" alt="Ford Transit Custom">
-                    <span class="vehicle-rating"><span class="star">&#9733;</span> 4.6 <span style="opacity:0.7">(745 comparaisons)</span></span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "star" }}</span> 4.6 <span style="opacity:0.7">(745 comparaisons)</span></span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Ford Transit Custom L2H2</a></h3>
-                    <span class="vehicle-location">&#127919; Utilitaire</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Utilitaire</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128663;</span> 7,2 L / 100 km</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9881;</span> 130 ch</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9981;</span> Diesel</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128230;</span> 6 m&sup3;</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "gauge" }}</span> 7,2 L / 100 km</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "settings" }}</span> 130 ch</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "fuel" }}</span> Diesel</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "package" }}</span> 6 m&sup3;</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Prix moyen<strong>38 900 &euro;</strong></span>
@@ -208,16 +208,16 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vanmoof_52677081326_a9fe11fc96_o.jpg/330px-Vanmoof_52677081326_a9fe11fc96_o.jpg" alt="VanMoof S5">
-                    <span class="vehicle-rating"><span class="star">&#9733;</span> 4.3 <span style="opacity:0.7">(612 comparaisons)</span></span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "star" }}</span> 4.3 <span style="opacity:0.7">(612 comparaisons)</span></span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">VanMoof S5</a></h3>
-                    <span class="vehicle-location">&#127919; Vélo électrique</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Vélo électrique</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9889;</span> 150 km d'autonomie</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128663;</span> 0 émissions</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9881;</span> 55 Nm</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128100;</span> 1 place</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "zap" }}</span> 150 km d'autonomie</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "gauge" }}</span> 0 émissions</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "settings" }}</span> 55 Nm</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "users" }}</span> 1 place</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Prix moyen<strong>3 298 &euro;</strong></span>
@@ -258,28 +258,28 @@
                     <h3>Quel est votre usage principal ?</h3>
                     <div class="simulator-options">
                         <a href="{{ "/simulateur/?q1=quotidien" | relURL }}" class="simulator-option">
-                            <span class="simulator-option-icon">&#128338;</span>
+                            <span class="simulator-option-icon">{{ partial "icon" "clock" }}</span>
                             <div>
                                 <strong>Trajet quotidien</strong>
                                 <span>Domicile-travail, courses</span>
                             </div>
                         </a>
                         <a href="{{ "/simulateur/?q1=loisirs" | relURL }}" class="simulator-option">
-                            <span class="simulator-option-icon">&#127958;</span>
+                            <span class="simulator-option-icon">{{ partial "icon" "mountain" }}</span>
                             <div>
                                 <strong>Loisirs & week-ends</strong>
                                 <span>Évasion, balades, voyages</span>
                             </div>
                         </a>
                         <a href="{{ "/simulateur/?q1=famille" | relURL }}" class="simulator-option">
-                            <span class="simulator-option-icon">&#128106;</span>
+                            <span class="simulator-option-icon">{{ partial "icon" "users" }}</span>
                             <div>
                                 <strong>Famille</strong>
                                 <span>Enfants, transport collectif</span>
                             </div>
                         </a>
                         <a href="{{ "/simulateur/?q1=pro" | relURL }}" class="simulator-option">
-                            <span class="simulator-option-icon">&#128188;</span>
+                            <span class="simulator-option-icon">{{ partial "icon" "briefcase" }}</span>
                             <div>
                                 <strong>Professionnel</strong>
                                 <span>Livraisons, chantiers, activité</span>
@@ -299,7 +299,7 @@
             <div class="cta-sell-image">
                 <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=900&q=80" alt="Proposez un transport">
                 <div class="cta-sell-play">
-                    <span>&#43;</span>
+                    {{ partial "icon" "plus" }}
                 </div>
             </div>
             <div class="cta-sell-content">
@@ -330,32 +330,32 @@
         </div>
         <div class="types-grid">
             <a href="{{ "/comparer/" | relURL }}" class="type-card">
-                <div class="type-icon">&#128663;</div>
+                <div class="type-icon">{{ partial "icon" "car" }}</div>
                 <h4>Voitures</h4>
                 <span>248 modèles</span>
             </a>
             <a href="{{ "/comparer/" | relURL }}" class="type-card">
-                <div class="type-icon">&#127949;</div>
+                <div class="type-icon">{{ partial "icon" "bike" }}</div>
                 <h4>Motos</h4>
                 <span>134 modèles</span>
             </a>
             <a href="{{ "/comparer/" | relURL }}" class="type-card">
-                <div class="type-icon">&#128690;</div>
+                <div class="type-icon">{{ partial "icon" "bike" }}</div>
                 <h4>Vélos élec.</h4>
                 <span>89 modèles</span>
             </a>
             <a href="{{ "/comparer/" | relURL }}" class="type-card">
-                <div class="type-icon">&#128692;</div>
+                <div class="type-icon">{{ partial "icon" "scooter" }}</div>
                 <h4>Scooters</h4>
                 <span>62 modèles</span>
             </a>
             <a href="{{ "/comparer/" | relURL }}" class="type-card">
-                <div class="type-icon">&#128665;</div>
+                <div class="type-icon">{{ partial "icon" "truck" }}</div>
                 <h4>Utilitaires</h4>
                 <span>76 modèles</span>
             </a>
             <a href="{{ "/comparer/" | relURL }}" class="type-card">
-                <div class="type-icon">&#128667;</div>
+                <div class="type-icon">{{ partial "icon" "truck" }}</div>
                 <h4>Pro & fret</h4>
                 <span>54 modèles</span>
             </a>
@@ -375,28 +375,28 @@
             </div>
             <div class="why-features">
                 <div class="why-feature">
-                    <div class="why-feature-icon">&#128269;</div>
+                    <div class="why-feature-icon">{{ partial "icon" "search" }}</div>
                     <div>
                         <h4>Comparaison transparente</h4>
                         <p>Tous les critères sur la même page, sans filtres commerciaux.</p>
                     </div>
                 </div>
                 <div class="why-feature">
-                    <div class="why-feature-icon">&#128200;</div>
+                    <div class="why-feature-icon">{{ partial "icon" "trending-up" }}</div>
                     <div>
                         <h4>Données à jour</h4>
                         <p>Specs vérifiées et actualisées en continu par notre équipe.</p>
                     </div>
                 </div>
                 <div class="why-feature">
-                    <div class="why-feature-icon">&#127793;</div>
+                    <div class="why-feature-icon">{{ partial "icon" "leaf" }}</div>
                     <div>
                         <h4>Impact environnemental</h4>
                         <p>Émissions CO2 et bilan carbone affichés pour chaque transport.</p>
                     </div>
                 </div>
                 <div class="why-feature">
-                    <div class="why-feature-icon">&#128176;</div>
+                    <div class="why-feature-icon">{{ partial "icon" "euro" }}</div>
                     <div>
                         <h4>100% gratuit</h4>
                         <p>Aucune inscription. Aucun abonnement. Aucun frais caché.</p>
@@ -461,14 +461,14 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BMW_X3_%28G01%29_China_%282%29.jpg/330px-BMW_X3_%28G01%29_China_%282%29.jpg" alt="BMW X3 vs Lexus NX">
-                    <span class="vehicle-rating"><span class="star">&#128293;</span> Top cette semaine</span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "flame" }}</span> Top cette semaine</span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">SUV hybrides : BMW X3 vs Lexus NX</a></h3>
-                    <span class="vehicle-location">&#127919; Catégorie SUV familial</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Catégorie SUV familial</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128202;</span> 8 critères comparés</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9201;</span> 5 min de lecture</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "bar-chart" }}</span> 8 critères comparés</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "clock" }}</span> 5 min de lecture</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Écart de prix<strong>+ 4 200 &euro;</strong></span>
@@ -480,14 +480,14 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg/330px-Tesla_Model_3_%282023%29_Autofr%C3%BChling_Ulm_IMG_9282.jpg" alt="Tesla Model 3 vs BMW i4">
-                    <span class="vehicle-rating"><span class="star">&#128293;</span> Top du mois</span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "flame" }}</span> Top du mois</span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Tesla Model 3 vs BMW i4 : le duel</a></h3>
-                    <span class="vehicle-location">&#127919; Berline électrique</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Berline électrique</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128202;</span> 12 critères comparés</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9201;</span> 8 min de lecture</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "bar-chart" }}</span> 12 critères comparés</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "clock" }}</span> 8 min de lecture</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Écart d'autonomie<strong>+ 39 km</strong></span>
@@ -499,14 +499,14 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg/330px-2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg" alt="Ford Transit vs Mercedes Sprinter">
-                    <span class="vehicle-rating"><span class="star">&#128293;</span> Sélection pro</span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "flame" }}</span> Sélection pro</span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Ford Transit vs Mercedes Sprinter</a></h3>
-                    <span class="vehicle-location">&#127919; Utilitaire 3.5T</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Utilitaire 3.5T</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128202;</span> 10 critères comparés</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9201;</span> 6 min de lecture</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "bar-chart" }}</span> 10 critères comparés</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "clock" }}</span> 6 min de lecture</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Écart de prix<strong>+ 3 800 &euro;</strong></span>
@@ -518,14 +518,14 @@
             <article class="vehicle-card">
                 <div class="vehicle-card-image">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Yamaha_MT-07.jpg/330px-Yamaha_MT-07.jpg" alt="Yamaha MT-07 vs Kawasaki Z650">
-                    <span class="vehicle-rating"><span class="star">&#128293;</span> Coup de cœur</span>
+                    <span class="vehicle-rating"><span class="star">{{ partial "icon" "flame" }}</span> Coup de cœur</span>
                 </div>
                 <div class="vehicle-card-body">
                     <h3><a href="{{ "/comparer/" | relURL }}">Yamaha MT-07 vs Kawasaki Z650</a></h3>
-                    <span class="vehicle-location">&#127919; Moto routière A2</span>
+                    <span class="vehicle-location">{{ partial "icon" "target" }} Moto routière A2</span>
                     <div class="vehicle-specs">
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#128202;</span> 9 critères comparés</span>
-                        <span class="vehicle-spec"><span class="vehicle-spec-icon">&#9201;</span> 4 min de lecture</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "bar-chart" }}</span> 9 critères comparés</span>
+                        <span class="vehicle-spec"><span class="vehicle-spec-icon">{{ partial "icon" "clock" }}</span> 4 min de lecture</span>
                     </div>
                     <div class="vehicle-card-footer">
                         <span class="vehicle-price">Écart de prix<strong>+ 600 &euro;</strong></span>
@@ -548,28 +548,28 @@
         </div>
         <div class="locations-grid">
             <a href="#" class="location-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/400px-Tour_Eiffel_Wikimedia_Commons.jpg" alt="Paris">
+                <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=400&q=80" alt="Paris" loading="lazy">
                 <div class="location-card-overlay">
                     <h4>Paris</h4>
                     <span>Top : électrique & mobilité douce</span>
                 </div>
             </a>
             <a href="#" class="location-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lyon_Fourvi%C3%A8re_as_seen_from_the_Rh%C3%B4ne.jpg/400px-Lyon_Fourvi%C3%A8re_as_seen_from_the_Rh%C3%B4ne.jpg" alt="Lyon">
+                <img src="https://images.unsplash.com/photo-1524396309943-e03f5249f002?w=400&q=80" alt="Lyon" loading="lazy">
                 <div class="location-card-overlay">
                     <h4>Lyon</h4>
                     <span>Top : hybrides & utilitaires</span>
                 </div>
             </a>
             <a href="#" class="location-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marseille_-_Vieux_Port_et_Notre_Dame_de_la_Garde.jpg/400px-Marseille_-_Vieux_Port_et_Notre_Dame_de_la_Garde.jpg" alt="Marseille">
+                <img src="https://images.unsplash.com/photo-1595815771614-ade9d652a65d?w=400&q=80" alt="Marseille" loading="lazy">
                 <div class="location-card-overlay">
                     <h4>Marseille</h4>
                     <span>Top : scooters & motos</span>
                 </div>
             </a>
             <a href="#" class="location-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Place_de_la_Bourse_by_night_-_Bordeaux.jpg/400px-Place_de_la_Bourse_by_night_-_Bordeaux.jpg" alt="Bordeaux">
+                <img src="https://images.unsplash.com/photo-1589983379003-b38aba75fb3c?w=400&q=80" alt="Bordeaux" loading="lazy">
                 <div class="location-card-overlay">
                     <h4>Bordeaux</h4>
                     <span>Top : SUV hybrides</span>
@@ -590,7 +590,7 @@
         </div>
         <div class="testimonials-grid">
             <div class="testimonial-card">
-                <div class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                <div class="testimonial-rating">{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}</div>
                 <p>"J'ai comparé 3 berlines électriques en 2 minutes. Le tableau côte à côte avec les émissions et le coût sur 5 ans m'a vraiment aidé à trancher. Très clair."</p>
                 <div class="testimonial-author">
                     <img src="https://i.pravatar.cc/80?img=12" alt="Claire M.">
@@ -601,7 +601,7 @@
                 </div>
             </div>
             <div class="testimonial-card">
-                <div class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                <div class="testimonial-rating">{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}</div>
                 <p>"Le fait que le site soit indépendant et sans affiliation, ça se sent. Les comparaisons sont neutres, j'ai appris des choses que les concessionnaires ne m'avaient jamais dites."</p>
                 <div class="testimonial-author">
                     <img src="https://i.pravatar.cc/80?img=32" alt="Karim B.">
@@ -612,7 +612,7 @@
                 </div>
             </div>
             <div class="testimonial-card">
-                <div class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                <div class="testimonial-rating">{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}{{ partial "icon" "star" }}</div>
                 <p>"J'ai proposé mon propre utilitaire pour enrichir le comparateur. Fiche validée en 24h, specs parfaitement reprises. Impressionnant le niveau de rigueur."</p>
                 <div class="testimonial-author">
                     <img src="https://i.pravatar.cc/80?img=51" alt="Laurent D.">
@@ -670,14 +670,14 @@
                 </form>
                 <div class="app-buttons app-buttons-disabled">
                     <span class="app-btn app-btn-disabled">
-                        <span class="app-btn-icon">&#63743;</span>
+                        <span class="app-btn-icon">{{ partial "icon" "apple" }}</span>
                         <div>
                             <small>Bientôt sur</small>
                             <strong>App Store</strong>
                         </div>
                     </span>
                     <span class="app-btn app-btn-disabled">
-                        <span class="app-btn-icon">&#9658;</span>
+                        <span class="app-btn-icon">{{ partial "icon" "play" }}</span>
                         <div>
                             <small>Bientôt sur</small>
                             <strong>Google Play</strong>

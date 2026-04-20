@@ -1222,6 +1222,40 @@ img {
     color: var(--dark);
 }
 
+/* ---------- Icons (SVG Lucide) ---------- */
+.icon {
+    width: 18px;
+    height: 18px;
+    stroke-width: 2;
+    flex-shrink: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.hero-feature-icon .icon,
+.vehicle-spec-icon .icon,
+.why-feature-icon .icon,
+.simulator-option-icon .icon,
+.type-icon .icon,
+.search-help .icon,
+.btn-search .icon,
+.btn-book .icon,
+.vehicle-location .icon,
+.section-link .icon,
+.app-btn-icon .icon {
+    width: 1em;
+    height: 1em;
+}
+
+.hero-feature-icon .icon { width: 12px; height: 12px; stroke-width: 3; }
+.why-feature-icon .icon { width: 24px; height: 24px; }
+.simulator-option-icon .icon { width: 20px; height: 20px; }
+.type-icon .icon { width: 28px; height: 28px; }
+.app-btn-icon .icon { width: 22px; height: 22px; }
+.testimonial-rating .icon { width: 16px; height: 16px; color: var(--star); }
+.search-help .icon { width: 14px; height: 14px; }
+.btn-search .icon { width: 16px; height: 16px; }
+
 /* ---------- Helpers / buttons ---------- */
 .cta-eyebrow {
     display: inline-block;
