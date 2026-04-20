@@ -47,20 +47,21 @@
                 {{ end }}
             </div>
             <div class="article-hero-share">
+                <span class="article-hero-share-label">Partager&nbsp;:</span>
                 <a class="share-btn share-linkedin" target="_blank" rel="noopener" href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}" aria-label="Partager sur LinkedIn">
-                    <span class="share-btn-icon">in</span>
+                    {{ partial "icon" "linkedin" }}
                     <span class="share-btn-label">LinkedIn</span>
                 </a>
                 <a class="share-btn share-x" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url={{ $url }}&text={{ $title }}" aria-label="Partager sur X">
-                    <span class="share-btn-icon">X</span>
+                    {{ partial "icon" "x-twitter" }}
                     <span class="share-btn-label">X</span>
                 </a>
                 <a class="share-btn share-fb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" aria-label="Partager sur Facebook">
-                    <span class="share-btn-icon">f</span>
-                    <span class="share-btn-label">FB</span>
+                    {{ partial "icon" "facebook" }}
+                    <span class="share-btn-label">Facebook</span>
                 </a>
                 <a class="share-btn share-reddit" target="_blank" rel="noopener" href="https://reddit.com/submit?url={{ $url }}&title={{ $title }}" aria-label="Partager sur Reddit">
-                    <span class="share-btn-icon">R</span>
+                    {{ partial "icon" "reddit" }}
                     <span class="share-btn-label">Reddit</span>
                 </a>
             </div>

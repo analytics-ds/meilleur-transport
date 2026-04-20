@@ -3123,7 +3123,7 @@ img {
 .article-hero {
     background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
     color: var(--white);
-    padding: var(--space-xl) 0 var(--space-lg);
+    padding: 2rem 0 1.5rem;
     position: relative;
     overflow: hidden;
 }
@@ -3142,8 +3142,8 @@ img {
 
 .article-hero-grid {
     display: grid;
-    grid-template-columns: 1.4fr 1fr;
-    gap: var(--space-lg);
+    grid-template-columns: 1.5fr 1fr;
+    gap: var(--space-md);
     align-items: center;
 }
 
@@ -3155,13 +3155,13 @@ img {
     backdrop-filter: blur(4px);
     color: var(--white);
     font-family: var(--font-ui);
-    font-size: 0.78rem;
+    font-size: 0.72rem;
     font-weight: 700;
-    letter-spacing: 1.5px;
+    letter-spacing: 1.3px;
     text-transform: uppercase;
-    padding: 0.35rem 0.95rem;
+    padding: 0.25rem 0.8rem;
     border-radius: var(--radius-pill);
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.75rem;
     border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
@@ -3169,19 +3169,19 @@ img {
 
 .article-hero h1 {
     font-family: var(--font-heading);
-    font-size: 2.6rem;
+    font-size: 1.85rem;
     font-weight: 800;
-    line-height: 1.15;
-    margin-bottom: 1rem;
+    line-height: 1.2;
+    margin-bottom: 0.65rem;
     color: var(--white);
     letter-spacing: -0.02em;
 }
 
 .article-hero-description {
-    font-size: 1.05rem;
-    line-height: 1.6;
+    font-size: 0.95rem;
+    line-height: 1.5;
     color: rgba(255, 255, 255, 0.9);
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     max-width: 60ch;
 }
 
@@ -3189,36 +3189,36 @@ img {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.6rem 0.8rem;
+    gap: 0.45rem 0.65rem;
     font-family: var(--font-ui);
-    font-size: 0.88rem;
+    font-size: 0.8rem;
     color: rgba(255, 255, 255, 0.85);
 }
 
 .article-hero-author {
     display: inline-flex;
     align-items: center;
-    gap: 0.6rem;
+    gap: 0.5rem;
 }
 
 .article-hero-avatar {
-    width: 36px;
-    height: 36px;
+    width: 28px;
+    height: 28px;
     border-radius: 50%;
     background-color: rgba(255, 255, 255, 0.95);
     color: var(--primary-dark);
     font-weight: 800;
-    font-size: 0.82rem;
+    font-size: 0.7rem;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid rgba(255, 255, 255, 0.4);
+    border: 1.5px solid rgba(255, 255, 255, 0.4);
     letter-spacing: 0;
 }
 
 .article-hero-author-text { display: inline-flex; flex-direction: column; line-height: 1.2; }
-.article-hero-author-label { font-size: 0.72rem; opacity: 0.75; text-transform: uppercase; letter-spacing: 0.8px; }
-.article-hero-author-text strong { color: var(--white); font-weight: 700; }
+.article-hero-author-label { font-size: 0.65rem; opacity: 0.75; text-transform: uppercase; letter-spacing: 0.8px; }
+.article-hero-author-text strong { color: var(--white); font-weight: 700; font-size: 0.82rem; }
 
 .article-hero-sep {
     display: inline-block;
@@ -3233,20 +3233,21 @@ img {
     align-items: center;
     gap: 0.3rem;
     background-color: rgba(255, 255, 255, 0.15);
-    padding: 0.25rem 0.65rem;
+    padding: 0.2rem 0.55rem;
     border-radius: var(--radius-pill);
-    font-size: 0.8rem;
+    font-size: 0.72rem;
     font-weight: 600;
 }
 
-.article-hero-verified svg { width: 14px; height: 14px; }
+.article-hero-verified svg { width: 12px; height: 12px; }
 
 .article-hero-image {
-    border-radius: var(--radius-lg);
+    border-radius: var(--radius);
     overflow: hidden;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.22);
     aspect-ratio: 16 / 10;
     background-color: rgba(255, 255, 255, 0.06);
+    max-height: 220px;
 }
 
 .article-hero-image img {
@@ -3258,39 +3259,40 @@ img {
 .article-hero-share {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.6rem;
-    margin-top: var(--space-md);
-    padding-top: var(--space-md);
-    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    padding-top: 0.9rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.article-hero-share-label {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.7);
+    margin-right: 0.25rem;
 }
 
 .share-btn {
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.45rem 0.9rem;
+    gap: 0.4rem;
+    padding: 0.35rem 0.7rem;
     border-radius: var(--radius);
     font-family: var(--font-ui);
-    font-size: 0.85rem;
-    font-weight: 700;
+    font-size: 0.78rem;
+    font-weight: 600;
     color: var(--white);
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.12);
     border: 1px solid rgba(255, 255, 255, 0.2);
-    transition: transform 0.15s, background-color 0.2s;
+    transition: transform 0.15s, background-color 0.2s, border-color 0.2s;
 }
 
 .share-btn:hover { color: var(--white); transform: translateY(-1px); }
-.share-btn-icon {
-    width: 22px;
-    height: 22px;
-    border-radius: 4px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 800;
-    font-size: 0.78rem;
-    background-color: rgba(255, 255, 255, 0.15);
-}
+.share-btn svg { width: 14px; height: 14px; flex-shrink: 0; }
 
 .share-linkedin:hover { background-color: #0A66C2; border-color: #0A66C2; }
 .share-x:hover { background-color: #000000; border-color: #000000; }
@@ -3442,11 +3444,11 @@ img {
 }
 
 @media (max-width: 640px) {
-    .article-hero { padding: var(--space-lg) 0; }
-    .article-hero h1 { font-size: 1.8rem; }
-    .article-hero-description { font-size: 0.98rem; }
-    .article-hero-meta { font-size: 0.82rem; }
+    .article-hero { padding: 1.5rem 0 1.25rem; }
+    .article-hero h1 { font-size: 1.45rem; }
+    .article-hero-description { font-size: 0.9rem; }
+    .article-hero-meta { font-size: 0.75rem; }
     .share-btn-label { display: none; }
-    .share-btn { padding: 0.4rem 0.55rem; }
-    .share-btn-icon { margin: 0; }
+    .share-btn { padding: 0.4rem 0.5rem; }
+    .article-hero-share-label { display: none; }
 }
