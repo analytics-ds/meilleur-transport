@@ -1,38 +1,106 @@
 {{ define "main" }}
 
+{{ $url := .Permalink }}
+{{ $title := .Title }}
+{{ $authorInitials := "" }}
+{{ with .Params.author }}
+  {{ $parts := split . " " }}
+  {{ range $parts }}
+    {{ $authorInitials = printf "%s%s" $authorInitials (substr . 0 1) }}
+  {{ end }}
+{{ end }}
+
 <article class="single-article">
-    <header class="article-header">
+    <header class="article-hero">
         <div class="container">
-            <div class="article-meta">
-                {{ with .Params.categories }}
-                <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
-                {{ end }}
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-                {{ if .Params.readingTime }}
-                <span class="reading-time">{{ .ReadingTime }} min de lecture</span>
+            <div class="article-hero-grid">
+                <div class="article-hero-content">
+                    {{ with .Params.categories }}
+                    <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-hero-category">{{ index . 0 }}</a>
+                    {{ end }}
+                    <h1>{{ .Title }}</h1>
+                    {{ with .Description }}
+                    <p class="article-hero-description">{{ . }}</p>
+                    {{ end }}
+                    <div class="article-hero-meta">
+                        {{ with .Params.author }}
+                        <div class="article-hero-author">
+                            <span class="article-hero-avatar">{{ $authorInitials }}</span>
+                            <span class="article-hero-author-text">
+                                <span class="article-hero-author-label">Par</span>
+                                <strong>{{ . }}</strong>
+                            </span>
+                        </div>
+                        {{ end }}
+                        <span class="article-hero-sep"></span>
+                        <span class="article-hero-date">Mis à jour le {{ (default .Date .Lastmod).Format "2 January 2006" }}</span>
+                        <span class="article-hero-sep"></span>
+                        <span class="article-hero-reading">Lecture&nbsp;: {{ .ReadingTime }}&nbsp;min</span>
+                        <span class="article-hero-sep"></span>
+                        <span class="article-hero-verified">{{ partial "icon" "check" }} Données vérifiées</span>
+                    </div>
+                </div>
+                {{ with .Params.image }}
+                <div class="article-hero-image">
+                    <img src="{{ . }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="eager">
+                </div>
                 {{ end }}
             </div>
-            <h1>{{ .Title }}</h1>
-            {{ with .Description }}
-            <p class="article-description">{{ . }}</p>
-            {{ end }}
-            {{ with .Params.author }}
-            <div class="article-author">
-                <span class="author-label">Par</span>
-                <span class="author-name">{{ . }}</span>
-            </div>
-            {{ end }}
-            <div class="article-tags">
-                {{ range .Params.tags }}
-                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                {{ end }}
+            <div class="article-hero-share">
+                <a class="share-btn share-linkedin" target="_blank" rel="noopener" href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}" aria-label="Partager sur LinkedIn">
+                    <span class="share-btn-icon">in</span>
+                    <span class="share-btn-label">LinkedIn</span>
+                </a>
+                <a class="share-btn share-x" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url={{ $url }}&text={{ $title }}" aria-label="Partager sur X">
+                    <span class="share-btn-icon">X</span>
+                    <span class="share-btn-label">X</span>
+                </a>
+                <a class="share-btn share-fb" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" aria-label="Partager sur Facebook">
+                    <span class="share-btn-icon">f</span>
+                    <span class="share-btn-label">FB</span>
+                </a>
+                <a class="share-btn share-reddit" target="_blank" rel="noopener" href="https://reddit.com/submit?url={{ $url }}&title={{ $title }}" aria-label="Partager sur Reddit">
+                    <span class="share-btn-icon">R</span>
+                    <span class="share-btn-label">Reddit</span>
+                </a>
             </div>
         </div>
     </header>
 
-    <div class="article-content">
-        <div class="container container-narrow">
-            {{ .Content }}
+    <div class="article-body">
+        <div class="container article-body-grid">
+            <aside class="article-toc">
+                <div class="article-toc-inner">
+                    <h3 class="article-toc-title">Sommaire</h3>
+                    <nav class="article-toc-nav">
+                        {{ .TableOfContents }}
+                    </nav>
+                </div>
+            </aside>
+
+            <div class="article-content">
+                {{ with .Params.tldr }}
+                <aside class="article-tldr">
+                    <h2 class="article-tldr-title">En bref</h2>
+                    {{ with $.Params.tldrIntro }}
+                    <p>{{ . }}</p>
+                    {{ end }}
+                    <ul>
+                        {{ range . }}
+                        <li>{{ . | markdownify }}</li>
+                        {{ end }}
+                    </ul>
+                </aside>
+                {{ end }}
+
+                {{ .Content }}
+
+                <div class="article-tags">
+                    {{ range .Params.tags }}
+                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                    {{ end }}
+                </div>
+            </div>
         </div>
     </div>
 
@@ -55,5 +123,26 @@
         </div>
     </footer>
 </article>
+
+<script>
+(function(){
+  var links = document.querySelectorAll('.article-toc-nav a');
+  var sections = Array.from(links).map(function(a){
+    var id = a.getAttribute('href').replace('#','');
+    return {link: a, el: document.getElementById(id)};
+  }).filter(function(s){ return s.el; });
+  function onScroll(){
+    var y = window.scrollY + 120;
+    var current = null;
+    sections.forEach(function(s){
+      if (s.el.offsetTop <= y) current = s;
+    });
+    links.forEach(function(a){ a.classList.remove('is-active'); });
+    if (current) current.link.classList.add('is-active');
+  }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  onScroll();
+})();
+</script>
 
 {{ end }}

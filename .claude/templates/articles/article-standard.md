@@ -6,22 +6,16 @@ description: "[Meta description, max 140 caracteres, contient le mot-cle]"
 categories: ["[Categorie]"]
 tags: ["[tag1]", "[tag2]", "[tag3]", "[tag4]", "[tag5]"]
 author: "[Nom de l'auteur]"
+authors: ["[Nom de l'auteur]"]
+image: "[URL de l'image hero — idealement 1200x675]"
+imageAlt: "[Texte alternatif de l'image, max 125 caracteres]"
+tldrIntro: "[Phrase d'intro optionnelle de l'encart En bref, 1-2 lignes]"
+tldr:
+  - "**[Terme cle 1]** : [Point cle 1 avec donnee chiffree]"
+  - "**[Terme cle 2]** : [Point cle 2 avec donnee chiffree]"
+  - "**[Terme cle 3]** : [Point cle 3 avec donnee chiffree]"
 readingTime: true
 ---
-
-> **En bref :**
-> - [Point cle 1 avec donnee chiffree]
-> - [Point cle 2 avec donnee chiffree]
-> - [Point cle 3 avec donnee chiffree]
-
-## Sommaire
-
-- [Titre H2 1](#ancre-1)
-- [Titre H2 2](#ancre-2)
-- [Titre H2 3](#ancre-3)
-- [Titre H2 4](#ancre-4)
-- [Titre H2 5](#ancre-5)
-- [Questions frequentes](#questions-frequentes)
 
 ## [H2 — Definition / Introduction au sujet] {#ancre-1}
 
@@ -117,7 +111,8 @@ readingTime: true
 NOTES POUR CLAUDE :
 - Type : Article standard (SEO + GEO)
 - Objectif : article informatif complet, optimise a la fois pour le referencement organique Google ET pour etre cite par les moteurs generatifs (ChatGPT, Perplexity, Google AI Overviews)
-- Le quick summary (blockquote "En bref") est critique : c'est ce que les LLMs extraient en priorite. Il doit contenir les faits cles avec des donnees chiffrees
+- Le champ frontmatter `tldr` (liste) genere automatiquement l'encart vert "En bref" en tete d'article. C'est ce que les LLMs extraient en priorite. Il doit contenir les faits cles avec des donnees chiffrees et 3-5 items
+- Le sommaire (sidebar sticky) est genere automatiquement par Hugo a partir des H2 et H3 — ne pas l'ecrire manuellement dans le corps
 - Privilegier les donnees chiffrees, etudes, faits verifiables — ca renforce a la fois l'E-E-A-T (SEO) et la citabilite (GEO)
 - Les tableaux et listes structurees sont extraits en priorite par les IA generatives ET ameliorent la lisibilite pour Google
 - Les citations sourcees renforcent l'autorite

@@ -10,6 +10,13 @@ categories: ["Particuliers"]
 tags: ["voiture", "occasion", "achat", "guide"]
 image: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80"
 imageAlt: "Tesla Model 3 pour illustrer l'achat d'une voiture d'occasion"
+tldrIntro: "L'occasion reste l'alternative la plus rationnelle pour la plupart des budgets. Voici les points cles a verifier avant de signer."
+tldr:
+  - "**Budget total** : anticiper carte grise, assurance (700 a 1 500 €/an), entretien et carburant sur 3 a 5 ans, pas seulement le prix d'achat"
+  - "**Controle technique** : moins de 6 mois obligatoire pour un vehicule de plus de 4 ans, lire le PV pour detecter freins, corrosion, pollution"
+  - "**Historique** : exiger carnet d'entretien, factures et certificat Histovec (gratuit et officiel) avant toute transaction"
+  - "**Essai** : 20 min minimum en ville et voie rapide pour detecter bruits, vibrations, faiblesses moteur/boite"
+  - "**Financement** : cash reste le plus economique, credit classique sur un taux competitif, LOA occasion souvent plus chere au total"
 draft: false
 ---
 

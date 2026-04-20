@@ -10,6 +10,13 @@ categories: ["Professionnels"]
 tags: ["transport", "logistique", "fret", "entreprise"]
 image: "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&q=80"
 imageAlt: "Ford Transit pour le transport de marchandises professionnel"
+tldrIntro: "Le choix du prestataire impacte directement la marge et la satisfaction client. Voici les leviers qui comptent vraiment."
+tldr:
+  - "**Modes** : route = 90 % du transport interieur France, ferroviaire/maritime pertinents au-dela de 500 km ou pour gros volumes"
+  - "**Criteres cles** : fiabilite (taux de livraison a l'heure > 95 %), couverture geographique, specialisation sectorielle"
+  - "**Tarification** : comparer le cout complet (transport + assurance + manutention + carburant), pas seulement le prix au km"
+  - "**Contractualisation** : SLA ecrit, assurance ad valorem, clause de performance et penalites en cas de retard recurrent"
+  - "**Digitalisation** : suivi temps reel, preuve de livraison dematerialisee et API pour integrer dans son ERP"
 draft: false
 ---
 
