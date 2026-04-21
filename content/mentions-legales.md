@@ -1,40 +1,40 @@
 ---
-title: "Mentions legales"
-description: "Mentions legales, informations editeur, hebergement et conditions d'utilisation du site Meilleur Transport."
+title: "Mentions légales"
+description: "Mentions légales, informations éditeur, hébergement et conditions d'utilisation du site Meilleur Transport."
 date: 2026-04-20
-lastmod: 2026-04-20
+lastmod: 2026-04-21
 ---
 
-## Editeur du site
+## Éditeur du site
 
-Le site meilleur-transport.com est un media editorial independant.
+Le site meilleur-transport.com est un média éditorial indépendant.
 
 **Directeur de la publication** : Julien Mercier
 
 **Contact** : contact@meilleur-transport.com
 
-## Hebergement
+## Hébergement
 
-Le site est heberge par GitHub Pages, service de la societe GitHub, Inc.
+Le site est hébergé par GitHub Pages, service de la société GitHub, Inc.
 
-**Adresse** : 88 Colin P Kelly Jr Street, San Francisco, CA 94107, Etats-Unis
+**Adresse** : 88 Colin P Kelly Jr Street, San Francisco, CA 94107, États-Unis
 
-## Propriete intellectuelle
+## Propriété intellectuelle
 
-L'ensemble des contenus publies sur meilleur-transport.com (textes, images, graphismes, logo) sont, sauf mention contraire, la propriete exclusive de Meilleur Transport ou de leurs auteurs respectifs. Toute reproduction, representation, modification, publication ou adaptation de tout ou partie des elements du site, quel que soit le moyen ou le procede utilise, est interdite sans autorisation ecrite prealable.
+L'ensemble des contenus publiés sur meilleur-transport.com (textes, images, graphismes, logo) sont, sauf mention contraire, la propriété exclusive de Meilleur Transport ou de leurs auteurs respectifs. Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite sans autorisation écrite préalable.
 
-## Donnees personnelles
+## Données personnelles
 
-Meilleur Transport ne collecte aucune donnee personnelle via le site, a l'exception des adresses email volontairement transmises par formulaire ou via l'adresse de contact. Ces adresses ne sont utilisees que pour repondre aux demandes concernees et ne sont jamais cedees a des tiers.
+Meilleur Transport ne collecte aucune donnée personnelle via le site, à l'exception des adresses email volontairement transmises par formulaire ou via l'adresse de contact. Ces adresses ne sont utilisées que pour répondre aux demandes concernées et ne sont jamais cédées à des tiers.
 
 ## Cookies
 
-Le site n'utilise pas de cookies de suivi publicitaire. Seuls des cookies strictement necessaires au fonctionnement du site peuvent etre deposes.
+Le site n'utilise pas de cookies de suivi publicitaire. Seuls des cookies strictement nécessaires au fonctionnement du site peuvent être déposés.
 
 ## Liens externes
 
-Les articles peuvent contenir des liens vers des sites tiers. Meilleur Transport n'est pas responsable du contenu de ces sites externes ni de leur politique de confidentialite.
+Les articles peuvent contenir des liens vers des sites tiers. Meilleur Transport n'est pas responsable du contenu de ces sites externes ni de leur politique de confidentialité.
 
 ## Droit applicable
 
-Les presentes mentions legales sont regies par le droit francais. En cas de litige, les tribunaux francais seront seuls competents.
+Les présentes mentions légales sont régies par le droit français. En cas de litige, les tribunaux français seront seuls compétents.

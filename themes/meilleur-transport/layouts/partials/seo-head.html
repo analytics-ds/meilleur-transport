@@ -1,7 +1,17 @@
-<!-- Site en developpement : noindex global -->
+{{- /* Pages de tags : noindex permanent (contenu maigre / duplication avec catégories).
+     Règle conservée même après la mise en production du site. */ -}}
+{{- $isTagPage := or (eq .Type "tags") (eq .Section "tags") }}
+{{- if $isTagPage }}
+<!-- Pages de tags : noindex permanent -->
+<meta name="robots" content="noindex, follow">
+<meta name="googlebot" content="noindex, follow">
+<meta name="bingbot" content="noindex, follow">
+{{- else }}
+<!-- Site en développement : noindex global (à retirer à la mise en production) -->
 <meta name="robots" content="noindex, nofollow">
 <meta name="googlebot" content="noindex, nofollow">
 <meta name="bingbot" content="noindex, nofollow">
+{{- end }}
 
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink }}">

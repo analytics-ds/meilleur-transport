@@ -9,7 +9,7 @@ enableEmoji = false
 [languages]
   [languages.fr]
     languageCode = "fr-FR"
-    languageName = "Francais"
+    languageName = "Français"
     weight = 1
     title = "Meilleur Transport"
     [languages.fr.params]
@@ -75,7 +75,7 @@ enableEmoji = false
   theme_name = "meilleur-transport"
   author_name = "Julien Mercier"
   author_url = ""
-  author_job_title = "Expert mobilite et transports"
+  author_job_title = "Expert mobilité et transports"
   color_primary = "#FFC800"
   color_primary_light = "#FFD94D"
   color_background = "#FFFFFF"

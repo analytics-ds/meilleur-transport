@@ -1,29 +1,29 @@
 ---
 title: "Contact"
-description: "Contactez l'equipe de Meilleur Transport pour toute question, suggestion ou proposition de partenariat."
+description: "Contactez l'équipe de Meilleur Transport pour toute question, suggestion ou proposition de partenariat."
 translationKey: "contact"
 date: 2026-04-20
-lastmod: 2026-04-20
+lastmod: 2026-04-21
 ---
 
-## Nous ecrire
+## Nous écrire
 
 Pour toute question, remarque sur un article, proposition de contenu ou demande de partenariat, une seule adresse :
 
 **contact@meilleur-transport.com**
 
-## Ce a quoi nous repondons
+## Ce à quoi nous répondons
 
-- Signalement d'erreur ou d'information obsolete dans un article
-- Suggestion de sujet ou de comparatif a realiser
-- Demande de precision sur une methodologie
-- Proposition de contribution editoriale
-- Demande presse ou media
+- Signalement d'erreur ou d'information obsolète dans un article
+- Suggestion de sujet ou de comparatif à réaliser
+- Demande de précision sur une méthodologie
+- Proposition de contribution éditoriale
+- Demande presse ou média
 
-## Delai de reponse
+## Délai de réponse
 
-Nous repondons generalement sous 48 heures ouvrees. Les demandes urgentes sont traitees en priorite.
+Nous répondons généralement sous 48 heures ouvrées. Les demandes urgentes sont traitées en priorité.
 
-## Publicite et partenariats
+## Publicité et partenariats
 
-Meilleur Transport est un media editorial independant. Les propositions de partenariat sont examinees au cas par cas, dans le respect de nos exigences editoriales. Aucun contenu sponsorise n'est publie sans mention explicite.
+Meilleur Transport est un média éditorial indépendant. Les propositions de partenariat sont examinées au cas par cas, dans le respect de nos exigences éditoriales. Aucun contenu sponsorisé n'est publié sans mention explicite.
