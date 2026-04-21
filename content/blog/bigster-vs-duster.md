@@ -142,7 +142,7 @@ Le **toit ouvrant panoramique**, facturé 850 euros en option sur le Bigster, n'
 
 **25 900 euros pour le Duster Hybrid Journey**. **28 900 euros pour le Bigster équivalent**. Écart de 3 000 euros au prix catalogue. En LOA 36 mois avec 10 000 km par an, cela se traduit par un **loyer mensuel majoré de 40 à 50 euros** pour une offre constructeur comparable. Rien de scandaleux vu les dimensions et l'équipement supérieurs, mais ça reste un choix qu'il faut assumer.
 
-Sur le marché de l'occasion, les premiers Bigster de 2025 commencent à apparaître autour de **24 000 à 26 000 euros avec 15 000 km**. Les Duster 3 hybrides de 2024 se négocient entre **19 000 et 22 000 euros** dans la même configuration kilométrique. Avant de signer, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les points de contrôle à ne pas rater sur ce type de SUV hybride (état de la batterie E-Tech, usure des disques de frein, historique boîte à crabots).
+Sur le marché de l'occasion, les premiers Bigster de 2025 commencent à apparaître autour de **24 000 à 26 000 euros avec 15 000 km**. Les Duster 3 hybrides de 2024 se négocient entre **19 000 et 22 000 euros** dans la même configuration kilométrique. Avant de signer, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les points de contrôle à ne pas rater sur ce type de SUV hybride (état de la batterie E-Tech, usure des disques de frein, historique boîte à crabots). Pour comparer dans le segment supérieur, voir aussi [Peugeot 3008 vs 5008](/blog/peugeot-3008-vs-5008/) qui posent les mêmes questions chez Stellantis.
 
 ## Le vrai budget d'un Bigster ou d'un Duster sur 5 ans {#budget}
 
@@ -170,7 +170,7 @@ Ramené au kilomètre parcouru, le Duster Hybrid Journey ressort à **environ 34
 
 ### Pour une famille avec enfants
 
-**Le Bigster gagne sans débat.** Les 3 cm supplémentaires aux genoux, le coffre XXL et la motorisation 155 ch changent l'expérience du long trajet en vacances. Une famille avec deux enfants, une poussette double, un chien de taille moyenne et quelques sacs de sport trouve ses marques **sans jouer à Tetris dans le coffre**. Le hayon motorisé, pratique quand les bras sont chargés, fait partie des petits plus qui comptent au quotidien.
+**Le Bigster gagne sans débat.** Les 3 cm supplémentaires aux genoux, le coffre XXL et la motorisation 155 ch changent l'expérience du long trajet en vacances. Une famille avec deux enfants, une poussette double, un chien de taille moyenne et quelques sacs de sport trouve ses marques **sans jouer à Tetris dans le coffre**. Le hayon motorisé, pratique quand les bras sont chargés, fait partie des petits plus qui comptent au quotidien. Pour les familles plus nombreuses (5+), voir notre classement [voiture hybride 7 places](/blog/voiture-hybride-7-places/).
 
 ### Pour un couple sans enfant
 

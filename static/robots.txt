@@ -1,8 +1,10 @@
-# Meilleur Transport - EN DEVELOPPEMENT, site non indexable
+# Meilleur Transport
 # https://meilleur-transport.com
 
 User-agent: *
-Disallow: /
+Allow: /
 
-# Sitemap desactive tant que le site est en dev
-# Sitemap: https://meilleur-transport.com/sitemap.xml
+# Pas d'indexation pour l'espace admin (si ajouté un jour)
+Disallow: /admin/
+
+Sitemap: https://meilleur-transport.com/sitemap.xml

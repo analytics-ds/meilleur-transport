@@ -5,6 +5,7 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = false
 enableEmoji = false
+buildFuture = true
 
 [languages]
   [languages.fr]
@@ -21,13 +22,25 @@ enableEmoji = false
       url = "/categories/particuliers/"
       weight = 1
     [[languages.fr.menus.main]]
+      identifier = "voitures"
+      name = "Voitures"
+      url = "/categories/voitures/"
+      parent = "particuliers"
+      weight = 11
+    [[languages.fr.menus.main]]
+      identifier = "motos"
+      name = "Motos"
+      url = "/categories/motos/"
+      parent = "particuliers"
+      weight = 12
+    [[languages.fr.menus.main]]
       identifier = "professionnels"
       name = "Professionnels"
       url = "/categories/professionnels/"
       weight = 2
     [[languages.fr.menus.main]]
       identifier = "a-propos"
-      name = "A propos"
+      name = "À propos"
       url = "/a-propos/"
       weight = 3
     [[languages.fr.menus.main]]

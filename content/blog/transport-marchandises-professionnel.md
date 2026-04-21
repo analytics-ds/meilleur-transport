@@ -72,3 +72,5 @@ Pour les flux récurrents, privilégier un contrat-cadre avec engagement de volu
 ## Pour aller plus loin
 
 Consultez nos autres guides dédiés au [transport professionnel](/categories/professionnels/) pour approfondir chaque mode.
+
+Pour les indépendants et artisans qui hésitent entre SUV polyvalent et utilitaire, les comparatifs [Bigster vs Duster](/blog/bigster-vs-duster/) et [Peugeot 3008 vs 5008](/blog/peugeot-3008-vs-5008/) mettent en perspective les SUV capables de remplacer partiellement un utilitaire léger. Côté électrique, [Tesla Model 3 vs Model Y](/blog/tesla-model-3-vs-model-y/) aide à trancher pour un usage pro-perso avec capacité de remorquage (1 600 kg pour la Model Y).
