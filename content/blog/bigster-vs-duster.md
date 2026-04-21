@@ -22,7 +22,7 @@ Le Duster et le Bigster sortent de la **même usine roumaine de Mioveni**, parta
 
 ![Dacia Bigster vue de face](/images/bigster-vs-duster/bigster-front.webp "Dacia Bigster 2025")
 
-## Le comparatif technique en un coup d'œil {#tableau}
+## Bigster et Duster passés au peigne fin {#tableau}
 
 L'étoile indique le modèle gagnant sur chaque ligne.
 
@@ -78,7 +78,7 @@ L'étoile indique le modèle gagnant sur chaque ligne.
 
 Les sections qui suivent détaillent le pourquoi de chaque verdict, en passant en revue les huit vraies différences entre les deux SUV, le budget réel sur 5 ans et les profils d'usage types.
 
-## Deux SUV Dacia bâtis sur la même plateforme {#contexte}
+## Le Bigster et le Duster 3, deux SUV sur une même base {#contexte}
 
 Le Duster domine le segment des **SUV compacts chez Dacia depuis 2010**. Plus de **2,2 millions d'exemplaires vendus en Europe** sur trois générations. C'est énorme. L'arrivée du Bigster en 2025 vient perturber ce modèle quasi parfait et pose une question concrète en concession : faut-il craquer pour le grand frère ou rester fidèle au best-seller ?
 
@@ -88,7 +88,7 @@ Les deux SUV sortent de la **même usine roumaine de Mioveni**. Plateforme **CMF
 
 Le Bigster vient **combler un vide dans la gamme Dacia**. Jusqu'en 2024, la marque roumaine laissait filer les acheteurs vers les SUV du segment C dès que le besoin dépassait le Duster. Les candidats typiques : Peugeot 3008, Nissan Qashqai, Renault Austral, Hyundai Tucson. Des modèles qui tournent souvent **entre 35 000 et 45 000 euros** en finition intermédiaire. Le Bigster, vendu à partir de **27 000 euros**, vient casser ce marché par le bas avec une stratégie claire : plus de place que le Duster, moins de prix que les SUV premium.
 
-## Huit différences qui font vraiment basculer le choix {#differences}
+## Huit différences qui séparent vraiment le Bigster du Duster {#differences}
 
 ### 1. Vingt-deux centimètres de longueur en plus pour le grand frère
 
@@ -144,7 +144,7 @@ Le **toit ouvrant panoramique**, facturé 850 euros en option sur le Bigster, n'
 
 Sur le marché de l'occasion, les premiers Bigster de 2025 commencent à apparaître autour de **24 000 à 26 000 euros avec 15 000 km**. Les Duster 3 hybrides de 2024 se négocient entre **19 000 et 22 000 euros** dans la même configuration kilométrique. Avant de signer, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les points de contrôle à ne pas rater sur ce type de SUV hybride (état de la batterie E-Tech, usure des disques de frein, historique boîte à crabots).
 
-## Le vrai budget sur 5 ans {#budget}
+## Le vrai budget d'un Bigster ou d'un Duster sur 5 ans {#budget}
 
 Le prix catalogue ne dit pas tout. Ce qui compte, c'est le **coût réel de détention**. Voici une estimation complète sur 5 ans et 75 000 km, basée sur les tarifs constructeur de mars 2026 et les cotes Argus à 5 ans pour chaque modèle.
 
@@ -196,7 +196,7 @@ Direction le **Duster Expression Hybrid à 24 900 euros**. Rapport qualité-prix
 
 **Le Duster reprend l'avantage**, principalement grâce à sa garde au sol de 217 mm (contre 220 pour le Bigster, mais avec un porte-à-faux plus long qui limite les angles d'attaque sur chemin). La **version 4x4 TCe 130 n'est proposée que sur le Duster** en 2026, ce qui verrouille le choix pour un usage régulier sur piste ou chemin forestier.
 
-## La fiabilité attendue sur ces hybrides {#fiabilite}
+## La fiabilité des Bigster et Duster Hybrid {#fiabilite}
 
 La technologie hybride vient de la gamme **Renault E-Tech**, déployée depuis 2020 sur Clio, Captur et Arkana. Cinq ans de recul permettent de tirer quelques constats. Les retours clients sur les hybrides Renault sont globalement bons : **peu de pannes majeures** signalées sur le système hybride lui-même, et une consommation réelle conforme aux annonces constructeur à 10-15% près.
 
