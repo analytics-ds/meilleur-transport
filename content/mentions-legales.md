@@ -35,6 +35,12 @@ Le site n'utilise pas de cookies de suivi publicitaire. Seuls des cookies strict
 
 Les articles peuvent contenir des liens vers des sites tiers. Meilleur Transport n'est pas responsable du contenu de ces sites externes ni de leur politique de confidentialité.
 
+## Crédits photographiques
+
+Les photographies de véhicules affichées dans le comparateur proviennent de [Wikimedia Commons](https://commons.wikimedia.org/) et sont utilisées sous licences Creative Commons (principalement CC BY-SA et CC BY) ou dans le domaine public. Chaque image reste la propriété de ses contributeurs respectifs. La liste détaillée des auteurs et licences pour une image donnée est disponible sur simple demande à contact@meilleur-transport.com.
+
+Certaines images génériques illustratives peuvent provenir de la banque d'images [Unsplash](https://unsplash.com/) sous licence Unsplash.
+
 ## Droit applicable
 
 Les présentes mentions légales sont régies par le droit français. En cas de litige, les tribunaux français seront seuls compétents.
