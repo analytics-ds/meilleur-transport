@@ -304,7 +304,34 @@ const IMG_BY_NAME = {
     "Renault Rafale": "/images/vehicles/renault-rafale.jpg",
     "Renault Symbioz": "/images/vehicles/renault-symbioz.jpg",
     "Dacia Bigster": "/images/vehicles/dacia-bigster.jpg",
-    "Jaguar F-Type": "/images/vehicles/jaguar-f-type.jpg"
+    "Jaguar F-Type": "/images/vehicles/jaguar-f-type.jpg",
+    "BMW M3": "/images/vehicles/bmw-m3.jpg",
+    "BMW M4": "/images/vehicles/bmw-m4.jpg",
+    "BMW M5": "/images/vehicles/bmw-m5.jpg",
+    "Audi RS6": "/images/vehicles/audi-rs6.jpg",
+    "Alpine A110": "/images/vehicles/alpine-a110.jpg",
+    "Ford Mustang Dark Horse": "/images/vehicles/ford-mustang-dark-horse.jpg",
+    "KTM 1290 Super Adventure": "/images/vehicles/ktm-1290-super-adventure.jpeg",
+    "BMW K 1600 GT": "/images/vehicles/bmw-k-1600-gt.jpg",
+    "Honda CB1000R": "/images/vehicles/honda-cb1000r.jpg",
+    "CFMoto 800MT": "/images/vehicles/cfmoto-800mt.jpg",
+    "Yuba Spicy Curry": "/images/vehicles/yuba-spicy-curry.png",
+    "Citroën Jumpy": "/images/vehicles/citroen-jumpy.jpg",
+    "Mercedes-Benz Citan": "/images/vehicles/mercedes-benz-citan.jpg",
+    "Ford E-Transit": "/images/vehicles/ford-e-transit.jpg",
+    "Subaru Outback": "/images/vehicles/subaru-outback.jpg",
+    "Subaru Forester": "/images/vehicles/subaru-forester.jpg",
+    "Lexus IS": "/images/vehicles/lexus-is.jpg",
+    "Lexus RX": "/images/vehicles/lexus-rx.jpg",
+    "Mitsubishi Eclipse Cross": "/images/vehicles/mitsubishi-eclipse-cross.jpg",
+    "Mitsubishi ASX": "/images/vehicles/mitsubishi-asx.jpg",
+    "Honda e": "/images/vehicles/honda-e.jpg",
+    "Hyundai Ioniq": "/images/vehicles/hyundai-ioniq.jpg",
+    "Kia Stinger": "/images/vehicles/kia-stinger.jpg",
+    "Chevrolet Corvette": "/images/vehicles/chevrolet-corvette.jpg",
+    "Scania S 730": "/images/vehicles/scania-s-730.jpg",
+    "Tesla Semi": "/images/vehicles/tesla-semi.jpg",
+    "Volvo FH16": "/images/vehicles/volvo-fh16.jpg"
 };
 
 const FALLBACK_IMG = "/images/vehicles/fallback.jpg";
@@ -385,6 +412,9 @@ const TRANSPORTS = [
     { name: "Volkswagen ID. Buzz", category: "Combi électrique 7 places", price: "65 000 &euro;", image: img("ev"), specs: "420 km - 204 ch - 7 places", tags: [...T_EV, "budget-premium", "family", "large-family", "space", "large-cargo"] },
     { name: "Mercedes EQE SUV", category: "SUV électrique premium", price: "92 000 &euro;", image: img("ev"), specs: "590 km - 408 ch - 5 places", tags: [...T_EV, "budget-premium", "family", "small-family", "versatile"] },
 
+    { name: "Ford E-Transit", category: "Grand utilitaire électrique", price: "60 000 &euro;", image: img("ev"), specs: "317 km - 269 ch - 3 places", tags: [...T_EV, "budget-premium", "comfort", "road", "pro", "cargo", "medium-cargo"] },
+    { name: "Honda e", category: "Citadine rétro-futuriste électrique", price: "37 000 &euro;", image: img("ev"), specs: "222 km - 154 ch - 4 places", tags: [...T_EV, "budget-high", "compact", "city", "daily"] },
+
     // ===== VOITURES HYBRIDES (22) =====
     { name: "Toyota Yaris Cross Hybrid", category: "SUV compact hybride", price: "27 500 &euro;", image: img("hybrid"), specs: "4,5 L/100 km - 116 ch - 5 places", tags: [...T_HYB, "family", "small-family", "mixed", "versatile", "economic", "comfort", "budget-high", "medium-km"] },
     { name: "Toyota Corolla Hybrid", category: "Compacte hybride", price: "30 000 &euro;", image: img("hybrid"), specs: "4,3 L/100 km - 184 ch - 5 places", tags: [...T_HYB, "family", "small-family", "economic", "comfort", "budget-high", "medium-km", "high-km", "versatile"] },
@@ -423,6 +453,12 @@ const TRANSPORTS = [
     { name: "Renault Rafale", category: "SUV coupé hybride premium", price: "52 000 &euro;", image: img("hybrid"), specs: "4.7 L/100 km - 200 ch - 5 places", tags: [...T_HYB, "budget-premium", "family", "small-family", "versatile", "economic"] },
     { name: "Renault Symbioz", category: "SUV familial hybride urbain", price: "33 000 &euro;", image: img("hybrid"), specs: "4.6 L/100 km - 145 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "city", "daily", "economic"] },
     { name: "Dacia Bigster", category: "SUV familial accessible", price: "25 000 &euro;", image: img("hybrid"), specs: "4.8 L/100 km - 140 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile"] },
+
+    { name: "BMW M5", category: "Super berline M hybride", price: "135 000 &euro;", image: img("hybrid"), specs: "11.0 L/100 km - 727 ch - 5 places", tags: [...T_HYB, "budget-premium", "family", "small-family", "performance", "comfort", "road", "economic"] },
+    { name: "Lexus RX", category: "SUV premium hybride Lexus", price: "75 000 &euro;", image: img("hybrid"), specs: "7.8 L/100 km - 250 ch - 5 places", tags: [...T_HYB, "budget-premium", "family", "small-family", "versatile", "economic"] },
+    { name: "Mitsubishi Eclipse Cross", category: "SUV hybride rechargeable", price: "35 000 &euro;", image: img("hybrid"), specs: "1.5 L/100 km - 188 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "economic"] },
+    { name: "Mitsubishi ASX", category: "SUV urbain hybride", price: "28 000 &euro;", image: img("hybrid"), specs: "4.8 L/100 km - 158 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "city", "daily", "economic"] },
+    { name: "Hyundai Ioniq", category: "Compacte hybride efficiente", price: "32 000 &euro;", image: img("hybrid"), specs: "4.2 L/100 km - 136 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "economic"] },
 
     // ===== VOITURES THERMIQUES (28) =====
     { name: "Peugeot 208", category: "Citadine polyvalente", price: "18 000 &euro;", image: img("car"), specs: "5,2 L/100 km - 100 ch - 5 places", tags: [...T_THM, "city", "daily", "family", "small-family", "economic", "budget-mid", "compact"] },
@@ -504,6 +540,18 @@ const TRANSPORTS = [
 
     { name: "Jaguar F-Type", category: "Roadster sportif britannique", price: "88 000 &euro;", image: img("car"), specs: "10.6 L/100 km - 450 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
 
+    { name: "BMW M3", category: "Berline M performance", price: "90 000 &euro;", image: img("car"), specs: "10.0 L/100 km - 530 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "comfort", "road"] },
+    { name: "BMW M4", category: "Coupé M performance", price: "95 000 &euro;", image: img("car"), specs: "10.2 L/100 km - 530 ch - 4 places", tags: [...T_THM, "budget-premium", "compact"] },
+    { name: "Audi RS6", category: "Break RS prestation extrême", price: "130 000 &euro;", image: img("car"), specs: "12.3 L/100 km - 630 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family"] },
+    { name: "Alpine A110", category: "Sportive française légère", price: "68 000 &euro;", image: img("car"), specs: "6.5 L/100 km - 300 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+    { name: "Ford Mustang Dark Horse", category: "Pony car V8 performance", price: "75 000 &euro;", image: img("car"), specs: "11.8 L/100 km - 500 ch - 4 places", tags: [...T_THM, "budget-premium", "compact"] },
+    { name: "Citroën Jumpy", category: "Fourgon Citroën 9 places", price: "34 000 &euro;", image: img("van"), specs: "6.5 L/100 km - 180 ch - 9 places", tags: [...T_THM, "budget-high", "family", "large-family", "space", "large-cargo", "pro", "cargo", "medium-cargo"] },
+    { name: "Mercedes-Benz Citan", category: "Ludospace Mercedes pro", price: "32 000 &euro;", image: img("van"), specs: "5.8 L/100 km - 116 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "pro", "cargo", "medium-cargo"] },
+    { name: "Subaru Outback", category: "Break tout-chemin Subaru", price: "45 000 &euro;", image: img("car"), specs: "8.0 L/100 km - 169 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family"] },
+    { name: "Lexus IS", category: "Berline sport Lexus", price: "45 000 &euro;", image: img("car"), specs: "6.5 L/100 km - 244 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "comfort", "road"] },
+    { name: "Kia Stinger", category: "Grand coupé sportif coréen", price: "55 000 &euro;", image: img("car"), specs: "10.2 L/100 km - 366 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "comfort", "road"] },
+    { name: "Chevrolet Corvette", category: "Supercar américaine V8", price: "85 000 &euro;", image: img("car"), specs: "12.0 L/100 km - 495 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+
     // ===== SUV PREMIUM (14) =====
     { name: "BMW X1", category: "SUV compact premium", price: "45 000 &euro;", image: img("suv"), specs: "6,6 L/100 km - 170 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-premium", "versatile"] },
     { name: "BMW X3", category: "SUV premium", price: "55 000 &euro;", image: img("suv"), specs: "7,2 L/100 km - 190 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "road"] },
@@ -551,6 +599,8 @@ const TRANSPORTS = [
     { name: "Range Rover Evoque", category: "SUV urbain premium", price: "45 000 &euro;", image: img("suv"), specs: "6.5 L/100 km - 200 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "versatile", "city", "daily"] },
 
     { name: "Maserati Levante", category: "SUV sport italien", price: "95 000 &euro;", image: img("suv"), specs: "11.0 L/100 km - 350 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "versatile"] },
+
+    { name: "Subaru Forester", category: "SUV 4x4 Subaru", price: "40 000 &euro;", image: img("suv"), specs: "7.8 L/100 km - 150 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "versatile"] },
 
     // ===== MOTOS (28) =====
     { name: "Yamaha MT-07", category: "Moto roadster A2", price: "8 499 &euro;", image: img("sport"), specs: "4,3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "mixed"] },
@@ -609,6 +659,11 @@ const TRANSPORTS = [
     { name: "Norton Commando", category: "Roadster britannique classique", price: "20 000 &euro;", image: img("sport"), specs: "5.5 L/100 km - 77 ch - 2 places", tags: [...T_MOTO, "budget-mid", "leisure"] },
     { name: "Husqvarna Norden 901", category: "Mid-trail scandinave", price: "14 000 &euro;", image: img("adv"), specs: "4.7 L/100 km - 105 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
 
+    { name: "KTM 1290 Super Adventure", category: "Maxi-trail ultra polyvalent", price: "19 000 &euro;", image: img("adv"), specs: "5.8 L/100 km - 160 ch - 2 places", tags: [...T_MOTO, "budget-mid", "leisure"] },
+    { name: "BMW K 1600 GT", category: "GT 6 cylindres", price: "27 000 &euro;", image: img("sport"), specs: "6.5 L/100 km - 160 ch - 2 places", tags: [...T_MOTO, "budget-high", "performance"] },
+    { name: "Honda CB1000R", category: "Roadster 1000 Honda", price: "13 000 &euro;", image: img("sport"), specs: "5.9 L/100 km - 145 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low"] },
+    { name: "CFMoto 800MT", category: "Trail accessible chinois", price: "9 000 &euro;", image: img("adv"), specs: "5.2 L/100 km - 95 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
+
     // ===== SCOOTERS (8) =====
     { name: "Yamaha Tricity 300", category: "Scooter 3 roues urbain", price: "8 499 &euro;", image: img("scoot"), specs: "4,1 L/100 km - 28 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "leisure"] },
     { name: "Yamaha TMAX 560", category: "Maxi-scooter premium", price: "13 000 &euro;", image: img("scoot"), specs: "5,0 L/100 km - 47 ch - 2 places", tags: [...T_SCOOT, "comfort", "performance", "budget-high", "leisure", "road"] },
@@ -638,6 +693,8 @@ const TRANSPORTS = [
     { name: "Brompton Electric C Line", category: "Vélo pliant électrique city", price: "3 000 &euro;", image: img("bike"), specs: "40 km d'autonomie - 70 Nm - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low", "city", "daily"] },
 
     { name: "Btwin Elops 900 E", category: "Vélo ville électrique abordable", price: "2 000 &euro;", image: img("bike"), specs: "70 km - 50 Nm - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low"] },
+
+    { name: "Yuba Spicy Curry", category: "Longtail électrique familial", price: "5 000 &euro;", image: img("bike"), specs: "80 km - 80 Nm - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low", "performance"] },
 
     // ===== UTILITAIRES & PRO (16) =====
     { name: "Ford Transit Custom", category: "Utilitaire L2H2", price: "38 900 &euro;", image: img("van"), specs: "7,2 L/100 km - 130 ch - 6 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "medium-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "road", "mixed"] },
