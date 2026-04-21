@@ -244,7 +244,41 @@ const IMG_BY_NAME = {
     "DS 4": "/images/vehicles/ds-4.jpg",
     "Volvo S90": "/images/vehicles/volvo-s90.jpg",
     "Mazda MX-5": "/images/vehicles/mazda-mx-5.jpg",
-    "Mazda CX-60": "/images/vehicles/mazda-cx-60.jpg"
+    "Mazda CX-60": "/images/vehicles/mazda-cx-60.jpg",
+    "Ducati Diavel V4": "/images/vehicles/ducati-diavel-v4.jpg",
+    "KTM 890 Adventure": "/images/vehicles/ktm-890-adventure.jpg",
+    "Aprilia RSV4": "/images/vehicles/aprilia-rsv4.jpg",
+    "Yamaha MT-03": "/images/vehicles/yamaha-mt-03.jpg",
+    "Yamaha R7": "/images/vehicles/yamaha-r7.jpg",
+    "Yamaha XSR700": "/images/vehicles/yamaha-xsr700.jpeg",
+    "Honda NT1100": "/images/vehicles/honda-nt1100.jpg",
+    "Honda X-ADV": "/images/vehicles/honda-x-adv.jpg",
+    "Kawasaki Versys 1000": "/images/vehicles/kawasaki-versys-1000.jpg",
+    "Harley-Davidson Pan America": "/images/vehicles/harley-davidson-pan-america.jpg",
+    "Triumph Rocket 3": "/images/vehicles/triumph-rocket-3.jpg",
+    "Triumph Speed Twin": "/images/vehicles/triumph-speed-twin.jpg",
+    "Royal Enfield Himalayan": "/images/vehicles/royal-enfield-himalayan.jpg",
+    "Moto Guzzi V85 TT": "/images/vehicles/moto-guzzi-v85-tt.jpg",
+    "Zero SR": "/images/vehicles/zero-sr.jpg",
+    "Suzuki Burgman 400": "/images/vehicles/suzuki-burgman-400.jpg",
+    "Aprilia SR GT 200": "/images/vehicles/aprilia-sr-gt-200.png",
+    "Brompton Electric C Line": "/images/vehicles/brompton-electric-c-line.jpg",
+    "Volkswagen Caddy": "/images/vehicles/volkswagen-caddy.jpg",
+    "Renault Express": "/images/vehicles/renault-express.jpg",
+    "Volvo FH": "/images/vehicles/volvo-fh.jpg",
+    "Mercedes-Benz Actros": "/images/vehicles/mercedes-benz-actros.jpg",
+    "Iveco S-Way": "/images/vehicles/iveco-s-way.jpg",
+    "Renault Trucks T": "/images/vehicles/renault-trucks-t.jpg",
+    "DAF XF": "/images/vehicles/daf-xf.jpg",
+    "Tesla Cybertruck": "/images/vehicles/tesla-cybertruck.jpg",
+    "Lexus LC 500": "/images/vehicles/lexus-lc-500.jpg",
+    "Maserati Ghibli": "/images/vehicles/maserati-ghibli.jpg",
+    "Maserati Levante": "/images/vehicles/maserati-levante.jpg",
+    "Bentley Continental GT": "/images/vehicles/bentley-continental-gt.jpg",
+    "Rolls-Royce Ghost": "/images/vehicles/rolls-royce-ghost.jpg",
+    "McLaren 720S": "/images/vehicles/mclaren-720s.jpg",
+    "Aston Martin DB12": "/images/vehicles/aston-martin-db12.jpg",
+    "Lotus Emira": "/images/vehicles/lotus-emira.jpg"
 };
 
 const FALLBACK_IMG = "/images/vehicles/fallback.jpg";
@@ -311,6 +345,8 @@ const TRANSPORTS = [
     { name: "Toyota bZ4X", category: "SUV électrique Toyota", price: "48 000 &euro;", image: img("ev"), specs: "515 km - 204 ch - 5 places", tags: [...T_EV, "budget-premium", "family", "small-family", "versatile"] },
     { name: "Kia Soul", category: "Crossover à caractère", price: "30 000 &euro;", image: img("ev"), specs: "380 km - 204 ch - 5 places", tags: [...T_EV, "budget-high", "family", "small-family"] },
     { name: "Jaguar I-Pace", category: "SUV électrique premium", price: "80 000 &euro;", image: img("ev"), specs: "470 km - 400 ch - 5 places", tags: [...T_EV, "budget-premium", "family", "small-family", "versatile"] },
+
+    { name: "Tesla Cybertruck", category: "Pickup électrique futuriste", price: "100 000 &euro;", image: img("ev"), specs: "547 km - 845 ch - 6 places", tags: [...T_EV, "budget-premium", "family", "small-family"] },
 
     // ===== VOITURES HYBRIDES (22) =====
     { name: "Toyota Yaris Cross Hybrid", category: "SUV compact hybride", price: "27 500 &euro;", image: img("hybrid"), specs: "4,5 L/100 km - 116 ch - 5 places", tags: [...T_HYB, "family", "small-family", "mixed", "versatile", "economic", "comfort", "budget-high", "medium-km"] },
@@ -415,6 +451,16 @@ const TRANSPORTS = [
     { name: "Volvo S90", category: "Grande berline suédoise", price: "55 000 &euro;", image: img("car"), specs: "6.2 L/100 km - 250 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "comfort", "road"] },
     { name: "Mazda MX-5", category: "Roadster léger iconique", price: "35 000 &euro;", image: img("car"), specs: "7.2 L/100 km - 184 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
 
+    { name: "Volkswagen Caddy", category: "Ludospace pro-famille", price: "30 000 &euro;", image: img("van"), specs: "5.8 L/100 km - 122 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "pro", "cargo", "medium-cargo"] },
+    { name: "Renault Express", category: "Petit utilitaire économique", price: "18 000 &euro;", image: img("van"), specs: "5.3 L/100 km - 95 ch - 2 places", tags: [...T_THM, "budget-mid", "pro", "cargo", "medium-cargo"] },
+    { name: "Lexus LC 500", category: "Grand coupé prestige V8", price: "100 000 &euro;", image: img("car"), specs: "11.3 L/100 km - 477 ch - 4 places", tags: [...T_THM, "budget-premium", "compact", "comfort", "road"] },
+    { name: "Maserati Ghibli", category: "Berline sport italienne", price: "85 000 &euro;", image: img("car"), specs: "9.5 L/100 km - 350 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "comfort", "road"] },
+    { name: "Bentley Continental GT", category: "Grand coupé luxe britannique", price: "210 000 &euro;", image: img("car"), specs: "12.0 L/100 km - 550 ch - 4 places", tags: [...T_THM, "budget-premium", "compact", "comfort", "road"] },
+    { name: "Rolls-Royce Ghost", category: "Limousine prestige absolu", price: "320 000 &euro;", image: img("car"), specs: "15.0 L/100 km - 571 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "comfort", "road"] },
+    { name: "McLaren 720S", category: "Supercar V8 biturbo", price: "280 000 &euro;", image: img("car"), specs: "10.7 L/100 km - 720 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+    { name: "Aston Martin DB12", category: "Grand tourer britannique", price: "235 000 &euro;", image: img("car"), specs: "12.2 L/100 km - 680 ch - 4 places", tags: [...T_THM, "budget-premium", "compact", "comfort", "road"] },
+    { name: "Lotus Emira", category: "Sportive britannique légère", price: "85 000 &euro;", image: img("car"), specs: "10.5 L/100 km - 405 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+
     // ===== SUV PREMIUM (14) =====
     { name: "BMW X1", category: "SUV compact premium", price: "45 000 &euro;", image: img("suv"), specs: "6,6 L/100 km - 170 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-premium", "versatile"] },
     { name: "BMW X3", category: "SUV premium", price: "55 000 &euro;", image: img("suv"), specs: "7,2 L/100 km - 190 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "road"] },
@@ -461,6 +507,8 @@ const TRANSPORTS = [
     { name: "Range Rover", category: "Grand SUV prestige", price: "130 000 &euro;", image: img("suv"), specs: "10.5 L/100 km - 400 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "versatile", "comfort", "road"] },
     { name: "Range Rover Evoque", category: "SUV urbain premium", price: "45 000 &euro;", image: img("suv"), specs: "6.5 L/100 km - 200 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "versatile", "city", "daily"] },
 
+    { name: "Maserati Levante", category: "SUV sport italien", price: "95 000 &euro;", image: img("suv"), specs: "11.0 L/100 km - 350 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "versatile"] },
+
     // ===== MOTOS (28) =====
     { name: "Yamaha MT-07", category: "Moto roadster A2", price: "8 499 &euro;", image: img("sport"), specs: "4,3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "mixed"] },
     { name: "Yamaha MT-09", category: "Roadster sportif", price: "10 500 &euro;", image: img("sport"), specs: "5,1 L/100 km - 119 ch - 2 places", tags: [...T_MOTO, "performance", "budget-high"] },
@@ -492,6 +540,22 @@ const TRANSPORTS = [
     { name: "Yamaha XSR900", category: "Néo-rétro 3 cylindres", price: "11 500 &euro;", image: img("sport"), specs: "5,3 L/100 km - 117 ch - 2 places", tags: [...T_MOTO, "performance", "budget-high", "leisure"] },
     { name: "BMW R nineT", category: "Heritage boxer allemand", price: "16 000 &euro;", image: img("sport"), specs: "5,5 L/100 km - 109 ch - 2 places", tags: [...T_MOTO, "comfort", "leisure", "budget-premium"] },
 
+    { name: "Ducati Diavel V4", category: "Power cruiser italien", price: "27 000 &euro;", image: img("sport"), specs: "7.0 L/100 km - 168 ch - 2 places", tags: [...T_MOTO, "budget-high", "leisure"] },
+    { name: "KTM 890 Adventure", category: "Mid-trail aventure", price: "13 000 &euro;", image: img("adv"), specs: "4.8 L/100 km - 105 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
+    { name: "Aprilia RSV4", category: "Supersport italien V4", price: "22 000 &euro;", image: img("sport"), specs: "6.9 L/100 km - 217 ch - 2 places", tags: [...T_MOTO, "budget-mid", "performance"] },
+    { name: "Yamaha MT-03", category: "Roadster A2 accessible", price: "5 000 &euro;", image: img("sport"), specs: "3.8 L/100 km - 42 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "budget-low"] },
+    { name: "Yamaha R7", category: "Sportive A2 carénée", price: "9 000 &euro;", image: img("sport"), specs: "4.3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "budget-low", "performance"] },
+    { name: "Yamaha XSR700", category: "Néo-rétro A2", price: "8 000 &euro;", image: img("sport"), specs: "4.3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "budget-low"] },
+    { name: "Honda NT1100", category: "GT-tourer bicylindre", price: "14 000 &euro;", image: img("adv"), specs: "4.9 L/100 km - 102 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "performance", "comfort", "road"] },
+    { name: "Honda X-ADV", category: "Crossover scooter-trail", price: "12 000 &euro;", image: img("adv"), specs: "3.7 L/100 km - 58 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
+    { name: "Kawasaki Versys 1000", category: "Routière polyvalente 1000", price: "16 000 &euro;", image: img("adv"), specs: "5.8 L/100 km - 120 ch - 2 places", tags: [...T_MOTO, "budget-mid"] },
+    { name: "Harley-Davidson Pan America", category: "Aventure Harley", price: "20 000 &euro;", image: img("adv"), specs: "5.5 L/100 km - 152 ch - 2 places", tags: [...T_MOTO, "budget-mid", "leisure"] },
+    { name: "Triumph Rocket 3", category: "Cruiser 2500cc musculeux", price: "24 000 &euro;", image: img("sport"), specs: "6.8 L/100 km - 167 ch - 2 places", tags: [...T_MOTO, "budget-mid", "performance", "leisure"] },
+    { name: "Triumph Speed Twin", category: "Roadster classique british", price: "12 000 &euro;", image: img("sport"), specs: "5.3 L/100 km - 98 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
+    { name: "Royal Enfield Himalayan", category: "Trail routier abordable", price: "6 000 &euro;", image: img("adv"), specs: "3.5 L/100 km - 40 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "budget-low", "leisure"] },
+    { name: "Moto Guzzi V85 TT", category: "Trail classique italien", price: "12 000 &euro;", image: img("adv"), specs: "4.8 L/100 km - 80 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
+    { name: "Zero SR", category: "Roadster électrique", price: "20 000 &euro;", image: img("sport"), specs: "259 km - 110 ch - 2 places", tags: [...T_MOTO, "budget-mid"] },
+
     // ===== SCOOTERS (8) =====
     { name: "Yamaha Tricity 300", category: "Scooter 3 roues urbain", price: "8 499 &euro;", image: img("scoot"), specs: "4,1 L/100 km - 28 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "leisure"] },
     { name: "Yamaha TMAX 560", category: "Maxi-scooter premium", price: "13 000 &euro;", image: img("scoot"), specs: "5,0 L/100 km - 47 ch - 2 places", tags: [...T_SCOOT, "comfort", "performance", "budget-high", "leisure", "road"] },
@@ -502,6 +566,9 @@ const TRANSPORTS = [
     { name: "Vespa GTS 300", category: "Scooter premium italien", price: "6 500 &euro;", image: img("scoot"), specs: "3,2 L/100 km - 23 ch - 2 places", tags: [...T_SCOOT, "comfort", "budget-high", "leisure"] },
     { name: "BMW C 400 X", category: "Scooter GT allemand", price: "8 000 &euro;", image: img("scoot"), specs: "3,4 L/100 km - 34 ch - 2 places", tags: [...T_SCOOT, "comfort", "budget-mid", "budget-high"] },
 
+    { name: "Suzuki Burgman 400", category: "Maxi-scooter japonais", price: "8 000 &euro;", image: img("scoot"), specs: "3.5 L/100 km - 32 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low"] },
+    { name: "Aprilia SR GT 200", category: "Scooter urbain italien", price: "5 000 &euro;", image: img("scoot"), specs: "2.9 L/100 km - 19 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low", "city", "daily"] },
+
     // ===== MOBILITE DOUCE (8) =====
     { name: "VanMoof S5", category: "Vélo électrique urbain connecté", price: "3 298 &euro;", image: img("bike"), specs: "150 km d'autonomie - 55 Nm - 1 place", tags: [...T_EBIKE, "budget-mid"] },
     { name: "Moustache Friday 28", category: "Vélo électrique ville", price: "3 500 &euro;", image: img("bike"), specs: "120 km - 65 Nm - 1 place", tags: [...T_EBIKE, "budget-mid"] },
@@ -511,6 +578,8 @@ const TRANSPORTS = [
     { name: "Xiaomi Mi Electric Scooter 4 Pro", category: "Trottinette électrique", price: "599 &euro;", image: img("trott"), specs: "45 km - 25 km/h - 1 place", tags: [...T_EBIKE, "budget-low"] },
     { name: "Segway Ninebot Max G2", category: "Trottinette longue autonomie", price: "1 200 &euro;", image: img("trott"), specs: "70 km - 25 km/h - 1 place", tags: [...T_EBIKE, "budget-low", "budget-mid"] },
     { name: "Dualtron Thunder 3", category: "Trottinette premium puissante", price: "5 000 &euro;", image: img("trott"), specs: "120 km - 70 km/h - 1 place", tags: [...T_EBIKE, "performance", "budget-high"] },
+
+    { name: "Brompton Electric C Line", category: "Vélo pliant électrique city", price: "3 000 &euro;", image: img("bike"), specs: "40 km d'autonomie - 70 Nm - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low", "city", "daily"] },
 
     // ===== UTILITAIRES & PRO (16) =====
     { name: "Ford Transit Custom", category: "Utilitaire L2H2", price: "38 900 &euro;", image: img("van"), specs: "7,2 L/100 km - 130 ch - 6 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "medium-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "road", "mixed"] },
@@ -528,7 +597,12 @@ const TRANSPORTS = [
     { name: "Opel Vivaro", category: "Fourgon compact Opel", price: "34 000 &euro;", image: img("van"), specs: "6,8 L/100 km - 145 ch - 6,6 m&sup3;", tags: [...T_THM, "pro", "cargo", "medium-cargo", "diesel-friendly", "high-km", "budget-high"] },
     { name: "Fiat Ducato", category: "Grand fourgon Ducato", price: "38 000 &euro;", image: img("van"), specs: "8,0 L/100 km - 140 ch - 13 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
     { name: "Toyota Hilux", category: "Pickup 4x4 Hilux", price: "40 000 &euro;", image: img("van"), specs: "7,8 L/100 km - 204 ch - 5 places", tags: [...T_THM, "pro", "space", "leisure", "cargo", "large-cargo", "diesel-friendly", "budget-premium", "versatile", "road"] },
-    { name: "Ford Ranger", category: "Pickup 4x4 Ranger", price: "42 000 &euro;", image: img("van"), specs: "8,2 L/100 km - 205 ch - 5 places", tags: [...T_THM, "pro", "space", "leisure", "cargo", "large-cargo", "diesel-friendly", "budget-premium", "versatile", "road"] }
+    { name: "Ford Ranger", category: "Pickup 4x4 Ranger", price: "42 000 &euro;", image: img("van"), specs: "8,2 L/100 km - 205 ch - 5 places", tags: [...T_THM, "pro", "space", "leisure", "cargo", "large-cargo", "diesel-friendly", "budget-premium", "versatile", "road"] },
+    { name: "Volvo FH", category: "Tracteur routier longue distance", price: "130 000 &euro;", image: img("van"), specs: "30 L/100 km - 540 ch - 2 places cabine", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "Mercedes-Benz Actros", category: "Tracteur routier allemand", price: "135 000 &euro;", image: img("van"), specs: "29 L/100 km - 530 ch - 2 places cabine", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "Iveco S-Way", category: "Tracteur italien GNL compatible", price: "110 000 &euro;", image: img("van"), specs: "30 L/100 km - 460 ch - 2 places cabine", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "Renault Trucks T", category: "Tracteur routier français", price: "115 000 &euro;", image: img("van"), specs: "29 L/100 km - 480 ch - 2 places cabine", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "DAF XF", category: "Tracteur néerlandais routier", price: "120 000 &euro;", image: img("van"), specs: "29 L/100 km - 480 ch - 2 places cabine", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
 ];
 
 // Réassigne les vraies images Wikipedia après construction
