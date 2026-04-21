@@ -331,7 +331,43 @@ const IMG_BY_NAME = {
     "Chevrolet Corvette": "/images/vehicles/chevrolet-corvette.jpg",
     "Scania S 730": "/images/vehicles/scania-s-730.jpg",
     "Tesla Semi": "/images/vehicles/tesla-semi.jpg",
-    "Volvo FH16": "/images/vehicles/volvo-fh16.jpg"
+    "Volvo FH16": "/images/vehicles/volvo-fh16.jpg",
+    "Lamborghini Huracán": "/images/vehicles/lamborghini-huracan.jpg",
+    "Lamborghini Urus": "/images/vehicles/lamborghini-urus.jpg",
+    "Lamborghini Revuelto": "/images/vehicles/lamborghini-revuelto.jpg",
+    "Ferrari SF90 Stradale": "/images/vehicles/ferrari-sf90-stradale.jpg",
+    "Ferrari 812 Superfast": "/images/vehicles/ferrari-812-superfast.jpg",
+    "Pagani Huayra": "/images/vehicles/pagani-huayra.jpg",
+    "Koenigsegg Jesko": "/images/vehicles/koenigsegg-jesko.jpg",
+    "Bugatti Chiron": "/images/vehicles/bugatti-chiron.jpg",
+    "Chevrolet Silverado": "/images/vehicles/chevrolet-silverado.jpg",
+    "GMC Hummer EV": "/images/vehicles/gmc-hummer-ev.jpg",
+    "Cadillac Escalade": "/images/vehicles/cadillac-escalade.jpg",
+    "Lincoln Navigator": "/images/vehicles/lincoln-navigator.jpg",
+    "Kia EV9": "/images/vehicles/kia-ev9.jpg",
+    "Kia EV5": "/images/vehicles/kia-ev5.png",
+    "Hyundai Ioniq 9": "/images/vehicles/hyundai-ioniq-9.jpg",
+    "Toyota bZ3": "/images/vehicles/toyota-bz3.jpg",
+    "Toyota Camry": "/images/vehicles/toyota-camry.jpg",
+    "Honda Accord": "/images/vehicles/honda-accord.jpg",
+    "Mazda 6": "/images/vehicles/mazda-6.jpg",
+    "Nissan Altima": "/images/vehicles/nissan-altima.jpg",
+    "Volkswagen Jetta": "/images/vehicles/volkswagen-jetta.jpg",
+    "Kia Niro": "/images/vehicles/kia-niro.jpg",
+    "Zero DSR/X": "/images/vehicles/zero-dsr-x.jpg",
+    "Honda CB1100": "/images/vehicles/honda-cb1100.jpg",
+    "Kawasaki W800": "/images/vehicles/kawasaki-w800.jpg",
+    "Kawasaki KX450": "/images/vehicles/kawasaki-kx450.jpg",
+    "Peugeot Kisbee 50": "/images/vehicles/peugeot-kisbee-50.jpg",
+    "Yamaha Aerox 50": "/images/vehicles/yamaha-aerox-50.jpg",
+    "Piaggio Medley": "/images/vehicles/piaggio-medley.jpg",
+    "Bird One": "/images/vehicles/bird-one.jpg",
+    "Mercedes-Benz Tourismo": "/images/vehicles/mercedes-benz-tourismo.jpeg",
+    "Irizar i6": "/images/vehicles/irizar-i6.jpg",
+    "Genesis G80": "/images/vehicles/genesis-g80.jpg",
+    "Polestar 3": "/images/vehicles/polestar-3.jpg",
+    "Polestar 4": "/images/vehicles/polestar-4.jpg",
+    "Rivian R1S": "/images/vehicles/rivian-r1s.jpg"
 };
 
 const FALLBACK_IMG = "/images/vehicles/fallback.jpg";
@@ -415,6 +451,15 @@ const TRANSPORTS = [
     { name: "Ford E-Transit", category: "Grand utilitaire électrique", price: "60 000 &euro;", image: img("ev"), specs: "317 km - 269 ch - 3 places", tags: [...T_EV, "budget-premium", "comfort", "road", "pro", "cargo", "medium-cargo"] },
     { name: "Honda e", category: "Citadine rétro-futuriste électrique", price: "37 000 &euro;", image: img("ev"), specs: "222 km - 154 ch - 4 places", tags: [...T_EV, "budget-high", "compact", "city", "daily"] },
 
+    { name: "GMC Hummer EV", category: "Pickup électrique extrême", price: "105 000 &euro;", image: img("ev"), specs: "529 km - 1014 ch - 5 places", tags: [...T_EV, "budget-premium", "family", "small-family"] },
+    { name: "Kia EV9", category: "Grand SUV 7 places électrique", price: "76 000 &euro;", image: img("ev"), specs: "541 km - 384 ch - 7 places", tags: [...T_EV, "budget-premium", "family", "large-family", "space", "large-cargo", "versatile", "comfort", "road"] },
+    { name: "Kia EV5", category: "SUV électrique moyen", price: "42 000 &euro;", image: img("ev"), specs: "530 km - 218 ch - 5 places", tags: [...T_EV, "budget-high", "family", "small-family", "versatile"] },
+    { name: "Hyundai Ioniq 9", category: "Grand SUV 7 places électrique", price: "72 000 &euro;", image: img("ev"), specs: "620 km - 435 ch - 7 places", tags: [...T_EV, "budget-premium", "family", "large-family", "space", "large-cargo", "versatile", "comfort", "road"] },
+    { name: "Toyota bZ3", category: "Berline électrique Toyota", price: "30 000 &euro;", image: img("ev"), specs: "600 km - 245 ch - 5 places", tags: [...T_EV, "budget-high", "family", "small-family", "comfort", "road"] },
+    { name: "Polestar 3", category: "SUV premium électrique suédois", price: "78 000 &euro;", image: img("ev"), specs: "560 km - 489 ch - 5 places", tags: [...T_EV, "budget-premium", "family", "small-family", "versatile"] },
+    { name: "Polestar 4", category: "Coupé SUV électrique", price: "62 000 &euro;", image: img("ev"), specs: "610 km - 544 ch - 5 places", tags: [...T_EV, "budget-premium", "family", "small-family", "versatile"] },
+    { name: "Rivian R1S", category: "SUV électrique aventure", price: "85 000 &euro;", image: img("ev"), specs: "440 km - 835 ch - 7 places", tags: [...T_EV, "budget-premium", "family", "large-family", "space", "large-cargo", "versatile", "leisure"] },
+
     // ===== VOITURES HYBRIDES (22) =====
     { name: "Toyota Yaris Cross Hybrid", category: "SUV compact hybride", price: "27 500 &euro;", image: img("hybrid"), specs: "4,5 L/100 km - 116 ch - 5 places", tags: [...T_HYB, "family", "small-family", "mixed", "versatile", "economic", "comfort", "budget-high", "medium-km"] },
     { name: "Toyota Corolla Hybrid", category: "Compacte hybride", price: "30 000 &euro;", image: img("hybrid"), specs: "4,3 L/100 km - 184 ch - 5 places", tags: [...T_HYB, "family", "small-family", "economic", "comfort", "budget-high", "medium-km", "high-km", "versatile"] },
@@ -459,6 +504,12 @@ const TRANSPORTS = [
     { name: "Mitsubishi Eclipse Cross", category: "SUV hybride rechargeable", price: "35 000 &euro;", image: img("hybrid"), specs: "1.5 L/100 km - 188 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "economic"] },
     { name: "Mitsubishi ASX", category: "SUV urbain hybride", price: "28 000 &euro;", image: img("hybrid"), specs: "4.8 L/100 km - 158 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "city", "daily", "economic"] },
     { name: "Hyundai Ioniq", category: "Compacte hybride efficiente", price: "32 000 &euro;", image: img("hybrid"), specs: "4.2 L/100 km - 136 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "economic"] },
+
+    { name: "Lamborghini Revuelto", category: "Hypercar hybride V12", price: "460 000 &euro;", image: img("hybrid"), specs: "11.5 L/100 km - 1015 ch - 2 places", tags: [...T_HYB, "budget-premium", "performance", "economic"] },
+    { name: "Ferrari SF90 Stradale", category: "Hypercar hybride Ferrari", price: "420 000 &euro;", image: img("hybrid"), specs: "6.1 L/100 km - 1000 ch - 2 places", tags: [...T_HYB, "budget-premium", "performance", "economic"] },
+    { name: "Toyota Camry", category: "Berline hybride efficiente", price: "40 000 &euro;", image: img("hybrid"), specs: "4.9 L/100 km - 218 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "comfort", "road", "economic"] },
+    { name: "Honda Accord", category: "Grande berline hybride", price: "40 000 &euro;", image: img("hybrid"), specs: "5.0 L/100 km - 204 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "comfort", "road", "economic"] },
+    { name: "Kia Niro", category: "SUV compact hybride Kia", price: "32 000 &euro;", image: img("hybrid"), specs: "4.4 L/100 km - 141 ch - 5 places", tags: [...T_HYB, "budget-high", "family", "small-family", "versatile", "economic"] },
 
     // ===== VOITURES THERMIQUES (28) =====
     { name: "Peugeot 208", category: "Citadine polyvalente", price: "18 000 &euro;", image: img("car"), specs: "5,2 L/100 km - 100 ch - 5 places", tags: [...T_THM, "city", "daily", "family", "small-family", "economic", "budget-mid", "compact"] },
@@ -552,6 +603,17 @@ const TRANSPORTS = [
     { name: "Kia Stinger", category: "Grand coupé sportif coréen", price: "55 000 &euro;", image: img("car"), specs: "10.2 L/100 km - 366 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "comfort", "road"] },
     { name: "Chevrolet Corvette", category: "Supercar américaine V8", price: "85 000 &euro;", image: img("car"), specs: "12.0 L/100 km - 495 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
 
+    { name: "Lamborghini Huracán", category: "Supercar V10 italienne", price: "220 000 &euro;", image: img("car"), specs: "13.0 L/100 km - 640 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+    { name: "Ferrari 812 Superfast", category: "Grand tourer V12", price: "340 000 &euro;", image: img("car"), specs: "14.9 L/100 km - 800 ch - 2 places", tags: [...T_THM, "budget-premium", "comfort", "road"] },
+    { name: "Pagani Huayra", category: "Hypercar italienne exclusive", price: "2 400 000 &euro;", image: img("car"), specs: "15.5 L/100 km - 764 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+    { name: "Koenigsegg Jesko", category: "Hypercar suédoise", price: "2 500 000 &euro;", image: img("car"), specs: "16.0 L/100 km - 1280 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+    { name: "Bugatti Chiron", category: "Hypercar française 1500 ch", price: "2 500 000 &euro;", image: img("car"), specs: "22.5 L/100 km - 1500 ch - 2 places", tags: [...T_THM, "budget-premium", "performance"] },
+    { name: "Chevrolet Silverado", category: "Pickup full-size américain", price: "45 000 &euro;", image: img("car"), specs: "13.0 L/100 km - 355 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family"] },
+    { name: "Mazda 6", category: "Grande berline japonaise", price: "35 000 &euro;", image: img("car"), specs: "6.5 L/100 km - 194 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "comfort", "road"] },
+    { name: "Nissan Altima", category: "Berline familiale US", price: "35 000 &euro;", image: img("car"), specs: "7.2 L/100 km - 188 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "comfort", "road"] },
+    { name: "Volkswagen Jetta", category: "Berline compacte VW", price: "28 000 &euro;", image: img("car"), specs: "6.2 L/100 km - 158 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "comfort", "road", "versatile"] },
+    { name: "Genesis G80", category: "Berline premium coréenne", price: "68 000 &euro;", image: img("car"), specs: "9.2 L/100 km - 304 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "comfort", "road"] },
+
     // ===== SUV PREMIUM (14) =====
     { name: "BMW X1", category: "SUV compact premium", price: "45 000 &euro;", image: img("suv"), specs: "6,6 L/100 km - 170 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-premium", "versatile"] },
     { name: "BMW X3", category: "SUV premium", price: "55 000 &euro;", image: img("suv"), specs: "7,2 L/100 km - 190 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "road"] },
@@ -601,6 +663,10 @@ const TRANSPORTS = [
     { name: "Maserati Levante", category: "SUV sport italien", price: "95 000 &euro;", image: img("suv"), specs: "11.0 L/100 km - 350 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "versatile"] },
 
     { name: "Subaru Forester", category: "SUV 4x4 Subaru", price: "40 000 &euro;", image: img("suv"), specs: "7.8 L/100 km - 150 ch - 5 places", tags: [...T_THM, "budget-high", "family", "small-family", "versatile"] },
+
+    { name: "Lamborghini Urus", category: "Super SUV italien", price: "240 000 &euro;", image: img("suv"), specs: "12.0 L/100 km - 666 ch - 5 places", tags: [...T_THM, "budget-premium", "family", "small-family", "performance", "versatile"] },
+    { name: "Cadillac Escalade", category: "Grand SUV prestige US", price: "95 000 &euro;", image: img("suv"), specs: "14.5 L/100 km - 420 ch - 8 places", tags: [...T_THM, "budget-premium", "family", "large-family", "space", "large-cargo", "versatile", "comfort", "road"] },
+    { name: "Lincoln Navigator", category: "Grand SUV luxe américain", price: "90 000 &euro;", image: img("suv"), specs: "14.2 L/100 km - 450 ch - 8 places", tags: [...T_THM, "budget-premium", "family", "large-family", "space", "large-cargo", "versatile", "comfort", "road"] },
 
     // ===== MOTOS (28) =====
     { name: "Yamaha MT-07", category: "Moto roadster A2", price: "8 499 &euro;", image: img("sport"), specs: "4,3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "mixed"] },
@@ -664,6 +730,11 @@ const TRANSPORTS = [
     { name: "Honda CB1000R", category: "Roadster 1000 Honda", price: "13 000 &euro;", image: img("sport"), specs: "5.9 L/100 km - 145 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low"] },
     { name: "CFMoto 800MT", category: "Trail accessible chinois", price: "9 000 &euro;", image: img("adv"), specs: "5.2 L/100 km - 95 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low", "leisure"] },
 
+    { name: "Zero DSR/X", category: "Trail adventure électrique", price: "25 000 &euro;", image: img("adv"), specs: "290 km d'autonomie - 100 ch - 2 places", tags: [...T_MOTO, "budget-high", "leisure"] },
+    { name: "Honda CB1100", category: "Néo-rétro 4 cylindres", price: "12 000 &euro;", image: img("sport"), specs: "5.2 L/100 km - 90 ch - 2 places", tags: [...T_MOTO, "budget-mid", "budget-low"] },
+    { name: "Kawasaki W800", category: "Classique japonaise", price: "9 000 &euro;", image: img("sport"), specs: "4.2 L/100 km - 52 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "budget-low", "leisure"] },
+    { name: "Kawasaki KX450", category: "Moto-cross 450 compétition", price: "10 000 &euro;", image: img("sport"), specs: "5.5 L/100 km - 60 ch - 1 places", tags: [...T_MOTO, "budget-mid", "budget-low"] },
+
     // ===== SCOOTERS (8) =====
     { name: "Yamaha Tricity 300", category: "Scooter 3 roues urbain", price: "8 499 &euro;", image: img("scoot"), specs: "4,1 L/100 km - 28 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "leisure"] },
     { name: "Yamaha TMAX 560", category: "Maxi-scooter premium", price: "13 000 &euro;", image: img("scoot"), specs: "5,0 L/100 km - 47 ch - 2 places", tags: [...T_SCOOT, "comfort", "performance", "budget-high", "leisure", "road"] },
@@ -680,6 +751,10 @@ const TRANSPORTS = [
     { name: "Yamaha XMAX 300", category: "Maxi-scooter Yamaha", price: "6 000 &euro;", image: img("scoot"), specs: "3.5 L/100 km - 28 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low"] },
     { name: "Piaggio Beverly 400", category: "Grand scooter italien", price: "7 000 &euro;", image: img("scoot"), specs: "3.9 L/100 km - 35 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low", "comfort", "road"] },
 
+    { name: "Peugeot Kisbee 50", category: "Scooter 50 économique", price: "2 000 &euro;", image: img("scoot"), specs: "3.0 L/100 km - 3 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low"] },
+    { name: "Yamaha Aerox 50", category: "Scooter sportif 50cc", price: "3 000 &euro;", image: img("scoot"), specs: "3.2 L/100 km - 5 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low", "performance"] },
+    { name: "Piaggio Medley", category: "Scooter urbain italien", price: "4 000 &euro;", image: img("scoot"), specs: "2.8 L/100 km - 16 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "budget-low", "city", "daily"] },
+
     // ===== MOBILITE DOUCE (8) =====
     { name: "VanMoof S5", category: "Vélo électrique urbain connecté", price: "3 298 &euro;", image: img("bike"), specs: "150 km d'autonomie - 55 Nm - 1 place", tags: [...T_EBIKE, "budget-mid"] },
     { name: "Moustache Friday 28", category: "Vélo électrique ville", price: "3 500 &euro;", image: img("bike"), specs: "120 km - 65 Nm - 1 place", tags: [...T_EBIKE, "budget-mid"] },
@@ -695,6 +770,8 @@ const TRANSPORTS = [
     { name: "Btwin Elops 900 E", category: "Vélo ville électrique abordable", price: "2 000 &euro;", image: img("bike"), specs: "70 km - 50 Nm - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low"] },
 
     { name: "Yuba Spicy Curry", category: "Longtail électrique familial", price: "5 000 &euro;", image: img("bike"), specs: "80 km - 80 Nm - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low", "performance"] },
+
+    { name: "Bird One", category: "Trottinette partagée Bird", price: "1 000 &euro;", image: img("trott"), specs: "30 km - 25 km/h - 1 place", tags: [...T_EBIKE, "budget-mid", "budget-low"] },
 
     // ===== UTILITAIRES & PRO (16) =====
     { name: "Ford Transit Custom", category: "Utilitaire L2H2", price: "38 900 &euro;", image: img("van"), specs: "7,2 L/100 km - 130 ch - 6 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "medium-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "road", "mixed"] },
