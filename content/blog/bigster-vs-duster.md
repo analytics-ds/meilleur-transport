@@ -18,25 +18,11 @@ draft: false
 > - Le Bigster Hybrid 155 développe **155 ch contre 140 ch** pour le Duster Hybrid, avec une consommation WLTP quasi identique autour de 5,1 l/100 km.
 > - **Écart de prix moyen d'environ 3 000 euros** entre finitions équivalentes, un surcoût justifié uniquement pour les familles qui ont besoin de place derrière.
 
-## Deux SUV Dacia bâtis sur la même plateforme {#contexte}
-
-Le Duster domine le segment des **SUV compacts chez Dacia depuis 2010**. Plus de **2,2 millions d'exemplaires vendus en Europe** sur trois générations. C'est énorme. L'arrivée du Bigster en 2025 vient perturber ce modèle quasi parfait et pose une question concrète en concession : faut-il craquer pour le grand frère ou rester fidèle au best-seller ?
+Le Duster et le Bigster sortent de la **même usine roumaine de Mioveni**, partagent la plateforme CMF-B et une bonne partie de leur habitacle. Mais **22 cm de longueur** et un coffre multiplié par 1,5 suffisent à rebattre les cartes en concession. Pour aider à trancher entre ces deux [SUV pour particuliers](/categories/particuliers/), voici les 30 critères techniques placés côte à côte, puis le verdict par profil d'usage.
 
 ![Dacia Bigster vue de face](/images/bigster-vs-duster/bigster-front.webp "Dacia Bigster 2025")
 
-Les deux SUV sortent de la même **usine roumaine de Mioveni**. Plateforme **CMF-B commune**, groupe moteur hybride partagé, planche de bord quasi identique. À première vue, le Bigster ressemble à un Duster qui aurait grandi trop vite. Sauf que les 22 cm supplémentaires, le coffre plus généreux et la motorisation retravaillée changent la donne sur plein d'aspects concrets. La question n'est donc pas "lequel est le meilleur" mais **"lequel correspond à quel usage"**.
-
-### Un Bigster venu combler un vide dans la gamme
-
-Le Bigster vient **combler un vide dans la gamme Dacia**. Jusqu'en 2024, la marque roumaine laissait filer les acheteurs vers les SUV du segment C dès que le besoin dépassait le Duster. Les candidats typiques : Peugeot 3008, Nissan Qashqai, Renault Austral, Hyundai Tucson. Des modèles qui tournent souvent **entre 35 000 et 45 000 euros** en finition intermédiaire. Le Bigster, vendu à partir de **27 000 euros**, vient casser ce marché par le bas avec une stratégie claire : plus de place que le Duster, moins de prix que les SUV premium.
-
-### L'angle qui manque souvent dans les comparatifs
-
-La plupart des articles se contentent d'aligner les cotes et les puissances. Manque souvent l'essentiel : un **budget réel sur 5 ans**, un **ressenti d'usage au quotidien**, des **profils types pour arbitrer**. Les lignes qui suivent prennent cet angle, avec les chiffres constructeur et les données d'essais publiés entre 2024 et 2026 par Caradisiac, Largus, Automobile Magazine et L'Argus.
-
 ## Le comparatif technique en un coup d'œil {#tableau}
-
-### 30 critères passés au crible
 
 L'étoile indique le modèle gagnant sur chaque ligne.
 
@@ -73,8 +59,6 @@ L'étoile indique le modèle gagnant sur chaque ligne.
 | **Coût détention 5 ans** | 25 450 € ⭐ | 27 670 € |
 | **Décote 5 ans** | 50% (-12 950 €) | 50% (-14 450 €) ⭐ |
 
-![Dacia Duster III vue de face](/images/bigster-vs-duster/duster-front.webp "Dacia Duster 3 Hybrid")
-
 **Bilan du tableau** : **14 points gagnés par le Bigster**, **9 points gagnés par le Duster**, 5 égalités. Mais ce comptage brut ne suffit pas à désigner un meilleur en absolu. **Tout dépend de ce qu'on cherche.** Le tableau suivant donne un verdict direct par profil d'usage.
 
 ### Qui gagne selon votre besoin ?
@@ -92,7 +76,17 @@ L'étoile indique le modèle gagnant sur chaque ligne.
 | Équipement maximum de série | **Bigster Journey** ⭐ | Hayon, clim bi-zone, siège élec. |
 | Revente à 5 ans | **Bigster** ⭐ | Décote mieux tenue, offre encore limitée |
 
-Trois chiffres sautent aux yeux dans le tableau technique. **227 mm de longueur en plus.** Un coffre **presque multiplié par 1,5** sur la version hybride. Et **3 000 euros de surcoût catalogue**. Tout le reste est quasi identique, plateforme CMF-B oblige. C'est exactement le genre de comparatif où le diable se cache dans les détails d'usage, pas dans la fiche technique brute. Les sections suivantes rentrent dans ces détails, huit par huit.
+Les sections qui suivent détaillent le pourquoi de chaque verdict, en passant en revue les huit vraies différences entre les deux SUV, le budget réel sur 5 ans et les profils d'usage types.
+
+## Deux SUV Dacia bâtis sur la même plateforme {#contexte}
+
+Le Duster domine le segment des **SUV compacts chez Dacia depuis 2010**. Plus de **2,2 millions d'exemplaires vendus en Europe** sur trois générations. C'est énorme. L'arrivée du Bigster en 2025 vient perturber ce modèle quasi parfait et pose une question concrète en concession : faut-il craquer pour le grand frère ou rester fidèle au best-seller ?
+
+Les deux SUV sortent de la **même usine roumaine de Mioveni**. Plateforme **CMF-B commune**, groupe moteur hybride partagé, planche de bord quasi identique. À première vue, le Bigster ressemble à un Duster qui aurait grandi trop vite. Sauf que les 22 cm supplémentaires, le coffre plus généreux et la motorisation retravaillée changent la donne sur plein d'aspects concrets. La question n'est donc pas "lequel est le meilleur" mais **"lequel correspond à quel usage"**.
+
+### Un Bigster venu combler un vide dans la gamme
+
+Le Bigster vient **combler un vide dans la gamme Dacia**. Jusqu'en 2024, la marque roumaine laissait filer les acheteurs vers les SUV du segment C dès que le besoin dépassait le Duster. Les candidats typiques : Peugeot 3008, Nissan Qashqai, Renault Austral, Hyundai Tucson. Des modèles qui tournent souvent **entre 35 000 et 45 000 euros** en finition intermédiaire. Le Bigster, vendu à partir de **27 000 euros**, vient casser ce marché par le bas avec une stratégie claire : plus de place que le Duster, moins de prix que les SUV premium.
 
 ## Huit différences qui font vraiment basculer le choix {#differences}
 
@@ -148,7 +142,7 @@ Le **toit ouvrant panoramique**, facturé 850 euros en option sur le Bigster, n'
 
 **25 900 euros pour le Duster Hybrid Journey**. **28 900 euros pour le Bigster équivalent**. Écart de 3 000 euros au prix catalogue. En LOA 36 mois avec 10 000 km par an, cela se traduit par un **loyer mensuel majoré de 40 à 50 euros** pour une offre constructeur comparable. Rien de scandaleux vu les dimensions et l'équipement supérieurs, mais ça reste un choix qu'il faut assumer.
 
-Sur le marché de l'occasion, les premiers Bigster de 2025 commencent à apparaître autour de **24 000 à 26 000 euros avec 15 000 km**. Les Duster 3 hybrides de 2024 se négocient entre **19 000 et 22 000 euros** dans la même configuration kilométrique. La cote du Bigster se tient un cran au-dessus, portée par une offre encore limitée en occasion récente.
+Sur le marché de l'occasion, les premiers Bigster de 2025 commencent à apparaître autour de **24 000 à 26 000 euros avec 15 000 km**. Les Duster 3 hybrides de 2024 se négocient entre **19 000 et 22 000 euros** dans la même configuration kilométrique. Avant de signer, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les points de contrôle à ne pas rater sur ce type de SUV hybride (état de la batterie E-Tech, usure des disques de frein, historique boîte à crabots).
 
 ## Le vrai budget sur 5 ans {#budget}
 
@@ -189,6 +183,10 @@ Ramené au kilomètre parcouru, le Duster Hybrid Journey ressort à **environ 34
 ### Pour les gros rouleurs autoroutiers
 
 Match serré mais **le Bigster l'emporte de peu**. Sa motorisation plus musclée absorbe mieux les relances et les dépassements, le silence de roulage est un cran au-dessus et la tenue de cap à 130 km/h inspire plus confiance. **Au-delà de 20 000 km par an**, le surcoût d'usage devient très vite amorti.
+
+### Pour un usage mixte perso et pro
+
+Un indépendant ou un artisan qui veut éviter d'acheter un deuxième véhicule peut très bien utiliser le Duster 4x4 TCe 130 en remplacement partiel d'un utilitaire léger. Pour une comparaison complète entre SUV familial et solution dédiée au [transport de marchandises](/blog/transport-marchandises-professionnel/), le dossier dédié aux utilitaires professionnels aide à trancher selon le volume à transporter et la fréquence d'usage.
 
 ### Avec un budget serré
 
@@ -253,11 +251,3 @@ La technologie vient de la gamme **Renault E-Tech**, déployée depuis 2020 sur 
 
 Oui pour les deux, mais avec des capacités différentes. Le Duster Hybrid tracte **jusqu'à 750 kg non freiné et 1 500 kg freiné** (version 4x4 essence uniquement pour ces valeurs). Le Bigster Hybrid monte à **1 500 kg freiné** également. Pour une caravane classique de 1 000 à 1 300 kg, les deux conviennent. Au-delà, il faut se tourner vers les versions non hybrides.
 </details>
-
-## Pour aller plus loin
-
-Avant de signer un bon de commande, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les points de contrôle à ne pas rater sur ce type de SUV hybride au moment de la revente.
-
-La section [mobilité des particuliers](/categories/particuliers/) regroupe des analyses complémentaires pour comparer neuf et occasion selon le budget et les kilomètres annuels parcourus.
-
-Côté professionnels, la comparaison [transport de marchandises](/blog/transport-marchandises-professionnel/) aide à mettre en perspective le choix SUV familial versus utilitaire léger pour ceux qui mélangent usage perso et livraison.
