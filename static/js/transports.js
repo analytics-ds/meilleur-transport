@@ -118,7 +118,57 @@ const IMG_BY_NAME = {
     "Renault Master": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1997_Renault_Master_2.5_T35B_lwb.jpg/330px-1997_Renault_Master_2.5_T35B_lwb.jpg",
     "Peugeot Partner": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Thepeugeotpartner.JPG/330px-Thepeugeotpartner.JPG",
     "Citroën Berlingo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Citro%C3%ABn_Berlingo_Multispace-2.jpg/330px-Citro%C3%ABn_Berlingo_Multispace-2.jpg",
-    "Iveco Daily": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_Iveco_Daily_35_S13_MWB_2.3.jpg/330px-2014_Iveco_Daily_35_S13_MWB_2.3.jpg"
+    "Iveco Daily": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_Iveco_Daily_35_S13_MWB_2.3.jpg/330px-2014_Iveco_Daily_35_S13_MWB_2.3.jpg",
+    "Audi Q8 e-tron": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/330px-2020_Audi_e-Tron_Sport_50_Quattro.jpg",
+    "Porsche Taycan": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_Porsche_Taycan_4S_79kWh_Front.jpg/330px-2020_Porsche_Taycan_4S_79kWh_Front.jpg",
+    "Volvo EX30": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volvo_EX30_IMG_8923.jpg/330px-Volvo_EX30_IMG_8923.jpg",
+    "Volvo XC40 Recharge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg/330px-2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg",
+    "Volvo EX90": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Volvo_EX90_autoMOBIL_T%C3%BCbingen_2025_DSC_2740.jpg/330px-Volvo_EX90_autoMOBIL_T%C3%BCbingen_2025_DSC_2740.jpg",
+    "Škoda Enyaq": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%C5%A0koda_Enyaq_IMG_1190.jpg/330px-%C5%A0koda_Enyaq_IMG_1190.jpg",
+    "Cupra Born": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cupra_Born_%E2%80%93_f_03042026.jpg/330px-Cupra_Born_%E2%80%93_f_03042026.jpg",
+    "BYD Atto 3": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BYD_Atto_3_1X7A6491.jpg/330px-BYD_Atto_3_1X7A6491.jpg",
+    "Mercedes EQB": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/330px-Mercedes-Benz_X243_300_1X7A0422.jpg",
+    "Rivian R1T": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2022_Rivian_R1T_%28in_Glacier_White%29%2C_front_6.21.22.jpg/330px-2022_Rivian_R1T_%28in_Glacier_White%29%2C_front_6.21.22.jpg",
+    "Genesis GV60": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/330px-Genesis_GV60_1X7A5760.jpg",
+    "Lucid Air": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg/330px-2022_Lucid_Air_Grand_Touring_in_Zenith_Red%2C_front_left.jpg",
+    "Toyota Yaris Hybrid": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg/330px-2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg",
+    "Hyundai Kona Hybrid": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg/330px-Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg",
+    "Ford Kuga PHEV": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg/330px-2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg",
+    "Volvo XC60 Recharge": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg/330px-2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg",
+    "Nissan Qashqai e-Power": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2024_Nissan_Qashqai_e-Power_IMG_2187.jpg/330px-2024_Nissan_Qashqai_e-Power_IMG_2187.jpg",
+    "Lexus UX 250h": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lexus_UX_250h_IMG_2810.jpg/330px-Lexus_UX_250h_IMG_2810.jpg",
+    "Kia Sportage Hybrid": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2025_Kia_Sportage_S_front_only.jpg/330px-2025_Kia_Sportage_S_front_only.jpg",
+    "BMW Série 3": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/BMW_G20_%282022%29_IMG_7316_%282%29.jpg/330px-BMW_G20_%282022%29_IMG_7316_%282%29.jpg",
+    "BMW Série 5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BMW_G60_520i_1X7A2443.jpg/330px-BMW_G60_520i_1X7A2443.jpg",
+    "BMW Série 7": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BMW_730d_%28G11%2C_Facelift%29_%E2%80%93_f_16012021.jpg/330px-BMW_730d_%28G11%2C_Facelift%29_%E2%80%93_f_16012021.jpg",
+    "Mercedes Classe A": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg/330px-2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg",
+    "Audi A4": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg/330px-Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg",
+    "Volkswagen Polo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg/330px-VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg",
+    "Škoda Octavia": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Skoda_Octavia_IV_liftback_%28cropped%29.jpg/330px-Skoda_Octavia_IV_liftback_%28cropped%29.jpg",
+    "Mazda 3": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mazda3_SKYACTIV-G.jpg/330px-Mazda3_SKYACTIV-G.jpg",
+    "Mazda CX-30": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mazda_CX-30_Touring%2C_2020_front.jpg/330px-Mazda_CX-30_Touring%2C_2020_front.jpg",
+    "Mazda CX-5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/330px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg",
+    "Hyundai Tucson": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2022_Hyundai_Tucson_Preferred%2C_Front_Right%2C_05-24-2021.jpg/330px-2022_Hyundai_Tucson_Preferred%2C_Front_Right%2C_05-24-2021.jpg",
+    "Toyota Land Cruiser": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png/330px-2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png",
+    "Hyundai i30": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg/330px-2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg",
+    "Kia Ceed": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2018_Kia_Ceed_First_Edition_1.4_Front.jpg/330px-2018_Kia_Ceed_First_Edition_1.4_Front.jpg",
+    "Nissan Juke": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nissan_Juke_%28F16%29_IMG_4903.jpg/330px-Nissan_Juke_%28F16%29_IMG_4903.jpg",
+    "Mini Hatch": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/330px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg",
+    "Peugeot 408": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Peugeot_408_II_facelift_01_China_2019-04-03.jpg/330px-Peugeot_408_II_facelift_01_China_2019-04-03.jpg",
+    "KTM 1290 Super Duke R": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/KTM_1290_Super_Duke_R.jpg/330px-KTM_1290_Super_Duke_R.jpg",
+    "Suzuki V-Strom 650": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Red_2005_Suzuki_V-Strom_650.jpg/330px-Red_2005_Suzuki_V-Strom_650.jpg",
+    "Triumph Street Triple": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Triumph_Street_Triple_675_front_left_threequarter.jpg/330px-Triumph_Street_Triple_675_front_left_threequarter.jpg",
+    "Honda Gold Wing": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Honda_Gold_Wing_GL_1800_%28SC79_-_2018%29.jpg/330px-Honda_Gold_Wing_GL_1800_%28SC79_-_2018%29.jpg",
+    "Kawasaki Z900": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kawasaki_Z900%2C_green.jpg/330px-Kawasaki_Z900%2C_green.jpg",
+    "Indian Scout": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Indian_Scout_600_cc_1920.jpg/330px-Indian_Scout_600_cc_1920.jpg",
+    "Yamaha XSR900": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Yamaha_XSR_900_2018.jpg/330px-Yamaha_XSR_900_2018.jpg",
+    "BMW R nineT": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/BMW_R_nineT_in_Paris.jpg/330px-BMW_R_nineT_in_Paris.jpg",
+    "Volkswagen Transporter": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2017_Volkswagen_Transporter_BlueMotion.jpg/330px-2017_Volkswagen_Transporter_BlueMotion.jpg",
+    "Volkswagen Crafter": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2017_Volkswagen_Crafter_CR35_Trendline_TD_2.0_Front.jpg/330px-2017_Volkswagen_Crafter_CR35_Trendline_TD_2.0_Front.jpg",
+    "Opel Vivaro": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Opel_Vivaro_Combi_Facelift_front.JPG/330px-Opel_Vivaro_Combi_Facelift_front.JPG",
+    "Fiat Ducato": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fiat_e-Ducato_1X7A0350.jpg/330px-Fiat_e-Ducato_1X7A0350.jpg",
+    "Toyota Hilux": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg/330px-2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg",
+    "Ford Ranger": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ford_Ranger_%28T6%2C_P703%29_Wildtrak_IMG_7320.jpg/330px-Ford_Ranger_%28T6%2C_P703%29_Wildtrak_IMG_7320.jpg"
 };
 
 const FALLBACK_IMG = "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=600&q=80";
@@ -169,7 +219,20 @@ const TRANSPORTS = [
     { name: "Polestar 2", category: "Berline électrique suédoise", price: "52 000 &euro;", image: img("ev"), specs: "655 km - 408 ch - 5 places", tags: [...T_EV, "performance", "comfort", "budget-premium", "road"] },
     { name: "MG 4 Electric", category: "Compacte électrique valeur", price: "30 000 &euro;", image: img("ev"), specs: "435 km - 203 ch - 5 places", tags: [...T_EV, "family", "small-family", "economic", "budget-high", "versatile"] },
 
-    // ===== VOITURES HYBRIDES (15) =====
+    { name: "Audi Q8 e-tron", category: "SUV grand premium électrique", price: "89 000 &euro;", image: img("ev"), specs: "600 km - 340 ch - 5 places", tags: [...T_EV, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "versatile"] },
+    { name: "Porsche Taycan", category: "Berline sport électrique", price: "100 000 &euro;", image: img("ev"), specs: "484 km - 476 ch - 4 places", tags: [...T_EV, "performance", "comfort", "budget-premium", "road"] },
+    { name: "Volvo EX30", category: "SUV compact électrique", price: "36 500 &euro;", image: img("ev"), specs: "476 km - 272 ch - 5 places", tags: [...T_EV, "city", "family", "small-family", "comfort", "budget-high", "versatile"] },
+    { name: "Volvo XC40 Recharge", category: "SUV électrique premium", price: "49 000 &euro;", image: img("ev"), specs: "460 km - 238 ch - 5 places", tags: [...T_EV, "family", "small-family", "comfort", "budget-premium", "versatile"] },
+    { name: "Volvo EX90", category: "Grand SUV 7 places électrique", price: "85 000 &euro;", image: img("ev"), specs: "600 km - 408 ch - 7 places", tags: [...T_EV, "family", "large-family", "space", "comfort", "budget-premium", "large-cargo"] },
+    { name: "Škoda Enyaq", category: "SUV familial électrique", price: "45 000 &euro;", image: img("ev"), specs: "540 km - 204 ch - 5 places", tags: [...T_EV, "family", "small-family", "space", "comfort", "budget-premium", "versatile"] },
+    { name: "Cupra Born", category: "Compacte sportive électrique", price: "43 000 &euro;", image: img("ev"), specs: "549 km - 204 ch - 5 places", tags: [...T_EV, "performance", "family", "small-family", "budget-premium", "versatile"] },
+    { name: "BYD Atto 3", category: "SUV compact électrique", price: "37 000 &euro;", image: img("ev"), specs: "420 km - 204 ch - 5 places", tags: [...T_EV, "family", "small-family", "economic", "budget-high", "versatile"] },
+    { name: "Mercedes EQB", category: "SUV 7 places électrique", price: "56 000 &euro;", image: img("ev"), specs: "423 km - 215 ch - 7 places", tags: [...T_EV, "family", "large-family", "space", "comfort", "budget-premium", "large-cargo"] },
+    { name: "Rivian R1T", category: "Pickup électrique aventure", price: "85 000 &euro;", image: img("ev"), specs: "510 km - 835 ch - 5 places", tags: [...T_EV, "pro", "performance", "space", "large-cargo", "cargo", "budget-premium", "leisure", "road"] },
+    { name: "Genesis GV60", category: "SUV électrique luxe", price: "68 000 &euro;", image: img("ev"), specs: "517 km - 314 ch - 5 places", tags: [...T_EV, "family", "performance", "comfort", "budget-premium", "versatile"] },
+    { name: "Lucid Air", category: "Grande berline électrique US", price: "120 000 &euro;", image: img("ev"), specs: "820 km - 1050 ch - 5 places", tags: [...T_EV, "performance", "comfort", "budget-premium", "road", "high-km"] },
+
+    // ===== VOITURES HYBRIDES (22) =====
     { name: "Toyota Yaris Cross Hybrid", category: "SUV compact hybride", price: "27 500 &euro;", image: img("hybrid"), specs: "4,5 L/100 km - 116 ch - 5 places", tags: [...T_HYB, "family", "small-family", "mixed", "versatile", "economic", "comfort", "budget-high", "medium-km"] },
     { name: "Toyota Corolla Hybrid", category: "Compacte hybride", price: "30 000 &euro;", image: img("hybrid"), specs: "4,3 L/100 km - 184 ch - 5 places", tags: [...T_HYB, "family", "small-family", "economic", "comfort", "budget-high", "medium-km", "high-km", "versatile"] },
     { name: "Toyota C-HR Hybrid", category: "SUV urbain hybride", price: "33 000 &euro;", image: img("suv"), specs: "4,8 L/100 km - 184 ch - 5 places", tags: [...T_HYB, "family", "small-family", "comfort", "budget-high", "versatile"] },
@@ -186,7 +249,15 @@ const TRANSPORTS = [
     { name: "Lexus NX 350h", category: "SUV premium hybride", price: "55 000 &euro;", image: img("suv"), specs: "5,7 L/100 km - 244 ch - 5 places", tags: [...T_HYB, "family", "comfort", "budget-premium", "road", "performance"] },
     { name: "Lexus RX 500h", category: "Grand SUV hybride", price: "80 000 &euro;", image: img("suv"), specs: "8,2 L/100 km - 371 ch - 5 places", tags: [...T_HYB, "family", "large-family", "space", "comfort", "performance", "budget-premium", "large-cargo"] },
 
-    // ===== VOITURES THERMIQUES (15) =====
+    { name: "Toyota Yaris Hybrid", category: "Citadine hybride", price: "24 000 &euro;", image: img("hybrid"), specs: "3,8 L/100 km - 116 ch - 5 places", tags: [...T_HYB, "city", "daily", "family", "small-family", "economic", "budget-high", "compact"] },
+    { name: "Hyundai Kona Hybrid", category: "SUV urbain hybride", price: "29 000 &euro;", image: img("hybrid"), specs: "4,8 L/100 km - 141 ch - 5 places", tags: [...T_HYB, "family", "small-family", "comfort", "economic", "budget-high", "versatile"] },
+    { name: "Ford Kuga PHEV", category: "SUV hybride rechargeable", price: "40 000 &euro;", image: img("hybrid"), specs: "1,4 L/100 km - 225 ch - 5 places", tags: [...T_HYB, "family", "small-family", "comfort", "budget-premium", "versatile"] },
+    { name: "Volvo XC60 Recharge", category: "SUV hybride rechargeable", price: "65 000 &euro;", image: img("hybrid"), specs: "1,6 L/100 km - 455 ch - 5 places", tags: [...T_HYB, "family", "performance", "comfort", "budget-premium", "road"] },
+    { name: "Nissan Qashqai e-Power", category: "SUV hybride e-Power", price: "38 000 &euro;", image: img("hybrid"), specs: "5,3 L/100 km - 190 ch - 5 places", tags: [...T_HYB, "family", "small-family", "comfort", "economic", "budget-high", "versatile"] },
+    { name: "Lexus UX 250h", category: "SUV compact hybride premium", price: "48 000 &euro;", image: img("hybrid"), specs: "4,5 L/100 km - 184 ch - 5 places", tags: [...T_HYB, "family", "small-family", "comfort", "economic", "budget-premium", "versatile"] },
+    { name: "Kia Sportage Hybrid", category: "SUV familial hybride", price: "38 000 &euro;", image: img("hybrid"), specs: "5,2 L/100 km - 230 ch - 5 places", tags: [...T_HYB, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "versatile"] },
+
+    // ===== VOITURES THERMIQUES (28) =====
     { name: "Peugeot 208", category: "Citadine polyvalente", price: "18 000 &euro;", image: img("car"), specs: "5,2 L/100 km - 100 ch - 5 places", tags: [...T_THM, "city", "daily", "family", "small-family", "economic", "budget-mid", "compact"] },
     { name: "Peugeot 308", category: "Compacte", price: "28 000 &euro;", image: img("car"), specs: "5,5 L/100 km - 130 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-high", "versatile", "mixed"] },
     { name: "Peugeot 2008", category: "SUV urbain", price: "24 000 &euro;", image: img("suv"), specs: "5,5 L/100 km - 130 ch - 5 places", tags: [...T_THM, "family", "small-family", "budget-high", "versatile"] },
@@ -203,7 +274,21 @@ const TRANSPORTS = [
     { name: "Volkswagen Tiguan", category: "SUV familial", price: "40 000 &euro;", image: img("suv"), specs: "6,6 L/100 km - 150 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "road"] },
     { name: "Ford Puma", category: "SUV urbain sport", price: "26 000 &euro;", image: img("suv"), specs: "5,4 L/100 km - 125 ch - 5 places", tags: [...T_THM, "family", "small-family", "performance", "budget-high", "versatile"] },
 
-    // ===== SUV PREMIUM (10) =====
+    { name: "BMW Série 3", category: "Berline premium", price: "48 000 &euro;", image: img("car"), specs: "6,1 L/100 km - 184 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-premium", "road", "performance"] },
+    { name: "BMW Série 5", category: "Grande berline premium", price: "62 000 &euro;", image: img("car"), specs: "6,8 L/100 km - 208 ch - 5 places", tags: [...T_THM, "family", "comfort", "budget-premium", "road", "high-km"] },
+    { name: "BMW Série 7", category: "Limousine prestige", price: "110 000 &euro;", image: img("car"), specs: "8,2 L/100 km - 381 ch - 5 places", tags: [...T_THM, "comfort", "budget-premium", "road", "high-km"] },
+    { name: "Mercedes Classe A", category: "Compacte premium", price: "32 000 &euro;", image: img("car"), specs: "5,8 L/100 km - 163 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-high", "versatile"] },
+    { name: "Audi A4", category: "Berline premium", price: "45 000 &euro;", image: img("car"), specs: "6,0 L/100 km - 150 ch - 5 places", tags: [...T_THM, "family", "comfort", "budget-premium", "road", "versatile"] },
+    { name: "Volkswagen Polo", category: "Citadine référence", price: "21 000 &euro;", image: img("car"), specs: "5,4 L/100 km - 95 ch - 5 places", tags: [...T_THM, "city", "daily", "family", "small-family", "economic", "budget-mid", "compact"] },
+    { name: "Škoda Octavia", category: "Berline familiale", price: "28 000 &euro;", image: img("car"), specs: "5,5 L/100 km - 150 ch - 5 places", tags: [...T_THM, "family", "space", "comfort", "budget-high", "versatile", "road", "medium-cargo"] },
+    { name: "Mazda 3", category: "Compacte premium", price: "28 000 &euro;", image: img("car"), specs: "5,6 L/100 km - 150 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-high", "versatile"] },
+    { name: "Hyundai i30", category: "Compacte polyvalente", price: "25 000 &euro;", image: img("car"), specs: "5,8 L/100 km - 120 ch - 5 places", tags: [...T_THM, "family", "small-family", "economic", "budget-mid", "budget-high", "versatile"] },
+    { name: "Kia Ceed", category: "Compacte familiale", price: "24 000 &euro;", image: img("car"), specs: "5,7 L/100 km - 140 ch - 5 places", tags: [...T_THM, "family", "small-family", "economic", "budget-mid", "budget-high", "versatile"] },
+    { name: "Nissan Juke", category: "Crossover urbain", price: "24 000 &euro;", image: img("car"), specs: "5,8 L/100 km - 114 ch - 5 places", tags: [...T_THM, "family", "small-family", "city", "budget-high", "versatile"] },
+    { name: "Mini Hatch", category: "Citadine iconique", price: "27 000 &euro;", image: img("car"), specs: "6,0 L/100 km - 136 ch - 4 places", tags: [...T_THM, "city", "daily", "compact", "performance", "budget-high"] },
+    { name: "Peugeot 408", category: "Berline crossover", price: "35 000 &euro;", image: img("car"), specs: "5,9 L/100 km - 130 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-high", "versatile"] },
+
+    // ===== SUV PREMIUM (14) =====
     { name: "BMW X1", category: "SUV compact premium", price: "45 000 &euro;", image: img("suv"), specs: "6,6 L/100 km - 170 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-premium", "versatile"] },
     { name: "BMW X3", category: "SUV premium", price: "55 000 &euro;", image: img("suv"), specs: "7,2 L/100 km - 190 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "space", "comfort", "budget-premium", "road"] },
     { name: "BMW X5", category: "Grand SUV premium", price: "80 000 &euro;", image: img("suv"), specs: "8,9 L/100 km - 286 ch - 7 places", tags: [...T_THM, "family", "large-family", "space", "comfort", "budget-premium", "road"] },
@@ -215,7 +300,12 @@ const TRANSPORTS = [
     { name: "Porsche Cayenne", category: "Grand SUV sportif", price: "90 000 &euro;", image: img("suv"), specs: "10,4 L/100 km - 340 ch - 5 places", tags: [...T_THM, "performance", "comfort", "budget-premium", "road", "leisure"] },
     { name: "Porsche Macan", category: "SUV sportif premium", price: "70 000 &euro;", image: img("suv"), specs: "8,9 L/100 km - 265 ch - 5 places", tags: [...T_THM, "performance", "comfort", "budget-premium", "road", "leisure"] },
 
-    // ===== MOTOS (20) =====
+    { name: "Mazda CX-5", category: "SUV premium", price: "35 000 &euro;", image: img("suv"), specs: "6,4 L/100 km - 194 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "comfort", "budget-premium", "road", "versatile"] },
+    { name: "Mazda CX-30", category: "SUV urbain premium", price: "30 000 &euro;", image: img("suv"), specs: "6,0 L/100 km - 150 ch - 5 places", tags: [...T_THM, "family", "small-family", "comfort", "budget-high", "versatile"] },
+    { name: "Hyundai Tucson", category: "SUV familial", price: "32 000 &euro;", image: img("suv"), specs: "6,3 L/100 km - 150 ch - 5 places", tags: [...T_THM, "family", "small-family", "large-family", "space", "comfort", "budget-high", "versatile"] },
+    { name: "Toyota Land Cruiser", category: "Grand SUV tout-terrain", price: "80 000 &euro;", image: img("suv"), specs: "9,5 L/100 km - 305 ch - 7 places", tags: [...T_THM, "family", "large-family", "space", "leisure", "budget-premium", "road", "large-cargo"] },
+
+    // ===== MOTOS (28) =====
     { name: "Yamaha MT-07", category: "Moto roadster A2", price: "8 499 &euro;", image: img("sport"), specs: "4,3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-mid", "mixed"] },
     { name: "Yamaha MT-09", category: "Roadster sportif", price: "10 500 &euro;", image: img("sport"), specs: "5,1 L/100 km - 119 ch - 2 places", tags: [...T_MOTO, "performance", "budget-high"] },
     { name: "Yamaha Ténéré 700", category: "Trail routier A2", price: "11 000 &euro;", image: img("adv"), specs: "4,3 L/100 km - 73 ch - 2 places", tags: [...T_MOTO_A2, "budget-high", "leisure", "mixed", "versatile"] },
@@ -237,6 +327,15 @@ const TRANSPORTS = [
     { name: "Triumph Bonneville T120", category: "Classique British 1200", price: "12 000 &euro;", image: img("sport"), specs: "5,0 L/100 km - 79 ch - 2 places", tags: [...T_MOTO, "comfort", "budget-high", "leisure"] },
     { name: "Harley-Davidson Iron 883", category: "Custom Sportster", price: "11 000 &euro;", image: img("sport"), specs: "5,5 L/100 km - 50 ch - 2 places", tags: [...T_MOTO, "leisure", "budget-high"] },
 
+    { name: "KTM 1290 Super Duke R", category: "Roadster hyper naked", price: "19 500 &euro;", image: img("sport"), specs: "5,5 L/100 km - 180 ch - 2 places", tags: [...T_MOTO, "performance", "budget-premium"] },
+    { name: "Suzuki V-Strom 650", category: "Trail mid-size A2", price: "9 500 &euro;", image: img("adv"), specs: "4,8 L/100 km - 71 ch - 2 places", tags: [...T_MOTO_A2, "comfort", "budget-mid", "versatile", "high-km"] },
+    { name: "Triumph Street Triple", category: "Roadster sport britannique", price: "12 500 &euro;", image: img("sport"), specs: "5,1 L/100 km - 128 ch - 2 places", tags: [...T_MOTO, "performance", "budget-high"] },
+    { name: "Honda Gold Wing", category: "Maxi-tourer luxe", price: "28 500 &euro;", image: img("adv"), specs: "5,7 L/100 km - 126 ch - 2 places", tags: [...T_MOTO, "comfort", "leisure", "budget-premium", "high-km"] },
+    { name: "Kawasaki Z900", category: "Roadster quatre cylindres", price: "10 500 &euro;", image: img("sport"), specs: "5,3 L/100 km - 125 ch - 2 places", tags: [...T_MOTO, "performance", "budget-high"] },
+    { name: "Indian Scout", category: "Custom mid-size US", price: "14 500 &euro;", image: img("sport"), specs: "5,8 L/100 km - 94 ch - 2 places", tags: [...T_MOTO, "leisure", "budget-high"] },
+    { name: "Yamaha XSR900", category: "Néo-rétro 3 cylindres", price: "11 500 &euro;", image: img("sport"), specs: "5,3 L/100 km - 117 ch - 2 places", tags: [...T_MOTO, "performance", "budget-high", "leisure"] },
+    { name: "BMW R nineT", category: "Heritage boxer allemand", price: "16 000 &euro;", image: img("sport"), specs: "5,5 L/100 km - 109 ch - 2 places", tags: [...T_MOTO, "comfort", "leisure", "budget-premium"] },
+
     // ===== SCOOTERS (8) =====
     { name: "Yamaha Tricity 300", category: "Scooter 3 roues urbain", price: "8 499 &euro;", image: img("scoot"), specs: "4,1 L/100 km - 28 ch - 2 places", tags: [...T_SCOOT, "budget-mid", "leisure"] },
     { name: "Yamaha TMAX 560", category: "Maxi-scooter premium", price: "13 000 &euro;", image: img("scoot"), specs: "5,0 L/100 km - 47 ch - 2 places", tags: [...T_SCOOT, "comfort", "performance", "budget-high", "leisure", "road"] },
@@ -257,7 +356,7 @@ const TRANSPORTS = [
     { name: "Segway Ninebot Max G2", category: "Trottinette longue autonomie", price: "1 200 &euro;", image: img("trott"), specs: "70 km - 25 km/h - 1 place", tags: [...T_EBIKE, "budget-low", "budget-mid"] },
     { name: "Dualtron Thunder 3", category: "Trottinette premium puissante", price: "5 000 &euro;", image: img("trott"), specs: "120 km - 70 km/h - 1 place", tags: [...T_EBIKE, "performance", "budget-high"] },
 
-    // ===== UTILITAIRES & PRO (10) =====
+    // ===== UTILITAIRES & PRO (16) =====
     { name: "Ford Transit Custom", category: "Utilitaire L2H2", price: "38 900 &euro;", image: img("van"), specs: "7,2 L/100 km - 130 ch - 6 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "medium-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "road", "mixed"] },
     { name: "Ford Transit (grand)", category: "Grand utilitaire routier", price: "42 000 &euro;", image: img("van"), specs: "8,4 L/100 km - 170 ch - 11 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
     { name: "Mercedes Sprinter", category: "Grand utilitaire pro", price: "49 900 &euro;", image: img("van"), specs: "9,0 L/100 km - 190 ch - 14 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
@@ -267,7 +366,13 @@ const TRANSPORTS = [
     { name: "Renault Master", category: "Grand utilitaire Master", price: "40 000 &euro;", image: img("van"), specs: "8,5 L/100 km - 170 ch - 13 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
     { name: "Peugeot Partner", category: "Petit utilitaire 3 places", price: "24 000 &euro;", image: img("van"), specs: "5,5 L/100 km - 100 ch - 4,4 m&sup3;", tags: [...T_THM, "pro", "cargo", "medium-cargo", "economic", "diesel-friendly", "high-km", "budget-mid"] },
     { name: "Citroën Berlingo", category: "Utilitaire ou familial 7 places", price: "22 000 &euro;", image: img("van"), specs: "5,5 L/100 km - 130 ch - 5 à 7 places", tags: [...T_THM, "family", "large-family", "pro", "space", "cargo", "medium-cargo", "economic", "budget-mid", "versatile"] },
-    { name: "Iveco Daily", category: "Gros porteur 3,5 à 7 T", price: "42 000 &euro;", image: img("van"), specs: "11 L/100 km - 180 ch - 19 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] }
+    { name: "Iveco Daily", category: "Gros porteur 3,5 à 7 T", price: "42 000 &euro;", image: img("van"), specs: "11 L/100 km - 180 ch - 19 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "Volkswagen Transporter", category: "Fourgon polyvalent VW", price: "42 000 &euro;", image: img("van"), specs: "7,5 L/100 km - 150 ch - 6 m&sup3;", tags: [...T_THM, "pro", "cargo", "medium-cargo", "large-cargo", "diesel-friendly", "high-km", "budget-premium"] },
+    { name: "Volkswagen Crafter", category: "Grand utilitaire VW", price: "44 000 &euro;", image: img("van"), specs: "8,5 L/100 km - 177 ch - 14 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "Opel Vivaro", category: "Fourgon compact Opel", price: "34 000 &euro;", image: img("van"), specs: "6,8 L/100 km - 145 ch - 6,6 m&sup3;", tags: [...T_THM, "pro", "cargo", "medium-cargo", "diesel-friendly", "high-km", "budget-high"] },
+    { name: "Fiat Ducato", category: "Grand fourgon Ducato", price: "38 000 &euro;", image: img("van"), specs: "8,0 L/100 km - 140 ch - 13 m&sup3;", tags: [...T_THM, "pro", "cargo", "large-cargo", "diesel-friendly", "very-high-km", "high-km", "budget-premium", "space"] },
+    { name: "Toyota Hilux", category: "Pickup 4x4 Hilux", price: "40 000 &euro;", image: img("van"), specs: "7,8 L/100 km - 204 ch - 5 places", tags: [...T_THM, "pro", "space", "leisure", "cargo", "large-cargo", "diesel-friendly", "budget-premium", "versatile", "road"] },
+    { name: "Ford Ranger", category: "Pickup 4x4 Ranger", price: "42 000 &euro;", image: img("van"), specs: "8,2 L/100 km - 205 ch - 5 places", tags: [...T_THM, "pro", "space", "leisure", "cargo", "large-cargo", "diesel-friendly", "budget-premium", "versatile", "road"] }
 ];
 
 // Réassigne les vraies images Wikipedia après construction
