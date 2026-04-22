@@ -98,7 +98,7 @@ C'est **la vraie raison d'hésiter**. Le 5008 propose une **troisième rangée**
 
 En configuration **5 places**, les deux coffres sont proches : **520 litres pour le 3008**, **348 litres pour le 5008** (avec rang 3 replié dans le plancher). Mais attention : sur le 5008, la troisième rangée grignote 170 litres sous le plancher. En **7 places déployées**, le 5008 ne propose plus que **259 litres** derrière les sièges arrière, soit juste de quoi caser les sacs à dos d'école.
 
-![Intérieur Peugeot 5008](/images/peugeot-3008-vs-5008/peugeot-5008-interior.webp "Intérieur Peugeot 5008 avec 3e rangée")
+![Peugeot 5008 III vue arrière](/images/peugeot-3008-vs-5008/peugeot-5008-front.webp "Peugeot 5008 III 2025")
 
 ### 3. Un gabarit qui change tout en ville
 
