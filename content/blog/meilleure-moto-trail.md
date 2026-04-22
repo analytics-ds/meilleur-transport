@@ -1,5 +1,6 @@
 ---
 title: "Meilleure moto trail en 2026 : le top 10 pour partir en voyage"
+seoTitle: "Moto trail 2026 : top 10 pour le voyage et l'aventure"
 description: "Classement des meilleures motos trail 2026 pour voyager : Tenere 700, Africa Twin, BMW GS, KTM. Prix, autonomie, capacités off-road."
 translationKey: "meilleure-moto-trail"
 date: 2026-04-22

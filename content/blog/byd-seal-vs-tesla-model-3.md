@@ -1,5 +1,6 @@
 ---
 title: "BYD Seal ou Tesla Model 3 : la chinoise peut-elle détrôner l'américaine"
+seoTitle: "BYD Seal vs Tesla Model 3 : prix, autonomie, équipement"
 description: "Comparatif BYD Seal vs Tesla Model 3 Highland : autonomie, prix, équipement, recharge, valeur résiduelle. Le match des berlines électriques premium en 2026."
 translationKey: "byd-seal-vs-tesla-model-3"
 date: 2026-04-22

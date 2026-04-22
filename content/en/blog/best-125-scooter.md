@@ -1,5 +1,6 @@
 ---
 title: "Best 125 scooter in 2026: the value for money comparison"
+seoTitle: "125 scooter 2026: price, fuel use and reliability compared"
 description: "Ranking of best 125 cc scooters in 2026: thermal and electric. Price, consumption, equipment, B licence, buying advice."
 translationKey: "meilleur-scooter-125"
 date: 2026-04-22

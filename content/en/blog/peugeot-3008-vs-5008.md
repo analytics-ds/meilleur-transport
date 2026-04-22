@@ -1,5 +1,6 @@
 ---
 title: "Peugeot 3008 or 5008 in 2026: the family SUV match"
+seoTitle: "Peugeot 3008 vs 5008: 5 or 7 seats, which to choose?"
 description: "Peugeot 3008 III vs 5008 III comparison: boot, 7 seats, hybrid, price, equipment. Which to pick based on your family size."
 translationKey: "peugeot-3008-vs-5008"
 date: 2026-04-21

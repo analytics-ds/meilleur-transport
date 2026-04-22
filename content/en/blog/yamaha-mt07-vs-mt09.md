@@ -1,5 +1,6 @@
 ---
 title: "Yamaha MT-07 or MT-09 in 2026: which one after your licence"
+seoTitle: "MT-07 vs MT-09: Yamaha comparison after A2 licence"
 description: "Yamaha MT-07 vs MT-09 comparison: power, weight, A2, price, insurance, use. The two best-selling roadsters in France."
 translationKey: "yamaha-mt07-vs-mt09"
 date: 2026-04-22

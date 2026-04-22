@@ -1,5 +1,6 @@
 ---
 title: "BYD Seal or Tesla Model 3: can the Chinese dethrone the American"
+seoTitle: "BYD Seal vs Tesla Model 3: price, range, equipment"
 description: "BYD Seal vs Tesla Model 3 Highland comparison: range, price, equipment, charging, residuals. The premium electric sedan match in 2026."
 translationKey: "byd-seal-vs-tesla-model-3"
 date: 2026-04-22

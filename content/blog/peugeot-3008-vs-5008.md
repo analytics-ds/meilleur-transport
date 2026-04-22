@@ -1,5 +1,6 @@
 ---
 title: "Peugeot 3008 ou 5008 en 2026 : le match des SUV familiaux"
+seoTitle: "Peugeot 3008 vs 5008 : 5 ou 7 places, lequel choisir ?"
 description: "Comparatif Peugeot 3008 III vs 5008 III : coffre, 7 places, hybride, prix, équipement. Lequel choisir selon la taille de votre famille."
 translationKey: "peugeot-3008-vs-5008"
 date: 2026-04-21

@@ -1,5 +1,6 @@
 ---
 title: "Best adventure motorcycle in 2026: top 10 for travelling"
+seoTitle: "Adventure motorcycle 2026: top 10 for long-distance travel"
 description: "Ranking of 2026 best adventure motorcycles for travelling: Tenere 700, Africa Twin, BMW GS, KTM. Price, range, off-road capabilities."
 translationKey: "meilleure-moto-trail"
 date: 2026-04-22

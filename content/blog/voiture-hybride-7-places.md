@@ -1,5 +1,6 @@
 ---
 title: "Voiture hybride 7 places en 2026 : le top 8 des SUV et monospaces"
+seoTitle: "SUV et monospaces hybrides 7 places : top 8 pour familles"
 description: "Comparatif voitures hybrides 7 places 2026 : Peugeot 5008, Dacia Jogger, Toyota Prius+, Kia Sorento. Prix, consommation, modularité."
 translationKey: "voiture-hybride-7-places"
 date: 2026-04-22

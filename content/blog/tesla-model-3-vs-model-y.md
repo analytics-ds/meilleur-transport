@@ -1,5 +1,6 @@
 ---
 title: "Tesla Model 3 ou Model Y en 2026 : laquelle choisir vraiment"
+seoTitle: "Tesla Model 3 ou Model Y 2026 : berline ou SUV familial ?"
 description: "Comparatif Tesla Model 3 Highland vs Model Y Juniper : autonomie, coffre, prix, Supercharge, valeur résiduelle. Le match complet pour trancher en 2026."
 translationKey: "tesla-model-3-vs-model-y"
 date: 2026-04-21

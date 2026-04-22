@@ -1,5 +1,6 @@
 ---
 title: "Peugeot 208 ou Renault Clio 5 : laquelle choisir en 2026"
+seoTitle: "Peugeot 208 vs Renault Clio 5 : laquelle au quotidien ?"
 description: "Comparatif Peugeot 208 II vs Renault Clio 5 phase 2 : fiabilité, prix, consommation, équipement, occasion. Le duel des citadines françaises en 2026."
 translationKey: "peugeot-208-vs-renault-clio"
 date: 2026-04-21

@@ -1,5 +1,6 @@
 ---
 title: "Hybrid 7-seater car in 2026: the top 8 SUVs and MPVs"
+seoTitle: "Hybrid 7-seater SUVs and MPVs: top 8 for families"
 description: "2026 hybrid 7-seater car comparison: Peugeot 5008, Dacia Jogger, Toyota Prius+, Kia Sorento. Price, consumption, modularity."
 translationKey: "voiture-hybride-7-places"
 date: 2026-04-22

@@ -1,5 +1,6 @@
 ---
 title: "Yamaha MT-07 ou MT-09 en 2026 : laquelle choisir après le permis"
+seoTitle: "MT-07 vs MT-09 : comparatif Yamaha après permis A2"
 description: "Comparatif Yamaha MT-07 vs MT-09 : puissance, poids, A2, prix, assurance, utilisation. Le match des deux roadsters best-sellers en France."
 translationKey: "yamaha-mt07-vs-mt09"
 date: 2026-04-22

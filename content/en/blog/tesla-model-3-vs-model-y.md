@@ -1,5 +1,6 @@
 ---
 title: "Tesla Model 3 or Model Y in 2026: which one to really choose"
+seoTitle: "Tesla Model 3 or Model Y 2026: sedan or family SUV?"
 description: "Tesla Model 3 Highland vs Model Y Juniper comparison: range, boot, price, Supercharge, residuals. The full match to decide in 2026."
 translationKey: "tesla-model-3-vs-model-y"
 date: 2026-04-21
