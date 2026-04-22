@@ -64,6 +64,18 @@ buildFuture = true
       url = "/en/categories/individuals/"
       weight = 1
     [[languages.en.menus.main]]
+      identifier = "cars"
+      name = "Cars"
+      url = "/en/categories/cars/"
+      parent = "individuals"
+      weight = 11
+    [[languages.en.menus.main]]
+      identifier = "motorcycles"
+      name = "Motorcycles"
+      url = "/en/categories/motorcycles/"
+      parent = "individuals"
+      weight = 12
+    [[languages.en.menus.main]]
       identifier = "professionals"
       name = "Professionals"
       url = "/en/categories/professionals/"
