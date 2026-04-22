@@ -1,5 +1,6 @@
 ---
 title: "Acheter une voiture d'occasion : guide complet 2026"
+seoTitle: "Voiture d'occasion 2026 : 7 étapes pour éviter les pièges"
 description: "Les étapes clés pour acheter une voiture d'occasion sereinement : budget, contrôle technique, financement, frais cachés."
 translationKey: "used-car-guide"
 date: 2026-04-20

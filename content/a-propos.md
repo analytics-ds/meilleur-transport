@@ -1,5 +1,6 @@
 ---
 title: "À propos"
+seoTitle: "Notre méthodologie éditoriale et notre indépendance"
 description: "Meilleur Transport publie des guides et comparatifs indépendants pour aider particuliers et professionnels à choisir leur solution de transport."
 translationKey: "about"
 date: 2026-04-20

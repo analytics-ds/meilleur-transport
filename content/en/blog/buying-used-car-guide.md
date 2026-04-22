@@ -1,5 +1,6 @@
 ---
 title: "Buying a used car: complete 2026 guide"
+seoTitle: "Used car 2026: the 7 steps to avoid the pitfalls"
 description: "Key steps to buy a used car with confidence: budget, technical inspection, financing, hidden costs."
 translationKey: "used-car-guide"
 date: 2026-04-20

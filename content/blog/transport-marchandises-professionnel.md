@@ -1,5 +1,6 @@
 ---
 title: "Transport de marchandises : bien choisir son prestataire professionnel"
+seoTitle: "Transporteur pro 2026 : tarifs, modes et contrats comparés"
 description: "Comment sélectionner un transporteur pour son activité professionnelle : critères, tarifs, modes de transport, contractualisation."
 translationKey: "freight-transport"
 date: 2026-04-19

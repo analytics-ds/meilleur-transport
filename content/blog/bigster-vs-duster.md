@@ -1,5 +1,6 @@
 ---
 title: "Dacia Bigster ou Duster : 8 différences qui changent tout en 2026"
+seoTitle: "Bigster ou Duster 2026 : lequel choisir selon votre budget ?"
 description: "Comparatif complet Dacia Bigster vs Duster 3 : dimensions, coffre, moteurs hybrides, équipement, consommation, prix. Lequel choisir selon votre profil."
 translationKey: "bigster-vs-duster"
 date: 2026-04-21

@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+seoTitle: "Write to us — partnerships, suggestions and questions"
 description: "Contact the Meilleur Transport team for any question, suggestion or partnership proposal."
 translationKey: "contact"
 date: 2026-04-20

@@ -1,5 +1,6 @@
 ---
 title: "Freight transport: choosing the right professional carrier"
+seoTitle: "Professional carrier 2026: rates, modes, contracts compared"
 description: "How to select a carrier for your professional activity: criteria, rates, transport modes, contracting."
 translationKey: "freight-transport"
 date: 2026-04-19

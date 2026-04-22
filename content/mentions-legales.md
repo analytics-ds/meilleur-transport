@@ -1,5 +1,6 @@
 ---
 title: "Mentions légales"
+seoTitle: "Informations éditeur, hébergement et conditions"
 description: "Mentions légales, informations éditeur, hébergement et conditions d'utilisation du site Meilleur Transport."
 date: 2026-04-20
 lastmod: 2026-04-21
