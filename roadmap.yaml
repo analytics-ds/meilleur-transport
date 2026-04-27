@@ -77,12 +77,78 @@
 #   longue traine).
 
 articles:
-  # ----- exemple (a supprimer ou remplacer) -----
-  - kw: "exemple de mot cle"
-    category: "Exemple de categorie"
-    volume: 1200
-    kd: 35
+
+  - kw: "meilleur velo electrique 2026"
+    category: "Particuliers"
+    volume: null
+    kd: null
     scheduled_date: "2026-04-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment choisir sa voiture de societe"
+    category: "Professionnels"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "trottinette electrique ou velo electrique"
+    category: "Particuliers"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "location voiture longue duree professionnel"
+    category: "Professionnels"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleure voiture electrique pas chere"
+    category: "Particuliers"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment optimiser frais de transport entreprise"
+    category: "Professionnels"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "scooter electrique ville"
+    category: "Particuliers"
+    volume: null
+    kd: null
+    scheduled_date: "2026-05-19"
     status: todo
     published_date: null
     published_url_fr: null
