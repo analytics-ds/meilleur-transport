@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-28 | Como ou BYmyCAR pour une Mercedes ? (FR+EN) | Particuliers
 - 2026-04-28 | Meilleur vélo électrique 2026 : guide et comparatif complet (FR+EN) | Particuliers | auto
 
 ## Semaine du 20 avril 2026
