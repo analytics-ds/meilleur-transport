@@ -34,9 +34,9 @@ draft: false
 ## Table of contents
 
 - [Two major networks for buying a Mercedes in France](#context)
+- [Como vs BYmyCAR Mercedes: full network comparison](#comparison)
 - [BYmyCAR Mercedes France: what it really is](#bymycar)
 - [Como Mercedes dealer: the premium expertise](#como)
-- [Como vs BYmyCAR Mercedes: full network comparison](#comparison)
 - [Como or BYmyCAR depending on your buyer profile](#profiles)
 - [How to choose between Como and BYmyCAR for your Mercedes](#advice)
 - [Frequently asked questions](#faq)
@@ -52,34 +52,6 @@ Choosing between a **BYmyCAR Mercedes dealership** and a **Como dealership** is 
 An **authorised Mercedes dealer** receives the same vehicles, the same list prices and the same manufacturer warranty conditions regardless of the group it belongs to. What varies is the layer of service added by the group: in-house financing, multi-brand trade-ins, product knowledge depth, after-sales technician availability and consistency of reception across sites.
 
 To properly compare **Como or BYmyCAR for a Mercedes**, you need to analyse these operational differences, not just the catalogue price.
-
-## BYmyCAR Mercedes France: what it really is {#bymycar}
-
-### What is BYmyCAR?
-
-BYmyCAR is one of the largest automotive distribution groups in France, with hundreds of dealerships representing over a hundred different brands. The group was built through successive acquisitions of regional dealerships and local operators, which explains its wide geographical coverage.
-
-Its model is clearly **generalist**: BYmyCAR distributes Renault, Peugeot and Toyota alongside **Mercedes-Benz** and BMW. This versatility allows it to serve a very broad range of buyers, but it also means varying levels of commercial expertise. A sales advisor who sells entry-level vehicles and premium cars within the same group does not have the same level of specialisation as one trained exclusively on high-end ranges throughout their career.
-
-### BYmyCAR Mercedes dealerships in France
-
-BYmyCAR operates **Mercedes-Benz dealerships** in several major French cities, particularly in areas where the group has absorbed local operators. The geographical concentration of its Mercedes sites is, however, less uniform than that of specialised groups.
-
-For buyers in areas where **BYmyCAR is the only authorised Mercedes dealership** within a reasonable distance, the group remains a legitimate option: manufacturer warranties, list prices and Mercedes services are identical. The key watchpoint is **consistency of experience from one site to another**, which can vary significantly depending on the history of each establishment.
-
-## Como Mercedes dealer: the premium expertise {#como}
-
-### Como: a network built on the premium segment
-
-Como is a French automotive distribution network **positioned on the premium segment**, with Mercedes-Benz as its central brand. Unlike BYmyCAR, Como does not spread its resources across generalist brands: commercial and technical teams are trained on high-end ranges, with a strong specialisation on Mercedes vehicles.
-
-This focus translates into better command of **technically complex ranges**: AMG, Maybach, EQ (electric), plug-in hybrids. The ability to guide a customer through a bespoke configuration, compare option packages or explain the differences between a C-Class and an E-Class depends directly on this level of specialisation.
-
-### Como's territorial coverage and stock
-
-Como operates dealerships in **French cities with strong premium demand**, with a presence in the main metropolitan areas. Stock includes new vehicles on factory order, immediate stock vehicles and a structured range of **certified pre-owned Mercedes** (Mercedes Certified programme), featuring recent models with extended manufacturer warranties and a 150-point inspection.
-
-To complement your purchase journey, our [complete guide to buying a used car](/en/blog/buying-used-car-guide/) covers the essential checks and common pitfalls to avoid, whether you opt for new or a certified pre-owned Mercedes.
 
 ## Como vs BYmyCAR Mercedes: full network comparison {#comparison}
 
@@ -108,6 +80,34 @@ BYmyCAR has the advantage of **extensive geographic coverage** and the ability t
 
 > "Specialisation of a dealer network on premium brands is one of the factors most correlated with customer satisfaction in the high-end segment. Buyers of premium vehicles expect product expertise that only sales staff trained exclusively on these ranges can consistently provide."
 > — J.D. Power Customer Satisfaction Index Automotive France, 2024
+
+## BYmyCAR Mercedes France: what it really is {#bymycar}
+
+### What is BYmyCAR?
+
+BYmyCAR is one of the largest automotive distribution groups in France, with hundreds of dealerships representing over a hundred different brands. The group was built through successive acquisitions of regional dealerships and local operators, which explains its wide geographical coverage.
+
+Its model is clearly **generalist**: BYmyCAR distributes Renault, Peugeot and Toyota alongside **Mercedes-Benz** and BMW. This versatility allows it to serve a very broad range of buyers, but it also means varying levels of commercial expertise. A sales advisor who sells entry-level vehicles and premium cars within the same group does not have the same level of specialisation as one trained exclusively on high-end ranges throughout their career.
+
+### BYmyCAR Mercedes dealerships in France
+
+BYmyCAR operates **Mercedes-Benz dealerships** in several major French cities, particularly in areas where the group has absorbed local operators. The geographical concentration of its Mercedes sites is, however, less uniform than that of specialised groups.
+
+For buyers in areas where **BYmyCAR is the only authorised Mercedes dealership** within a reasonable distance, the group remains a legitimate option: manufacturer warranties, list prices and Mercedes services are identical. The key watchpoint is **consistency of experience from one site to another**, which can vary significantly depending on the history of each establishment.
+
+## Como Mercedes dealer: the premium expertise {#como}
+
+### Como: a network built on the premium segment
+
+Como is a French automotive distribution network **positioned on the premium segment**, with Mercedes-Benz as its central brand. Unlike BYmyCAR, Como does not spread its resources across generalist brands: commercial and technical teams are trained on high-end ranges, with a strong specialisation on Mercedes vehicles.
+
+This focus translates into better command of **technically complex ranges**: AMG, Maybach, EQ (electric), plug-in hybrids. The ability to guide a customer through a bespoke configuration, compare option packages or explain the differences between a C-Class and an E-Class depends directly on this level of specialisation.
+
+### Como's territorial coverage and stock
+
+Como operates dealerships in **French cities with strong premium demand**, with a presence in the main metropolitan areas. Stock includes new vehicles on factory order, immediate stock vehicles and a structured range of **certified pre-owned Mercedes** (Mercedes Certified programme), featuring recent models with extended manufacturer warranties and a 150-point inspection.
+
+To complement your purchase journey, our [complete guide to buying a used car](/en/blog/buying-used-car-guide/) covers the essential checks and common pitfalls to avoid, whether you opt for new or a certified pre-owned Mercedes.
 
 ## Como or BYmyCAR depending on your buyer profile {#profiles}
 

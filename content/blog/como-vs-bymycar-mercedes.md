@@ -34,9 +34,9 @@ draft: false
 ## Sommaire
 
 - [Deux grands réseaux pour acheter sa Mercedes en France](#contexte)
+- [Como vs BYmyCAR Mercedes : comparatif des deux réseaux](#comparaison)
 - [BYmyCAR Mercedes France : ce que c'est vraiment](#bymycar)
 - [Como concessionnaire Mercedes : l'expertise premium](#como)
-- [Como vs BYmyCAR Mercedes : comparatif des deux réseaux](#comparaison)
 - [Como ou BYmyCAR selon votre profil d'acheteur](#profils)
 - [Comment bien choisir entre Como et BYmyCAR pour votre Mercedes](#conseils)
 - [Questions fréquentes](#questions-frequentes)
@@ -52,34 +52,6 @@ Choisir entre une **concession BYmyCAR Mercedes** et une **concession Como** ne 
 Un **concessionnaire Mercedes agréé** reçoit les mêmes véhicules, les mêmes tarifs catalogue et les mêmes conditions de garantie constructeur, quel que soit le groupe auquel il appartient. Ce qui varie, c'est la couche de service ajoutée par le groupe : financement maison, reprise multimarque, niveau de conseil produit, disponibilité des techniciens en SAV et cohérence de l'accueil entre les sites.
 
 Pour comparer sérieusement **Como ou BYmyCAR pour une Mercedes**, il faut donc analyser ces différences opérationnelles, pas seulement le prix au catalogue.
-
-## BYmyCAR Mercedes France : ce que c'est vraiment {#bymycar}
-
-### BYmyCAR, c'est quoi ?
-
-BYmyCAR est l'un des plus grands groupes de distribution automobile en France, avec des centaines de points de vente représentant plus d'une centaine de marques différentes. Le groupe s'est constitué par regroupements successifs de concessions régionales et d'acteurs locaux, ce qui explique son maillage territorial étendu.
-
-Son modèle est clairement **généraliste** : BYmyCAR distribue aussi bien des Renault, des Peugeot, des Toyota que des **Mercedes-Benz** ou des BMW. Cette polyvalence lui permet de couvrir un spectre très large d'acheteurs, mais elle implique une hétérogénéité dans l'expertise commerciale. Un conseiller qui vend du Dacia et du Mercedes au sein du même groupe n'a pas le même niveau de spécialisation qu'un vendeur dédié au segment premium sur l'ensemble de sa carrière.
-
-### Les concessions BYmyCAR Mercedes en France
-
-BYmyCAR opère des **concessions Mercedes-Benz** dans plusieurs grandes villes françaises, notamment dans des agglomérations où le groupe a repris des acteurs locaux. La concentration géographique des sites Mercedes reste cependant moins homogène que chez des groupes spécialisés.
-
-Pour les acheteurs situés dans des zones où **BYmyCAR est la seule concession Mercedes** agréée à proximité raisonnable, le groupe reste une option légitime : les garanties constructeur, les prix catalogue et les services Mercedes restent identiques. Le point de vigilance concerne la **cohérence de l'expérience d'un site à l'autre**, qui peut varier sensiblement selon l'histoire de chaque établissement.
-
-## Como concessionnaire Mercedes : l'expertise premium {#como}
-
-### Como, un réseau centré sur le segment premium
-
-Como est un réseau de distribution automobile français **positionné sur le segment premium**, avec Mercedes-Benz comme marque centrale. Contrairement à BYmyCAR, Como ne disperse pas ses ressources sur des marques généralistes : les équipes commerciales et techniques sont formées sur les gammes haut de gamme, avec une spécialisation forte sur les véhicules Mercedes.
-
-Cette focalisation se traduit concrètement par une meilleure maîtrise des **gammes techniques complexes** : AMG, Maybach, EQ (électrique), hybrides rechargeables. La capacité à conseiller sur une configuration sur mesure, à comparer des packs optionnels ou à expliquer les différences de comportement entre une A-Class et une C-Class dépend directement de ce niveau de spécialisation.
-
-### Couverture territoriale et stock Como
-
-Como dispose d'un réseau de concessions dans les **agglomérations françaises à forte demande premium**, avec une présence dans les principales métropoles. Les stocks incluent des véhicules neufs en commande usine, des véhicules de stock immédiat et un parc de **véhicules d'occasion certifiés Mercedes** (programme Mercedes Certified), incluant des véhicules récents avec garantie constructeur étendue et contrôle en 150 points.
-
-Pour compléter votre démarche d'achat, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les vérifications essentielles et les pièges à éviter, que vous optiez pour le neuf ou une Mercedes Certified.
 
 ## Como vs BYmyCAR Mercedes : comparatif des deux réseaux {#comparaison}
 
@@ -108,6 +80,34 @@ BYmyCAR dispose de l'avantage de la **couverture géographique étendue** et de 
 
 > "La spécialisation d'un réseau sur les marques premium est l'un des facteurs les plus corrélés à la satisfaction client dans le segment haut de gamme. Les acheteurs de véhicules premium attendent une expertise produit que seuls les vendeurs formés exclusivement sur ces gammes peuvent fournir."
 > — Étude J.D. Power, Customer Satisfaction Index Automotive France, 2024
+
+## BYmyCAR Mercedes France : ce que c'est vraiment {#bymycar}
+
+### BYmyCAR, c'est quoi ?
+
+BYmyCAR est l'un des plus grands groupes de distribution automobile en France, avec des centaines de points de vente représentant plus d'une centaine de marques différentes. Le groupe s'est constitué par regroupements successifs de concessions régionales et d'acteurs locaux, ce qui explique son maillage territorial étendu.
+
+Son modèle est clairement **généraliste** : BYmyCAR distribue aussi bien des Renault, des Peugeot, des Toyota que des **Mercedes-Benz** ou des BMW. Cette polyvalence lui permet de couvrir un spectre très large d'acheteurs, mais elle implique une hétérogénéité dans l'expertise commerciale. Un conseiller qui vend du Dacia et du Mercedes au sein du même groupe n'a pas le même niveau de spécialisation qu'un vendeur dédié au segment premium sur l'ensemble de sa carrière.
+
+### Les concessions BYmyCAR Mercedes en France
+
+BYmyCAR opère des **concessions Mercedes-Benz** dans plusieurs grandes villes françaises, notamment dans des agglomérations où le groupe a repris des acteurs locaux. La concentration géographique des sites Mercedes reste cependant moins homogène que chez des groupes spécialisés.
+
+Pour les acheteurs situés dans des zones où **BYmyCAR est la seule concession Mercedes** agréée à proximité raisonnable, le groupe reste une option légitime : les garanties constructeur, les prix catalogue et les services Mercedes restent identiques. Le point de vigilance concerne la **cohérence de l'expérience d'un site à l'autre**, qui peut varier sensiblement selon l'histoire de chaque établissement.
+
+## Como concessionnaire Mercedes : l'expertise premium {#como}
+
+### Como, un réseau centré sur le segment premium
+
+Como est un réseau de distribution automobile français **positionné sur le segment premium**, avec Mercedes-Benz comme marque centrale. Contrairement à BYmyCAR, Como ne disperse pas ses ressources sur des marques généralistes : les équipes commerciales et techniques sont formées sur les gammes haut de gamme, avec une spécialisation forte sur les véhicules Mercedes.
+
+Cette focalisation se traduit concrètement par une meilleure maîtrise des **gammes techniques complexes** : AMG, Maybach, EQ (électrique), hybrides rechargeables. La capacité à conseiller sur une configuration sur mesure, à comparer des packs optionnels ou à expliquer les différences de comportement entre une A-Class et une C-Class dépend directement de ce niveau de spécialisation.
+
+### Couverture territoriale et stock Como
+
+Como dispose d'un réseau de concessions dans les **agglomérations françaises à forte demande premium**, avec une présence dans les principales métropoles. Les stocks incluent des véhicules neufs en commande usine, des véhicules de stock immédiat et un parc de **véhicules d'occasion certifiés Mercedes** (programme Mercedes Certified), incluant des véhicules récents avec garantie constructeur étendue et contrôle en 150 points.
+
+Pour compléter votre démarche d'achat, le [guide complet pour acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) détaille les vérifications essentielles et les pièges à éviter, que vous optiez pour le neuf ou une Mercedes Certified.
 
 ## Como ou BYmyCAR selon votre profil d'acheteur {#profils}
 
