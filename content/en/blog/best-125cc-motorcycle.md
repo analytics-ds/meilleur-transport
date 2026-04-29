@@ -10,8 +10,8 @@ authors: ["Julien Mercier"]
 categories: ["Individuals"]
 tags: ["125cc motorcycle", "learner bike", "naked", "sports", "comparison"]
 image: "/images/meilleur-moto-125/banner.webp"
-imageAlt: "125cc standard motorcycle, side profile"
-imageCredit: "Photo via Unsplash"
+imageAlt: "Yamaha YZF-R125 sports 125cc motorcycle"
+imageCredit: "Photo Wikimedia Commons"
 draft: false
 ---
 
@@ -62,7 +62,7 @@ Each model is detailed below, sorted by segment: naked, sports, scrambler, mini-
 
 ### Naked 125cc motorcycle: urban versatility
 
-![125cc naked motorcycle in blue and black](/images/meilleur-moto-125/roadster.webp)
+![KTM Duke, naked 125cc motorcycle reference](/images/meilleur-moto-125/roadster.webp)
 
 #### KTM 125 Duke
 
@@ -82,7 +82,7 @@ The Brixton Crossfire 125 targets café racer styling with a 760 mm seat (lowest
 
 ### Sports 125cc motorcycle: for performance and feel
 
-![125cc sports motorcycle white and black, parked](/images/meilleur-moto-125/sportive.webp)
+![Aprilia RS 125 sports 125cc motorcycle](/images/meilleur-moto-125/sportive.webp)
 
 #### Yamaha YZF-R125
 

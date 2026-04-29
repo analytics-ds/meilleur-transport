@@ -10,8 +10,8 @@ authors: ["Julien Mercier"]
 categories: ["Individuals"]
 tags: ["electric motorcycle", "Zero Motorcycles", "Sur-Ron", "LiveWire", "comparison"]
 image: "/images/meilleur-moto-electrique/banner.webp"
-imageAlt: "Modern red electric motorcycle, parked"
-imageCredit: "Photo via Unsplash"
+imageAlt: "Energica Ego, Italian sport electric motorcycle"
+imageCredit: "Photo Wikimedia Commons"
 draft: false
 ---
 

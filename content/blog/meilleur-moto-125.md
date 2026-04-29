@@ -10,8 +10,8 @@ authors: ["Julien Mercier"]
 categories: ["Particuliers"]
 tags: ["moto 125", "permis A1", "roadster", "sportive", "comparatif"]
 image: "/images/meilleur-moto-125/banner.webp"
-imageAlt: "Moto 125 cc standard vue de profil"
-imageCredit: "Photo via Unsplash"
+imageAlt: "Yamaha YZF-R125, sportive 125 cc"
+imageCredit: "Photo Wikimedia Commons"
 draft: false
 ---
 
@@ -61,7 +61,7 @@ Le détail de chaque modèle suit, classé par segment d'usage : roadster, sport
 
 ### Roadsters moto 125 : la polyvalence urbaine
 
-![Moto 125 roadster bleue et noire](/images/meilleur-moto-125/roadster.webp)
+![KTM Duke, référence du roadster moto 125 cc](/images/meilleur-moto-125/roadster.webp)
 
 #### KTM 125 Duke
 
@@ -85,7 +85,7 @@ La Benelli Leoncino 125 reprend les lignes scrambler de la Leoncino 500. Selle 7
 
 ### Sportives moto 125 : pour le pilotage et la sensation
 
-![Moto 125 sportive blanche et noire stationnée](/images/meilleur-moto-125/sportive.webp)
+![Aprilia RS 125, sportive carénée 125 cc](/images/meilleur-moto-125/sportive.webp)
 
 #### Yamaha YZF-R125
 

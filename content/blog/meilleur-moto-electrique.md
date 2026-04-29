@@ -10,8 +10,8 @@ authors: ["Julien Mercier"]
 categories: ["Particuliers"]
 tags: ["moto électrique", "Zero Motorcycles", "Sur-Ron", "Energica", "comparatif"]
 image: "/images/meilleur-moto-electrique/banner.webp"
-imageAlt: "Moto électrique rouge moderne en stationnement"
-imageCredit: "Photo via Unsplash"
+imageAlt: "Energica Ego, moto électrique sportive italienne"
+imageCredit: "Photo Wikimedia Commons"
 draft: false
 ---
 
