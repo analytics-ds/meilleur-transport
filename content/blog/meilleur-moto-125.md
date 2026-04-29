@@ -1,6 +1,6 @@
 ---
-title: "Meilleur moto 125 en 2026 : le guide complet par segment"
-seoTitle: "Meilleur moto 125 : top 10 des modèles à choisir en 2026"
+title: "Quelle est la meilleure moto 125 cc en 2026 ?"
+seoTitle: "Meilleure moto 125 cc : top 10 des modèles à choisir en 2026"
 description: "Comparatif des meilleures motos 125 cc en 2026 : roadsters, sportives, trails, custom. Prix, puissance, conso, hauteur de selle, budget total. Guide d'achat pour débuter ou rouler malin."
 translationKey: "best-125cc-motorcycle"
 date: 2026-04-29
@@ -9,23 +9,23 @@ author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
 tags: ["moto 125", "permis A1", "roadster", "sportive", "comparatif"]
-image: "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=1200&q=80"
-imageAlt: "Moto 125 cc roadster vue de profil dans un environnement urbain"
+image: "/images/meilleur-moto-125/banner.webp"
+imageAlt: "Moto 125 cc standard vue de profil"
 imageCredit: "Photo via Unsplash"
 draft: false
 ---
 
 La **moto 125** est la cylindrée d'entrée pour qui veut débuter à deux roues, accessible dès 16 ans avec le permis A1 et au permis B avec 7 heures de formation. Comptez 2 500 à 7 000 € à l'achat, 3 à 4 L/100 km en conso, 400 à 800 € d'assurance par an pour un jeune permis. Ce comparatif détaille les **11 modèles les plus pertinents en 2026**, classés par segment : roadster, sportive, scrambler, trail. Avec les critères techniques (puissance, poids, hauteur de selle), un tableau récap, le budget total sur 5 ans et la réglementation A1/B.
 
-## Pourquoi choisir une moto 125
+## Pourquoi choisir une moto 125 cc ?
 
 La moto 125 cible plusieurs profils : le jeune qui débute la moto à 16 ans avec le permis A1, l'automobiliste qui veut éviter les bouchons et passer au deux-roues sans repasser un permis lourd, le motard expérimenté qui cherche un petit cylindre économique pour les trajets domicile-travail. Toutes les motos 125 sont bridées par la réglementation européenne à 15 ch (11 kW), avec une vitesse de pointe située entre 100 et 125 km/h selon l'aérodynamique du modèle.
 
-Côté coût, une moto 125 neuve coûte entre **2 500 € et 7 000 €** selon la marque et le segment. La consommation moyenne d'une moto 125 tourne autour de **3 à 4 L/100 km**, soit un budget carburant de l'ordre de 200 à 300 € par an pour 10 000 km. L'assurance jeune permis sur une moto 125 reste raisonnable, généralement 400 à 800 € par an, contre 1 200 € et plus sur une [meilleure moto A2](/blog/meilleure-moto-a2/) en intermédiaire. Pour qui veut partir voyager plutôt qu'apprendre, la [meilleure moto trail](/blog/meilleure-moto-trail/) en cylindrée supérieure reste l'option taillée pour le long cours.
+Côté coût, une moto 125 neuve coûte entre **2 500 € et 7 000 €** selon la marque et le segment. La consommation moyenne d'une moto 125 tourne autour de **3 à 4 L/100 km**, soit un budget carburant de l'ordre de 200 à 300 € par an pour 10 000 km. L'assurance jeune permis sur une moto 125 reste raisonnable, généralement 400 à 800 € par an, contre 1 200 € et plus sur une [meilleure moto A2](/blog/meilleure-moto-a2/) en intermédiaire.
 
 Face au [meilleur scooter 125](/blog/meilleur-scooter-125/), la moto 125 avec embrayage offre un pilotage plus engageant, une posture plus sportive et une meilleure tenue de route à vitesse soutenue. Le scooter reste imbattable pour les trajets ultra-urbains avec arrêts fréquents et coffre intégré, mais la moto 125 prend l'avantage dès qu'on sort de la ville ou qu'on aime sentir la mécanique.
 
-## Critères pour bien choisir une moto 125
+## Critères pour bien choisir une moto 125 cc
 
 Avant d'arrêter un modèle, plusieurs critères techniques et pratiques doivent guider la décision.
 
@@ -39,7 +39,7 @@ Avant d'arrêter un modèle, plusieurs critères techniques et pratiques doivent
 
 **Le budget total** intègre prix d'achat, assurance, entretien périodique (vidange tous les 6 000 km, plaquettes, chaîne, pneus), carte grise (gratuite pour les motos jusqu'à 125 cc dans plusieurs régions), équipement obligatoire (casque, gants, blouson). Une moto 125 cc neuve revient entre 4 000 et 7 000 € la première année tout compris, hors équipement.
 
-## Comparatif synthétique des 11 motos 125
+## Comparatif synthétique des 11 motos 125 cc
 
 | Modèle | Prix neuf | Puissance | Poids | Selle | Conso |
 |---|---|---|---|---|---|
@@ -57,9 +57,11 @@ Avant d'arrêter un modèle, plusieurs critères techniques et pratiques doivent
 
 Le détail de chaque modèle suit, classé par segment d'usage : roadster, sportive, scrambler, trail.
 
-## Top 10 des meilleures motos 125 par segment
+## Top 10 des meilleures motos 125 cc par segment
 
 ### Roadsters moto 125 : la polyvalence urbaine
+
+![Moto 125 roadster bleue et noire](/images/meilleur-moto-125/roadster.webp)
 
 #### KTM 125 Duke
 
@@ -83,6 +85,8 @@ La Benelli Leoncino 125 reprend les lignes scrambler de la Leoncino 500. Selle 7
 
 ### Sportives moto 125 : pour le pilotage et la sensation
 
+![Moto 125 sportive blanche et noire stationnée](/images/meilleur-moto-125/sportive.webp)
+
 #### Yamaha YZF-R125
 
 La **Yamaha YZF-R125** reprend le carénage de la R6, fourche inversée KYB, moteur VVA. Selle 820 mm, position de conduite engagée (commandes reculées, guidons bracelets bas). 15 ch, 142 kg, ABS sur les deux roues. Prix neuf : **6 100 €**. Sur circuit ou routes virageuses, c'est le modèle qui inspire le plus de confiance grâce au châssis en double poutre et à la géométrie sportive (angle de chasse 25°).
@@ -100,6 +104,8 @@ La KTM RC 125 partage le moteur 14,8 ch et le cadre treillis avec la Duke 125, m
 Le duo Suzuki GSX-R125 (carénée) et GSX-S125 (roadster) partage le même monocylindre 15 ch et un châssis léger à 135-141 kg. Prix 4 800-5 000 €. Moteur sans surprise, fiable, peu coûteux à entretenir. Pas de TFT, pas de fioritures : c'est l'option pragmatique japonaise face aux européennes plus chères et plus typées.
 
 ### Trails et routières moto 125 polyvalentes
+
+Le segment trail en 125 cm³ est limité par le bridage à 15 ch : pour partir voyager longue distance, mieux vaut viser plus haut en cylindrée, voir le comparatif [meilleure moto trail](/blog/meilleure-moto-trail/) en 650-1000 cm³.
 
 #### Honda CB125F
 
@@ -133,7 +139,7 @@ Important : le débridage d'une moto 125 est strictement interdit et invalide l'
 
 Pour passer à une cylindrée supérieure, le permis A2 ouvre l'accès aux motos jusqu'à 35 kW (47,5 ch). Modèles typiques après une 125 : la [Yamaha MT-07 ou MT-09](/blog/yamaha-mt07-vs-mt09/) bridées, ou les autres roadsters 35 kW.
 
-## FAQ moto 125
+## FAQ moto 125 cc
 
 ### Quelle est la meilleure moto 125 pour débuter ?
 
@@ -147,7 +153,7 @@ La Honda CB125F est la moto 125 la plus imbattable avec sa consommation de **1,8
 
 Théoriquement oui pour les modèles les mieux carénés (R125, RS 125, RC 125), mais en pratique c'est très limite. À 130 km/h, le moteur de la moto 125 tourne à fond et la consommation explose. Une moto 125 reste **optimale jusqu'à 100-110 km/h** en croisière. Pour un usage régulier sur autoroute, mieux vaut viser une A2 ou plus.
 
-## Quelle moto 125 choisir en 2026
+## Quelle moto 125 cc choisir en 2026 ?
 
 Le choix se fait sur 3 axes : **budget**, **usage**, **niveau de pilotage**.
 

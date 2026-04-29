@@ -1,5 +1,5 @@
 ---
-title: "Best 125cc Motorcycle in 2026: Complete Buyer's Guide by Type"
+title: "What is the best 125cc motorcycle in 2026?"
 seoTitle: "Best 125cc Motorcycle 2026: Top Models for New Riders & Daily Use"
 description: "Comparing the best 125cc motorcycles in 2026: nakeds, sports, scramblers, mini-bikes. Price, power, fuel economy, seat height, total cost. Buyer's guide for learner riders and daily commuters."
 translationKey: "best-125cc-motorcycle"
@@ -9,19 +9,19 @@ author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
 tags: ["125cc motorcycle", "learner bike", "naked", "sports", "comparison"]
-image: "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=1200&q=80"
-imageAlt: "125cc naked motorcycle parked in an urban setting"
+image: "/images/meilleur-moto-125/banner.webp"
+imageAlt: "125cc standard motorcycle, side profile"
 imageCredit: "Photo via Unsplash"
 draft: false
 ---
 
 The **125cc motorcycle** is the entry-displacement for new riders, accessible from age 16 with an A1 license in Europe or with a learner permit in the US, UK and APAC. Expect $3,000 to $8,000 at purchase, 80-100 mpg fuel economy, $400-900 per year in learner insurance. This guide breaks down **12 relevant 125cc models in 2026**, sorted by segment: naked, sports, scrambler, mini-bike, classic. With the technical criteria (power, weight, seat height), a comparison table, the 5-year ownership cost and the legal framework.
 
-## Why choose a 125cc motorcycle
+## Why choose a 125cc motorcycle?
 
 The 125cc motorcycle targets several rider profiles: the young learner riding from age 16 with an A1 license, the car driver looking to skip traffic and switch to two wheels without taking a heavier license test, the experienced motorbike rider seeking a small-displacement machine for cost-efficient daily commuting. All 125cc bikes sold in Europe are restricted by EU regulation to 15 hp (11 kW), with top speeds typically between 65 and 80 mph depending on the model's aerodynamics. US-spec 125cc bikes follow similar power profiles, with most models converging around 11-15 hp.
 
-On the cost side, a new 125cc motorcycle ranges from **$3,000 to $8,000 USD** depending on brand and segment. Average fuel economy for a 125cc motorbike sits around **80-100 mpg** (3-4 L/100 km), translating to a fuel budget of roughly $250-350 per year for 6,000 miles. Insurance for a learner rider on a 125cc bike stays moderate, typically $400-900 per year, compared to over $1,400 on a higher-displacement [best A2 motorcycle](/en/blog/best-a2-motorcycle/) for intermediate riders. For riders looking to travel rather than learn, the [best adventure motorcycle](/en/blog/best-adventure-motorcycle/) in larger displacement remains the option built for long-distance touring.
+On the cost side, a new 125cc motorcycle ranges from **$3,000 to $8,000 USD** depending on brand and segment. Average fuel economy for a 125cc motorbike sits around **80-100 mpg** (3-4 L/100 km), translating to a fuel budget of roughly $250-350 per year for 6,000 miles. Insurance for a learner rider on a 125cc bike stays moderate, typically $400-900 per year, compared to over $1,400 on a higher-displacement [best A2 motorcycle](/en/blog/best-a2-motorcycle/) for intermediate riders.
 
 Compared to the [best 125 scooter](/en/blog/best-125-scooter/), a 125cc motorcycle with manual clutch offers more engaging riding, a sportier riding posture and better road holding at sustained speeds. The scooter remains unbeatable for ultra-urban commutes with frequent stops and integrated storage, but the 125cc motorbike takes the lead the moment you leave the city or want to feel the engine.
 
@@ -62,6 +62,8 @@ Each model is detailed below, sorted by segment: naked, sports, scrambler, mini-
 
 ### Naked 125cc motorcycle: urban versatility
 
+![125cc naked motorcycle in blue and black](/images/meilleur-moto-125/roadster.webp)
+
 #### KTM 125 Duke
 
 The **KTM 125 Duke** runs **14.8 hp at 9,500 rpm** on 159 kg, with a steel trellis frame and a 820 mm seat. The riding behavior is on the nervous side, more sport than commuter. New price: **$5,800 USD**. Downside: maintenance runs 15-20% above segment average (KTM dealer service rates, specific brake pads).
@@ -79,6 +81,8 @@ The Honda CB125R shares the CB125F base but adds a sharper engine (15 hp at 11,7
 The Brixton Crossfire 125 targets café racer styling with a 760 mm seat (lowest in the comparison, useful for shorter riders) and 13 hp on 138 kg. At $4,200, it plays the neo-retro segment at a tight price point. The single-cylinder engine is Chinese-built (KSR Group), 87 mpg fuel economy, decent reliability without more.
 
 ### Sports 125cc motorcycle: for performance and feel
+
+![125cc sports motorcycle white and black, parked](/images/meilleur-moto-125/sportive.webp)
 
 #### Yamaha YZF-R125
 
@@ -107,6 +111,8 @@ The Benelli Leoncino 125 carries the scrambler lines of the Leoncino 500. 785 mm
 The Mash Black Seven 125 is the cheapest of the comparison at $3,200 USD. 12 hp, 130 kg, minimalist vintage roadster look. Finish is below average (paint, welds, plastics) but the engine holds and parts are cheap. Rational pick for tight budgets or riders planning to resell after a few seasons without major depreciation.
 
 ### Mini-bike and learner 125cc motorcycle
+
+The 125cc trail segment is capped at 15 hp, which limits real off-road or long-distance touring use. For genuine adventure riding, the [best adventure motorcycle](/en/blog/best-adventure-motorcycle/) in 650-1000cc displacements is the proper category.
 
 #### Honda Grom 125
 
@@ -154,7 +160,7 @@ The Honda CB125F is unbeatable with **130 mpg** fuel economy and minimal mainten
 
 Theoretically yes for the best-faired models (R125, RS 125, RC 125), but in practice it's borderline. At 80 mph the engine is at full chat and fuel consumption skyrockets. A 125cc motorcycle stays **optimal up to 65-70 mph** at cruise. For regular highway use, an A2 bike or larger is a better choice.
 
-## Which 125cc motorcycle to choose in 2026
+## Which 125cc motorcycle to choose in 2026?
 
 The choice comes down to 3 axes: **budget**, **use case**, **riding level**.
 

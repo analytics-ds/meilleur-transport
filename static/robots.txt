@@ -7,4 +7,9 @@ Allow: /
 # Pas d'indexation pour l'espace admin (si ajouté un jour)
 Disallow: /admin/
 
+# Tags : contenu maigre / duplication, déjà en noindex côté HTML
+# Bloqué aussi en crawl pour économiser le budget Google
+Disallow: /tags/
+Disallow: /en/tags/
+
 Sitemap: https://meilleur-transport.com/sitemap.xml
