@@ -1053,6 +1053,16 @@ img {
 
 .article-content li { margin-bottom: var(--space-xs); }
 
+.article-content img {
+    display: block;
+    max-width: 600px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    margin: var(--space-md) auto;
+    border-radius: var(--radius);
+}
+
 .article-content blockquote {
     border-left: 4px solid var(--primary);
     background-color: var(--background-alt);
