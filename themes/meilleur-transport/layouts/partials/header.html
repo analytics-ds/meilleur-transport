@@ -5,9 +5,9 @@
             <a href="mailto:contact@meilleur-transport.com">&#9993; contact@meilleur-transport.com</a>
         </div>
         <div class="top-bar-center">
-            <span class="top-bar-promo">NOUVEAU</span>
-            <span>Comparez plus de 800 transports gratuitement</span>
-            <a href="{{ "/comparer/" | relURL }}">Comparer &rarr;</a>
+            <span class="top-bar-promo">{{ i18n "topbar_new" }}</span>
+            <span>{{ i18n "topbar_promo" }}</span>
+            <a href="{{ "/comparer/" | relURL }}">{{ i18n "header_compare" }} &rarr;</a>
         </div>
         <div class="top-bar-right">
             {{ $currentLang := .Site.Language.Lang }}
@@ -35,8 +35,8 @@
 <!-- Main header -->
 <header class="site-header">
     <div class="header-container">
-        <a href="{{ "/" | relURL }}" class="site-logo" aria-label="{{ .Site.Title }}">
-            <img src="{{ "/logo.svg" | relURL }}" alt="{{ .Site.Title }}" width="200" height="44" class="site-logo-img">
+        <a href="{{ "/" | relLangURL }}" class="site-logo" aria-label="{{ .Site.Title }}">
+            <img src="{{ "/logo.png" | relURL }}" alt="{{ .Site.Title }}" width="213" height="50" class="site-logo-img">
         </a>
 
         <button class="menu-toggle" aria-label="Menu" aria-expanded="false">
@@ -52,8 +52,8 @@
         </nav>
 
         <div class="header-actions">
-            <a href="{{ "/comparer/" | relURL }}" class="sign-in">&#128202; Comparer</a>
-            <a href="{{ "/proposer/" | relURL }}" class="btn-cta">+ Proposer un transport</a>
+            <a href="{{ "/comparer/" | relURL }}" class="sign-in">&#128202; {{ i18n "header_compare" }}</a>
+            <a href="{{ "/proposer/" | relURL }}" class="btn-cta">+ {{ i18n "header_propose" }}</a>
         </div>
     </div>
 </header>

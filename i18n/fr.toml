@@ -1,0 +1,479 @@
+# Header / top bar
+[topbar_new]
+other = "NOUVEAU"
+
+[topbar_promo]
+other = "Comparez plus de 800 transports gratuitement"
+
+[header_compare]
+other = "Comparer"
+
+[header_propose]
+other = "Proposer un transport"
+
+# Hero
+[hero_tagline]
+other = "Le comparateur n°1 des transports"
+
+[hero_title_line1]
+other = "Comparez les meilleurs transports"
+
+[hero_title_line2]
+other = "pour chacun de vos besoins."
+
+[hero_feature_independent]
+other = "100% indépendant"
+
+[hero_feature_realtime]
+other = "Mis à jour en temps réel"
+
+[hero_feature_free]
+other = "Gratuit et sans inscription"
+
+# Search widget
+[search_tab_cars]
+other = "Voitures"
+
+[search_tab_motos]
+other = "Motos"
+
+[search_tab_softmobility]
+other = "Mobilité douce"
+
+[search_tab_vans]
+other = "Utilitaires"
+
+[search_tab_pro]
+other = "Pro & logistique"
+
+[search_help]
+other = "Besoin d'aide ?"
+
+[search_model_a]
+other = "Modèle A"
+
+[search_model_b]
+other = "Modèle B"
+
+[search_model_a_placeholder]
+other = "ex : Tesla Model 3"
+
+[search_model_b_placeholder]
+other = "ex : BMW i4"
+
+[search_main_criteria]
+other = "Critère principal"
+
+[search_criteria_price]
+other = "Prix"
+
+[search_criteria_range]
+other = "Autonomie"
+
+[search_criteria_consumption]
+other = "Consommation"
+
+[search_criteria_space]
+other = "Espace"
+
+[search_criteria_reliability]
+other = "Fiabilité"
+
+[search_criteria_co2]
+other = "Émissions CO2"
+
+[search_compare_btn]
+other = "Comparer"
+
+# Brands section
+[brands_title]
+other = "Marques suivies"
+
+[brands_subtitle]
+other = "Nous comparons les principales marques de transport du marché"
+
+[brands_link]
+other = "Voir toutes les marques"
+
+# Top compared
+[top_compared_title]
+other = "Les modèles les plus comparés"
+
+[top_compared_subtitle]
+other = "Les transports les plus recherchés sur le comparateur cette semaine"
+
+[vehicle_type_ev_car]
+other = "Voiture électrique"
+
+[vehicle_type_road_motorcycle]
+other = "Moto routière"
+
+[vehicle_type_van]
+other = "Utilitaire"
+
+[vehicle_type_ev_bike]
+other = "Vélo électrique"
+
+[vehicle_type_ev_sedan]
+other = "Berline électrique"
+
+[vehicle_type_family_suv]
+other = "Catégorie SUV familial"
+
+[vehicle_type_van_35t]
+other = "Utilitaire 3.5T"
+
+[vehicle_type_road_motorcycle_a2]
+other = "Moto routière A2"
+
+[comparisons_count]
+other = "comparaisons"
+
+[spec_range_km]
+other = "km d'autonomie"
+
+[spec_consumption_kwh]
+other = "kWh / 100 km"
+
+[spec_consumption_l]
+other = "L / 100 km"
+
+[spec_horsepower]
+other = "ch"
+
+[spec_seats]
+other = "places"
+
+[spec_seat_singular]
+other = "place"
+
+[spec_fuel_petrol]
+other = "Essence"
+
+[spec_fuel_diesel]
+other = "Diesel"
+
+[spec_zero_emissions]
+other = "0 émissions"
+
+[average_price]
+other = "Prix moyen"
+
+[btn_compare]
+other = "Comparer"
+
+[btn_view_all_transports]
+other = "Voir tous les transports"
+
+# Simulator
+[simulator_eyebrow]
+other = "Simulateur personnalisé"
+
+[simulator_title]
+other = "Quel transport est fait pour vous ?"
+
+[simulator_description]
+other = "Répondez à 10 questions rapides sur vos besoins, votre budget et vos priorités. Notre algorithme vous propose les 5 transports les plus adaptés à votre profil. 100% gratuit, sans inscription, 2 minutes chrono."
+
+[simulator_bullet_1]
+other = "10 questions personnalisées"
+
+[simulator_bullet_2]
+other = "5 transports recommandés"
+
+[simulator_bullet_3]
+other = "Résultat instantané"
+
+[simulator_btn_start]
+other = "Commencer le simulateur"
+
+[simulator_question_progress]
+other = "Question 1 / 10"
+
+[simulator_question]
+other = "Quel est votre usage principal ?"
+
+[simulator_option_daily_title]
+other = "Trajet quotidien"
+
+[simulator_option_daily_desc]
+other = "Domicile-travail, courses"
+
+[simulator_option_leisure_title]
+other = "Loisirs & week-ends"
+
+[simulator_option_leisure_desc]
+other = "Évasion, balades, voyages"
+
+[simulator_option_family_title]
+other = "Famille"
+
+[simulator_option_family_desc]
+other = "Enfants, transport collectif"
+
+[simulator_option_pro_title]
+other = "Professionnel"
+
+[simulator_option_pro_desc]
+other = "Livraisons, chantiers, activité"
+
+# CTA propose
+[propose_eyebrow]
+other = "Complétez le comparateur"
+
+[propose_title]
+other = "Proposez un transport manquant à notre base."
+
+[propose_description]
+other = "Vous connaissez un véhicule, une moto, un vélo électrique ou un utilitaire qui n'est pas encore dans notre comparateur ? Soumettez sa fiche en quelques clics. Notre équipe la validera sous 48h."
+
+[propose_btn]
+other = "Proposer un transport"
+
+[propose_btn_how]
+other = "Comment ça marche"
+
+# Categories
+[browse_title]
+other = "Parcourir par catégorie"
+
+[browse_subtitle]
+other = "Trouvez et comparez les transports par type d'usage"
+
+[type_cars]
+other = "Voitures"
+
+[type_motos]
+other = "Motos"
+
+[type_ebikes]
+other = "Vélos élec."
+
+[type_scooters]
+other = "Scooters"
+
+[type_vans]
+other = "Utilitaires"
+
+[type_pro]
+other = "Pro & fret"
+
+[type_models_count]
+other = "modèles"
+
+# Why us
+[why_eyebrow]
+other = "Pourquoi Meilleur Transport"
+
+[why_title]
+other = "Un comparateur indépendant, transparent, et gratuit."
+
+[why_description]
+other = "Nous ne vendons pas de véhicules. Notre seule mission est de vous aider à comparer objectivement les transports disponibles sur le marché, sur tous les critères qui comptent vraiment."
+
+[why_learn_more]
+other = "En savoir plus"
+
+[why_feature_1_title]
+other = "Comparaison transparente"
+
+[why_feature_1_desc]
+other = "Tous les critères sur la même page, sans filtres commerciaux."
+
+[why_feature_2_title]
+other = "Données à jour"
+
+[why_feature_2_desc]
+other = "Specs vérifiées et actualisées en continu par notre équipe."
+
+[why_feature_3_title]
+other = "Impact environnemental"
+
+[why_feature_3_desc]
+other = "Émissions CO2 et bilan carbone affichés pour chaque transport."
+
+[why_feature_4_title]
+other = "100% gratuit"
+
+[why_feature_4_desc]
+other = "Aucune inscription. Aucun abonnement. Aucun frais caché."
+
+# Cost calculator
+[cost_eyebrow]
+other = "Coût total de possession"
+
+[cost_title]
+other = "Calculez le vrai coût d'un transport sur 5 ans."
+
+[cost_description]
+other = "Au-delà du prix d'achat, un transport coûte en carburant ou énergie, assurance, entretien et décote. Notre calculateur intègre tous les postes pour donner la projection la plus réaliste."
+
+[cost_bullet_1]
+other = "Estimation en temps réel"
+
+[cost_bullet_2]
+other = "Tous postes de coût inclus"
+
+[cost_bullet_3]
+other = "Comparaison thermique / hybride / électrique"
+
+[cost_form_title]
+other = "Calcul rapide"
+
+[cost_field_price]
+other = "Prix du transport"
+
+[cost_field_price_value]
+other = "35 000 €"
+
+[cost_field_km]
+other = "Km parcourus par an"
+
+[cost_field_km_value]
+other = "15 000 km"
+
+[cost_field_engine]
+other = "Motorisation"
+
+[cost_field_engine_value]
+other = "Électrique"
+
+[cost_field_duration]
+other = "Durée"
+
+[cost_field_duration_value]
+other = "5 ans"
+
+[cost_btn]
+other = "Calculer le coût total"
+
+# Featured comparisons
+[featured_title]
+other = "Comparatifs coup de cœur"
+
+[featured_subtitle]
+other = "Les comparaisons sélectionnées par notre équipe éditoriale"
+
+[featured_link]
+other = "Tout voir"
+
+[featured_top_week]
+other = "Top cette semaine"
+
+[featured_top_month]
+other = "Top du mois"
+
+[featured_pro_pick]
+other = "Sélection pro"
+
+[featured_favorite]
+other = "Coup de cœur"
+
+[featured_criteria_compared]
+other = "critères comparés"
+
+[featured_min_read]
+other = "min de lecture"
+
+[featured_price_gap]
+other = "Écart de prix"
+
+[featured_range_gap]
+other = "Écart d'autonomie"
+
+[featured_btn_read]
+other = "Lire"
+
+# Locations
+[locations_title]
+other = "Transports populaires par région"
+
+[locations_subtitle]
+other = "Découvrez ce qui se compare le plus dans les grandes villes françaises"
+
+[locations_paris_top]
+other = "Top : électrique & mobilité douce"
+
+[locations_lyon_top]
+other = "Top : hybrides & utilitaires"
+
+[locations_marseille_top]
+other = "Top : scooters & motos"
+
+[locations_bordeaux_top]
+other = "Top : SUV hybrides"
+
+# Testimonials
+[testimonials_title]
+other = "Ce qu'ils disent de nous"
+
+[testimonials_subtitle]
+other = "Plus de 50 000 utilisateurs comparent chaque mois sur Meilleur Transport"
+
+[testimonial_1_text]
+other = "\"J'ai comparé 3 berlines électriques en 2 minutes. Le tableau côte à côte avec les émissions et le coût sur 5 ans m'a vraiment aidé à trancher. Très clair.\""
+
+[testimonial_1_role]
+other = "Consultante, Paris"
+
+[testimonial_2_text]
+other = "\"Le fait que le site soit indépendant et sans affiliation, ça se sent. Les comparaisons sont neutres, j'ai appris des choses que les concessionnaires ne m'avaient jamais dites.\""
+
+[testimonial_2_role]
+other = "Artisan, Lyon"
+
+[testimonial_3_text]
+other = "\"J'ai proposé mon propre utilitaire pour enrichir le comparateur. Fiche validée en 24h, specs parfaitement reprises. Impressionnant le niveau de rigueur.\""
+
+[testimonial_3_role]
+other = "Gérant PME, Marseille"
+
+# Articles
+[articles_title]
+other = "Guides & analyses"
+
+[articles_subtitle]
+other = "Pour aller plus loin que les chiffres bruts"
+
+[articles_link]
+other = "Tout lire"
+
+[article_by]
+other = "par"
+
+# App teaser
+[app_badge]
+other = "Bientôt disponible"
+
+[app_title]
+other = "L'application Meilleur Transport arrive bientôt."
+
+[app_description]
+other = "Tout le comparateur dans votre poche. Sauvegardez vos comparaisons, recevez des alertes sur les nouveautés et partagez vos analyses en un tap. Inscrivez-vous pour être notifié du lancement."
+
+[app_email_placeholder]
+other = "votre@email.com"
+
+[app_btn_notify]
+other = "Me prévenir au lancement"
+
+[app_notify_success]
+other = "Merci, vous serez notifié au lancement."
+
+[app_soon_on]
+other = "Bientôt sur"
+
+[app_image_alt]
+other = "App Meilleur Transport bientôt disponible"
+
+[app_coming_soon]
+other = "Coming soon"
+
+# List page
+[list_articles]
+one = "article"
+other = "articles"
+
+# Date format (Hugo layout)
+[date_format]
+other = "2 January 2006"

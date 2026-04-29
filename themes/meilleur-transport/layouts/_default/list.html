@@ -4,30 +4,42 @@
     <div class="container">
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
+        {{ $pages := where .Pages "Lang" site.Language.Lang }}
+        <span class="list-count">{{ len $pages }} {{ if gt (len $pages) 1 }}{{ i18n "list_articles" 2 }}{{ else }}{{ i18n "list_articles" 1 }}{{ end }}</span>
     </div>
 </section>
 
 <section class="list-content">
     <div class="container">
         <div class="articles-list">
-            {{ range .Pages.ByDate.Reverse }}
+            {{ range (where .Pages "Lang" site.Language.Lang).ByDate.Reverse }}
             <article class="article-card-horizontal">
+                {{ with .Params.image }}
+                <a href="{{ $.RelPermalink }}" class="article-card-thumb">
+                    <img src="{{ . }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+                </a>
+                {{ end }}
                 <div class="article-body">
                     <div class="article-meta">
                         {{ with .Params.categories }}
                         <span class="article-category">{{ index . 0 }}</span>
                         {{ end }}
-                        <time>{{ .Date.Format "2 January 2006" }}</time>
-                        {{ if .Params.readingTime }}
-                        <span class="reading-time">{{ .ReadingTime }} min</span>
-                        {{ end }}
+                        <time>{{ .Date.Format (i18n "date_format") }}</time>
+                        <span class="reading-time">{{ partial "icon" "clock" }} {{ .ReadingTime }} {{ i18n "featured_min_read" }}</span>
                     </div>
                     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                     <p>{{ .Description }}</p>
+                    {{ with .Params.author }}
+                    <div class="article-card-author">
+                        {{ $authorSlug := . | urlize }}
+                        {{ $authorAvatar := printf "/images/authors/%s.jpg" $authorSlug }}
+                        <img src="{{ $authorAvatar | relURL }}" alt="{{ . }}" class="article-card-author-avatar" onerror="this.src='https://i.pravatar.cc/64?u={{ $authorSlug }}';">
+                        <span class="article-card-author-text">{{ i18n "article_by" }} <a href="{{ "/authors/" | relLangURL }}{{ $authorSlug }}/">{{ . }}</a></span>
+                    </div>
+                    {{ end }}
                     <div class="article-tags">
                         {{ range .Params.tags }}
-                        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
                         {{ end }}
                     </div>
                 </div>
