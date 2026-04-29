@@ -12,7 +12,7 @@ tags: ["moto duo", "voyage", "passager", "GT", "trail", "comparatif"]
 image: "/images/meilleures-moto-pour-le-duo/banner.webp"
 imageAlt: "BMW R 1300 GS, référence des meilleures moto pour le duo"
 imageCredit: "Photo Wikimedia Commons"
-draft: false
+draft: true
 ---
 
 Choisir **les meilleures moto pour le duo** en 2026 demande de cibler des modèles spécifiquement conçus pour le confort passager : selle généreuse, suspensions calibrées pour le poids supplémentaire, autonomie longue distance, équipements de voyage (poignées chauffantes, valises, top-case). Comptez **12 000 à 32 000 €** à l'achat selon le segment, des cylindrées allant de 700 à 1800 cm³, et un budget équipement passager (casque, blouson, top-case) de 800 à 1 500 €. Ce guide détaille les **10 meilleures motos pour rouler en duo** par segment (trail aventure, sport-touring, GT, touring premium).

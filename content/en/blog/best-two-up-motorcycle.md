@@ -12,7 +12,7 @@ tags: ["two-up motorcycle", "touring", "passenger", "GT", "adventure", "comparis
 image: "/images/meilleures-moto-pour-le-duo/banner.webp"
 imageAlt: "BMW R 1300 GS, two-up motorcycle reference"
 imageCredit: "Photo Wikimedia Commons"
-draft: false
+draft: true
 ---
 
 Choosing the **best two-up motorcycle** in 2026 means targeting models specifically designed for passenger comfort: wide saddle, suspension calibrated for extra weight, long-range fuel capacity, touring equipment (heated grips, panniers, top case). Expect **$13,000 to $35,000 USD** at purchase depending on the segment, displacements from 700 to 1800cc, and a passenger gear budget (helmet, jacket, top case) of $900 to $1,800. This guide reviews the **10 best two-up motorcycles** by segment (adventure tourer, sport-tourer, GT, premium touring).

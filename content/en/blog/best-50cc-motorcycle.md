@@ -12,7 +12,7 @@ tags: ["50cc motorcycle", "AM license", "supermoto", "enduro", "comparison"]
 image: "/images/meilleur-moto-50cc/banner.webp"
 imageAlt: "Derbi Senda 50, iconic 50cc supermoto motorcycle"
 imageCredit: "Photo Wikimedia Commons"
-draft: false
+draft: true
 ---
 
 The **best 50cc motorcycle** with manual transmission is, in 2026, the first real bike accessible from age 14 with the AM license (former BSR in France) or equivalent permits across Europe. Expect **$2,500 to $5,000 USD** at purchase, 60-90 mpg fuel economy, and a yearly insurance cost around $250 to $500 for a learner rider. This guide reviews the **most relevant 50cc motorcycle models** by segment (supermoto, enduro, road, neo-retro), the technical criteria, the regulatory limits (28 mph max, 6 kW), and the buyer's guide before stepping up to the [best 125cc motorcycle](/en/blog/best-125cc-motorcycle/).

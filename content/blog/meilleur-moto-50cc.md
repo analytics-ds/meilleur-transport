@@ -12,7 +12,7 @@ tags: ["moto 50cc", "permis AM", "supermotard", "enduro", "comparatif"]
 image: "/images/meilleur-moto-50cc/banner.webp"
 imageAlt: "Derbi Senda 50, supermotard 50cc emblématique"
 imageCredit: "Photo Wikimedia Commons"
-draft: false
+draft: true
 ---
 
 La **moto 50cc** à boîte mécanique reste en 2026 la première vraie moto accessible dès 14 ans avec le permis AM (ex-BSR). Comptez **2 200 à 4 500 €** à l'achat, 2,5 à 3,5 L/100 km en consommation, et un coût d'assurance jeune conducteur autour de 250 à 450 € par an. Ce comparatif détaille les **modèles 50cc à boîte les plus pertinents** par segment (supermotard, enduro, route, néo-rétro), avec les critères techniques, les contraintes réglementaires (45 km/h max, 6 kW), et le guide d'achat pour bien choisir avant de passer au [meilleur moto 125 cc](/blog/meilleur-moto-125/).

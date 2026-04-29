@@ -12,7 +12,7 @@ tags: ["motorcycle brands", "manufacturers", "Honda", "Yamaha", "comparison"]
 image: "/images/meilleures-marques-de-moto/banner.webp"
 imageAlt: "Honda Africa Twin, flagship of the leading Japanese motorcycle brand"
 imageCredit: "Photo Wikimedia Commons"
-draft: false
+draft: true
 ---
 
 The **best motorcycle brands** in 2026 split into 4 main blocks: the **Japanese** (Honda, Yamaha, Kawasaki, Suzuki) dominating world volume with 60% of sales, the **premium European** (BMW, Ducati, Triumph, KTM, Aprilia) positioned on build quality and performance, the **American** (Harley-Davidson, Indian) on the cruiser and custom segment, and the **emerging** (Royal Enfield, CFMoto, Zontes) gaining ground on entry-level. This guide details the **10 best motorcycle brands** by positioning and the flagship models of each.

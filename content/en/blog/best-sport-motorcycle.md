@@ -12,7 +12,7 @@ tags: ["sport motorcycle", "supersport", "track", "A2 license", "comparison"]
 image: "/images/meilleur-moto-sportive/banner.webp"
 imageAlt: "Ducati Panigale V4, sport motorcycle reference"
 imageCredit: "Photo Wikimedia Commons"
-draft: false
+draft: true
 ---
 
 The **best sport motorcycle** in 2026 covers a wide segment from **$8,500 to $35,000 USD**, from the A2 license (35 kW restricted in Europe) to full-power A. Engaged riding posture, racing fairing, Brembo brakes, advanced electronics: this category prioritizes track and twisty road performance over long-distance comfort. This guide reviews the most relevant **best sport motorcycle models** by displacement (A2-class, 600cc, hyper-sport) with technical criteria and the licensing rules.
