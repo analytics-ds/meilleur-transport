@@ -171,10 +171,10 @@ articles:
     volume: 90
     kd: 13
     scheduled_date: "2026-05-29"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-29"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleur-moto-roadster/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-naked-motorcycle/"
     error: null
 
   - kw: "meilleur moto au monde"

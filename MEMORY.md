@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-29 | Meilleur moto roadster : par caractère moteur (FR+EN, draft, planifié 29/05) | Particuliers | datafer FR 74 EN 78 vs best 59/62
 - 2026-04-29 | Meilleur moto enduro 4 temps : par discipline (FR+EN, draft, planifié 26/05) | Particuliers | datafer FR 78 EN 62 vs best 57/45
 - 2026-04-29 | Meilleur moto routière : 4 archétypes routiers (FR+EN, draft, planifié 22/05) | Particuliers | datafer FR 77 EN 73 vs best 57/59
 - 2026-04-29 | Meilleur moto cross : guide par profil pilote (FR+EN, draft, planifié 19/05) | Particuliers | datafer FR 81 EN 86 vs best 59/75
