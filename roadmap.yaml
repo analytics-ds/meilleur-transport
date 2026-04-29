@@ -160,10 +160,10 @@ articles:
     volume: 110
     kd: 9
     scheduled_date: "2026-05-26"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-29"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleur-moto-enduro-4-temps/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-4-stroke-enduro-motorcycle/"
     error: null
 
   - kw: "meilleur moto roadster"
