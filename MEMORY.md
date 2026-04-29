@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-29 | Meilleur moto cross : guide par profil pilote (FR+EN, draft, planifié 19/05) | Particuliers | datafer FR 81 EN 86 vs best 59/75
 - 2026-04-29 | Meilleures moto pour le duo : top 10 confort passager (FR+EN) | Particuliers | datafer FR 73 EN 74 vs best 59/62
 - 2026-04-29 | Meilleures marques de moto : top 10 constructeurs (FR+EN) | Particuliers | datafer FR 83 EN 77 vs best 70/68
 - 2026-04-29 | Meilleur moto sportive : top par cylindrée (FR+EN) | Particuliers | datafer FR 67 EN 66 vs best 61/56
