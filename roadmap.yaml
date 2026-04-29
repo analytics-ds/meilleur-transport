@@ -116,10 +116,10 @@ articles:
     volume: 140
     kd: 19
     scheduled_date: "2026-05-12"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-29"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleures-marques-de-moto/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-motorcycle-brands/"
     error: null
 
   - kw: "les meilleures moto pour le duo"
