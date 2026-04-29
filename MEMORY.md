@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-29 | Meilleur moto 50cc homologuée : par profil pilote (FR+EN, draft, planifié 05/06) | Particuliers | datafer FR 74 EN 63 vs best 59/56
 - 2026-04-29 | Meilleur moto au monde : 5 superlatifs (FR+EN, draft, planifié 02/06) | Particuliers | datafer FR 80 EN 72 vs best 61/57
 - 2026-04-29 | Meilleur moto roadster : par caractère moteur (FR+EN, draft, planifié 29/05) | Particuliers | datafer FR 74 EN 78 vs best 59/62
 - 2026-04-29 | Meilleur moto enduro 4 temps : par discipline (FR+EN, draft, planifié 26/05) | Particuliers | datafer FR 78 EN 62 vs best 57/45

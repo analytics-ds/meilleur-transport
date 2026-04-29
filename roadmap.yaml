@@ -193,10 +193,10 @@ articles:
     volume: 90
     kd: 16
     scheduled_date: "2026-06-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-29"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleur-moto-50cc-homologue/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-50cc-street-legal-motorcycle/"
     error: null
 
   - kw: "meilleur moto routiere d'occasion"
