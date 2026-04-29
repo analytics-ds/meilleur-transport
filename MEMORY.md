@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-29 | Meilleur moto sportive : top par cylindrée (FR+EN) | Particuliers | datafer FR 67 EN 66 vs best 61/56
 - 2026-04-29 | Meilleur moto 50cc : guide par segment (FR+EN) | Particuliers | datafer FR 73 EN 74 vs best 59/64
 - 2026-04-29 | Meilleur moto electrique : guide par usage (FR+EN) | Particuliers | datafer FR 62 EN 77 vs best 59/76
 - 2026-04-29 | Meilleur moto 125 : le guide complet par segment (FR+EN) | Particuliers | datafer FR 73 EN 81 vs best 56/75

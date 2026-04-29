@@ -105,10 +105,10 @@ articles:
     volume: 140
     kd: 18
     scheduled_date: "2026-05-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-29"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleur-moto-sportive/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-sport-motorcycle/"
     error: null
 
   - kw: "meilleures marques de moto"
