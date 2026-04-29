@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-29 | Meilleur moto 125 : le guide complet par segment (FR+EN) | Particuliers | datafer FR 73 EN 81 vs best 56/75
 - 2026-04-28 | Como ou BYmyCAR pour une Mercedes ? (FR+EN) | Particuliers
 - 2026-04-28 | Meilleur vélo électrique 2026 : guide et comparatif complet (FR+EN) | Particuliers | auto
 
