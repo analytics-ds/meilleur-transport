@@ -94,10 +94,10 @@ articles:
     volume: 170
     kd: 11
     scheduled_date: "2026-05-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-29"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleur-moto-50cc/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-50cc-motorcycle/"
     error: null
 
   - kw: "meilleur moto sportive"
