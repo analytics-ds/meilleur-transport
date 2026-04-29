@@ -15,13 +15,13 @@ imageCredit: "Photo via Unsplash"
 draft: false
 ---
 
-Choisir une moto 125 en 2026 n'a jamais été aussi pertinent. Le segment de la moto 125 reste la porte d'entrée la plus économique vers la moto, accessible dès 16 ans avec le permis A1 et même au permis B après une formation de 7 heures. Les meilleures motos 125 combinent agilité urbaine, faible coût d'usage et plaisir de pilotage suffisant pour des trajets quotidiens ou des balades du week-end. Ce guide complet de la moto 125 passe en revue les modèles les plus performants par segment (roadster, sportive, trail, custom), avec les critères pour bien choisir selon le budget et l'usage prévu.
+Choisir une **moto 125** en 2026 n'a jamais été aussi pertinent. Le segment de la moto 125 reste la **porte d'entrée la plus économique** vers la moto, accessible dès 16 ans avec le permis A1 et même au permis B après une formation de 7 heures. Les meilleures motos 125 combinent agilité urbaine, faible coût d'usage et plaisir de pilotage suffisant pour des trajets quotidiens ou des balades du week-end. Ce guide complet de la moto 125 passe en revue les modèles les plus performants par segment (roadster, sportive, trail, custom), avec les critères pour bien choisir selon le budget et l'usage prévu.
 
 ## Pourquoi choisir une moto 125
 
 La moto 125 cible plusieurs profils : le jeune qui débute la moto à 16 ans avec le permis A1, l'automobiliste qui veut éviter les bouchons et passer au deux-roues sans repasser un permis lourd, le motard expérimenté qui cherche un petit cylindre économique pour les trajets domicile-travail. Toutes les motos 125 sont bridées par la réglementation européenne à 15 ch (11 kW), avec une vitesse de pointe située entre 100 et 125 km/h selon l'aérodynamique du modèle.
 
-Côté coût, une moto 125 neuve coûte entre 2 500 € et 7 000 € selon la marque et le segment. La consommation moyenne d'une moto 125 tourne autour de 3 à 4 L/100 km, soit un budget carburant de l'ordre de 200 à 300 € par an pour 10 000 km. L'assurance jeune permis sur une moto 125 reste raisonnable, généralement 400 à 800 € par an, contre 1 200 € et plus sur une [meilleure moto A2](/blog/meilleure-moto-a2/) en intermédiaire.
+Côté coût, une moto 125 neuve coûte entre **2 500 € et 7 000 €** selon la marque et le segment. La consommation moyenne d'une moto 125 tourne autour de **3 à 4 L/100 km**, soit un budget carburant de l'ordre de 200 à 300 € par an pour 10 000 km. L'assurance jeune permis sur une moto 125 reste raisonnable, généralement 400 à 800 € par an, contre 1 200 € et plus sur une [meilleure moto A2](/blog/meilleure-moto-a2/) en intermédiaire. Pour qui veut partir voyager plutôt qu'apprendre, la [meilleure moto trail](/blog/meilleure-moto-trail/) en cylindrée supérieure reste l'option taillée pour le long cours.
 
 Face au [meilleur scooter 125](/blog/meilleur-scooter-125/), la moto 125 avec embrayage offre un pilotage plus engageant, une posture plus sportive et une meilleure tenue de route à vitesse soutenue. Le scooter reste imbattable pour les trajets ultra-urbains avec arrêts fréquents et coffre intégré, mais la moto 125 prend l'avantage dès qu'on sort de la ville ou qu'on aime sentir la mécanique.
 
@@ -47,11 +47,11 @@ La sélection des meilleures motos 125 ci-dessous regroupe les modèles les plus
 
 #### KTM 125 Duke
 
-La KTM Duke 125 reste la référence sportive du segment 125 roadster depuis sa refonte. Avec ses 14,8 ch à 9 500 tr/min, son poids contenu de 159 kg et son cadre treillis acier signature KTM, elle offre un comportement vif et un pilotage engageant qui plaît autant aux débutants ambitieux qu'aux automobilistes en reconversion. La selle de 820 mm est confortable, l'instrumentation TFT couleur moderne. Comptez environ 5 500 € neuve. Son seul défaut : un coût d'entretien légèrement supérieur à la moyenne du segment.
+La **KTM Duke 125** reste la référence sportive du segment 125 roadster depuis sa refonte. Avec ses **14,8 ch à 9 500 tr/min**, son poids contenu de 159 kg et son cadre treillis acier signature KTM, elle offre un comportement vif et un pilotage engageant qui plaît autant aux débutants ambitieux qu'aux automobilistes en reconversion. La selle de 820 mm est confortable, l'instrumentation TFT couleur moderne. Comptez environ **5 500 € neuve**. Son seul défaut : un coût d'entretien légèrement supérieur à la moyenne du segment.
 
 #### Yamaha MT-125
 
-La Yamaha MT-125 reprend l'ADN naked agressif de la famille MT, avec ses optiques à LED, sa fourche inversée et son système VVA (variable valve actuation) qui optimise le couple sur toute la plage de régime. À 4 ch et 142 kg, elle affiche un pilotage homogène et une ergonomie accessible (selle 810 mm). Son moteur monocylindre de 125 cc est réputé pour sa fiabilité longue durée. Prix neuf : environ 5 200 €.
+La **Yamaha MT-125** reprend l'ADN naked agressif de la famille MT, avec ses optiques à LED, sa fourche inversée et son système VVA (variable valve actuation) qui optimise le couple sur toute la plage de régime. À 14 ch et 142 kg, elle affiche un pilotage homogène et une ergonomie accessible (selle 810 mm). Son moteur monocylindre de 125 cc est réputé pour sa **fiabilité longue durée**. Prix neuf : environ **5 200 €**.
 
 #### Brixton Crossfire 125
 
@@ -87,7 +87,7 @@ Le duo Suzuki GSX-R125 (sportive carénée) et GSX-S125 (roadster sportif) parta
 
 #### Honda CB125F
 
-La Honda CB125F est l'une des motos 125 cc les plus vendues en Europe, et pour cause : 1,8 L/100 km de consommation moyenne, 10,7 ch suffisants en ville et sur petite route, prix accessible (3 100 €), fiabilité Honda légendaire. Selle basse à 775 mm, poids contenu à 117 kg : c'est la 125 idéale pour débuter sereinement et apprendre les fondamentaux du pilotage sans s'inquiéter de la mécanique.
+La **Honda CB125F** est l'une des motos 125 cc les plus vendues en Europe, et pour cause : **1,8 L/100 km** de consommation moyenne, 10,7 ch suffisants en ville et sur petite route, prix accessible (3 100 €), **fiabilité Honda légendaire**. Selle basse à 775 mm, poids contenu à 117 kg : c'est la 125 idéale pour débuter sereinement et apprendre les fondamentaux du pilotage sans s'inquiéter de la mécanique.
 
 #### Honda CB125R
 
@@ -135,32 +135,20 @@ Pour passer ensuite à une cylindrée supérieure, le permis A2 ouvre l'accès a
 
 ## FAQ moto 125
 
-**Quelle est la meilleure moto 125 pour débuter ?**
+### Quelle est la meilleure moto 125 pour débuter ?
 
-La Honda CB125F reste le choix le plus rationnel pour débuter : poids plume, hauteur de selle accessible, fiabilité éprouvée, prix bas, consommation imbattable. Pour qui cherche un peu plus de caractère sans casser la tirelire, la Yamaha MT-125 ou la KTM 125 Duke sont d'excellentes alternatives.
+La **Honda CB125F** reste le choix le plus rationnel pour débuter : poids plume, hauteur de selle accessible, fiabilité éprouvée, prix bas, consommation imbattable. Pour qui cherche un peu plus de caractère sans casser la tirelire, la Yamaha MT-125 ou la KTM 125 Duke sont d'excellentes alternatives.
 
-**Quelle est la moto 125 la plus économique à l'usage ?**
+### Quelle est la moto 125 la plus économique à l'usage ?
 
-La Honda CB125F est la moto 125 la plus imbattable avec sa consommation de 1,8 L/100 km et un coût d'entretien minimal. La Mash Black Seven 125 est aussi très économique à l'achat (2 800 €) mais consomme un peu plus.
+La Honda CB125F est la moto 125 la plus imbattable avec sa consommation de **1,8 L/100 km** et un coût d'entretien minimal. La Mash Black Seven 125 est aussi très économique à l'achat (2 800 €) mais consomme un peu plus.
 
-**Une moto 125 peut-elle rouler à 130 km/h sur autoroute ?**
+### Une moto 125 peut-elle rouler à 130 km/h sur autoroute ?
 
-Théoriquement oui pour les modèles les mieux carénés (R125, RS 125, RC 125), mais en pratique c'est très limite. À 130 km/h, le moteur de la moto 125 tourne à fond et la consommation explose. Une moto 125 reste optimale jusqu'à 100-110 km/h en croisière. Pour un usage régulier sur autoroute, mieux vaut viser une A2 ou plus.
-
-**Quelle est la 125 la plus performante ?**
-
-L'Aprilia RS 125 et la Yamaha YZF-R125 dominent en sportive pure, avec leurs 14,5 à 15 ch optimisés. La KTM 125 Duke est la plus polyvalente entre roadster et sportive. Le pilotage et les sensations en virage sont nettement supérieurs sur une vraie sportive carénée.
-
-**Faut-il une moto 125 thermique ou électrique en 2026 ?**
-
-L'offre de moto 125 électrique équivalente reste limitée en 2026 (Super Soco, Voge, Silence). Les autonomies tournent autour de 100-120 km, ce qui reste juste pour qui sort souvent de la ville. Pour un usage strictement urbain quotidien, la moto 125 électrique devient pertinente. Pour la polyvalence, la moto 125 thermique garde l'avantage.
-
-**Une moto 125 convient-elle pour une utilisation à deux ?**
-
-Oui en théorie, toutes les moto 125 sont homologuées biplaces, mais les performances en duo sont vraiment limitées. La puissance disponible de la moto 125 chute considérablement avec un passager, et les reprises deviennent laborieuses. Pour rouler à deux régulièrement, la moto 125 montre vite ses limites face à une cylindrée supérieure.
+Théoriquement oui pour les modèles les mieux carénés (R125, RS 125, RC 125), mais en pratique c'est très limite. À 130 km/h, le moteur de la moto 125 tourne à fond et la consommation explose. Une moto 125 reste **optimale jusqu'à 100-110 km/h** en croisière. Pour un usage régulier sur autoroute, mieux vaut viser une A2 ou plus.
 
 ## Conclusion : quelle moto 125 choisir en 2026
 
-Le choix de la meilleure moto 125 dépend avant tout de l'usage et du budget. Pour débuter sereinement avec un budget serré, la Honda CB125F reste la valeur sûre côté moto 125. Pour un look caractérisé et un budget d'entrée, la Mash Black Seven 125 ou la Brixton Crossfire 125 cochent toutes les cases. Pour un pilotage sportif et engageant, la KTM 125 Duke, la Yamaha MT-125 ou la Honda CB125R sont les meilleurs choix polyvalents en moto 125. Pour celles et ceux qui visent la performance maximale et le look hyper-sportif, l'Aprilia RS 125 et la Yamaha YZF-R125 dominent leur catégorie.
+Le choix de la meilleure moto 125 dépend avant tout de l'usage et du budget. Pour **débuter sereinement** avec un budget serré, la **Honda CB125F** reste la valeur sûre côté moto 125. Pour un look caractérisé et un budget d'entrée, la Mash Black Seven 125 ou la Brixton Crossfire 125 cochent toutes les cases. Pour un **pilotage sportif et engageant**, la KTM 125 Duke, la Yamaha MT-125 ou la Honda CB125R sont les meilleurs choix polyvalents en moto 125. Pour celles et ceux qui visent la **performance maximale** et le look hyper-sportif, l'Aprilia RS 125 et la Yamaha YZF-R125 dominent leur catégorie.
 
 Quel que soit le modèle retenu, une moto 125 bien choisie offre un rapport plaisir/coût difficile à battre dans le monde de la moto. C'est l'option idéale pour découvrir la conduite deux-roues, économiser sur les trajets quotidiens, ou compléter un parc moto avec un petit cylindre malin et fiable.
