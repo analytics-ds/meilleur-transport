@@ -15,7 +15,7 @@ imageCredit: "Photo via Unsplash"
 draft: false
 ---
 
-Choosing the **best 125cc motorcycle** in 2026 has never been more relevant. The 125cc segment remains the **most affordable entry point** into motorcycling, accessible from age 16 with an A1 license in Europe or with the right learner permit in the US, UK and Asia-Pacific markets. The best 125cc motorcycle combines urban agility, low running costs and enough riding pleasure for daily commutes or weekend rides. This complete guide reviews the top performing 125cc motorcycle models by category (naked, sports, scrambler, mini-bike, classic), with the criteria for choosing the right one based on budget and intended use.
+The **125cc motorcycle** is the entry-displacement for new riders, accessible from age 16 with an A1 license in Europe or with a learner permit in the US, UK and APAC. Expect $3,000 to $8,000 at purchase, 80-100 mpg fuel economy, $400-900 per year in learner insurance. This guide breaks down **12 relevant 125cc models in 2026**, sorted by segment: naked, sports, scrambler, mini-bike, classic. With the technical criteria (power, weight, seat height), a comparison table, the 5-year ownership cost and the legal framework.
 
 ## Why choose a 125cc motorcycle
 
@@ -39,67 +39,7 @@ Several technical and practical criteria should guide the decision before settli
 
 **Total budget** integrates purchase price, insurance, scheduled maintenance (oil change every 4,000-5,000 miles, brake pads, chain, tires), registration and required gear (helmet, gloves, jacket). A new 125cc motorcycle costs between $4,500 and $8,500 in the first year all-in, excluding personal gear.
 
-## Top 12 best 125cc motorcycle models by category
-
-The selection below groups the most representative 125cc motorcycle models in 2026, classified by usage segment. Each 125cc motorbike has been picked for its value-for-money, proven reliability and relevance for learner or intermediate riders.
-
-### Naked 125cc motorcycle: urban versatility
-
-#### KTM 125 Duke
-
-The KTM 125 Duke remains the sports reference in the 125cc naked motorcycle segment. With 14.8 hp at 9,500 rpm, contained 159 kg curb weight and KTM's signature steel trellis frame, it delivers sharp behavior and engaging riding that appeals to ambitious learners and car drivers alike. The 820 mm seat is comfortable, the modern TFT instrumentation is class-leading. Around $5,800 USD new. Its only drawback: maintenance costs slightly above the segment average.
-
-#### Yamaha MT-125
-
-The Yamaha MT-125 carries the aggressive naked DNA of the MT family, with LED optics, an upside-down fork and the Yamaha VVA (variable valve actuation) system that optimizes torque across the rev range. At 14 hp and 142 kg, it shows balanced riding behavior and accessible ergonomics (810 mm seat). Its 125cc single-cylinder engine is renowned for long-term reliability. New price: about $5,500 USD.
-
-#### Honda CB125R
-
-The Honda CB125R adopts a neo-sport-cafe look and a sharper four-stroke 125cc engine (15 hp at 11,700 rpm). Showa upside-down suspension, ABS on both wheels, premium finish: it's the upmarket version of the CB125F at around $5,000 USD. For riders wanting a 125cc motorcycle that looks more premium than its displacement.
-
-#### Brixton Crossfire 125
-
-The Brixton Crossfire 125 plays the neo-retro card with a defined custom approach. Low 760 mm seat, café racer look, polished finish for the price: it's an ideal 125cc motorbike for riders wanting a stylish small-displacement machine without spending more than $4,200 USD. The 13 hp engine delivers modest but coherent performance for urban use and easy weekend rides.
-
-### Sports 125cc motorcycle: for performance and feel
-
-#### Yamaha YZF-R125
-
-The Yamaha YZF-R125 is the quintessential sports 125cc motorcycle in Europe and beyond. Bodywork inherited from the R6, KYB upside-down fork and VVA engine make it the highest-performing 125cc bike in corners. High 820 mm seat, slightly committed riding position, efficient ABS braking: it's the perfect 125cc motorbike for riders dreaming of track days or twisty roads. About $6,500 USD new.
-
-#### Aprilia RS 125
-
-The Aprilia RS 125 offers a hyper-sports look inspired by the RSV4, with an aluminum chassis and tight-travel suspension for incisive riding. The 14.5 hp single-cylinder engine at 10,750 rpm performs strongly with well-spaced gearing, and the TFT instrumentation rivals 600cc bikes. Demanding riding position, high price ($6,900 USD), but probably the most accomplished sports 125cc motorcycle on the market.
-
-#### KTM RC 125
-
-The KTM RC 125 brings the sports KTM DNA into a compact, track-oriented bodywork. Trellis frame, switchable ABS, committed position: it's a pure-bred sports 125cc motorcycle that demands physical engagement. At $6,200 USD, it stays competitive against the R125 and RS 125.
-
-### Scrambler and classic 125cc motorcycle
-
-#### Fantic Caballero 125
-
-The Fantic Caballero 125 channels Italian scrambler heritage with a modern twist. Dual-purpose tires, raised handlebars, premium finish: it's one of the best classic 125cc motorbike options for buyers who want vintage style with real off-road capability. About $5,500 USD. The Fantic Caballero 125 has become a benchmark in the scrambler 125 segment.
-
-#### Benelli Leoncino 125
-
-The Benelli Leoncino 125 borrows the lines of the larger Leoncino 500, delivering an urban scrambler with assertive looks. 785 mm seat, 145 kg, 14 hp: the coherent spec sheet is offset by a higher price point ($5,400 USD) justified by Italian build quality and stylistic signature. One of the best 125cc motorcycle choices for riders who want to step away from classic Japanese designs.
-
-#### Mash Black Seven 125
-
-The Mash Black Seven 125 embodies vintage roadster spirit at a price that beats the competition (around $3,200 USD new). Its 12 hp single-cylinder engine and lightweight 130 kg frame make it an excellent learner 125cc motorbike, despite a less polished finish than European models. A classic for riders who love raw style and tight budgets.
-
-### Mini-bike and learner 125cc motorcycle
-
-#### Honda Grom 125
-
-The Honda Grom 125 is a cult model in the US and Asia-Pacific. With its small 12-inch wheels, 102 kg featherweight and 9.7 hp engine, it's designed for fun rather than performance. The Grom 125 is the perfect city motorbike, also popular as a second bike for experienced motorcycle owners. Around $3,500 USD new.
-
-#### Honda CB125F
-
-The **Honda CB125F** is one of the most popular 125cc motorcycles in Europe, and for good reason: **130 mpg** average fuel economy, 10.7 hp sufficient for city and country roads, accessible price ($3,400 USD), **legendary Honda reliability**. Low 775 mm seat, contained 117 kg weight: it's the ideal learner 125cc bike to start serenely and learn riding fundamentals without worrying about mechanics.
-
-## Best 125cc motorcycle comparison table
+## 125cc motorcycle comparison table
 
 | Model | Price (USD) | Power | Weight | Seat | Fuel |
 |---|---|---|---|---|---|
@@ -115,6 +55,66 @@ The **Honda CB125F** is one of the most popular 125cc motorcycles in Europe, and
 | Mash Black Seven 125 | $3,200 | 12 hp | 130 kg | 780 mm | 85 mpg |
 | Honda Grom 125 | $3,500 | 9.7 hp | 102 kg | 760 mm | 100 mpg |
 | Honda CB125F | $3,400 | 10.7 hp | 117 kg | 775 mm | 130 mpg |
+
+Each model is detailed below, sorted by segment: naked, sports, scrambler, mini-bike, classic.
+
+## Top 12 best 125cc motorcycle models by category
+
+### Naked 125cc motorcycle: urban versatility
+
+#### KTM 125 Duke
+
+The **KTM 125 Duke** runs **14.8 hp at 9,500 rpm** on 159 kg, with a steel trellis frame and a 820 mm seat. The riding behavior is on the nervous side, more sport than commuter. New price: **$5,800 USD**. Downside: maintenance runs 15-20% above segment average (KTM dealer service rates, specific brake pads).
+
+#### Yamaha MT-125
+
+The **Yamaha MT-125** uses the VVA (variable valve actuation) system that shifts cam profile from 7,400 rpm, boosting top-end torque. 14 hp, 142 kg, 810 mm seat. The Yamaha single holds 100,000 km without major engine work, which is why it dominates the 3-year used market. New price: **$5,500 USD**.
+
+#### Honda CB125R
+
+The Honda CB125R shares the CB125F base but adds a sharper engine (15 hp at 11,700 rpm), Showa upside-down forks and ABS on both wheels. 130 kg, 815 mm seat, **$5,000 USD**. Difference vs CB125F: sportier riding, higher-end finish (TFT, aluminum swingarm), 90 mpg fuel economy instead of 130.
+
+#### Brixton Crossfire 125
+
+The Brixton Crossfire 125 targets café racer styling with a 760 mm seat (lowest in the comparison, useful for shorter riders) and 13 hp on 138 kg. At $4,200, it plays the neo-retro segment at a tight price point. The single-cylinder engine is Chinese-built (KSR Group), 87 mpg fuel economy, decent reliability without more.
+
+### Sports 125cc motorcycle: for performance and feel
+
+#### Yamaha YZF-R125
+
+The **Yamaha YZF-R125** uses R6-inspired bodywork, a KYB upside-down fork, and the VVA engine. 820 mm seat, committed riding position (rear-set controls, low clip-on bars). 15 hp, 142 kg, ABS on both wheels. New price: **$6,500 USD**. On track or twisty roads, it's the model that gives the most confidence thanks to the twin-spar frame and the sport geometry (25° rake angle).
+
+#### Aprilia RS 125
+
+The **Aprilia RS 125** runs an aluminum chassis with tight-travel suspension (110 mm front). 14.5 hp at 10,750 rpm, color TFT dash. Riding position is very committed, uncomfortable past 1 hour in the saddle. Price **$6,900 USD**. It's one of the only two 125cc sports bikes with an aluminum frame, which justifies the price gap vs the R125 and RC 125.
+
+#### KTM RC 125
+
+The KTM RC 125 shares the 14.8 hp engine and trellis frame with the Duke 125, but with track-oriented bodywork and riding position (rear-set controls, raised footpegs). Switchable rear ABS, rare on a 125. Price **$6,200 USD**. Logical pick for riders who want track-day capable 125cc without breaking the bank.
+
+### Scrambler and classic 125cc motorcycle
+
+#### Fantic Caballero 125
+
+The Fantic Caballero 125 is built on a steel tubular frame with dual-purpose tires (Continental TKC 70) and raised handlebars. 13.5 hp, 132 kg, 815 mm seat, $5,500 USD. The Italian build quality (welds, paint, instruments) puts it ahead of Asian-built competitors at the same price point. Decent off-road capability for forest tracks and gravel.
+
+#### Benelli Leoncino 125
+
+The Benelli Leoncino 125 carries the scrambler lines of the Leoncino 500. 785 mm seat, 145 kg, 14 hp, **$5,400 USD**. Italian finish (paint, seat, analog instruments) justifies the price gap vs the Japanese rivals. Upright riding position, comfortable pillion seat for short two-up rides.
+
+#### Mash Black Seven 125
+
+The Mash Black Seven 125 is the cheapest of the comparison at $3,200 USD. 12 hp, 130 kg, minimalist vintage roadster look. Finish is below average (paint, welds, plastics) but the engine holds and parts are cheap. Rational pick for tight budgets or riders planning to resell after a few seasons without major depreciation.
+
+### Mini-bike and learner 125cc motorcycle
+
+#### Honda Grom 125
+
+The Honda Grom 125 has a strong following in the US and APAC. 12-inch wheels, 102 kg, 9.7 hp single. Designed for fun riding rather than transport: short wheelbase, low seat, easy mods. Often used as a second bike or pit bike by experienced riders. Price **$3,500 USD**.
+
+#### Honda CB125F
+
+The **Honda CB125F** posts **130 mpg** measured on WMTC cycle, the most economical of the comparison. 10.7 hp, 117 kg, 775 mm seat, **$3,400 USD**. It's the best-selling 125cc motorcycle in France across all brands, partly due to engine reliability (the GLH125 unit holds 80,000 km without rebuild) and cheap maintenance ($60 oil change at dealer, generic parts).
 
 ## Total cost of owning a 125cc motorcycle over 5 years
 
@@ -138,7 +138,7 @@ For European Class B (car) license holders, a 7-hour practical training course (
 
 Important: derestricting a 125cc motorcycle is strictly illegal and voids insurance coverage. Production models all show their official 15 hp output, with some gaining a few horsepower at use through homologated exhausts (legal) but never exceeding the legal cap.
 
-For riders looking to step up to a higher displacement next, the A2 license opens access to motorcycles up to 35 kW (47.5 hp). It's the natural next step, with models like the [Yamaha MT-07 or MT-09](/en/blog/yamaha-mt07-vs-mt09/) at the top of the accessible range.
+To move up to a higher displacement, the A2 license gives access to motorcycles up to 35 kW (47.5 hp). Typical step-ups after a 125: the [Yamaha MT-07 or MT-09](/en/blog/yamaha-mt07-vs-mt09/) restricted versions, or other 35 kW nakeds.
 
 ## FAQ: best 125cc motorcycle
 
@@ -154,8 +154,15 @@ The Honda CB125F is unbeatable with **130 mpg** fuel economy and minimal mainten
 
 Theoretically yes for the best-faired models (R125, RS 125, RC 125), but in practice it's borderline. At 80 mph the engine is at full chat and fuel consumption skyrockets. A 125cc motorcycle stays **optimal up to 65-70 mph** at cruise. For regular highway use, an A2 bike or larger is a better choice.
 
-## Conclusion: which 125cc motorcycle to choose in 2026
+## Which 125cc motorcycle to choose in 2026
 
-The choice of the best 125cc motorcycle depends primarily on **usage and budget**. To **start serenely** with a tight budget, the **Honda CB125F** remains the safe bet. For a defined look and an entry-level budget, the Mash Black Seven 125 or Brixton Crossfire 125 tick every box. For **sporty engaging riding**, the KTM 125 Duke, Yamaha MT-125 or Honda CB125R are the best versatile 125cc motorbike picks. For riders aiming at **maximum performance** and a hyper-sports look, the Aprilia RS 125 and Yamaha YZF-R125 dominate their category. For pure fun and a unique style statement, the Honda Grom 125 stands alone.
+The choice comes down to 3 axes: **budget**, **use case**, **riding level**.
 
-Whatever model you pick, a well-chosen 125cc motorcycle delivers a hard-to-beat fun-to-cost ratio in the motorcycle world. It's the ideal option to discover two-wheel riding, save on daily commutes, or complement a motorcycle collection with a smart, reliable small-displacement bike.
+- **Budget < $3,500** : Honda CB125F ($3,400) for fuel economy and reliability, or Mash Black Seven 125 ($3,200) for style with no extras.
+- **Daily urban + weekend rides**: Yamaha MT-125 ($5,500) or KTM 125 Duke ($5,800). Versatile nakeds, all-day ergonomics.
+- **Sporty riding and track days**: Yamaha YZF-R125 ($6,500) or Aprilia RS 125 ($6,900). Track-capable frames, committed position, ABS.
+- **Style first**: Brixton Crossfire 125 ($4,200) or Benelli Leoncino 125 ($5,400). Neo-retro and scrambler.
+- **Fun bike or second bike**: Honda Grom 125 ($3,500). Niche but addictive.
+- **First bike, no risk**: Honda CB125R ($5,000). Compromise between riding, reliability, and finish.
+
+Average annual mileage on a 125cc motorcycle in Europe and the US is 3,000 to 5,000 miles. At that pace, every model in the list goes 5 years without major engine work, provided oil and chain are maintained on schedule. Resale after 3-5 years lands around 50-60% of new price on European brands, 40-50% on entry-level models.

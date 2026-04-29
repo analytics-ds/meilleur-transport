@@ -15,7 +15,7 @@ imageCredit: "Photo via Unsplash"
 draft: false
 ---
 
-Choisir une **moto 125** en 2026 n'a jamais été aussi pertinent. Le segment de la moto 125 reste la **porte d'entrée la plus économique** vers la moto, accessible dès 16 ans avec le permis A1 et même au permis B après une formation de 7 heures. Les meilleures motos 125 combinent agilité urbaine, faible coût d'usage et plaisir de pilotage suffisant pour des trajets quotidiens ou des balades du week-end. Ce guide complet de la moto 125 passe en revue les modèles les plus performants par segment (roadster, sportive, trail, custom), avec les critères pour bien choisir selon le budget et l'usage prévu.
+La **moto 125** est la cylindrée d'entrée pour qui veut débuter à deux roues, accessible dès 16 ans avec le permis A1 et au permis B avec 7 heures de formation. Comptez 2 500 à 7 000 € à l'achat, 3 à 4 L/100 km en conso, 400 à 800 € d'assurance par an pour un jeune permis. Ce comparatif détaille les **11 modèles les plus pertinents en 2026**, classés par segment : roadster, sportive, scrambler, trail. Avec les critères techniques (puissance, poids, hauteur de selle), un tableau récap, le budget total sur 5 ans et la réglementation A1/B.
 
 ## Pourquoi choisir une moto 125
 
@@ -39,61 +39,7 @@ Avant d'arrêter un modèle, plusieurs critères techniques et pratiques doivent
 
 **Le budget total** intègre prix d'achat, assurance, entretien périodique (vidange tous les 6 000 km, plaquettes, chaîne, pneus), carte grise (gratuite pour les motos jusqu'à 125 cc dans plusieurs régions), équipement obligatoire (casque, gants, blouson). Une moto 125 cc neuve revient entre 4 000 et 7 000 € la première année tout compris, hors équipement.
 
-## Top 10 des meilleures motos 125 par segment
-
-La sélection des meilleures motos 125 ci-dessous regroupe les modèles les plus représentatifs en 2026, classés par segment d'usage. Chaque moto 125 a été retenue pour son rapport qualité-prix, sa fiabilité reconnue et sa pertinence sur un usage débutant ou intermédiaire.
-
-### Roadsters moto 125 : la polyvalence urbaine
-
-#### KTM 125 Duke
-
-La **KTM Duke 125** reste la référence sportive du segment 125 roadster depuis sa refonte. Avec ses **14,8 ch à 9 500 tr/min**, son poids contenu de 159 kg et son cadre treillis acier signature KTM, elle offre un comportement vif et un pilotage engageant qui plaît autant aux débutants ambitieux qu'aux automobilistes en reconversion. La selle de 820 mm est confortable, l'instrumentation TFT couleur moderne. Comptez environ **5 500 € neuve**. Son seul défaut : un coût d'entretien légèrement supérieur à la moyenne du segment.
-
-#### Yamaha MT-125
-
-La **Yamaha MT-125** reprend l'ADN naked agressif de la famille MT, avec ses optiques à LED, sa fourche inversée et son système VVA (variable valve actuation) qui optimise le couple sur toute la plage de régime. À 14 ch et 142 kg, elle affiche un pilotage homogène et une ergonomie accessible (selle 810 mm). Son moteur monocylindre de 125 cc est réputé pour sa **fiabilité longue durée**. Prix neuf : environ **5 200 €**.
-
-#### Brixton Crossfire 125
-
-La Brixton Crossfire 125 mise sur le style néo-rétro avec une approche custom assumée. Selle basse à 760 mm, look café racer, finition soignée pour le prix : c'est une moto 125 idéale pour celles et ceux qui veulent un petit cylindre stylé sans débourser plus de 3 800 €. Le moteur de 13 ch offre des performances modestes mais cohérentes pour un usage urbain et des balades tranquilles.
-
-#### Mash Black Seven 125
-
-La Mash Black Seven 125 incarne l'esprit roadster vintage à un prix défiant toute concurrence (environ 2 800 € neuve). Son monocylindre de 12 ch et son poids plume de 130 kg en font un excellent choix pour débuter, malgré une finition moins poussée que les modèles européens. Un classique pour qui aime le style brut et le budget serré.
-
-#### Benelli Leoncino 125
-
-La Benelli Leoncino 125 reprend les lignes de la Leoncino 500, avec une scrambler urbaine au look affirmé. Selle 785 mm, poids 145 kg, 14 ch : la fiche technique cohérente compense un prix plus élevé (5 100 €) mais justifié par la finition italienne et la signature stylistique. C'est l'une des meilleures motos 125 cc pour qui veut sortir des codes japonais classiques.
-
-### Sportives moto 125 : pour le pilotage et la sensation
-
-#### Yamaha YZF-R125
-
-La Yamaha YZF-R125 est la sportive 125 par excellence en Europe. Son carénage hérité de la R6, sa fourche inversée KYB et son moteur VVA en font la 125 la plus performante en virage. Selle haute de 820 mm, position légèrement engagée, freinage ABS efficace : c'est la moto 125 cc idéale pour qui rêve de circuit ou de routes sinueuses. Comptez 6 100 € neuve.
-
-#### Aprilia RS 125
-
-L'Aprilia RS 125 offre un look hyper-sportif inspiré de la RSV4, avec un châssis en aluminium et une suspension à débattement réduit pour un pilotage incisif. Le moteur monocylindre de 14,5 ch à 10 750 tr/min est performant et bien étagé, l'instrumentation TFT digne d'une 600. Position de pilotage exigeante, prix élevé (6 500 €), mais c'est probablement la 125 sportive la plus aboutie du marché.
-
-#### KTM RC 125
-
-La KTM RC 125 décline l'ADN sportif KTM dans une carrosserie compacte et orientée piste. Cadre treillis, ABS désactivable, position engagée : c'est une 125 sportive pure et dure qui demande un peu d'engagement physique. À 5 800 €, elle reste compétitive face à la R125 et la RS 125.
-
-#### Suzuki GSX-R125 / GSX-S125
-
-Le duo Suzuki GSX-R125 (sportive carénée) et GSX-S125 (roadster sportif) partage le même moteur de 15 ch et un châssis très léger (135-141 kg). Moins charismatiques que les modèles européens, mais réputées pour leur fiabilité japonaise et un coût d'entretien inférieur. Prix attractifs autour de 4 800-5 000 €. Bon choix économique et performant pour celles et ceux qui privilégient la qualité mécanique au look.
-
-### Trails et routières moto 125 polyvalentes
-
-#### Honda CB125F
-
-La **Honda CB125F** est l'une des motos 125 cc les plus vendues en Europe, et pour cause : **1,8 L/100 km** de consommation moyenne, 10,7 ch suffisants en ville et sur petite route, prix accessible (3 100 €), **fiabilité Honda légendaire**. Selle basse à 775 mm, poids contenu à 117 kg : c'est la 125 idéale pour débuter sereinement et apprendre les fondamentaux du pilotage sans s'inquiéter de la mécanique.
-
-#### Honda CB125R
-
-La Honda CB125R adopte un look néo-sport-café et un moteur 4 temps plus pointu (15 ch, 11 700 tr/min). Suspensions inversées Showa, freinage ABS sur les deux roues, finition haut de gamme : c'est la version premium de la CB125F, à 4 800 €. Pour qui veut une moto 125 cc qui paraît plus haut de gamme qu'elle ne l'est.
-
-## Comparatif synthétique des meilleures moto 125
+## Comparatif synthétique des 11 motos 125
 
 | Modèle | Prix neuf | Puissance | Poids | Selle | Conso |
 |---|---|---|---|---|---|
@@ -108,6 +54,60 @@ La Honda CB125R adopte un look néo-sport-café et un moteur 4 temps plus pointu
 | Suzuki GSX-R125 | 5 000 € | 15 ch | 135 kg | 785 mm | 3,2 L/100 |
 | Honda CB125F | 3 100 € | 10,7 ch | 117 kg | 775 mm | 1,8 L/100 |
 | Honda CB125R | 4 800 € | 15 ch | 130 kg | 815 mm | 2,5 L/100 |
+
+Le détail de chaque modèle suit, classé par segment d'usage : roadster, sportive, scrambler, trail.
+
+## Top 10 des meilleures motos 125 par segment
+
+### Roadsters moto 125 : la polyvalence urbaine
+
+#### KTM 125 Duke
+
+La **KTM Duke 125** délivre **14,8 ch à 9 500 tr/min** sur 159 kg, avec son cadre treillis acier et une selle à 820 mm. Le pilotage est nerveux, plus orienté sportif qu'urbain. Prix neuf : **5 500 €**. Bémol : l'entretien coûte 15 à 20 % de plus que la moyenne du segment (vidange en concession KTM, plaquettes spécifiques).
+
+#### Yamaha MT-125
+
+La **Yamaha MT-125** embarque le système VVA (variable valve actuation) qui décale l'ouverture des soupapes à partir de 7 400 tr/min, ce qui muscle le couple en haut de plage. 14 ch, 142 kg, selle 810 mm. Le monocylindre Yamaha tient les 100 000 km sans gros entretien moteur, c'est ce qui la rend dominante sur le marché de l'occasion à 3 ans. Prix neuf : **5 200 €**.
+
+#### Brixton Crossfire 125
+
+La Brixton Crossfire 125 vise le style café racer avec une selle à 760 mm (la plus basse du comparatif, utile pour les petits gabarits) et 13 ch sur 138 kg. À 3 800 €, elle joue le segment néo-rétro à un tarif tenu. Le moteur monocylindre est de fabrication chinoise (KSR Group), conso 3,2 L/100 km, fiabilité correcte sans plus.
+
+#### Mash Black Seven 125
+
+La Mash Black Seven 125 est la moins chère du comparatif à 2 800 €. 12 ch, 130 kg, look roadster vintage minimaliste. La finition est en retrait (peintures, soudures, plastiques) mais le moteur tient et les pièces sont bon marché. Choix rationnel pour un budget serré ou pour celui qui revend après quelques saisons sans trop perdre.
+
+#### Benelli Leoncino 125
+
+La Benelli Leoncino 125 reprend les lignes scrambler de la Leoncino 500. Selle 785 mm, 145 kg, 14 ch, prix **5 100 €**. La finition italienne (peintures, sellerie, instruments analogiques) justifie l'écart de prix face aux japonaises. Position de conduite droite, banquette confortable pour rouler à deux courte distance.
+
+### Sportives moto 125 : pour le pilotage et la sensation
+
+#### Yamaha YZF-R125
+
+La **Yamaha YZF-R125** reprend le carénage de la R6, fourche inversée KYB, moteur VVA. Selle 820 mm, position de conduite engagée (commandes reculées, guidons bracelets bas). 15 ch, 142 kg, ABS sur les deux roues. Prix neuf : **6 100 €**. Sur circuit ou routes virageuses, c'est le modèle qui inspire le plus de confiance grâce au châssis en double poutre et à la géométrie sportive (angle de chasse 25°).
+
+#### Aprilia RS 125
+
+L'**Aprilia RS 125** est dotée d'un châssis en aluminium et d'une suspension à débattement réduit (110 mm avant). 14,5 ch à 10 750 tr/min, instrumentation TFT couleur. Position très engagée, peu confortable au-delà de 1 h de selle. Prix **6 500 €**. C'est l'une des deux seules 125 sportives à offrir un cadre alu, ce qui justifie l'écart de prix face aux R125 et RC 125.
+
+#### KTM RC 125
+
+La KTM RC 125 partage le moteur 14,8 ch et le cadre treillis avec la Duke 125, mais avec un carénage et une position de pilotage orientés piste (commandes reculées, repose-pieds remontés). ABS désactivable à l'arrière, ce qui est rare en 125. Prix **5 800 €**. Choix logique pour qui veut faire du circuit en 125 sans casser la tirelire.
+
+#### Suzuki GSX-R125 / GSX-S125
+
+Le duo Suzuki GSX-R125 (carénée) et GSX-S125 (roadster) partage le même monocylindre 15 ch et un châssis léger à 135-141 kg. Prix 4 800-5 000 €. Moteur sans surprise, fiable, peu coûteux à entretenir. Pas de TFT, pas de fioritures : c'est l'option pragmatique japonaise face aux européennes plus chères et plus typées.
+
+### Trails et routières moto 125 polyvalentes
+
+#### Honda CB125F
+
+La **Honda CB125F** consomme **1,8 L/100 km** mesurés sur cycle WMTC, ce qui en fait la 125 la plus économique du comparatif. 10,7 ch, 117 kg, selle 775 mm, prix **3 100 €**. C'est le modèle qui se vend le plus en France sur la 125 toute marque confondue, en partie grâce à sa fiabilité (le moteur GLH125 tient les 80 000 km sans rectification) et à un coût d'entretien minimal (pièces génériques, vidange à 60 € en concession).
+
+#### Honda CB125R
+
+La Honda CB125R partage la base CB125F mais reçoit un moteur plus pointu (15 ch à 11 700 tr/min), des suspensions inversées Showa et l'ABS sur les deux roues. 130 kg, selle 815 mm, prix **4 800 €**. Différence avec la CB125F : pilotage plus sportif, finition supérieure (TFT, bras oscillant aluminium), conso 2,5 L/100 km au lieu de 1,8.
 
 ## Budget total de possession sur 5 ans
 
@@ -131,7 +131,7 @@ Pour les détenteurs du permis B, une formation pratique de 7 heures (environ 25
 
 Important : le débridage d'une moto 125 est strictement interdit et invalide l'assurance. Les modèles vendus dans le commerce affichent tous leurs 15 ch officiels, certains gagnent quelques chevaux à l'usage avec un échappement homologué (légal) mais sans dépasser le plafond légal.
 
-Pour passer ensuite à une cylindrée supérieure, le permis A2 ouvre l'accès aux motos jusqu'à 35 kW (47,5 ch). C'est l'étape suivante naturelle, avec des modèles comme la [Yamaha MT-07 ou MT-09](/blog/yamaha-mt07-vs-mt09/) en haut de gamme accessible.
+Pour passer à une cylindrée supérieure, le permis A2 ouvre l'accès aux motos jusqu'à 35 kW (47,5 ch). Modèles typiques après une 125 : la [Yamaha MT-07 ou MT-09](/blog/yamaha-mt07-vs-mt09/) bridées, ou les autres roadsters 35 kW.
 
 ## FAQ moto 125
 
@@ -147,8 +147,14 @@ La Honda CB125F est la moto 125 la plus imbattable avec sa consommation de **1,8
 
 Théoriquement oui pour les modèles les mieux carénés (R125, RS 125, RC 125), mais en pratique c'est très limite. À 130 km/h, le moteur de la moto 125 tourne à fond et la consommation explose. Une moto 125 reste **optimale jusqu'à 100-110 km/h** en croisière. Pour un usage régulier sur autoroute, mieux vaut viser une A2 ou plus.
 
-## Conclusion : quelle moto 125 choisir en 2026
+## Quelle moto 125 choisir en 2026
 
-Le choix de la meilleure moto 125 dépend avant tout de l'usage et du budget. Pour **débuter sereinement** avec un budget serré, la **Honda CB125F** reste la valeur sûre côté moto 125. Pour un look caractérisé et un budget d'entrée, la Mash Black Seven 125 ou la Brixton Crossfire 125 cochent toutes les cases. Pour un **pilotage sportif et engageant**, la KTM 125 Duke, la Yamaha MT-125 ou la Honda CB125R sont les meilleurs choix polyvalents en moto 125. Pour celles et ceux qui visent la **performance maximale** et le look hyper-sportif, l'Aprilia RS 125 et la Yamaha YZF-R125 dominent leur catégorie.
+Le choix se fait sur 3 axes : **budget**, **usage**, **niveau de pilotage**.
 
-Quel que soit le modèle retenu, une moto 125 bien choisie offre un rapport plaisir/coût difficile à battre dans le monde de la moto. C'est l'option idéale pour découvrir la conduite deux-roues, économiser sur les trajets quotidiens, ou compléter un parc moto avec un petit cylindre malin et fiable.
+- **Budget < 3 500 €** : Honda CB125F (3 100 €) pour la conso minimale et la fiabilité, ou Mash Black Seven 125 (2 800 €) pour le style sans extras.
+- **Usage urbain quotidien + balades** : Yamaha MT-125 (5 200 €) ou KTM 125 Duke (5 500 €). Roadsters polyvalents, ergonomie OK toute la journée.
+- **Pilotage sportif et circuit** : Yamaha YZF-R125 (6 100 €) ou Aprilia RS 125 (6 500 €). Cadre adapté, position engagée, ABS efficace.
+- **Look et style avant tout** : Brixton Crossfire 125 (3 800 €) ou Benelli Leoncino 125 (5 100 €). Néo-rétro et scrambler.
+- **Première moto sans prise de risque** : Honda CB125R (4 800 €). Compromis pilotage / fiabilité / finition.
+
+L'usage moyen d'une 125 cc en France tourne autour de 5 000 à 8 000 km par an. À ce kilométrage, n'importe quel modèle de la liste tient 5 ans sans gros entretien moteur, à condition de respecter les vidanges et la chaîne. Le revente après 3-5 ans plafonne autour de 50-60 % du prix neuf sur les modèles européens, 40-50 % sur les modèles d'entrée de gamme.
