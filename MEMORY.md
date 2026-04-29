@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-29 | Meilleur moto routière : 4 archétypes routiers (FR+EN, draft, planifié 22/05) | Particuliers | datafer FR 77 EN 73 vs best 57/59
 - 2026-04-29 | Meilleur moto cross : guide par profil pilote (FR+EN, draft, planifié 19/05) | Particuliers | datafer FR 81 EN 86 vs best 59/75
 - 2026-04-29 | Meilleures moto pour le duo : top 10 confort passager (FR+EN) | Particuliers | datafer FR 73 EN 74 vs best 59/62
 - 2026-04-29 | Meilleures marques de moto : top 10 constructeurs (FR+EN) | Particuliers | datafer FR 83 EN 77 vs best 70/68
