@@ -1,7 +1,7 @@
 ---
-title: "Meilleur moto electrique en 2026 : le guide complet par usage"
-seoTitle: "Meilleur moto electrique : top 10 modèles homologués route et off-road"
-description: "Comparatif des meilleures motos electriques en 2026 : Zero, Energica, Sur-Ron, Talaria. Autonomie, prix, puissance, temps de charge, homologation route. Guide d'achat par usage."
+title: "Meilleur moto électrique en 2026 : le guide complet par usage"
+seoTitle: "Meilleur moto électrique : top 10 modèles homologués route et off-road"
+description: "Comparatif des meilleures motos électriques en 2026 : Zero, Energica, Sur-Ron, Talaria. Autonomie, prix, puissance, temps de charge, homologation route. Guide d'achat par usage."
 translationKey: "best-electric-motorcycle"
 date: 2026-04-29
 lastmod: 2026-04-29
