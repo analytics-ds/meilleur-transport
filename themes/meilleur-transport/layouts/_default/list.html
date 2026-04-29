@@ -1,10 +1,19 @@
 {{ define "main" }}
 
+{{ $currentLang := site.Language.Lang }}
+{{ $isEn := eq $currentLang "en" }}
+{{ $pages := slice }}
+{{ range .Pages }}
+    {{ $isEnPage := hasPrefix .RelPermalink "/en/" }}
+    {{ if eq $isEnPage $isEn }}
+        {{ $pages = $pages | append . }}
+    {{ end }}
+{{ end }}
+
 <section class="list-header">
     <div class="container">
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        {{ $pages := where .Pages "Lang" site.Language.Lang }}
         <span class="list-count">{{ len $pages }} {{ if gt (len $pages) 1 }}{{ i18n "list_articles" 2 }}{{ else }}{{ i18n "list_articles" 1 }}{{ end }}</span>
     </div>
 </section>
@@ -12,7 +21,7 @@
 <section class="list-content">
     <div class="container">
         <div class="articles-list">
-            {{ range (where .Pages "Lang" site.Language.Lang).ByDate.Reverse }}
+            {{ range (sort $pages "Date" "desc") }}
             <article class="article-card-horizontal">
                 {{ with .Params.image }}
                 <a href="{{ $.RelPermalink }}" class="article-card-thumb">
