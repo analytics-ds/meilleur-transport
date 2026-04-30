@@ -226,10 +226,10 @@ articles:
     volume: 70
     kd: 22
     scheduled_date: "2026-06-16"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-04-30"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleur-moto-gt/"
+    published_url_en: "https://meilleur-transport.com/en/blog/best-gt-motorcycle/"
     error: null
 
   - kw: "comment choisir sa voiture de societe"

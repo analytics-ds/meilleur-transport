@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 27 avril 2026
 
+- 2026-04-30 | Meilleur moto GT : par cylindrée (FR+EN, draft, planifié 16/06, ~1900/1850 mots) | Particuliers | datafer FR 75 EN 61 vs best 59/58
 - 2026-04-29 | Meilleur moto cross 125 : 5 questions clés (FR+EN, draft, planifié 12/06, ~1700/1450 mots) | Particuliers | datafer FR 75 EN 69 vs best 57/50
 - 2026-04-29 | Meilleur moto routière d'occasion : 3 paliers de budget (FR+EN, draft, planifié 09/06, ~1900 mots) | Particuliers | datafer FR 70 EN 69 vs best 57/60
 - 2026-04-29 | Meilleur moto 50cc homologuée : par profil pilote (FR+EN, draft, planifié 05/06) | Particuliers | datafer FR 74 EN 63 vs best 59/56
