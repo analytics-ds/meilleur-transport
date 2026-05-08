@@ -12,7 +12,7 @@ tags: ["moto cross 125", "motocross", "KTM", "Yamaha", "compétition"]
 image: "/images/meilleur-moto-cross-125/banner.webp"
 imageAlt: "Pilote en course motocross 125 sur circuit homologué"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto cross 125** en 2026 dépend de 5 questions clés : pour quelle pratique (loisir ou compétition), à quel âge le pilote (12, 14, 16 ans), 2 temps ou 4 temps, neuve ou occasion, et quelle marque dans le **groupe Pierer** (KTM, Husqvarna, GasGas) ou hors-groupe (Yamaha, Beta). Le marché 2026 propose 5 modèles principaux avec des prix de **8 200 à 9 100 €** en neuf et **5 500 à 7 500 €** en occasion 2-3 ans. Ce guide structure les recommandations **autour de 5 questions décisives**, avec le bon choix par profil et l'erreur classique à éviter.

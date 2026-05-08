@@ -12,7 +12,7 @@ tags: ["moto GT", "grand-tourisme", "BMW K 1600", "Goldwing", "voyage"]
 image: "/images/meilleur-moto-gt/banner.webp"
 imageAlt: "Honda Gold Wing Tour, référence absolue de la moto GT 1800 cm³"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto GT** en 2026 dépend avant tout de la cylindrée visée, qui détermine le niveau de tourisme accessible. Une **GT 850-900 cm³** convient pour le rouleur week-end, une **1000-1200 cm³** pour le voyageur régulier, une **1300-1600 cm³** pour le grand-tourisme premium, et une **1800+ cm³** pour le voyage flagship en duo confort. Le marché 2026 propose 4 paliers clairement différenciés avec des prix de **15 000 à 36 000 €** et des poids de 220 à 380 kg. Ce guide compare les meilleurs modèles **par palier de cylindrée**, avec le bon usage à viser et l'erreur de surdimensionnement à éviter.

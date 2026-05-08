@@ -4,6 +4,13 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  # Cron mardi (2) et vendredi (5) a 02:00 UTC = 03:00 Paris (heure d'hiver)
+  # ou 04:00 Paris (heure d'ete). Suffisant pour declencher la publication
+  # des articles dont la date arrive (cf. publishDate, buildFuture: false).
+  # Si tu programmes des dates intermediaires (lun/mer/jeu/sam/dim), bascule
+  # sur "0 2 * * *" (tous les jours).
+  schedule:
+    - cron: "0 2 * * 2,5"
 
 permissions:
   contents: read

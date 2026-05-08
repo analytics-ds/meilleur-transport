@@ -12,7 +12,7 @@ tags: ["moto sportive", "permis A", "permis A2", "circuit", "comparatif"]
 image: "/images/meilleur-moto-sportive/banner.webp"
 imageAlt: "Ducati Panigale V4, référence de la moto sportive 1000 cc"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 La **moto sportive** est en 2026 un segment large qui couvre des modèles allant de **8 000 € à 35 000 €**, du permis A2 (35 kW bridé) au permis A (illimité). Position de pilotage engagée, carénage racing, freinage Brembo, électronique embarquée évoluée : c'est la catégorie qui privilégie le pilotage et la performance circuit/route sinueuse, au détriment du confort longue distance. Ce guide détaille les **modèles les plus pertinents** par cylindrée (A2, 600, hyper-sport) avec les critères techniques et la réglementation permis pour bien choisir.

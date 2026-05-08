@@ -12,7 +12,7 @@ tags: ["marques moto", "constructeurs", "Honda", "Yamaha", "comparatif"]
 image: "/images/meilleures-marques-de-moto/banner.webp"
 imageAlt: "Honda Africa Twin, modèle phare de la marque japonaise leader"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Les **meilleures marques de moto** en 2026 se répartissent en 4 grands blocs : les **japonaises** (Honda, Yamaha, Kawasaki, Suzuki) qui dominent le marché mondial avec 60 % des volumes, les **européennes premium** (BMW, Ducati, Triumph, KTM, Aprilia) positionnées sur la qualité de finition et la performance, les **américaines** (Harley-Davidson, Indian) sur le segment custom et cruiser, et les **émergentes** (Royal Enfield, CFMoto, Zontes) qui gagnent du terrain sur l'entrée de gamme. Ce guide détaille les **10 meilleures marques de moto** par positionnement et les modèles phares de chacune.

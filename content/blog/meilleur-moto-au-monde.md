@@ -12,7 +12,7 @@ tags: ["meilleur moto", "Kawasaki H2R", "Ducati", "BMW M", "vitesse", "records"]
 image: "/images/meilleur-moto-au-monde/banner.webp"
 imageAlt: "Kawasaki Ninja H2, l'une des motos les plus rapides au monde"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Demander quelle est la **meilleure moto au monde** en 2026, c'est poser une question dont la réponse change selon le critère retenu. La plus rapide ? Une **Kawasaki Ninja H2R** à 400 km/h. La plus puissante ? Une **Ducati Superleggera V4** à 234 chevaux. La plus chère ? Une **Ecosse Spirit ES1** à 3,6 millions de dollars. La plus aboutie technologiquement ? Une **BMW M 1000 RR** ou **Aprilia RSV4 Factory**. La plus iconique du siècle dernier ? La **Honda CB750**, la **Harley FXR** ou la **Triumph Bonneville**. Ce guide passe en revue **les 5 superlatifs** qui définissent "le sommet" en 2026, sans confondre vitesse pure et qualité globale, ni records de circuit et plaisir au quotidien.

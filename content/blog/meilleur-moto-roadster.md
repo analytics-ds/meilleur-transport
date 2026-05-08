@@ -12,7 +12,7 @@ tags: ["moto roadster", "naked", "Yamaha MT", "KTM", "Triumph", "Ducati"]
 image: "/images/meilleur-moto-roadster/banner.webp"
 imageAlt: "Yamaha MT-09 2026, référence du roadster tricylindre"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto roadster** en 2026 ne se résume plus à comparer les chevaux ou la cylindrée. Le vrai critère qui change le ressenti de conduite, c'est le **caractère moteur** : un twin parallèle vibre et tire fort en bas, un tricylindre est plus joueur, un 4 cylindres en ligne est lisse et linéaire, un V-twin ou V4 est explosif et pointu. Le marché 2026 propose 4 caractères clairement différenciés avec des budgets de **6 800 à 23 000 €**. Ce guide compare les meilleurs roadsters **organisés par caractère moteur**, le critère le plus pertinent pour identifier la moto qui collera vraiment à votre style.

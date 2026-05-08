@@ -5,7 +5,11 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = false
 enableEmoji = false
-buildFuture = true
+# buildFuture = false : Hugo cache les articles avec une date dans le
+# futur. Combine au cron GitHub Actions (mardi/vendredi 3h Paris) pour
+# une publication automatique a la date prevue. cf. CLAUDE.md section
+# "Publications evergreen automatiques".
+buildFuture = false
 
 [languages]
   [languages.fr]

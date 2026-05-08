@@ -12,7 +12,7 @@ tags: ["moto cross", "motocross", "KTM", "Yamaha", "compétition"]
 image: "/images/meilleur-moto-cross/banner.webp"
 imageAlt: "Yamaha YZ 250F en saut sur piste de motocross"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Trouver le **meilleur moto cross** en 2026 dépend moins du modèle que du **profil pilote**. Une KTM 450 SX-F est l'arme parfaite pour un pilote pro qui dispute des nationales, mais reste ingérable pour un débutant qui prend le guidon pour la première fois sur un circuit ouvert. Ce guide casse la logique habituelle "top 10 toutes catégories" et organise les recommandations par **5 profils pilotes**, du gamin de 8 ans qui démarre en 50cc au pilote confirmé qui veut une 450cc compétition. Avec pour chaque profil : la moto cross adaptée, le budget réaliste, et l'erreur classique à éviter.

@@ -12,7 +12,7 @@ tags: ["moto routière", "GT", "sport-tourer", "BMW", "Honda", "voyage moto"]
 image: "/images/meilleur-moto-routiere/banner.webp"
 imageAlt: "BMW K 1600 GT, archétype de la moto routière grand-tourisme"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto routière** en 2026, c'est d'abord identifier l'archétype qui colle à votre usage réel : sport-routière pour la performance avec valises, **grand-tourisme** pour le luxe long-distance, trail-routière pour la polyvalence route et chemins, ou routière custom pour le style et le confort. Le marché 2026 se range en 4 grandes familles avec des budgets de **10 000 à 38 000 €** et des cylindrées allant de 850 à 1 833 cm³. Ce guide compare les **10 meilleures motos routières** en classant chaque modèle dans son archétype, avec prix, autonomie, et critère de choix par profil de pilote.

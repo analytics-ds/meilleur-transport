@@ -12,7 +12,7 @@ tags: ["moto 50cc", "BSR", "permis AM", "Beta", "Aprilia", "Fantic"]
 image: "/images/meilleur-moto-50cc-homologue/banner.webp"
 imageAlt: "Derbi Senda DRD, supermotard 50cc homologué français"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto 50cc homologuée** en 2026 dépend avant tout du profil du pilote, pas du modèle dans l'absolu. Une **Beta RR 50 Racing** est parfaite pour un jeune de 14 ans titulaire du permis AM (BSR) qui veut apprendre le pilotage avec une boîte de vitesses, mais reste surdimensionnée pour un adulte cherchant un complément économique en ville. Le marché 2026 propose **3 grandes familles homologuées** (supermotard, enduro homologué, néo-rétro 4 temps) avec des prix de **2 500 à 5 200 €** selon la motorisation et la finition. Ce guide organise les recommandations **par profil de pilote**, avec le bon usage à viser et le piège à éviter pour chacun.

@@ -12,7 +12,7 @@ tags: ["moto enduro", "enduro 4 temps", "KTM", "Husqvarna", "Beta", "compétitio
 image: "/images/meilleur-moto-enduro/banner.webp"
 imageAlt: "KTM 500 EXC-F 2026, référence de l'enduro 4 temps"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto enduro 4 temps** en 2026, c'est d'abord identifier la discipline visée : enduro loisir pour la balade en forêt, **enduro compétition** (E1/E2/E3) pour le championnat régional, hard enduro pour le terrain extrême, ou rallye-raid pour les longues traversées. Le marché 2026 est dominé par 4 grands constructeurs (KTM, Husqvarna, Beta, Sherco) avec des prix de **9 000 à 13 500 €** et des cylindrées de 250 à 660 cm³. Ce guide compare les meilleurs modèles **organisés par discipline pratiquée**, avec le mauvais réflexe à éviter pour chaque profil de pilote.

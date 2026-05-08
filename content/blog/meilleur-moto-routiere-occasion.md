@@ -12,7 +12,7 @@ tags: ["moto routière", "occasion", "BMW R 1250 GS", "Honda", "fiabilité", "vo
 image: "/images/meilleur-moto-routiere-occasion/banner.webp"
 imageAlt: "BMW R 1250 GS, l'une des meilleures motos routières d'occasion"
 imageCredit: "Photo Wikimedia Commons"
-draft: true
+draft: false
 ---
 
 Choisir la **meilleure moto routière d'occasion** en 2026 se structure autour de **3 paliers de budget** clairement différenciés : moins de 8 000 € pour une routière 8-12 ans encore polyvalente, 8 000 à 15 000 € pour une routière 5-7 ans premium, 15 000 à 22 000 € pour une routière 2-3 ans haut de gamme encore sous garantie. Le marché secondaire moto offre des **dépréciations de 15 à 35 %** dès la deuxième année qui profitent à l'acheteur attentif. Ce guide compare les meilleurs modèles par palier, avec la fiabilité moteur réelle et les vérifications obligatoires avant achat.
