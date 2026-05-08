@@ -12,6 +12,7 @@ tags: ["moto duo", "voyage", "passager", "GT", "trail", "comparatif"]
 image: "/images/meilleures-moto-pour-le-duo/banner.webp"
 imageAlt: "BMW R 1300 GS, référence des meilleures moto pour le duo"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 140
 draft: false
 ---
 

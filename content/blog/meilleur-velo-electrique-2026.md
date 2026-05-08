@@ -22,6 +22,7 @@ faq:
   - question: "Quel est le meilleur VTT électrique en 2026 ?"
     answer: "Le Cube Reaction Hybrid Pro 800 s'impose par ses composants haut de gamme et sa polyvalence sur tout type de terrain. Le Rockrider E-FEEL 700S reste la meilleure option budget avec une assistance Shimano efficace et des suspensions correctes pour son tarif."
 readingTime: true
+kwVolume: 0
 draft: false
 ---
 

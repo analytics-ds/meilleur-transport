@@ -12,6 +12,7 @@ tags: ["moto enduro", "enduro 4 temps", "KTM", "Husqvarna", "Beta", "compétitio
 image: "/images/meilleur-moto-enduro/banner.webp"
 imageAlt: "KTM 500 EXC-F 2026, référence de l'enduro 4 temps"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 110
 draft: false
 ---
 

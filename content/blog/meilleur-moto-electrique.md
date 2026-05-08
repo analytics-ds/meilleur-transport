@@ -12,6 +12,7 @@ tags: ["moto électrique", "Zero Motorcycles", "Sur-Ron", "Energica", "comparati
 image: "/images/meilleur-moto-electrique/banner.webp"
 imageAlt: "Energica Ego, moto électrique sportive italienne"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 0
 draft: false
 ---
 

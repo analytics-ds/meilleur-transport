@@ -12,6 +12,7 @@ tags: ["meilleur moto", "Kawasaki H2R", "Ducati", "BMW M", "vitesse", "records"]
 image: "/images/meilleur-moto-au-monde/banner.webp"
 imageAlt: "Kawasaki Ninja H2, l'une des motos les plus rapides au monde"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 90
 draft: false
 ---
 

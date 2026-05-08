@@ -18,6 +18,7 @@ tldr:
   - "**Tarification** : comparer le coût complet (transport + assurance + manutention + carburant), pas seulement le prix au km"
   - "**Contractualisation** : SLA écrit, assurance ad valorem, clause de performance et pénalités en cas de retard récurrent"
   - "**Digitalisation** : suivi temps réel, preuve de livraison dématérialisée et API pour intégrer dans son ERP"
+kwVolume: 0
 draft: false
 ---
 
@@ -74,4 +75,4 @@ Pour les flux récurrents, privilégier un contrat-cadre avec engagement de volu
 
 Consultez nos autres guides dédiés au [transport professionnel](/categories/professionnels/) pour approfondir chaque mode.
 
-Pour les indépendants et artisans qui hésitent entre SUV polyvalent et utilitaire, les comparatifs [Bigster vs Duster](/blog/bigster-vs-duster/) et [Peugeot 3008 vs 5008](/blog/peugeot-3008-vs-5008/) mettent en perspective les SUV capables de remplacer partiellement un utilitaire léger. Côté électrique, [Tesla Model 3 vs Model Y](/blog/tesla-model-3-vs-model-y/) aide à trancher pour un usage pro-perso avec capacité de remorquage (1 600 kg pour la Model Y).
+Pour les indépendants et artisans qui hésitent entre SUV polyvalent et utilitaire, les comparatifs [Bigster vs Duster](/blog/bigster-vs-duster/) et Peugeot 3008 vs 5008 mettent en perspective les SUV capables de remplacer partiellement un utilitaire léger. Côté électrique, Tesla Model 3 vs Model Y aide à trancher pour un usage pro-perso avec capacité de remorquage (1 600 kg pour la Model Y).

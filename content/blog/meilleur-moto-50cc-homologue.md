@@ -12,6 +12,7 @@ tags: ["moto 50cc", "BSR", "permis AM", "Beta", "Aprilia", "Fantic"]
 image: "/images/meilleur-moto-50cc-homologue/banner.webp"
 imageAlt: "Derbi Senda DRD, supermotard 50cc homologué français"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 90
 draft: false
 ---
 

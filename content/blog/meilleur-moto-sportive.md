@@ -12,6 +12,7 @@ tags: ["moto sportive", "permis A", "permis A2", "circuit", "comparatif"]
 image: "/images/meilleur-moto-sportive/banner.webp"
 imageAlt: "Ducati Panigale V4, référence de la moto sportive 1000 cc"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 140
 draft: false
 ---
 

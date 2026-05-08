@@ -12,6 +12,7 @@ tags: ["moto GT", "grand-tourisme", "BMW K 1600", "Goldwing", "voyage"]
 image: "/images/meilleur-moto-gt/banner.webp"
 imageAlt: "Honda Gold Wing Tour, référence absolue de la moto GT 1800 cm³"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 70
 draft: false
 ---
 

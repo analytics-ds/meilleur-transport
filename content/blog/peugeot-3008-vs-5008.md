@@ -11,6 +11,7 @@ categories: ["Particuliers", "Voitures"]
 tags: ["peugeot", "3008", "5008", "suv", "hybride", "7-places"]
 image: "/images/peugeot-3008-vs-5008/peugeot-3008-front.webp"
 imageAlt: "Peugeot 3008 face à Peugeot 5008, comparatif des SUV familiaux 2026"
+kwVolume: 0
 draft: false
 ---
 

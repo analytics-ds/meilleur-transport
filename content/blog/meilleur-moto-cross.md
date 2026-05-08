@@ -12,6 +12,7 @@ tags: ["moto cross", "motocross", "KTM", "Yamaha", "compétition"]
 image: "/images/meilleur-moto-cross/banner.webp"
 imageAlt: "Yamaha YZ 250F en saut sur piste de motocross"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 110
 draft: false
 ---
 

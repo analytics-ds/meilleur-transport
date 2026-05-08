@@ -18,6 +18,7 @@ tldr:
   - "**Historique** : exiger carnet d'entretien, factures et certificat Histovec (gratuit et officiel) avant toute transaction"
   - "**Essai** : 20 min minimum en ville et voie rapide pour détecter bruits, vibrations, faiblesses moteur/boîte"
   - "**Financement** : cash reste le plus économique, crédit classique sur un taux compétitif, LOA occasion souvent plus chère au total"
+kwVolume: 0
 draft: false
 ---
 
@@ -69,6 +70,6 @@ L'achat comptant reste l'option la plus économique. Le crédit classique (affec
 
 Consultez nos autres guides pour compléter votre réflexion sur la [mobilité des particuliers](/categories/particuliers/).
 
-Côté SUV, le comparatif [Dacia Bigster vs Duster](/blog/bigster-vs-duster/) détaille les points de contrôle spécifiques à cette gamme populaire, et [Peugeot 3008 vs 5008](/blog/peugeot-3008-vs-5008/) pose les mêmes questions chez Stellantis. Pour les citadines, voir [Peugeot 208 vs Renault Clio 5](/blog/peugeot-208-vs-renault-clio/) avec les spécificités d'occasion de ces deux best-sellers.
+Côté SUV, le comparatif [Dacia Bigster vs Duster](/blog/bigster-vs-duster/) détaille les points de contrôle spécifiques à cette gamme populaire, et Peugeot 3008 vs 5008 pose les mêmes questions chez Stellantis. Pour les citadines, voir Peugeot 208 vs Renault Clio 5 avec les spécificités d'occasion de ces deux best-sellers.
 
 Pour un passage à l'électrique en occasion, [Tesla Model 3 vs Model Y](/blog/tesla-model-3-vs-model-y/) explique les points de vérification propres aux Tesla (batterie, HW4, Supercharge).

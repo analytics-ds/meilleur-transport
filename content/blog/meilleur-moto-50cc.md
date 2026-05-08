@@ -12,6 +12,7 @@ tags: ["moto 50cc", "permis AM", "supermotard", "enduro", "comparatif"]
 image: "/images/meilleur-moto-50cc/banner.webp"
 imageAlt: "Derbi Senda 50, supermotard 50cc emblématique"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 170
 draft: false
 ---
 

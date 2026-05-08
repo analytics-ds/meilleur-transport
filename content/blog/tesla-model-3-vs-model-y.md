@@ -11,6 +11,7 @@ categories: ["Particuliers", "Voitures"]
 tags: ["tesla", "model 3", "model y", "electrique", "comparatif"]
 image: "/images/tesla-3-vs-y/tesla-model-3-front.webp"
 imageAlt: "Tesla Model 3 Highland face à Tesla Model Y Juniper, comparatif 2026"
+kwVolume: 0
 draft: false
 ---
 

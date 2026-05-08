@@ -11,6 +11,7 @@ categories: ["Particuliers"]
 tags: ["dacia", "bigster", "duster", "suv", "comparatif"]
 image: "/images/bigster-vs-duster/bigster-front.webp"
 imageAlt: "Dacia Bigster face à Dacia Duster 3, comparatif des deux SUV en 2026"
+kwVolume: 0
 draft: false
 ---
 

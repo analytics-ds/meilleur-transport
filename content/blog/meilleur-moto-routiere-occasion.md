@@ -12,6 +12,7 @@ tags: ["moto routière", "occasion", "BMW R 1250 GS", "Honda", "fiabilité", "vo
 image: "/images/meilleur-moto-routiere-occasion/banner.webp"
 imageAlt: "BMW R 1250 GS, l'une des meilleures motos routières d'occasion"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 70
 draft: false
 ---
 

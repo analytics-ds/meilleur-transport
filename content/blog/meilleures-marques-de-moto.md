@@ -12,6 +12,7 @@ tags: ["marques moto", "constructeurs", "Honda", "Yamaha", "comparatif"]
 image: "/images/meilleures-marques-de-moto/banner.webp"
 imageAlt: "Honda Africa Twin, modèle phare de la marque japonaise leader"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 140
 draft: false
 ---
 

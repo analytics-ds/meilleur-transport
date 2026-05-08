@@ -12,6 +12,7 @@ tags: ["moto routière", "GT", "sport-tourer", "BMW", "Honda", "voyage moto"]
 image: "/images/meilleur-moto-routiere/banner.webp"
 imageAlt: "BMW K 1600 GT, archétype de la moto routière grand-tourisme"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 140
 draft: false
 ---
 

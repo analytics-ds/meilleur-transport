@@ -11,6 +11,7 @@ categories: ["Particuliers", "Motos"]
 tags: ["yamaha", "mt-07", "mt-09", "roadster", "a2", "comparatif"]
 image: "/images/mt07-vs-mt09/yamaha-mt07.webp"
 imageAlt: "Yamaha MT-07 face à Yamaha MT-09, comparatif des roadsters 2026"
+kwVolume: 0
 draft: false
 ---
 

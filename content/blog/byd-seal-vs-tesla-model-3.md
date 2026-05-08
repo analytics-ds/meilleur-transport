@@ -11,6 +11,7 @@ categories: ["Particuliers", "Voitures"]
 tags: ["byd", "seal", "tesla", "model 3", "electrique", "comparatif"]
 image: "/images/byd-seal-vs-tesla-3/byd-seal-front.webp"
 imageAlt: "BYD Seal face à Tesla Model 3 Highland, comparatif 2026"
+kwVolume: 0
 draft: false
 ---
 

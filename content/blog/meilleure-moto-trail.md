@@ -11,6 +11,7 @@ categories: ["Particuliers", "Motos"]
 tags: ["moto", "trail", "voyage", "aventure", "classement"]
 image: "/images/meilleure-moto-trail/yamaha-tenere-700.webp"
 imageAlt: "Les meilleures motos trail 2026 : Yamaha Tenere 700, Honda Africa Twin, BMW R 1300 GS"
+kwVolume: 0
 draft: false
 ---
 

@@ -23,6 +23,7 @@ faq:
     answer: "Oui, Como dispose d'un parc de véhicules d'occasion certifiés Mercedes-Benz incluant des modèles récents avec contrôle en 150 points et garantie constructeur étendue. Ces véhicules offrent une alternative au neuf avec une décote déjà absorbée."
   - question: "Como ou BYmyCAR : lequel a les meilleurs avis clients pour une Mercedes ?"
     answer: "Les avis varient d'un site à l'autre. Como, réseau spécialisé premium, présente des scores de satisfaction plus homogènes sur l'expérience Mercedes. BYmyCAR affiche plus de disparité selon les sites. Consulter les avis Google de la concession locale reste indispensable avant de décider."
+kwVolume: 0
 draft: false
 ---
 

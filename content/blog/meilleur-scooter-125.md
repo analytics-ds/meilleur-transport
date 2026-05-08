@@ -11,6 +11,7 @@ categories: ["Particuliers", "Motos"]
 tags: ["scooter", "125", "permis b", "urbain", "classement"]
 image: "/images/meilleur-scooter-125/yamaha-xmax-125.webp"
 imageAlt: "Les meilleurs scooters 125 en 2026 : Yamaha XMAX, Honda PCX, Piaggio Medley"
+kwVolume: 0
 draft: false
 ---
 

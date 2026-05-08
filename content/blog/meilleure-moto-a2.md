@@ -11,6 +11,7 @@ categories: ["Particuliers", "Motos"]
 tags: ["moto", "permis a2", "debutant", "bridage", "classement"]
 image: "/images/meilleure-moto-a2/yamaha-mt07-a2.webp"
 imageAlt: "Les meilleures motos A2 en 2026 : Yamaha MT-07, Honda CB500F et autres roadsters"
+kwVolume: 0
 draft: false
 ---
 

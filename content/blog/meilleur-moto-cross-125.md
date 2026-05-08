@@ -12,6 +12,7 @@ tags: ["moto cross 125", "motocross", "KTM", "Yamaha", "compétition"]
 image: "/images/meilleur-moto-cross-125/banner.webp"
 imageAlt: "Pilote en course motocross 125 sur circuit homologué"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 70
 draft: false
 ---
 

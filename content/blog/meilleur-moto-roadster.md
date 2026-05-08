@@ -12,6 +12,7 @@ tags: ["moto roadster", "naked", "Yamaha MT", "KTM", "Triumph", "Ducati"]
 image: "/images/meilleur-moto-roadster/banner.webp"
 imageAlt: "Yamaha MT-09 2026, référence du roadster tricylindre"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 90
 draft: false
 ---
 

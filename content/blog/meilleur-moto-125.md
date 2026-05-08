@@ -12,6 +12,7 @@ tags: ["moto 125", "permis A1", "roadster", "sportive", "comparatif"]
 image: "/images/meilleur-moto-125/banner.webp"
 imageAlt: "Yamaha YZF-R125, sportive 125 cc"
 imageCredit: "Photo Wikimedia Commons"
+kwVolume: 0
 draft: false
 ---
 

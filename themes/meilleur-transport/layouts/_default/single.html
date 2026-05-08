@@ -125,6 +125,10 @@
     </footer>
 </article>
 
+{{ if eq .Section "blog" }}
+  {{ partial "related-articles.html" . }}
+{{ end }}
+
 <script>
 (function(){
   var links = document.querySelectorAll('.article-toc-nav a');

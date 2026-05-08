@@ -11,6 +11,7 @@ categories: ["Particuliers", "Voitures"]
 tags: ["peugeot", "208", "renault", "clio", "citadine", "comparatif"]
 image: "/images/peugeot-208-vs-clio/peugeot-208-front.webp"
 imageAlt: "Peugeot 208 face à Renault Clio 5, comparatif des citadines françaises 2026"
+kwVolume: 0
 draft: false
 ---
 

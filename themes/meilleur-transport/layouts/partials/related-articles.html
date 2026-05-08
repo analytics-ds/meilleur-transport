@@ -1,0 +1,65 @@
+{{/*
+  Section "À lire aussi" : 4 articles connexes en bas de chaque article de blog.
+
+  Sélection :
+    1. Filtre : section blog uniquement, pas la page courante, pas brouillon
+    2. Score = (tags partagés × 20) + (kwVolume / 30) + bonus 30 si même catégorie principale
+    3. Tri par score décroissant, top 4
+    4. Si moins de 4 candidats trouvés, on n'affiche pas la section (pas d'orphelins)
+
+  Le calcul du score privilégie :
+    - La proximité thématique (tags partagés = signal fort de cluster)
+    - Le volume KW de la cible (envoyer du jus vers les pages à fort potentiel SEO)
+    - La même catégorie (Particuliers / Professionnels)
+
+  Pour ajuster les poids : modifier les coefficients ci-dessous (tags=20, vol/30, cat=30).
+*/}}
+
+{{ $current := . }}
+{{ $currentTags := .Params.tags | default slice }}
+{{ $currentCat := index (.Params.categories | default slice) 0 | default "" }}
+
+{{ $candidates := slice }}
+{{ range where .Site.RegularPages "Section" "blog" }}
+  {{ if ne .File.Path $current.File.Path }}
+    {{ $tagsShared := 0 }}
+    {{ range .Params.tags | default slice }}
+      {{ if in $currentTags . }}
+        {{ $tagsShared = add $tagsShared 1 }}
+      {{ end }}
+    {{ end }}
+    {{ $vol := .Params.kwVolume | default 0 }}
+    {{ $cat := index (.Params.categories | default slice) 0 | default "" }}
+    {{ $catBonus := cond (and (ne $currentCat "") (eq $cat $currentCat)) 30 0 }}
+    {{ $score := add (mul $tagsShared 20) (add (div $vol 30) $catBonus) }}
+    {{/* Skip uniquement si vraiment 0 tag partagé ET pas même cat (sujet trop éloigné) */}}
+    {{ if or (gt $tagsShared 0) (eq $cat $currentCat) }}
+      {{ $candidates = $candidates | append (dict "page" . "score" $score) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $top := first 4 (sort $candidates "score" "desc") }}
+
+{{ if ge (len $top) 4 }}
+<aside class="related-articles" aria-labelledby="related-heading">
+  <h2 id="related-heading" class="related-heading">À lire aussi</h2>
+  <div class="related-grid">
+    {{ range $top }}
+      {{ with .page }}
+      <a class="related-card" href="{{ .RelPermalink }}">
+        {{ with .Params.image }}
+          <div class="related-card-img" style="background-image: url('{{ . }}');" role="presentation"></div>
+        {{ end }}
+        <div class="related-card-body">
+          {{ with .Params.categories }}
+            <span class="related-card-cat">{{ index . 0 }}</span>
+          {{ end }}
+          <h3 class="related-card-title">{{ .Title }}</h3>
+        </div>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</aside>
+{{ end }}

@@ -11,6 +11,7 @@ categories: ["Particuliers", "Voitures"]
 tags: ["hybride", "7 places", "familial", "suv", "classement"]
 image: "/images/voiture-hybride-7-places/peugeot-5008-hybrid.webp"
 imageAlt: "Les meilleures voitures hybrides 7 places 2026 : Peugeot 5008, Dacia Jogger, Kia Sorento"
+kwVolume: 0
 draft: false
 ---
 
