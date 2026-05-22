@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 18 mai 2026
+
+- 2026-05-22 | Meilleur concessionnaire Mercedes LOA Paris : comparatif 2026 (FR+EN) | Particuliers
+
 ## Semaine du 27 avril 2026
 
 - 2026-04-30 | Meilleur moto GT : par cylindrée (FR+EN, draft, planifié 16/06, ~1900/1850 mots) | Particuliers | datafer FR 75 EN 61 vs best 59/58
