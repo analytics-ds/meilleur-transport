@@ -13,8 +13,8 @@ buildFuture = false
 
 [languages]
   [languages.fr]
-    languageCode = "fr-FR"
-    languageName = "Français"
+    locale = "fr-FR"
+    label = "Français"
     weight = 1
     title = "Meilleur Transport"
     [languages.fr.params]
@@ -54,8 +54,8 @@ buildFuture = false
       weight = 4
 
   [languages.en]
-    languageCode = "en-US"
-    languageName = "English"
+    locale = "en-US"
+    label = "English"
     weight = 2
     title = "Meilleur Transport"
     contentDir = "content/en"
