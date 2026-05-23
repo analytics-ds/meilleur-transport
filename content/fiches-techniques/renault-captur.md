@@ -152,6 +152,13 @@ concurrents:
     puissance: "100 à 140 ch"
     url: "/fiches-techniques/dacia-duster/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>22900 €</strong> pour la Renault Captur 2026 en finition d'entrée, gamme jusqu'à 32500 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Renault Captur (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment suv urbain B-SUV : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : hybride, arrière, e-tech, avant, essence, consommation."
+
 draft: false
 ---
 
@@ -160,3 +167,7 @@ Le **Renault Captur II** restylé en 2024, sur la plateforme CMF-B du groupe Ren
 Avec ses **4,24 m de long** et sa **banquette coulissante** sur 16 cm, le Captur II module son coffre de **422 à 484 litres**, l'un des meilleurs scores du segment B-SUV. Trois finitions structurent la gamme : Evolution, Techno et Esprit Alpine, cette dernière apportant une signature sport (sellerie microfibre, pédalier alu, pommeau Alpine).
 
 Cette fiche technique reprend les **données officielles Renault** pour les trois motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Peugeot 2008, VW T-Cross, Nissan Juke, Dacia Duster) pour faciliter la comparaison du segment B-SUV.
+
+Cette **fiche technique Renault Captur** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : hybride, arrière, e-tech, avant, essence, consommation, mild hybrid, renault captur fiche.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Renault Captur cible un usage suv urbain segment B-SUV, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : moteur, essais, portes, puissance, coffre, rechargeable, hybride rechargeable, e-tech hybride rechargeable.

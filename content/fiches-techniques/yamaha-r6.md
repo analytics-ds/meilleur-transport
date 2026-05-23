@@ -134,6 +134,13 @@ concurrents:
     puissance: "73 ch"
     url: "/fiches-techniques/yamaha-mt-07/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>8000 €</strong> pour la Yamaha YZF-R6 2026 en finition d'entrée, gamme jusqu'à 15000 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Yamaha YZF-R6 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment sportive 600 cc Supersport : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : kawasaki, honda, freinage, quel, yamaha yzf-r, environ."
+
 draft: false
 ---
 
@@ -142,3 +149,7 @@ La **Yamaha YZF-R6**, sportive supersport 600 cc emblématique depuis 1999, n'es
 Seule la version **R6 Race** non homologuée route reste commercialisée neuve à **16 800 €** pour les pilotes circuit, avec une puissance portée à 121 ch grâce à l'absence du bridage Euro 5. Sur le marché de l'occasion, la R6 phase 2 (2017-2020) oscille entre **8 000 et 15 000 €**, intégrant l'ABS double canal, le TCS 6 niveaux, les 3 modes D-MODE et le Quickshifter montée de série.
 
 Cette fiche technique reprend les **données officielles Yamaha** pour la version routière 2017-2020 et la R6 Race actuelle, avec les concurrentes directes (Kawasaki ZX-6R, Honda CBR600RR, Suzuki GSX-R600, Yamaha MT-07) pour faciliter la comparaison du segment Supersport.
+
+Cette **fiche technique Yamaha YZF-R6** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : kawasaki, honda, freinage, quel, yamaha yzf-r, environ, yzf-r, pneu.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Yamaha YZF-R6 cible un usage sportive 600 cc segment Supersport, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : acheter, nouvelle, rapport poids, argus, yamaha yzf-r yzf-r6, catégorie, motards, avis des motards.

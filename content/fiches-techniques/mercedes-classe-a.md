@@ -153,6 +153,13 @@ concurrents:
     puissance: "130 à 225 ch"
     url: "/fiches-techniques/ds-4/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>37900 €</strong> pour la Mercedes-Benz Classe A 2026 en finition d'entrée, gamme jusqu'à 56800 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Mercedes-Benz Classe A (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment compacte premium C : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : mercedes-benz, mercedes-benz classe, line, berline, dimensions, amg line."
+
 draft: false
 ---
 
@@ -161,3 +168,7 @@ La **Mercedes-Benz Classe A IV** (code W177), restylée en 2022, reste en 2026 l
 Avec ses **4,42 m de long** et son MBUX double écran 10,25 pouces de série, la Classe A IV revendique une position premium claire face aux concurrentes Audi A3 et BMW Série 1. Trois finitions structurent la gamme : Style, AMG Line (kit carrosserie sport) et AMG Line Premium (toit panoramique, audio Burmester, pack assistance Plus).
 
 Cette fiche technique reprend les **données officielles Mercedes-Benz** pour les trois motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Audi A3, BMW Série 1, Volvo V40, DS 4) pour faciliter la comparaison du segment compact premium.
+
+Cette **fiche technique Mercedes-Benz Classe A** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : mercedes-benz, mercedes-benz classe, line, berline, dimensions, amg line, boîte, puissance.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Mercedes-Benz Classe A cible un usage compacte premium segment C, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : 4matic, edition, exclusive, essais, consommation, achat, informations, avant.

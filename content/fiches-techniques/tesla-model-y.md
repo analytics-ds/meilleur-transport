@@ -155,6 +155,13 @@ concurrents:
     puissance: "170 à 340 ch"
     url: "/fiches-techniques/volkswagen-id-4/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>46990 €</strong> pour la Tesla Model Y 2026 en finition d'entrée, gamme jusqu'à 61990 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Tesla Model Y (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment suv électrique D-SUV : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : autonomie, transmission, portes, electrique, automatique, véhicule."
+
 draft: false
 ---
 
@@ -163,3 +170,7 @@ La **Tesla Model Y Juniper**, restylage majeur sorti début 2025, reste en 2026 
 Avec ses **4,79 m de long** et son volume de coffre exceptionnel de **854 litres** complété par un **frunk de 117 litres**, la Model Y totalise 971 litres de rangement utile. L'habitacle reste épuré autour d'un écran central tactile 15,4 pouces, complété par un écran arrière 8 pouces depuis le restylage Juniper. L'Autopilot est de série sur toutes les versions.
 
 Cette fiche technique reprend les **données officielles Tesla** pour les trois versions, les dimensions exactes et l'équipement par finition, avec les concurrents directs (Skoda Enyaq, BMW iX3, Hyundai Ioniq 5, VW ID.4) pour faciliter la comparaison du segment SUV électrique premium.
+
+Cette **fiche technique Tesla Model Y** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : autonomie, transmission, portes, electrique, automatique, véhicule, grande, arrière.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Tesla Model Y cible un usage suv électrique segment D-SUV, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : utiliser, consommation, batterie, standard, vitesse, grande autonomie, jantes, places.

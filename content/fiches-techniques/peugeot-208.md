@@ -168,11 +168,20 @@ concurrents:
     puissance: "80 à 207 ch"
     url: "/fiches-techniques/volkswagen-polo/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>18 900 €</strong> en finition <strong>Like</strong> essence PureTech 75, gamme jusqu'à 39 300 € pour la e-208 GT pack."
+  - "Quatre <strong>motorisations</strong> au choix : deux essence PureTech, une hybride 48V e-DCT et l'électrique e-208 de 156 ch."
+  - "Trois finitions au catalogue : <strong>Like</strong>, <strong>Allure</strong> business pack et <strong>GT</strong>, avec Active Business et Allure Business en flotte entreprise."
+  - "Modèle de référence du segment B, 4,05 m, coffre de 311 L, plateforme partagée avec la Peugeot 2008 et la Citroën C3."
+  - "Concurrentes Clio, Sandero, C3, Yaris, Polo : voir essais, prix, modèles d'occasion et offres business sur la Centrale et l'Argus Peugeot."
+
 draft: false
 ---
 
-La **Peugeot 208** de seconde génération, restylée en 2024, reste la référence française de la citadine polyvalente. Conçue sur la plateforme CMP du groupe Stellantis, elle propose en 2026 **quatre motorisations** distinctes : deux essence PureTech (75 et 100 ch), une variante hybride 48V de 100 ch, et la version 100 % électrique **e-208** de 156 ch annoncée pour **410 km d'autonomie WLTP**.
+La **Peugeot 208** de seconde génération, restylée en 2024, reste la référence française de la citadine polyvalente. Conçue sur la plateforme CMP du groupe Stellantis, elle propose en 2026 **quatre motorisations** distinctes : deux essence **PureTech** (75 et 100 ch), une variante hybride 48V de 100 ch (boîte **EAT6** e-DCT) et la version 100 % électrique **e-208** de 156 ch annoncée pour **410 km d'autonomie WLTP**. Avant son restylage, la 208 a longtemps proposé un moteur diesel **BlueHDi** 100 ch, retiré du catalogue neuf lors du passage à la phase 2.
 
-Avec ses **4,05 m de long** pour un coffre de **311 litres**, la 208 vise le segment B haut de gamme. La finition d'entrée Like démarre à **18 900 €** en essence, la GT à 26 400 € et la e-208 à 35 400 €. Toutes les motorisations bénéficient des aides à la conduite de série (freinage d'urgence, alerte de ligne, panneaux), avec le régulateur adaptatif réservé aux finitions Allure+ et GT.
+Avec ses **4,05 m de long** pour un coffre de **311 litres**, la 208 vise le segment B haut de gamme et conserve son **i-Cockpit 3D** sur les finitions supérieures. La finition d'entrée **Like** démarre à **18 900 €** en essence, l'**Allure** à 22 600 €, la **GT** à 26 400 € et la e-208 à 35 400 €. Les flottes entreprises retrouvent les déclinaisons **Active Business**, **Allure Business** et **GT Pack**, avec accès aux services connectés et au pack visibilité Peugeot Connect.
 
-Cette fiche technique reprend les **données officielles constructeur** pour les quatre motorisations, les dimensions exactes, l'équipement par finition et les concurrentes directes pour faciliter la comparaison.
+Côté **performances**, le PureTech 100 ch SS abat le 0 à 100 km/h en 10,8 s en boîte EAT8, la GT essence revendique 188 km/h en pointe et l'e-208 atteint 150 km/h en vitesse maxi. Toutes les motorisations bénéficient des aides à la conduite de série (freinage d'urgence, alerte de ligne, reconnaissance des panneaux), avec le régulateur adaptatif réservé aux finitions Allure+ et GT. La 208 a également connu une série spéciale **Roland Garros** en 2024, prisée à l'achat d'occasion.
+
+Cette fiche technique reprend les **données officielles constructeur** pour les quatre motorisations, les dimensions exactes, l'équipement par finition et les concurrentes directes. Les modèles **neufs** restent disponibles chez le réseau Peugeot, les annonces et essais sont consultables sur les sites spécialisés (la Centrale, l'Argus, Peugeot actualités).

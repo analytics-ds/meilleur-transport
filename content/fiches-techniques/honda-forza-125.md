@@ -122,6 +122,13 @@ concurrents:
     puissance: "35 ch"
     url: "/fiches-techniques/kymco-xciting-400/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>5599 €</strong> pour la Honda Forza 125 2026 en finition d'entrée, gamme jusqu'à 5999 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Honda Forza 125 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment scooter gt 125 cc : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : simple, smart, scooter, bulle, disque mm, débattement."
+
 draft: false
 ---
 
@@ -130,3 +137,7 @@ Le **Honda Forza 125**, scooter GT urbain de référence depuis 2015 et restylé
 Avec ses **162 kg tous pleins faits**, son rangement sous selle de **48 litres** capable d'accueillir un casque intégral, et son pare-brise réglable électriquement, le Forza 125 mise sur le confort et la polyvalence (urbaine et périphérique). Le tableau de bord TFT 5 pouces couleur avec Honda RoadSync, l'ABS double canal, le HSTC (contrôle de motricité) et la Smart Key sont de série dès l'entrée de gamme.
 
 Cette fiche technique reprend les **données officielles Honda** pour le moteur, le châssis et l'équipement, avec les concurrents directs (Yamaha XMax 125, Piaggio Beverly 300, SYM Cruisym 125, Kymco Xciting 400) pour faciliter la comparaison du segment des scooters GT 125 cc.
+
+Cette **fiche technique Honda Forza 125** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : simple, smart, scooter, bulle, disque mm, débattement, moto, suspension.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Honda Forza 125 cible un usage scooter gt segment 125 cc, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : équipement, frein, type, consommation, confort, forza nss, smart key, poids.

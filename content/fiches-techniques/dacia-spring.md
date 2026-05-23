@@ -143,6 +143,13 @@ concurrents:
     puissance: "95 à 118 ch"
     url: "/fiches-techniques/fiat-500/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>16900 €</strong> pour la Dacia Spring 2026 en finition d'entrée, gamme jusqu'à 19900 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Dacia Spring (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment citadine électrique A : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : electrique, électrique, avant, équipement, arrière, type."
+
 draft: false
 ---
 
@@ -151,3 +158,7 @@ La **Dacia Spring II**, restylée en 2024, reste en 2026 la voiture électrique 
 Avec ses **3,70 m de long** et son coffre de **308 litres** (excellent pour le segment A), la Spring II reste une citadine pensée pour les courts trajets urbains et périurbains. Trois finitions structurent la gamme : Essential, Expression et Extreme (sellerie microcloud cuivre, pack accessoires, option charge DC 30 kW). Toutes intègrent désormais les aides à la conduite obligatoires GSR2 (freinage d'urgence, alerte de ligne, reconnaissance des panneaux).
 
 Cette fiche technique reprend les **données officielles Dacia** pour les motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Citroën ë-C3, Renault 5 E-Tech, Leapmotor T03, Fiat 500e) pour faciliter la comparaison du segment A des citadines électriques low-cost.
+
+Cette **fiche technique Dacia Spring** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : electrique, électrique, avant, équipement, arrière, type, batterie, automatique.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Dacia Spring cible un usage citadine électrique segment A, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : confort, maxi, argus, moteur, puissance, vitesse, sécurité, poids.

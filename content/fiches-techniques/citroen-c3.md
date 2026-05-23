@@ -153,6 +153,13 @@ concurrents:
     puissance: "75 à 156 ch"
     url: "/fiches-techniques/peugeot-208/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>14990 €</strong> pour la Citroën C3 2026 en finition d'entrée, gamme jusqu'à 26800 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Citroën C3 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment citadine B : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : citroën, electrique, boîte, manuelle, ligne, portes."
+
 draft: false
 ---
 
@@ -161,3 +168,7 @@ La **Citroën C3 IV**, lancée en 2024 sur la plateforme Smart Car du groupe Ste
 Avec ses **4,02 m de long** et ses **163 mm de garde au sol**, la C3 IV adopte une posture haute typique du segment SUV urbain tout en restant classée citadine. Trois finitions structurent la gamme : You, Plus et Max (avec toit bi-ton et phares LED 3D). La suspension Advanced Comfort, signature Citroën, est de série dès l'entrée de gamme et améliore nettement le confort de roulage.
 
 Cette fiche technique reprend les **données officielles Citroën** pour les motorisations thermiques et électriques, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Dacia Sandero, Renault Clio, Fiat Panda, Peugeot 208) pour faciliter la comparaison du segment B.
+
+Cette **fiche technique Citroën C3** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : citroën, electrique, boîte, manuelle, ligne, portes, automatique, hybride.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Citroën C3 cible un usage citadine segment B, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : essence, electrique 113ch, consommation, business, confort, moteur, pack, argus.

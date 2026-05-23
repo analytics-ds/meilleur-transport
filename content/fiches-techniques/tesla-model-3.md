@@ -155,6 +155,13 @@ concurrents:
     puissance: "151 à 325 ch"
     url: "/fiches-techniques/hyundai-ioniq-6/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>42990 €</strong> pour la Tesla Model 3 2026 en finition d'entrée, gamme jusqu'à 56990 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Tesla Model 3 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment berline électrique D : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : electrique, autonomie, tesla model fiche, model fiche technique, model fiche, après."
+
 draft: false
 ---
 
@@ -163,3 +170,7 @@ La **Tesla Model 3 Highland**, restylage majeur sorti fin 2023, reste en 2026 la
 Avec ses **4,72 m de long** et son **frunk de 88 litres** s'ajoutant au coffre arrière de 425 litres, la Model 3 totalise **561 litres de volume**. L'habitacle reste épuré autour d'un écran central tactile 15,4 pouces, complété par un écran arrière 8 pouces depuis le restylage Highland. L'Autopilot (régulateur adaptatif et maintien de voie) est de série sur toutes les versions.
 
 Cette fiche technique reprend les **données officielles Tesla** pour les trois versions, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (BYD Seal, BMW i4, Polestar 2, Hyundai Ioniq 6) pour faciliter la comparaison du segment des berlines électriques premium.
+
+Cette **fiche technique Tesla Model 3** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : electrique, autonomie, tesla model fiche, model fiche technique, model fiche, après, annonce, performance.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Tesla Model 3 cible un usage berline électrique segment D, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : modèles, standard, véhicule, tesla model performance, électrique, voiture, berline, grande autonomie.

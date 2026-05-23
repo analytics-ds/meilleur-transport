@@ -48,6 +48,15 @@
 
   <div class="ft-body container">
 
+    {{ with .Params.quick_summary }}
+    <section class="ft-section ft-quick-summary">
+      <h2>L'essentiel sur la {{ $.Params.marque }} {{ $.Params.modele }} {{ $.Params.annee }}</h2>
+      <ol>
+        {{ range . }}<li>{{ . | safeHTML }}</li>{{ end }}
+      </ol>
+    </section>
+    {{ end }}
+
     {{ with .Params.motorisations }}
     <section class="ft-section" id="motorisations">
       <h2>Motorisations et performances</h2>

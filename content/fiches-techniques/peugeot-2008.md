@@ -153,6 +153,13 @@ concurrents:
     puissance: "100 à 140 ch"
     url: "/fiches-techniques/dacia-duster/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>25500 €</strong> pour la Peugeot 2008 2026 en finition d'entrée, gamme jusqu'à 39900 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Peugeot 2008 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment suv urbain B-SUV : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : essence, 130ch ss, puretech, diesel, puretech 130ch, bluehdi."
+
 draft: false
 ---
 
@@ -161,3 +168,7 @@ La **Peugeot 2008 II** restylée en 2023, frère SUV de la 208 sur la plateforme
 Avec ses **4,30 m de long** pour un coffre de **434 litres**, le 2008 II affiche l'une des meilleures habitabilités du segment. Trois finitions structurent la gamme : Allure, GT et GT Pack, cette dernière ajoutant toit ouvrant panoramique, sièges chauffants et pack Drive Assist Plus (semi-autonome niveau 2). L'i-Cockpit 3D 10 pouces est de série dès Allure.
 
 Cette fiche technique reprend les **données officielles Peugeot** pour les motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes du segment B-SUV (Renault Captur, VW T-Cross, Toyota Yaris Cross, Dacia Duster) pour faciliter la comparaison.
+
+Cette **fiche technique Peugeot 2008** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : essence, 130ch ss, puretech, diesel, puretech 130ch, bluehdi, eat8, allure.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Peugeot 2008 cible un usage suv urbain segment B-SUV, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : portes, boîte, 130ch ss allure, electrique, active, allure pack, puretech 100ch, 100ch ss.

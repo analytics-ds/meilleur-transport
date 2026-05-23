@@ -123,6 +123,13 @@ concurrents:
     puissance: "73 ch (48 ch en A2)"
     url: "/fiches-techniques/yamaha-mt-07/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>6999 €</strong> pour la Honda CB500 Hornet 2026 en finition d'entrée, gamme jusqu'à 7499 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Honda CB500 Hornet (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment roadster a2 500 cc : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : moto, acheter, petit, avant, freinage, poids."
+
 draft: false
 ---
 
@@ -131,3 +138,7 @@ La **Honda CB500 Hornet**, roadster A2 lancé en 2024 (remplaçant la CB500F), r
 Avec ses **191 kg tous pleins faits**, sa hauteur de selle de **789 mm** accessible, son châssis en treillis tubulaire acier et sa fourche Showa SFF-BP inversée 41 mm, la CB500 Hornet mise sur l'agilité et la rigueur du comportement. Le tableau de bord TFT 5 pouces couleur, l'ABS double canal, le HSTC (contrôle de motricité) et 3 modes de pilotage (Sport, Standard, Rain) sont de série. Le Quickshifter Honda reste en option à 500 € de surcoût.
 
 Cette fiche technique reprend les **données officielles Honda** pour le moteur, le châssis et l'équipement, avec les concurrentes directes (Yamaha MT-03, Kawasaki Z500, KTM Duke 390, Yamaha MT-07 bridée A2) pour faciliter la comparaison du segment des roadsters A2.
+
+Cette **fiche technique Honda CB500 Hornet** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : moto, acheter, petit, avant, freinage, poids, arrière, disque.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Honda CB500 Hornet cible un usage roadster a2 segment 500 cc, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : entretien, équipement, frein, vitesse, suspension, pistons, toutes, utilisation.

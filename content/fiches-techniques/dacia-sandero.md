@@ -152,6 +152,13 @@ concurrents:
     puissance: "75 à 156 ch"
     url: "/fiches-techniques/peugeot-208/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>12790 €</strong> pour la Dacia Sandero 2026 en finition d'entrée, gamme jusqu'à 17900 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Dacia Sandero (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment citadine B : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : sandero stepway, stepway, eco-g, avant, arrière, optionyouclip support."
+
 draft: false
 ---
 
@@ -160,3 +167,7 @@ La **Dacia Sandero III**, lancée en 2020 et restylée en 2024, demeure en 2026 
 Avec ses **4,09 m de long** et son coffre de **328 litres**, la Sandero III se positionne comme une citadine spacieuse, en réalité plus longue qu'une Peugeot 208. Trois finitions structurent la gamme : Essential, Expression et Extreme. Toutes intègrent désormais les aides à la conduite obligatoires GSR2 (freinage d'urgence, alerte de ligne, reconnaissance des panneaux).
 
 Cette fiche technique reprend les **données officielles Dacia** pour les motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Citroën C3, Renault Clio, Hyundai i20, Peugeot 208) pour situer la Sandero dans le segment B des citadines polyvalentes.
+
+Cette **fiche technique Dacia Sandero** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : sandero stepway, stepway, eco-g, avant, arrière, optionyouclip support, toit, portes.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Dacia Sandero cible un usage citadine segment B, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : automatique, coffre, manuelle, dacia sandero fiche, sandero fiche technique, sandero fiche, expression, attelage.

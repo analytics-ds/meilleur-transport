@@ -166,6 +166,13 @@ concurrents:
     puissance: "140 à 196 ch"
     url: "/fiches-techniques/toyota-corolla/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>28400 €</strong> pour la Peugeot 308 2026 en finition d'entrée, gamme jusqu'à 46900 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la Peugeot 308 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment compacte C : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : puretech, bluehdi, moteur, avant, peugeot fiche, essence."
+
 draft: false
 ---
 
@@ -174,3 +181,7 @@ La **Peugeot 308 III**, lancée en 2021 sur la plateforme EMP2 du groupe Stellan
 Avec ses **4,37 m de long** pour un coffre de **412 litres**, la 308 III affiche un design élancé typé sport, ponctué par les Matrix LED Pixel en finition GT. Trois finitions structurent la gamme : Allure, GT et GT Pack, cette dernière intégrant sièges chauffants massants AGR, vision nocturne et pack Drive Assist Plus (semi-autonome niveau 2).
 
 Cette fiche technique reprend les **données officielles Peugeot** pour les quatre motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Renault Mégane, VW Golf, Opel Astra, Toyota Corolla) pour faciliter la comparaison du segment C.
+
+Cette **fiche technique Peugeot 308** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : puretech, bluehdi, moteur, avant, peugeot fiche, essence, consulté, eat8.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Peugeot 308 cible un usage compacte segment C, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : boîte, allure, compacte, hybrid, pack, cylindrée, diesel, vitesse.

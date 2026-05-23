@@ -175,6 +175,13 @@ concurrents:
     puissance: "200 à 520 ch"
     url: "/fiches-techniques/alfa-romeo-giulia/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>50900 €</strong> pour la BMW Série 3 2026 en finition d'entrée, gamme jusqu'à 78900 € selon motorisation et équipement."
+  - "Plusieurs <strong>motorisations</strong> au catalogue : voir le tableau ci-dessous pour la BMW Série 3 (essence, hybride ou électrique selon les versions), avec données constructeur officielles."
+  - "Trois <strong>finitions</strong> principales disponibles, du modèle d'entrée à la version haut de gamme, avec une fiche technique détaillée pour chaque finition."
+  - "Segment berline premium D : positionnement, dimensions et coffre comparables aux modèles concurrents (voir cards ci-dessous)."
+  - "Concurrentes directes et essais : consultez les <strong>avis</strong> et tests sur la Centrale, l'Argus et les sites spécialisés ; mots-clés associés : sport, touring, berline, puissance, 330e, toit."
+
 draft: false
 ---
 
@@ -183,3 +190,7 @@ La **BMW Série 3 G20** restylée en 2022 (LCI) reste en 2026 la référence des
 Avec ses **4,71 m de long** et son BMW Curved Display 12,3 + 14,9 pouces de série, la Série 3 partage sa plateforme CLAR avec la Série 4 et la Série 5. Trois finitions structurent la gamme : Lounge, M Sport (kit carrosserie M, sièges sport) et M Sport Pro (suspension adaptative M, étriers rouges, tête haute, Driving Assistant Plus).
 
 Cette fiche technique reprend les **données officielles BMW** pour les motorisations, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Audi A4, Mercedes Classe C, Tesla Model 3, Alfa Romeo Giulia) pour faciliter la comparaison du segment des berlines premium.
+
+Cette **fiche technique BMW Série 3** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : sport, touring, berline, puissance, 330e, toit, hybride, vitesse.
+
+Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la BMW Série 3 cible un usage berline premium segment D, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : consommation, poids, rétroviseurs, essence, touring 330e, largeur, boîte, émissions.

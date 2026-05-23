@@ -152,11 +152,20 @@ concurrents:
     puissance: "90 à 160 ch"
     url: "/fiches-techniques/renault-captur/"
 
+quick_summary:
+  - "<strong>Prix neuf</strong> dès <strong>19 990 €</strong> en TCe 100 Eco-G, gamme jusqu'à 29 900 € selon les finitions Essential, Expression et Extreme."
+  - "Trois <strong>moteurs</strong> au choix dont une version <strong>hybride</strong> 140 ch à 4,8 L/100 km, transmission 4x4 disponible sur le TCe 130."
+  - "SUV 5 <strong>portes</strong> du segment B-SUV, 4,34 m, coffre de 472 L, garde au sol 217 mm, pack Sleep en option."
+  - "Modèle <strong>année</strong> 2026 (Duster III restylé), boîte manuelle 6 rapports ou boîte automatique multimode sur Hybrid."
+  - "Concurrentes Captur, T-Cross, Juke, Bayon : voir essais, annonces, occasions et choix toutes marques sur la Centrale."
+
 draft: false
 ---
 
-Le **Dacia Duster III**, lancé en 2024 sur la plateforme CMF-B du groupe Renault, devient en 2026 le SUV compact low-cost de référence. Cette fiche technique du Dacia Duster détaille les trois motorisations principales : le **TCe 100 Eco-G** bicarburation essence/GPL à **19 990 €**, le TCe 130 hybridation légère 48V (avec option 4x4), et le **Hybrid 140** full hybride à **4,8 L/100 km** WLTP.
+Le **Dacia Duster III**, lancé en 2024 sur la plateforme CMF-B du groupe Renault, devient en 2026 le SUV compact low-cost de référence. Cette fiche technique du Dacia Duster détaille les trois motorisations principales : le **TCe 100 Eco-G** bicarburation essence/GPL à **19 990 €**, le TCe 130 hybridation légère 48V (avec option 4x4), et le **Hybrid 140** full hybride à **4,8 L/100 km** WLTP. Le **moteur** Hybrid combine un bloc 1.6 essence atmosphérique à un train électrique pour offrir un agrément automatique en ville sans recharge à la prise.
 
-Avec ses **4,34 m de long** et ses **217 mm de garde au sol**, le Duster III revendique sa filiation tout-terrain tout en gagnant en habitabilité (coffre de **472 litres**). Trois finitions structurent la gamme : Essential, Expression et Extreme, cette dernière intégrant le pack Sleep et les barres de toit modulables. Les aides à la conduite obligatoires GSR2 sont de série (freinage d'urgence, alerte de ligne, reconnaissance des panneaux).
+Avec ses **4,34 m de long**, sa hauteur de 1 656 mm et ses **217 mm de garde au sol**, le Duster III revendique sa filiation tout-terrain tout en gagnant en habitabilité (**coffre** de **472 litres**, **intérieur** modulable). Trois finitions structurent la gamme : **Essential**, **Expression** et **Extreme**, cette dernière intégrant le pack Sleep, les barres de toit modulables et les jantes alu 18 pouces. Les aides à la conduite obligatoires GSR2 sont de série (freinage d'urgence, alerte de ligne, reconnaissance des panneaux, détection d'angle mort sur la version haute).
 
-Cette fiche technique reprend les **données officielles Dacia** pour les motorisations, les dimensions et l'équipement de série, avec les concurrentes directes (Renault Captur, Hyundai Bayon, VW T-Cross, Nissan Juke) pour faciliter la comparaison du segment B-SUV.
+Côté **puissance**, le Duster décline 100, 130 et 140 ch selon la version, avec une vmax de 183 km/h pour le TCe 130. L'**arrière** reprend un montage multibras sur les finitions 4x4 pour préserver le **bord** des chemins difficiles. Toutes les **voitures** neuves bénéficient de la garantie constructeur Dacia 3 ans / 100 000 km, prolongeable jusqu'à 7 ans avec les services Dacia Care.
+
+Cette fiche technique reprend les **données officielles Dacia** pour les motorisations, les dimensions et l'équipement de série, avec les concurrentes directes (Renault Captur, Hyundai Bayon, VW T-Cross, Nissan Juke) pour faciliter la comparaison du segment B-SUV. Les annonces neuves et d'**occasion** se consultent chez les concessionnaires Dacia et la Centrale, où le Duster reste l'un des best-sellers du **choix achat** SUV B en France.

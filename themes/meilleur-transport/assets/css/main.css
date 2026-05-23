@@ -4204,3 +4204,26 @@ img {
     .ft-specs-cols { grid-template-columns: 1fr; }
     .ft-motor-quick { font-size: 0.85rem; flex-wrap: wrap; }
 }
+
+.ft-quick-summary {
+    background: linear-gradient(135deg, var(--primary-light) 0%, #F8FCF1 100%);
+    border-left: 4px solid var(--primary);
+    padding: 1.5rem 1.75rem;
+    border-radius: var(--radius-lg);
+}
+.ft-quick-summary h2 {
+    font-size: 1.2rem;
+    border-left: 0;
+    padding-left: 0;
+    margin: 0 0 1rem;
+    color: var(--dark);
+}
+.ft-quick-summary ol {
+    margin: 0;
+    padding-left: 1.5rem;
+    color: var(--text);
+    line-height: 1.55;
+}
+.ft-quick-summary ol li { margin-bottom: 0.5rem; }
+.ft-quick-summary ol li:last-child { margin-bottom: 0; }
+.ft-quick-summary ol li strong { color: var(--dark); }
