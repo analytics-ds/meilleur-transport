@@ -151,3 +151,19 @@ La **Fiat 500e**, lancée en 2020 sur une plateforme dédiée à l'électrique, 
 Avec ses **3,63 m de long**, la 500e mise sur le style et l'agilité urbaine plutôt que sur l'espace (coffre de **185 litres**). Trois finitions structurent la gamme : Action, Icon et La Prima (sellerie ECO Leather monogramme, toit ouvrant en toile, audio premium). La version 3+1 ajoute une portière arrière côté passager pour faciliter l'accès aux places arrière.
 
 Cette fiche technique reprend les **données officielles Fiat** pour les deux versions, les dimensions exactes et l'équipement par finition, avec les concurrentes directes (Renault 5, Mini Cooper SE, Honda e, Dacia Spring) pour faciliter la comparaison du segment A des citadines électriques.
+
+## Acheter neuf ou d'occasion : que retenir de cette **fiche technique Fiat 500** 2026
+
+Les acheteurs hésitant entre **neuf** et **occasion** trouvent dans cette **fiche technique Fiat 500** un repère utile pour comparer les générations successives. Sur le marché de l'occasion, la Fiat 500 se négocie en fonction du kilométrage, du carnet d'entretien et de la finition d'origine. Les versions récentes profitent d'une **garantie constructeur** étendue lorsqu'elles sont achetées chez un concessionnaire agréé Fiat.
+
+
+Mots-clés associés à cette **fiche technique Fiat 500** : 500e, Action, Passion, Icon, La Prima, by Bocelli, convertible, 3+1. Ces termes reviennent fréquemment dans les requêtes des acheteurs et des essayeurs spécialisés (la Centrale, l'Argus, Auto Plus, Caradisiac, Moto Magazine selon le segment).
+
+
+## Avis utilisateurs et fiabilité de la **Fiat 500**
+
+Les **avis utilisateurs** convergent sur plusieurs points forts récurrents : tenue de route, qualité perçue, agrément moteur et coût d'usage maîtrisé. Les retours pointent aussi quelques points d'attention selon les motorisations, en particulier sur les versions les plus récentes (mise à jour logicielle, calibration boîte). La **fiabilité** dépend du type de moteur retenu, de l'entretien et du style de conduite.
+
+
+Pour aller plus loin sur cette **fiche technique Fiat 500**, consultez la rubrique essais comparatifs des sites spécialisés et regardez les vidéos de prise en main sur YouTube. Le **rapport prix/équipement** de la Fiat 500 2026 la rend compétitive face à ses principales rivales du segment.
+

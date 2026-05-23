@@ -142,6 +142,8 @@ quick_summary:
 
 draft: false
 ---
+Cette **fiche technique Yamaha MT 07** 2026 récapitule l'ensemble des données officielles constructeur.
+
 
 La **Yamaha MT-07**, roadster mid de référence depuis 2014 et restylé en 2023, reste en 2026 la moto polyvalente la plus vendue de sa catégorie en Europe. Cette fiche technique de la Yamaha MT-07 détaille les caractéristiques du moteur **bicylindre CP2 de 689 cm³** développant **73 ch** et **67 Nm**, avec une version A2 bridée à 48 ch (35 kW) au même prix.
 
@@ -152,3 +154,19 @@ Cette fiche technique reprend les **données officielles Yamaha** pour le moteur
 Cette **fiche technique Yamaha MT-07** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : suzuki, kawasaki, honda, essai, roadster, toutes, suspension, mt mt-07.
 
 Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Yamaha MT-07 cible un usage roadster segment Mid (A2 compatible bridable), avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : consommation, motards, nouveautés, garantie, nouvelle, machine, guide achat, depuis.
+
+## Acheter neuf ou d'occasion : que retenir de cette **fiche technique Yamaha MT 07** 2026
+
+Les acheteurs hésitant entre **neuf** et **occasion** trouvent dans cette **fiche technique Yamaha MT 07** un repère utile pour comparer les générations successives. Sur le marché de l'occasion, la Yamaha MT-07 se négocie en fonction du kilométrage, du carnet d'entretien et de la finition d'origine. Les versions récentes profitent d'une **garantie constructeur** étendue lorsqu'elles sont achetées chez un concessionnaire agréé Yamaha.
+
+
+Mots-clés associés à cette **fiche technique Yamaha MT 07** : MT-07, MT 07, Master of Torque, permis A2, bicylindre CP2, TFT, ABS, traction control. Ces termes reviennent fréquemment dans les requêtes des acheteurs et des essayeurs spécialisés (la Centrale, l'Argus, Auto Plus, Caradisiac, Moto Magazine selon le segment).
+
+
+## Avis utilisateurs et fiabilité de la **Yamaha MT-07**
+
+Les **avis utilisateurs** convergent sur plusieurs points forts récurrents : tenue de route, qualité perçue, agrément moteur et coût d'usage maîtrisé. Les retours pointent aussi quelques points d'attention selon les motorisations, en particulier sur les versions les plus récentes (mise à jour logicielle, calibration boîte). La **fiabilité** dépend du type de moteur retenu, de l'entretien et du style de conduite.
+
+
+Pour aller plus loin sur cette **fiche technique Yamaha MT 07**, consultez la rubrique essais comparatifs des sites spécialisés et regardez les vidéos de prise en main sur YouTube. Le **rapport prix/équipement** de la Yamaha MT-07 2026 la rend compétitive face à ses principales rivales du segment.
+

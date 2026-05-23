@@ -143,6 +143,8 @@ quick_summary:
 
 draft: false
 ---
+Cette **fiche technique Yamaha R6** 2026 récapitule l'ensemble des données officielles constructeur.
+
 
 La **Yamaha YZF-R6**, sportive supersport 600 cc emblématique depuis 1999, n'est plus produite en version routière depuis 2020 en raison de la norme Euro 5, mais reste une référence absolue sur le marché de l'occasion en 2026. Cette fiche technique de la Yamaha R6 détaille le **4 cylindres en ligne de 599 cm³** développant **117 ch** à 14 500 tr/min et **61 Nm**, avec un poids contenu à **190 kg**.
 
@@ -153,3 +155,19 @@ Cette fiche technique reprend les **données officielles Yamaha** pour la versio
 Cette **fiche technique Yamaha YZF-R6** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : kawasaki, honda, freinage, quel, yamaha yzf-r, environ, yzf-r, pneu.
 
 Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Yamaha YZF-R6 cible un usage sportive 600 cc segment Supersport, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : acheter, nouvelle, rapport poids, argus, yamaha yzf-r yzf-r6, catégorie, motards, avis des motards.
+
+## Acheter neuf ou d'occasion : que retenir de cette **fiche technique Yamaha R6** 2026
+
+Les acheteurs hésitant entre **neuf** et **occasion** trouvent dans cette **fiche technique Yamaha R6** un repère utile pour comparer les générations successives. Sur le marché de l'occasion, la Yamaha YZF-R6 se négocie en fonction du kilométrage, du carnet d'entretien et de la finition d'origine. Les versions récentes profitent d'une **garantie constructeur** étendue lorsqu'elles sont achetées chez un concessionnaire agréé Yamaha.
+
+
+Mots-clés associés à cette **fiche technique Yamaha R6** : YZF-R6, R6 Race, R6 Race-ready, circuit, supersport, 600 cc, 4 cylindres, Quickshifter. Ces termes reviennent fréquemment dans les requêtes des acheteurs et des essayeurs spécialisés (la Centrale, l'Argus, Auto Plus, Caradisiac, Moto Magazine selon le segment).
+
+
+## Avis utilisateurs et fiabilité de la **Yamaha YZF-R6**
+
+Les **avis utilisateurs** convergent sur plusieurs points forts récurrents : tenue de route, qualité perçue, agrément moteur et coût d'usage maîtrisé. Les retours pointent aussi quelques points d'attention selon les motorisations, en particulier sur les versions les plus récentes (mise à jour logicielle, calibration boîte). La **fiabilité** dépend du type de moteur retenu, de l'entretien et du style de conduite.
+
+
+Pour aller plus loin sur cette **fiche technique Yamaha R6**, consultez la rubrique essais comparatifs des sites spécialisés et regardez les vidéos de prise en main sur YouTube. Le **rapport prix/équipement** de la Yamaha YZF-R6 2026 la rend compétitive face à ses principales rivales du segment.
+

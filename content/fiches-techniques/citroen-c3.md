@@ -172,3 +172,19 @@ Cette fiche technique reprend les **données officielles Citroën** pour les mot
 Cette **fiche technique Citroën C3** détaille les caractéristiques officielles de la 2026, du **prix** à la **puissance**, en passant par le **couple**, la **consommation WLTP**, les **dimensions** précises (longueur, largeur, hauteur, empattement) et le **volume de coffre**. Les motorisations disponibles, qu'il s'agisse de versions **essence**, **diesel**, **hybride** ou **électrique**, sont récapitulées avec leurs **données constructeur** : cylindrée, transmission (boîte manuelle ou automatique), 0 à 100 km/h, vitesse maxi, autonomie le cas échéant, et **émissions de CO₂**. Termes associés à la recherche : citroën, electrique, boîte, manuelle, ligne, portes, automatique, hybride.
 
 Pour faciliter votre choix, consultez aussi les **finitions** par niveau d'équipement, les **aides à la conduite** disponibles de série et les **concurrentes directes** du même segment. Côté usage, la Citroën C3 cible un usage citadine segment B, avec un **rapport prix/équipement** compétitif et une **fiabilité** documentée par les retours d'expérience des conducteurs. Les versions d'occasion sont également disponibles, avec des tarifs adaptés à différents budgets. Mots-clés complémentaires : essence, electrique 113ch, consommation, business, confort, moteur, pack, argus.
+
+## Acheter neuf ou d'occasion : que retenir de cette **fiche technique Citroën C3** 2026
+
+Les acheteurs hésitant entre **neuf** et **occasion** trouvent dans cette **fiche technique Citroën C3** un repère utile pour comparer les générations successives. Sur le marché de l'occasion, la Citroën C3 se négocie en fonction du kilométrage, du carnet d'entretien et de la finition d'origine. Les versions récentes profitent d'une **garantie constructeur** étendue lorsqu'elles sont achetées chez un concessionnaire agréé Citroën.
+
+
+Mots-clés associés à cette **fiche technique Citroën C3** : citroën, advanced comfort, PureTech, ë-C3, berline, manuelle, boîte automatique, compact suv. Ces termes reviennent fréquemment dans les requêtes des acheteurs et des essayeurs spécialisés (la Centrale, l'Argus, Auto Plus, Caradisiac, Moto Magazine selon le segment).
+
+
+## Avis utilisateurs et fiabilité de la **Citroën C3**
+
+Les **avis utilisateurs** convergent sur plusieurs points forts récurrents : tenue de route, qualité perçue, agrément moteur et coût d'usage maîtrisé. Les retours pointent aussi quelques points d'attention selon les motorisations, en particulier sur les versions les plus récentes (mise à jour logicielle, calibration boîte). La **fiabilité** dépend du type de moteur retenu, de l'entretien et du style de conduite.
+
+
+Pour aller plus loin sur cette **fiche technique Citroën C3**, consultez la rubrique essais comparatifs des sites spécialisés et regardez les vidéos de prise en main sur YouTube. Le **rapport prix/équipement** de la Citroën C3 2026 la rend compétitive face à ses principales rivales du segment.
+
