@@ -1,0 +1,37 @@
+{{ define "main" }}
+<section class="ft-list-hero">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="ft-list-lead">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<section class="ft-list-grid-section container">
+  <div class="ft-list-grid">
+    {{ range (where .Site.RegularPages "Type" "fiches-techniques") }}
+    <a href="{{ .Permalink }}" class="ft-card">
+      {{ with .Params.image }}
+      <div class="ft-card-img">
+        <img src="{{ . }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy">
+      </div>
+      {{ end }}
+      <div class="ft-card-body">
+        <span class="ft-card-cat">{{ .Params.categorie }}{{ with .Params.annee }} · {{ . }}{{ end }}</span>
+        <h2 class="ft-card-title">{{ .Params.marque }} {{ .Params.modele }}</h2>
+        {{ with .Params.bref }}
+        <div class="ft-card-bref">
+          {{ range first 2 . }}
+          <div class="ft-card-bref-item">
+            <span class="ft-card-bref-label">{{ .label }}</span>
+            <span class="ft-card-bref-value">{{ .value }}</span>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+        <span class="ft-card-cta">Voir la fiche complète →</span>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

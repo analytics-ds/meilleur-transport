@@ -1,0 +1,261 @@
+{{ define "main" }}
+
+<article class="fiche-technique">
+
+  <header class="ft-hero">
+    <div class="container">
+      <nav class="ft-breadcrumb" aria-label="Fil d'Ariane">
+        <a href="{{ "/" | relURL }}">Accueil</a>
+        <span class="ft-breadcrumb-sep">/</span>
+        <a href="{{ "/fiches-techniques/" | relURL }}">Fiches techniques</a>
+        <span class="ft-breadcrumb-sep">/</span>
+        <span>{{ .Params.marque }} {{ .Params.modele }}</span>
+      </nav>
+
+      <div class="ft-hero-grid">
+        <div class="ft-hero-content">
+          <span class="ft-hero-segment">{{ .Params.categorie }}{{ with .Params.segment }} · Segment {{ . }}{{ end }} · {{ .Params.annee }}</span>
+          <h1>{{ .Title }}</h1>
+          {{ with .Description }}<p class="ft-hero-description">{{ . }}</p>{{ end }}
+
+          {{ with .Params.bref }}
+          <div class="ft-bref">
+            {{ range . }}
+            <div class="ft-bref-item">
+              <span class="ft-bref-label">{{ .label }}</span>
+              <span class="ft-bref-value">{{ .value }}</span>
+            </div>
+            {{ end }}
+          </div>
+          {{ end }}
+
+          {{ with .Params.site_constructeur }}
+          <a href="{{ .url }}" class="ft-cta-constructeur" target="_blank" rel="noopener nofollow sponsored">
+            {{ .label }}
+            <span class="ft-cta-arrow">↗</span>
+          </a>
+          {{ end }}
+        </div>
+
+        {{ with .Params.image }}
+        <div class="ft-hero-image">
+          <img src="{{ . }}" alt="{{ with $.Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="eager">
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+
+  <div class="ft-body container">
+
+    {{ with .Params.motorisations }}
+    <section class="ft-section" id="motorisations">
+      <h2>Motorisations et performances</h2>
+      <p class="ft-section-lead">{{ len . }} variante{{ if gt (len .) 1 }}s{{ end }} disponible{{ if gt (len .) 1 }}s{{ end }} pour la {{ $.Params.marque }} {{ $.Params.modele }} {{ $.Params.annee }}. Cliquez sur une version pour la déplier.</p>
+      <div class="ft-motor-grid">
+        {{ range $i, $m := . }}
+        <details class="ft-motor-card"{{ if eq $i 0 }} open{{ end }}>
+          <summary>
+            <div class="ft-motor-summary">
+              <div>
+                <span class="ft-motor-type">{{ .type }}</span>
+                <strong>{{ .nom }}</strong>
+              </div>
+              <div class="ft-motor-quick">
+                <span>{{ .puissance }}</span>
+                <span class="ft-motor-sep">·</span>
+                <span>{{ .conso }}</span>
+                <span class="ft-motor-price">{{ .prix }}</span>
+              </div>
+            </div>
+          </summary>
+          <table class="ft-specs-table">
+            <tbody>
+              <tr><th>Type</th><td>{{ .type }}</td></tr>
+              <tr><th>{{ if eq .type "Électrique" }}Batterie{{ else }}Cylindrée{{ end }}</th><td>{{ .cylindree }}</td></tr>
+              <tr><th>Puissance maxi</th><td>{{ .puissance }}</td></tr>
+              <tr><th>Couple maxi</th><td>{{ .couple }}</td></tr>
+              <tr><th>Boîte de vitesses</th><td>{{ .transmission }}</td></tr>
+              <tr><th>0 à 100 km/h</th><td>{{ .accel }}</td></tr>
+              <tr><th>Vitesse maxi</th><td>{{ .vmax }}</td></tr>
+              <tr><th>Consommation WLTP</th><td>{{ .conso }}</td></tr>
+              <tr><th>Émissions CO₂</th><td>{{ .co2 }}</td></tr>
+              {{ with .autonomie }}<tr><th>Autonomie WLTP</th><td>{{ . }}</td></tr>{{ end }}
+              <tr><th>Prix à partir de</th><td><strong class="ft-price-cell">{{ .prix }}</strong></td></tr>
+            </tbody>
+          </table>
+        </details>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{ with .Params.dimensions }}
+    <section class="ft-section" id="dimensions">
+      <h2>Dimensions et capacités</h2>
+      <div class="ft-specs-cols">
+        <table class="ft-specs-table">
+          <thead><tr><th colspan="2">Encombrement</th></tr></thead>
+          <tbody>
+            {{ with .longueur }}<tr><th>Longueur</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .largeur }}<tr><th>Largeur</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .hauteur }}<tr><th>Hauteur</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .empattement }}<tr><th>Empattement</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .garde_au_sol }}<tr><th>Garde au sol</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .pneus }}<tr><th>Pneumatiques</th><td>{{ . }}</td></tr>{{ end }}
+          </tbody>
+        </table>
+        <table class="ft-specs-table">
+          <thead><tr><th colspan="2">Habitabilité et charge</th></tr></thead>
+          <tbody>
+            <tr><th>Nombre de places</th><td>{{ $.Params.places }}</td></tr>
+            {{ with $.Params.portes }}<tr><th>Nombre de portes</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .coffre }}<tr><th>Volume de coffre</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .coffre_max }}<tr><th>Coffre maxi (sièges rabattus)</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .reservoir }}<tr><th>Réservoir</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .poids }}<tr><th>Poids à vide</th><td>{{ . }}</td></tr>{{ end }}
+            {{ with .charge_utile }}<tr><th>Charge utile</th><td>{{ . }}</td></tr>{{ end }}
+          </tbody>
+        </table>
+      </div>
+    </section>
+    {{ end }}
+
+    {{ with .Params.equipement_finitions }}
+    <section class="ft-section" id="finitions">
+      <h2>Équipement par finition</h2>
+      <div class="ft-finitions-grid">
+        {{ range . }}
+        <div class="ft-finition-card">
+          <div class="ft-finition-head">
+            <h3>{{ .finition }}</h3>
+            <span class="ft-finition-prix">{{ .prix }}</span>
+          </div>
+          <ul>
+            {{ range .points_cles }}<li>{{ . }}</li>{{ end }}
+          </ul>
+        </div>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{ with .Params.securite }}
+    <section class="ft-section" id="securite">
+      <h2>Sécurité et aides à la conduite</h2>
+      <ul class="ft-list-check">
+        {{ range . }}<li>{{ . }}</li>{{ end }}
+      </ul>
+    </section>
+    {{ end }}
+
+    {{ with .Params.concurrents }}
+    <section class="ft-section" id="concurrentes">
+      <h2>Concurrentes directes</h2>
+      <p class="ft-section-lead">Comparez la {{ $.Params.marque }} {{ $.Params.modele }} aux principales rivales du segment.</p>
+      <div class="ft-concurrents-grid">
+        {{ $marque := $.Params.marque }}
+        {{ $modele := $.Params.modele }}
+        {{ range . }}
+        <a href="{{ .url }}" class="ft-concurrent-card">
+          {{ if .image }}
+          <div class="ft-concurrent-img">
+            <img src="{{ .image }}" alt="{{ $marque }} {{ $modele }} face à {{ .nom }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="ft-concurrent-body">
+            <h3>{{ .nom }}</h3>
+            {{ with .puissance }}<span class="ft-concurrent-meta">{{ . }}</span>{{ end }}
+            {{ with .prix }}<span class="ft-concurrent-prix">{{ . }}</span>{{ end }}
+            <span class="ft-concurrent-cta">Voir la fiche →</span>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{ with .Params.site_constructeur }}
+    <section class="ft-section ft-section-cta">
+      <div class="ft-cta-block">
+        <div>
+          <h2>Configurer votre {{ $.Params.marque }} {{ $.Params.modele }}</h2>
+          <p>Personnalisez la motorisation, la finition et les options directement sur le site officiel {{ $.Params.marque }}.</p>
+        </div>
+        <a href="{{ .url }}" class="ft-cta-constructeur ft-cta-constructeur-lg" target="_blank" rel="noopener nofollow sponsored">
+          {{ .label }}
+          <span class="ft-cta-arrow">↗</span>
+        </a>
+      </div>
+    </section>
+    {{ end }}
+
+    {{ if .Content }}
+    <section class="ft-section ft-context" id="contexte">
+      <h2>À propos de la {{ .Params.marque }} {{ .Params.modele }}</h2>
+      <div class="ft-context-body">
+        {{ .Content }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{ with .Params.faq }}
+    <section class="ft-section ft-faq" id="faq">
+      <h2>Questions fréquentes</h2>
+      {{ range . }}
+      <details class="ft-faq-item">
+        <summary>{{ .question }}</summary>
+        <p>{{ .answer }}</p>
+      </details>
+      {{ end }}
+    </section>
+    {{ end }}
+
+  </div>
+</article>
+
+{{ with .Params.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $q := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ .question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ .answer | jsonify }}
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Car",
+  "name": {{ printf "%s %s" .Params.marque .Params.modele | jsonify }},
+  "brand": {
+    "@type": "Brand",
+    "name": {{ .Params.marque | jsonify }}
+  },
+  "model": {{ .Params.modele | jsonify }},
+  "vehicleModelDate": "{{ .Params.annee }}",
+  "bodyType": {{ .Params.carrosserie | jsonify }},
+  "numberOfDoors": {{ .Params.portes }},
+  "seatingCapacity": {{ .Params.places }}{{ with .Params.prix_min }},
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "{{ $.Params.devise | default "EUR" }}",
+    "lowPrice": "{{ . }}",
+    "highPrice": "{{ $.Params.prix_max }}"
+  }{{ end }}
+}
+</script>
+
+{{ end }}
