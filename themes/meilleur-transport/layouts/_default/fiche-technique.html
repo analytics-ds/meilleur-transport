@@ -166,7 +166,9 @@
         {{ $marque := $.Params.marque }}
         {{ $modele := $.Params.modele }}
         {{ range . }}
-        <a href="{{ .url }}" class="ft-concurrent-card">
+        {{ $target := site.GetPage .url }}
+        {{ if $target }}
+        <a href="{{ .url | relURL }}" class="ft-concurrent-card">
           {{ if .image }}
           <div class="ft-concurrent-img">
             <img src="{{ .image }}" alt="{{ $marque }} {{ $modele }} face à {{ .nom }}" loading="lazy">
@@ -179,6 +181,20 @@
             <span class="ft-concurrent-cta">Voir la fiche →</span>
           </div>
         </a>
+        {{ else }}
+        <div class="ft-concurrent-card ft-concurrent-card-static">
+          {{ if .image }}
+          <div class="ft-concurrent-img">
+            <img src="{{ .image }}" alt="{{ $marque }} {{ $modele }} face à {{ .nom }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="ft-concurrent-body">
+            <h3>{{ .nom }}</h3>
+            {{ with .puissance }}<span class="ft-concurrent-meta">{{ . }}</span>{{ end }}
+            {{ with .prix }}<span class="ft-concurrent-prix">{{ . }}</span>{{ end }}
+          </div>
+        </div>
+        {{ end }}
         {{ end }}
       </div>
     </section>
