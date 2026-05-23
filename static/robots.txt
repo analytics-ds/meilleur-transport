@@ -12,4 +12,9 @@ Disallow: /admin/
 Disallow: /tags/
 Disallow: /en/tags/
 
+# Majestic (MJ12bot) : autorisation explicite requise pour qu'ils crawlent
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 5
+
 Sitemap: https://meilleur-transport.com/sitemap.xml
