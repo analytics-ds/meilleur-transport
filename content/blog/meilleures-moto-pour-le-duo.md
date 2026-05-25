@@ -1,5 +1,5 @@
 ---
-title: "Les meilleures moto pour le duo en 2026 : quelle moto choisir ?"
+title: "Les meilleures motos pour le duo en 2026 : quelle moto choisir ?"
 seoTitle: "Meilleures moto pour le duo : top 10 des modèles confort passager"
 description: "Comparatif des meilleures motos pour rouler en duo en 2026 : BMW R 1300 GS, Honda Africa Twin, Yamaha Tracer 9, Goldwing, Multistrada V4. Confort passager, autonomie, équipements."
 translationKey: "best-two-up-motorcycle"

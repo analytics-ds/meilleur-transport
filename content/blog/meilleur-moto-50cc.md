@@ -1,5 +1,5 @@
 ---
-title: "Meilleur moto 50cc en 2026 : quel modèle choisir ?"
+title: "Meilleure moto 50cc en 2026 : quel modèle choisir ?"
 seoTitle: "Meilleur moto 50cc : top des modèles à boîte pour débuter en 2026"
 description: "Comparatif des meilleures motos 50cc en 2026 à boîte mécanique : Beta, Derbi, Rieju, Fantic, Sherco. Permis AM, prix, fiabilité, supermotard ou enduro. Guide d'achat pour débuter dès 14 ans."
 translationKey: "best-50cc-motorcycle"

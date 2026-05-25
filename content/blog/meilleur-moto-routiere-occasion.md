@@ -1,5 +1,5 @@
 ---
-title: "Meilleur moto routière d'occasion en 2026 : 3 paliers de budget pour 3 niveaux de gamme"
+title: "Meilleure moto routière d'occasion en 2026 : 3 paliers de budget pour 3 niveaux de gamme"
 seoTitle: "Meilleur Moto Routière d'Occasion 2026 : Top par Budget (5k, 12k, 20k €)"
 description: "Comparatif des meilleures motos routières d'occasion 2026 par palier de budget : moins de 8 000 € (Tracer 700, NC750X), 8 à 15 000 € (Africa Twin, FJR 1300), 15 à 22 000 € (R 1250 GS, Goldwing). Fiabilité, kilométrage, vérifications."
 translationKey: "best-used-touring-motorcycle"

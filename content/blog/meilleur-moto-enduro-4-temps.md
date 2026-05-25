@@ -1,5 +1,5 @@
 ---
-title: "Meilleur moto enduro 4 temps en 2026 : quel modèle pour quelle discipline ?"
+title: "Meilleure moto enduro 4 temps en 2026 : quel modèle pour quelle discipline ?"
 seoTitle: "Meilleur Moto Enduro 4 Temps 2026 : Top par Discipline (Loisir, Race, Hard)"
 description: "Comparatif des meilleures motos enduro 4 temps 2026 par discipline : loisir trail, compétition E1/E2/E3, hard enduro, rallye-raid. KTM, Husqvarna, Beta, Sherco, Honda, Yamaha. Prix, cylindrée, choix par profil pilote."
 translationKey: "best-4-stroke-enduro-motorcycle"

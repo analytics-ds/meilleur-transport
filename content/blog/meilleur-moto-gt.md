@@ -1,5 +1,5 @@
 ---
-title: "Meilleur moto GT en 2026 : par cylindrée pour 4 niveaux de tourisme"
+title: "Meilleure moto GT en 2026 : par cylindrée pour 4 niveaux de tourisme"
 seoTitle: "Meilleur Moto GT 2026 : Top par Cylindrée (900, 1200, 1600, 1800 cm³)"
 description: "Comparatif des meilleures motos GT 2026 par cylindrée : 850-900 cm³ (Tracer 9 GT+), 1000-1200 cm³ (Tiger 1200, FJR 1300, Multistrada V4), 1300-1600 cm³ (K 1600 GTL), 1800+ cm³ (Goldwing Tour, Indian Roadmaster)."
 translationKey: "best-gt-motorcycle"

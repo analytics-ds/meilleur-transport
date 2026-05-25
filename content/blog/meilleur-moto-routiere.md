@@ -1,5 +1,5 @@
 ---
-title: "Meilleur moto routière en 2026 : 4 archétypes pour 4 usages routiers"
+title: "Meilleure moto routière en 2026 : 4 archétypes pour 4 usages routiers"
 seoTitle: "Meilleur Moto Routière 2026 : Les 4 Archétypes (GT, Sport, Trail, Custom)"
 description: "Comparatif des meilleures motos routières 2026 par archétype : sport-routière (Tracer 9 GT+, FJR), grand-tourisme (Goldwing, K 1600), trail-routière (GS, Africa Twin), routière custom (Indian, Harley). Prix, autonomie, choix par profil."
 translationKey: "best-touring-motorcycle"

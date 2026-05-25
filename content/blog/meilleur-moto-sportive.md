@@ -1,5 +1,5 @@
 ---
-title: "Meilleur moto sportive en 2026 : quel modèle choisir ?"
+title: "Meilleure moto sportive en 2026 : quel modèle choisir ?"
 seoTitle: "Meilleure moto sportive : top 10 par cylindrée et permis en 2026"
 description: "Comparatif des meilleures motos sportives en 2026 : Yamaha R7, Aprilia RSV4, Ducati Panigale V4, Kawasaki ZX-10R, BMW S1000RR. Prix, puissance, permis A2 ou A. Guide d'achat par usage."
 translationKey: "best-sport-motorcycle"
