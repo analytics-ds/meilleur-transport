@@ -22,41 +22,6 @@ Holding a **category B licence + 7-hour training** opens the door to a 125cc mot
 
 ![AMV young driver 125 insurance](/images/assurance-125-jeune-conducteur/amv-assurance-125.webp "Young driver 125 insurance comparison 2026")
 
-## Why 125cc insurance costs more for young drivers {#context}
-
-Insurers apply a **new-rider surcharge** to motorcycle policies. This markup affects any holder of an A1, A2 or category B + 7-hour training licence obtained less than **3 years** ago, regardless of how long the car licence has been held. The calculation is straightforward: a novice two-wheel driver is **2.3 times more likely to be involved in a claim** than an experienced rider, according to the French Federation of Insurance.
-
-### Young driver status in 2026
-
-Three profiles trigger the surcharge on a 125cc policy:
-
-- **Category A1 licence** obtained after age 16 with no two-wheel experience
-- **Recent category A2 licence** with planned move to a 125cc
-- **Category B licence with 7-hour training** completed less than 3 years ago
-
-The surcharge represents a **20 to 50 percent** markup on the base premium during the first year, then declines over 2 to 3 years. Specialised insurers such as Mutuelle des Motards offer faster decay. On the vehicle side, a thermal 125 scooter such as the Honda PCX is often cheaper to insure than a 125 sports motorcycle, since the model's loss ratio enters the equation.
-
-### The role of the mandatory 7-hour training
-
-Since **2011**, any holder of a category B licence wishing to ride a 125cc must complete a **7-hour practical course** at an approved driving school. Average cost: **250 to 400 euros**. Insurers demand this certificate without exception. Without it, the policy cannot be issued or coverage falls through in case of a claim.
-
-The 7-hour training certificate is requested at subscription and kept on file. For category B licences obtained before **1 January 1980**, the training is legally optional, but certain insurers such as AXA or Allianz still require it.
-
-## AMV, the leader of the young-rider 125cc insurance segment {#amv}
-
-**AMV Assurances** (formerly Assurances Moto Verte) has been the **number one two-wheel specialist broker in France** since its creation in 1974. A subsidiary of the Verspieren group, AMV insures over **600,000 motorcycle and scooter riders** nationally, including a large share of young 125 riders. The company positions itself as the historical specialist of the segment, with policies negotiated through SMA SA and Filia-MAIF.
-
-### AMV key features
-
-- **Young licence 125 rate**: from **24 euros per month** for basic third-party cover (288 euros per year)
-- **7-hour training discount**: up to **10 percent** off if training was completed at an AMV partner school
-- **Online quote in 3 minutes**: instant pricing with no commitment, immediate validation
-- **0 km roadside assistance**: covered from the doorstep, even at home
-- **Helmet and gear covered**: up to **2,000 euros** of equipment covered in case of theft or accident
-- **24-month new value guarantee**: full reimbursement if the new 125 is stolen or destroyed within the first 2 years
-
-**AMV customer service** is available 6 days a week and managed in France, unlike pure-play online insurers such as Direct Assurance or L'olivier which frequently outsource abroad. The two-wheel expert network is dense, with an average claim handling time of **48 hours**.
-
 ## Detailed comparison of 125cc insurers for young drivers {#comparison}
 
 Here are the **10 main insurers** available in metropolitan France on this segment, ranked by positioning and competitiveness for a typical profile: **24 years old, category B + 7-hour training obtained 1 year ago, Honda PCX 125, central Paris, secure parking**.
@@ -96,6 +61,41 @@ The gap between the **cheapest (AMV at 288 euros)** and the **most expensive (Al
 | Claim filing deadline | 5 days | 5 days | 5 days |
 
 AMV offers the **most comprehensive standard coverage on the market**, with no paid options on essentials such as helmet protection or doorstep roadside assistance. Mutuelle des Motards is very close, with a more activist approach. April Moto remains competitive but charges more for add-ons.
+
+## Why 125cc insurance costs more for young drivers {#context}
+
+Insurers apply a **new-rider surcharge** to motorcycle policies. This markup affects any holder of an A1, A2 or category B + 7-hour training licence obtained less than **3 years** ago, regardless of how long the car licence has been held. The calculation is straightforward: a novice two-wheel driver is **2.3 times more likely to be involved in a claim** than an experienced rider, according to the French Federation of Insurance.
+
+### Young driver status in 2026
+
+Three profiles trigger the surcharge on a 125cc policy:
+
+- **Category A1 licence** obtained after age 16 with no two-wheel experience
+- **Recent category A2 licence** with planned move to a 125cc
+- **Category B licence with 7-hour training** completed less than 3 years ago
+
+The surcharge represents a **20 to 50 percent** markup on the base premium during the first year, then declines over 2 to 3 years. Specialised insurers such as Mutuelle des Motards offer faster decay. On the vehicle side, a thermal 125 scooter such as the Honda PCX is often cheaper to insure than a 125 sports motorcycle, since the model's loss ratio enters the equation.
+
+### The role of the mandatory 7-hour training
+
+Since **2011**, any holder of a category B licence wishing to ride a 125cc must complete a **7-hour practical course** at an approved driving school. Average cost: **250 to 400 euros**. Insurers demand this certificate without exception. Without it, the policy cannot be issued or coverage falls through in case of a claim.
+
+The 7-hour training certificate is requested at subscription and kept on file. For category B licences obtained before **1 January 1980**, the training is legally optional, but certain insurers such as AXA or Allianz still require it.
+
+## AMV, the leader of the young-rider 125cc insurance segment {#amv}
+
+**AMV Assurances** (formerly Assurances Moto Verte) has been the **number one two-wheel specialist broker in France** since its creation in 1974. A subsidiary of the Verspieren group, AMV insures over **600,000 motorcycle and scooter riders** nationally, including a large share of young 125 riders. The company positions itself as the historical specialist of the segment, with policies negotiated through SMA SA and Filia-MAIF.
+
+### AMV key features
+
+- **Young licence 125 rate**: from **24 euros per month** for basic third-party cover (288 euros per year)
+- **7-hour training discount**: up to **10 percent** off if training was completed at an AMV partner school
+- **Online quote in 3 minutes**: instant pricing with no commitment, immediate validation
+- **0 km roadside assistance**: covered from the doorstep, even at home
+- **Helmet and gear covered**: up to **2,000 euros** of equipment covered in case of theft or accident
+- **24-month new value guarantee**: full reimbursement if the new 125 is stolen or destroyed within the first 2 years
+
+**AMV customer service** is available 6 days a week and managed in France, unlike pure-play online insurers such as Direct Assurance or L'olivier which frequently outsource abroad. The two-wheel expert network is dense, with an average claim handling time of **48 hours**.
 
 ## Average price of young driver 125 insurance in France in 2026 {#average-price}
 

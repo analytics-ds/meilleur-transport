@@ -22,41 +22,6 @@ Passer le **permis B + formation 7h** ouvre la porte au 125 cm3, mais une fois l
 
 ![AMV assurance 125 jeune conducteur](/images/assurance-125-jeune-conducteur/amv-assurance-125.webp "Comparatif assurance 125 jeune conducteur 2026")
 
-## Pourquoi l'assurance 125 coûte plus cher aux jeunes conducteurs ? {#contexte}
-
-Les assureurs appliquent une **surprime jeune permis** sur les contrats moto. Cette majoration concerne tout titulaire d'un permis A1, A2 ou d'un permis B avec formation 7h depuis moins de **3 ans**, même si le permis voiture est ancien. Le calcul est simple côté assureur : un conducteur novice deux-roues présente un risque de sinistre **2,3 fois supérieur** à un motard confirmé, selon les chiffres de la Fédération Française de l'Assurance.
-
-### Le statut jeune conducteur en 2026
-
-Trois profils déclenchent la surprime sur un contrat 125 cm3 :
-
-- **Permis A1 obtenu après 16 ans** sans expérience deux-roues
-- **Permis A2 récent** avec passage prévu vers le 125
-- **Permis B avec formation 7h** réalisée depuis moins de 3 ans
-
-Cette surprime représente une majoration de **20 à 50 %** sur la cotisation de base la première année, puis dégressive sur 2 à 3 ans. Quelques assureurs spécialisés comme la Mutuelle des Motards proposent une dégressivité plus rapide. Côté véhicule, un **scooter 125 thermique** comme le Honda PCX se trouve souvent moins cher à assurer qu'une moto sportive 125, le coefficient sinistralité du modèle entrant en jeu.
-
-### Le rôle de la formation 7h obligatoire
-
-Depuis **2011**, tout titulaire du permis B qui souhaite conduire un 125 cm3 doit suivre une **formation pratique de 7 heures** dans une auto-école agréée. Coût moyen : **250 à 400 euros**. Cette formation est exigée par les assureurs sans exception. Sans le certificat, le contrat ne peut être souscrit ou la garantie tombe en cas de sinistre.
-
-L'attestation de formation 7h est demandée à la souscription et conservée par l'assureur. Pour les permis B obtenus avant le **1er janvier 1980**, la formation reste facultative légalement, mais certains assureurs comme AXA ou Allianz l'exigent quand même pour couvrir le risque.
-
-## AMV, le leader du segment assurance moto 125 jeune conducteur {#amv}
-
-**AMV Assurances** (anciennement Assurances Moto Verte) est le **courtier spécialisé deux-roues numéro 1 en France** depuis sa création en 1974. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes** sur le territoire, dont une part importante de jeunes conducteurs 125. L'entreprise se positionne comme le spécialiste historique du segment, avec des contrats négociés auprès de la SMA SA et de la Filia-MAIF.
-
-### Les caractéristiques clés AMV
-
-- **Tarif jeune permis 125** : à partir de **24 euros par mois** en tiers simple (288 euros par an)
-- **Réduction formation 7h** : jusqu'à **10 % de remise** si la formation est faite chez un partenaire AMV
-- **Devis en ligne en 3 minutes** : tarification instantanée sans engagement, validation immédiate
-- **Assistance 0 km** : prise en charge dès le pas de porte, même chez soi
-- **Casque et équipement assurés** : jusqu'à **2 000 euros** d'équipements couverts en cas de vol ou accident
-- **Garantie valeur d'achat 24 mois** : remboursement intégral si le 125 neuf est volé ou détruit dans les 2 premières années
-
-Le **service client AMV** est joignable 6 jours sur 7 et géré en France, contrairement aux assureurs en ligne pure play comme Direct Assurance ou L'olivier qui sous-traitent fréquemment à l'étranger. Le réseau d'experts deux-roues est dense, avec un délai moyen de prise en charge de **48 heures** après déclaration de sinistre.
-
 ## Comparatif détaillé des assureurs 125 pour jeunes conducteurs {#comparatif}
 
 Voici les **10 assureurs principaux** disponibles en France métropolitaine sur ce segment, classés par positionnement et compétitivité tarifaire pour un profil type : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX 125, Paris intra-muros, parking sécurisé**.
@@ -96,6 +61,41 @@ L'écart entre le **moins cher (AMV à 288 euros)** et **le plus cher (Allianz �
 | Délai déclaration sinistre | 5 jours | 5 jours | 5 jours |
 
 AMV propose les **garanties les plus complètes du marché en standard**, sans options payantes pour les éléments essentiels comme le casque ou l'assistance dès le pas de porte. La Mutuelle des Motards se positionne très près, avec une approche plus militante (défense des motards, action politique). April Moto reste compétitif mais facture davantage d'options.
+
+## Pourquoi l'assurance 125 coûte plus cher aux jeunes conducteurs ? {#contexte}
+
+Les assureurs appliquent une **surprime jeune permis** sur les contrats moto. Cette majoration concerne tout titulaire d'un permis A1, A2 ou d'un permis B avec formation 7h depuis moins de **3 ans**, même si le permis voiture est ancien. Le calcul est simple côté assureur : un conducteur novice deux-roues présente un risque de sinistre **2,3 fois supérieur** à un motard confirmé, selon les chiffres de la Fédération Française de l'Assurance.
+
+### Le statut jeune conducteur en 2026
+
+Trois profils déclenchent la surprime sur un contrat 125 cm3 :
+
+- **Permis A1 obtenu après 16 ans** sans expérience deux-roues
+- **Permis A2 récent** avec passage prévu vers le 125
+- **Permis B avec formation 7h** réalisée depuis moins de 3 ans
+
+Cette surprime représente une majoration de **20 à 50 %** sur la cotisation de base la première année, puis dégressive sur 2 à 3 ans. Quelques assureurs spécialisés comme la Mutuelle des Motards proposent une dégressivité plus rapide. Côté véhicule, un **scooter 125 thermique** comme le Honda PCX se trouve souvent moins cher à assurer qu'une moto sportive 125, le coefficient sinistralité du modèle entrant en jeu.
+
+### Le rôle de la formation 7h obligatoire
+
+Depuis **2011**, tout titulaire du permis B qui souhaite conduire un 125 cm3 doit suivre une **formation pratique de 7 heures** dans une auto-école agréée. Coût moyen : **250 à 400 euros**. Cette formation est exigée par les assureurs sans exception. Sans le certificat, le contrat ne peut être souscrit ou la garantie tombe en cas de sinistre.
+
+L'attestation de formation 7h est demandée à la souscription et conservée par l'assureur. Pour les permis B obtenus avant le **1er janvier 1980**, la formation reste facultative légalement, mais certains assureurs comme AXA ou Allianz l'exigent quand même pour couvrir le risque.
+
+## AMV, le leader du segment assurance moto 125 jeune conducteur {#amv}
+
+**AMV Assurances** (anciennement Assurances Moto Verte) est le **courtier spécialisé deux-roues numéro 1 en France** depuis sa création en 1974. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes** sur le territoire, dont une part importante de jeunes conducteurs 125. L'entreprise se positionne comme le spécialiste historique du segment, avec des contrats négociés auprès de la SMA SA et de la Filia-MAIF.
+
+### Les caractéristiques clés AMV
+
+- **Tarif jeune permis 125** : à partir de **24 euros par mois** en tiers simple (288 euros par an)
+- **Réduction formation 7h** : jusqu'à **10 % de remise** si la formation est faite chez un partenaire AMV
+- **Devis en ligne en 3 minutes** : tarification instantanée sans engagement, validation immédiate
+- **Assistance 0 km** : prise en charge dès le pas de porte, même chez soi
+- **Casque et équipement assurés** : jusqu'à **2 000 euros** d'équipements couverts en cas de vol ou accident
+- **Garantie valeur d'achat 24 mois** : remboursement intégral si le 125 neuf est volé ou détruit dans les 2 premières années
+
+Le **service client AMV** est joignable 6 jours sur 7 et géré en France, contrairement aux assureurs en ligne pure play comme Direct Assurance ou L'olivier qui sous-traitent fréquemment à l'étranger. Le réseau d'experts deux-roues est dense, avec un délai moyen de prise en charge de **48 heures** après déclaration de sinistre.
 
 ## Le prix moyen de l'assurance 125 jeune conducteur en France en 2026 {#prix-moyen}
 
