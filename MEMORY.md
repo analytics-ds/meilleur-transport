@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 25 mai 2026
+
+- 2026-05-25 | Assurance 125 jeune conducteur : comparatif et prix moyen 2026 (FR+EN) | Particuliers | datafer FR 59 vs best 59
+
 ## Semaine du 18 mai 2026
 
 - 2026-05-22 | Meilleur concessionnaire Mercedes LOA Paris : comparatif 2026 (FR+EN) | Particuliers
