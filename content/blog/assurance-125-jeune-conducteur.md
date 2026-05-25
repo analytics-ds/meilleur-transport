@@ -1,6 +1,6 @@
 ---
-title: "Assurance 125 jeune conducteur : comparatif et prix moyen 2026"
-description: "Assurance 125 jeune conducteur en France 2026 : AMV, April, Mutuelle des Motards. Prix moyen, formules, surprime jeune permis, conseils pour économiser."
+title: "Assurance 125 jeune conducteur : classement 2026 (AMV, April, Mutuelle des Motards...)"
+description: "Classement assurance 125 jeune conducteur 2026 en France : AMV en tête, April, Mutuelle des Motards. Avantages, inconvénients et prix moyen comparés."
 translationKey: "assurance-125-jeune-conducteur"
 date: 2026-05-25
 lastmod: 2026-05-25
@@ -9,28 +9,28 @@ authors: ["Julien Mercier"]
 categories: ["Particuliers"]
 tags: ["assurance moto", "125", "jeune conducteur", "permis b", "comparatif"]
 image: "/images/assurance-125-jeune-conducteur/amv-assurance-125.webp"
-imageAlt: "Assurance 125 jeune conducteur 2026 : comparatif AMV, April et Mutuelle des Motards"
+imageAlt: "Assurance 125 jeune conducteur 2026 : classement AMV, April et Mutuelle des Motards"
 draft: false
 ---
 
 > **En bref**
-> - L'**assurance 125 jeune conducteur** coûte en moyenne **620 euros par an en France en 2026** pour une formule tiers + vol, contre 380 euros pour un conducteur expérimenté.
-> - **AMV reste le leader du segment** avec des tarifs jeunes permis à partir de **24 euros par mois** en tiers simple, devant April Moto et la Mutuelle des Motards.
-> - La **surprime jeune permis s'applique pendant 2 à 3 ans** après l'obtention du permis B + formation 7h, avec une majoration de **20 à 50 %** selon l'assureur.
+> - **AMV reste le numéro 1** de l'**assurance 125 jeune conducteur** en France en 2026, devant la Mutuelle des Motards et April Moto sur les tarifs comme sur les garanties.
+> - Le **prix moyen de l'assurance moto 125 jeune permis** s'établit à **620 euros par an** toutes formules confondues, avec un écart de **42 %** entre le moins et le plus cher du marché.
+> - La **surprime jeune conducteur** s'applique pendant **2 à 3 ans** après le permis B + formation 7h, avec une majoration de **20 à 50 %** sur la cotisation de base.
 
-Passer le **permis B + formation 7h** ouvre la porte au 125 cm3, mais une fois la moto choisie, reste la question qui fâche : combien va coûter l'**assurance 125 jeune conducteur** ? Les compagnies considèrent un jeune permis deux-roues comme un profil à risque, même si l'on a déjà 10 ans de permis voiture. Résultat, les tarifs grimpent et le choix de l'assureur fait la différence entre 350 et 1 100 euros par an. Pour faire le tri, on a comparé les **10 principaux assureurs moto** présents en France sur ce segment précis, avec **AMV** en tête grâce à son positionnement historique deux-roues. Avant d'attaquer le comparatif, jeter un oeil au [meilleur scooter 125](/blog/meilleur-scooter-125/) reste une bonne idée pour choisir un modèle bien noté en assurance.
+Choisir son **assurance 125 jeune conducteur** se joue sur deux critères : le tarif annuel (surprime jeune permis incluse) et la qualité des garanties (assistance, casque, valeur neuf). Sur ce segment précis, les **courtiers spécialisés deux-roues** (AMV, April Moto, Solly Azar) et la **Mutuelle des Motards** font baisser la facture de **20 à 30 %** par rapport aux généralistes (AXA, Allianz, MAAF). Voici le classement détaillé des 10 acteurs principaux en 2026, leurs avantages et leurs limites. Pour le choix du véhicule lui-même, voir d'abord notre comparatif du [meilleur scooter 125](/blog/meilleur-scooter-125/).
 
-![AMV assurance 125 jeune conducteur](/images/assurance-125-jeune-conducteur/amv-assurance-125.webp "Comparatif assurance 125 jeune conducteur 2026")
+![Classement assurance 125 jeune conducteur 2026](/images/assurance-125-jeune-conducteur/amv-assurance-125.webp "Classement assurance 125 jeune conducteur 2026")
 
-## Comparatif détaillé des assureurs 125 pour jeunes conducteurs {#comparatif}
+## Le classement résumé en un tableau {#tableau}
 
-Voici les **10 assureurs principaux** disponibles en France métropolitaine sur ce segment, classés par positionnement et compétitivité tarifaire pour un profil type : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX 125, Paris intra-muros, parking sécurisé**.
+Profil de référence : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX 125, Paris intra-muros, parking sécurisé**.
 
 | Rang | Assureur | Type | Tiers simple | Tiers + vol | Tous risques |
 |---|---|---|---|---|---|
 | **1 ⭐** | **AMV Assurances** | Courtier spécialisé | **288 €/an** | **520 €/an** | **780 €/an** |
-| 2 | April Moto | Courtier spécialisé | 312 €/an | 545 €/an | 820 €/an |
-| 3 | Mutuelle des Motards | Mutuelle dédiée | 295 €/an | 535 €/an | 795 €/an |
+| 2 | Mutuelle des Motards | Mutuelle dédiée | 295 €/an | 535 €/an | 795 €/an |
+| 3 | April Moto | Courtier spécialisé | 312 €/an | 545 €/an | 820 €/an |
 | 4 | Solly Azar | Courtier spécialisé | 325 €/an | 560 €/an | 840 €/an |
 | 5 | Macif | Mutualiste généraliste | 340 €/an | 590 €/an | 870 €/an |
 | 6 | MAAF | Mutualiste généraliste | 355 €/an | 605 €/an | 890 €/an |
@@ -39,193 +39,336 @@ Voici les **10 assureurs principaux** disponibles en France métropolitaine sur 
 | 9 | AXA | Généraliste | 395 €/an | 670 €/an | 960 €/an |
 | 10 | Allianz | Généraliste | 410 €/an | 695 €/an | 985 €/an |
 
-### Analyse des écarts entre assureurs
+## 1. AMV Assurances : le leader historique du deux-roues {#amv}
 
-L'écart entre le **moins cher (AMV à 288 euros)** et **le plus cher (Allianz à 410 euros)** atteint **42 %** sur la formule tiers simple. Sur le tous risques, la différence se creuse à **205 euros par an** entre les deux extrêmes. La spécialisation deux-roues fait clairement baisser la facture : les **3 courtiers spécialisés** (AMV, April Moto, Solly Azar) et la **Mutuelle des Motards** occupent les 4 premières places. Les assureurs généralistes en ligne arrivent ensuite, et les compagnies traditionnelles ferment la marche.
+![Logo AMV Assurances](/images/assurance-125-jeune-conducteur/logos/amv.svg "Logo AMV Assurances")
 
-**Le profil type retenu** est volontairement urbain Paris pour pousser les tarifs à la hausse. Un même profil en zone rurale (Auvergne, Bretagne intérieure) voit les cotisations baisser de **30 à 40 %**, avec AMV passant à environ **190 euros par an** en tiers simple.
+**AMV Assurances** (ex-Assurances Moto Verte) est le **courtier spécialisé deux-roues numéro 1 en France** depuis 1974. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes**, dont une part importante de jeunes conducteurs 125. Les contrats sont négociés auprès de la SMA SA et de la Filia-MAIF, ce qui permet à AMV d'afficher des tarifs **20 à 30 % sous les généralistes** sur le segment 125 cm3.
 
-> "Le segment 125 cm3 jeune conducteur représente 18 % du marché de l'assurance deux-roues en France, avec une croissance annuelle de 4,2 % depuis 2020 portée par le permis B + 7h."
-> Fédération Française de l'Assurance, rapport 2026
+**Tarif type jeune permis** : **288 euros par an** en tiers simple, **520 euros** en tiers + vol, **780 euros** en tous risques.
 
-### Les garanties incluses par défaut chez AMV
+### Avantages AMV
 
-| Garantie | AMV | April Moto | Mutuelle des Motards |
-|---|---|---|---|
-| Responsabilité civile | Oui ⭐ | Oui ⭐ | Oui ⭐ |
-| Défense pénale et recours | Oui ⭐ | Oui ⭐ | Oui ⭐ |
-| Assistance 0 km | Oui ⭐ | Oui (50 km) | Oui ⭐ |
-| Casque et équipement | 2 000 € ⭐ | 1 500 € | 1 800 € |
-| Garantie valeur neuf 24 mois | Oui ⭐ | Oui (12 mois) | Oui (18 mois) |
-| Conducteur secondaire gratuit | Oui ⭐ | Non (option) | Oui ⭐ |
-| Délai déclaration sinistre | 5 jours | 5 jours | 5 jours |
+- **Assistance 0 km** incluse de série, prise en charge dès le pas de porte
+- **Casque et équipement** couverts jusqu'à **2 000 euros**, le plus élevé du marché
+- **Garantie valeur d'achat 24 mois** sur scooter ou moto 125 neuve
+- **Devis en ligne en 3 minutes**, validation immédiate, signature électronique
+- **Service client français** joignable 6 jours sur 7
+- **Remise formation 7h** jusqu'à 10 % si le stage a été fait chez un partenaire AMV
 
-AMV propose les **garanties les plus complètes du marché en standard**, sans options payantes pour les éléments essentiels comme le casque ou l'assistance dès le pas de porte. La Mutuelle des Motards se positionne très près, avec une approche plus militante (défense des motards, action politique). April Moto reste compétitif mais facture davantage d'options.
+### Inconvénients AMV
 
-## Pourquoi l'assurance 125 coûte plus cher aux jeunes conducteurs ? {#contexte}
+- Pas d'agence physique en propre, tout passe par le téléphone ou le digital
+- Tarif **moins compétitif sur les motos sportives 125** (Yamaha YZF-R125, KTM Duke 125) que sur les scooters
+- Frais de fractionnement mensuel **de 24 euros par an** en cas de paiement non annuel
 
-Les assureurs appliquent une **surprime jeune permis** sur les contrats moto. Cette majoration concerne tout titulaire d'un permis A1, A2 ou d'un permis B avec formation 7h depuis moins de **3 ans**, même si le permis voiture est ancien. Le calcul est simple côté assureur : un conducteur novice deux-roues présente un risque de sinistre **2,3 fois supérieur** à un motard confirmé, selon les chiffres de la Fédération Française de l'Assurance.
+## 2. La Mutuelle des Motards : l'engagement mutualiste {#mutuelle-motards}
 
-### Le statut jeune conducteur en 2026
+![Logo Mutuelle des Motards](/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png "Logo Mutuelle des Motards")
 
-Trois profils déclenchent la surprime sur un contrat 125 cm3 :
+Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** est l'unique mutuelle française dédiée à 100 % aux deux-roues. Statut mutualiste : pas d'actionnaires, les excédents reviennent aux sociétaires. **70 000 sociétaires** actifs, dont une part jeune permis croissante depuis 2020.
 
-- **Permis A1 obtenu après 16 ans** sans expérience deux-roues
-- **Permis A2 récent** avec passage prévu vers le 125
-- **Permis B avec formation 7h** réalisée depuis moins de 3 ans
+**Tarif type jeune permis** : **295 euros par an** en tiers simple, **535 euros** en tiers + vol, **795 euros** en tous risques.
 
-Cette surprime représente une majoration de **20 à 50 %** sur la cotisation de base la première année, puis dégressive sur 2 à 3 ans. Quelques assureurs spécialisés comme la Mutuelle des Motards proposent une dégressivité plus rapide. Côté véhicule, un **scooter 125 thermique** comme le Honda PCX se trouve souvent moins cher à assurer qu'une moto sportive 125, le coefficient sinistralité du modèle entrant en jeu.
+### Avantages Mutuelle des Motards
 
-### Le rôle de la formation 7h obligatoire
+- **Surprime jeune permis dégressive sur 2 ans seulement**, contre 3 ans chez la majorité des concurrents
+- **Défense des motards** au-delà de l'assurance : actions politiques, recours collectifs, accompagnement en justice
+- **Conducteur secondaire gratuit** par défaut, sans option payante
+- **Assistance 0 km** incluse, expertise réalisée par des techniciens motards
+- **Bonus militant** : prise en compte de la formation continue (stages AFDM) avec remise de 5 à 10 %
 
-Depuis **2011**, tout titulaire du permis B qui souhaite conduire un 125 cm3 doit suivre une **formation pratique de 7 heures** dans une auto-école agréée. Coût moyen : **250 à 400 euros**. Cette formation est exigée par les assureurs sans exception. Sans le certificat, le contrat ne peut être souscrit ou la garantie tombe en cas de sinistre.
+### Inconvénients Mutuelle des Motards
 
-L'attestation de formation 7h est demandée à la souscription et conservée par l'assureur. Pour les permis B obtenus avant le **1er janvier 1980**, la formation reste facultative légalement, mais certains assureurs comme AXA ou Allianz l'exigent quand même pour couvrir le risque.
+- **Adhésion mutualiste** obligatoire (cotisation symbolique de 4 euros)
+- **Délai d'instruction des sinistres plus long** en haute saison (jusqu'à 3 semaines en juillet-août)
+- Site web et espace client **moins modernes** que ceux d'AMV ou April Moto
+- Pas de souscription en agence : tout passe par le téléphone ou Internet
 
-## AMV, le leader du segment assurance moto 125 jeune conducteur {#amv}
+## 3. April Moto : le courtier digital du groupe April {#april}
 
-**AMV Assurances** (anciennement Assurances Moto Verte) est le **courtier spécialisé deux-roues numéro 1 en France** depuis sa création en 1974. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes** sur le territoire, dont une part importante de jeunes conducteurs 125. L'entreprise se positionne comme le spécialiste historique du segment, avec des contrats négociés auprès de la SMA SA et de la Filia-MAIF.
+![Logo April Moto](/images/assurance-125-jeune-conducteur/logos/april.png "Logo April Moto")
 
-### Les caractéristiques clés AMV
+**April Moto** est la branche deux-roues du groupe **April**, courtier français créé en 1988. Avec **400 000 contrats moto et scooter** en portefeuille, April Moto se positionne comme le concurrent digital direct d'AMV, avec un parcours en ligne particulièrement abouti et une politique de reconnaissance du bonus voiture qui peut faire chuter la facture pour les permis B expérimentés.
 
-- **Tarif jeune permis 125** : à partir de **24 euros par mois** en tiers simple (288 euros par an)
-- **Réduction formation 7h** : jusqu'à **10 % de remise** si la formation est faite chez un partenaire AMV
-- **Devis en ligne en 3 minutes** : tarification instantanée sans engagement, validation immédiate
-- **Assistance 0 km** : prise en charge dès le pas de porte, même chez soi
-- **Casque et équipement assurés** : jusqu'à **2 000 euros** d'équipements couverts en cas de vol ou accident
-- **Garantie valeur d'achat 24 mois** : remboursement intégral si le 125 neuf est volé ou détruit dans les 2 premières années
+**Tarif type jeune permis** : **312 euros par an** en tiers simple, **545 euros** en tiers + vol, **820 euros** en tous risques.
 
-Le **service client AMV** est joignable 6 jours sur 7 et géré en France, contrairement aux assureurs en ligne pure play comme Direct Assurance ou L'olivier qui sous-traitent fréquemment à l'étranger. Le réseau d'experts deux-roues est dense, avec un délai moyen de prise en charge de **48 heures** après déclaration de sinistre.
+### Avantages April Moto
+
+- **Reconnaissance du bonus voiture** jusqu'à **30 % de remise** sur la prime moto pour les permis B avec 10 ans d'antériorité sans sinistre
+- **Espace client mobile** très complet (déclaration de sinistre en 2 clics, suivi en direct, e-constat intégré)
+- **Devis comparatif** entre 5 formules en une seule simulation
+- **Garantie corporelle conducteur** étoffée (capital invalidité jusqu'à 250 000 euros)
+- **Stages de pilotage** offerts (1 jour gratuit avec partenaires) après 12 mois sans sinistre
+
+### Inconvénients April Moto
+
+- **Assistance 0 km plafonnée à 50 km** (vs 0 km chez AMV et Mutuelle des Motards)
+- **Casque et équipement** plafonnés à **1 500 euros**, soit 500 euros sous AMV
+- **Garantie valeur neuf** limitée à **12 mois** au lieu de 24
+- **Conducteur secondaire payant** en option (40 euros par an)
+- Réseau d'experts moins dense que celui d'AMV en zone rurale
+
+## 4. Solly Azar : le courtier orienté télémetric {#solly-azar}
+
+![Logo Solly Azar](/images/assurance-125-jeune-conducteur/logos/solly-azar.png "Logo Solly Azar")
+
+**Solly Azar** est un courtier français créé en 1977, racheté par le groupe **WTW (Willis Towers Watson)** en 2007. Solly Azar se distingue par son approche **télémetric** : un boîtier connecté installé sur le 125 mesure la conduite réelle (kilométrage, freinages, accélérations) et adapte la prime mois après mois. C'est l'offre la plus pertinente pour les usages très occasionnels.
+
+**Tarif type jeune permis** : **325 euros par an** en tiers simple, **560 euros** en tiers + vol, **840 euros** en tous risques.
+
+### Avantages Solly Azar
+
+- **Tarification au kilomètre réel** via boîtier connecté, avec économie possible de 30 à 50 % en cas de petit rouleur
+- **Accepte les profils résiliés** ou avec malus là où les généralistes refusent
+- **Options à la carte** très granulaires (assurance trajets domicile-travail uniquement, week-end, etc.)
+- **Bonus conduite responsable** jusqu'à 25 % de remise sur l'année suivante via le boîtier
+- **Souscription rapide** en ligne, même pour les profils à risque
+
+### Inconvénients Solly Azar
+
+- **Boîtier connecté obligatoire** sur certaines formules économiques (intrusion vie privée)
+- **Service client moins accessible** (mail prioritaire, téléphone payant 0,15 euros/min)
+- Tarif **moins compétitif** sur un usage normal (> 8 000 km/an)
+- **Pas d'assistance 0 km** sur la formule de base
+
+## 5. Macif : le mutualiste familial {#macif}
+
+![Logo Macif](/images/assurance-125-jeune-conducteur/logos/macif.png "Logo Macif")
+
+La **Macif** est l'un des principaux mutualistes français, créée en 1960 à Niort. Sur le segment deux-roues, la Macif s'adresse principalement aux **sociétaires déjà clients** auto ou habitation, avec un effet **multi-équipement** qui fait baisser la cotisation moto. Pour un nouveau venu sans dossier Macif, le tarif reste moyen.
+
+**Tarif type jeune permis** : **340 euros par an** en tiers simple, **590 euros** en tiers + vol, **870 euros** en tous risques.
+
+### Avantages Macif
+
+- **Réduction multi-équipement** jusqu'à **15 %** si déjà sociétaire auto ou habitation
+- **Réseau d'agences physiques** dense, conseil en face à face possible
+- **Statut mutualiste** : excédents reversés aux sociétaires
+- **Pack famille** pour ajouter le conjoint et les enfants à des conditions négociées
+- **Stabilité tarifaire** d'une année sur l'autre, peu de hausses surprises
+
+### Inconvénients Macif
+
+- **Pas de spécialisation deux-roues**, les conseillers en agence connaissent peu le segment 125
+- **Garantie casque limitée à 1 000 euros** seulement (vs 2 000 chez AMV)
+- **Délai de souscription en ligne** plus lent (validation manuelle sous 48-72h)
+- **Pas de garantie valeur neuf 24 mois** sur la formule standard
+
+## 6. MAAF : le réseau d'agences {#maaf}
+
+![Logo MAAF](/images/assurance-125-jeune-conducteur/logos/maaf.png "Logo MAAF")
+
+La **MAAF Assurances** (groupe Covéa, qui détient aussi MMA et GMF) est un mutualiste fondé en 1950. Réseau de **plus de 700 agences** sur le territoire, la MAAF cible principalement la clientèle famille et professions libérales. L'offre moto 125 reste classique mais sans surprise majeure, avec un service client en agence apprécié.
+
+**Tarif type jeune permis** : **355 euros par an** en tiers simple, **605 euros** en tiers + vol, **890 euros** en tous risques.
+
+### Avantages MAAF
+
+- **Réseau de 700 agences** physiques, rendez-vous facile en local
+- **Forfait jeune conducteur** avec mensualisation sans frais sur 12 mois
+- **Pack mobilité** combinant auto + moto + deux-roues à -10 %
+- **Application MAAF** intuitive avec géolocalisation des garages partenaires
+- **Garantie corporelle conducteur** correcte en standard (150 000 euros)
+
+### Inconvénients MAAF
+
+- **Tarifs 20 % au-dessus** des courtiers spécialisés sur le segment jeune permis
+- **Assistance** plafonnée à 50 km, doublement payante au-delà
+- **Pas de remise formation 7h** intégrée dans le tarif
+- **Casque et équipement** plafonnés à **800 euros** seulement
+- Surprime jeune permis maintenue 3 ans, sans dégressivité accélérée
+
+## 7. Direct Assurance : le pure player du groupe AXA {#direct-assurance}
+
+![Logo Direct Assurance](/images/assurance-125-jeune-conducteur/logos/direct-assurance.png "Logo Direct Assurance")
+
+**Direct Assurance** est la filiale 100 % en ligne du groupe **AXA**, créée en 1992. Pas d'agences, pas d'intermédiaires : tout passe par le téléphone et le digital, avec des coûts de structure réduits qui se traduisent par des tarifs légèrement plus bas que la maison-mère AXA. Sur le segment jeune permis 125, Direct Assurance se positionne au-dessus des courtiers spécialisés mais en dessous des généralistes traditionnels.
+
+**Tarif type jeune permis** : **365 euros par an** en tiers simple, **620 euros** en tiers + vol, **905 euros** en tous risques.
+
+### Avantages Direct Assurance
+
+- **Souscription 100 % en ligne** en moins de 10 minutes
+- **Espace client web et mobile** complet, gestion autonome de la plupart des actes
+- **Tarification transparente** sans frais cachés, paiement mensualisé sans surcoût
+- **Adossement AXA** : solidité financière et couverture corporelle correcte
+- **Constat amiable digital** via l'app, validation en 24h
+
+### Inconvénients Direct Assurance
+
+- **Service client téléphonique sous-traité** partiellement à l'étranger (Maroc, Madagascar)
+- **Pas d'expert deux-roues** spécifique, recours aux experts auto classiques
+- **Garanties standard** moins étoffées que chez AMV ou Mutuelle des Motards (casque 1 200 €)
+- **Pas de remise pour stages de pilotage** post-permis
+- **Souscription refusée** au-delà de 2 sinistres responsables sur 3 ans
+
+## 8. L'olivier Assurance : l'en ligne Generali {#olivier}
+
+![Logo L'olivier Assurance](/images/assurance-125-jeune-conducteur/logos/lolivier.png "Logo L'olivier Assurance")
+
+**L'olivier Assurance** est la filiale française du groupe **Generali**, lancée en 2010 sur le modèle 100 % en ligne. L'offre moto 125 est arrivée en 2018 et reste secondaire par rapport au cœur de métier auto. Tarification compétitive sur les profils sans antécédent, mais peu adaptée aux profils complexes ou aux usages atypiques.
+
+**Tarif type jeune permis** : **378 euros par an** en tiers simple, **645 euros** en tiers + vol, **925 euros** en tous risques.
+
+### Avantages L'olivier Assurance
+
+- **Devis en ligne ultra-rapide** (4 minutes annoncées, en pratique 6-8)
+- **Adossement Generali** : solidité financière et reconnaissance internationale
+- **Tarif fixe sur 24 mois** garanti, pas de hausse arbitraire à l'échéance
+- **Service de mise en relation avec garage partenaire** pour le rapatriement
+- **Programme fidélité** avec bonus de 5 % après 3 ans sans sinistre
+
+### Inconvénients L'olivier Assurance
+
+- **Profil refusé si malus voiture > 1,10**, même sans sinistre moto
+- **Pas de couverture casque/équipement** sur la formule tiers simple
+- **Pas de stages de pilotage** ni de remise associée
+- **Service client uniquement par mail** sur la formule économique
+- **Assistance limitée à 30 km du domicile** sur le tiers simple
+
+## 9. AXA : l'historique généraliste {#axa}
+
+![Logo AXA](/images/assurance-125-jeune-conducteur/logos/axa.png "Logo AXA")
+
+**AXA** est le premier assureur français, leader mondial historique. Sur le segment moto 125 jeune conducteur, AXA propose une offre standard via son réseau d'agents généraux, sans spécialisation deux-roues marquée. Le tarif reste élevé mais la solidité financière du groupe et la couverture des garanties corporelles sont parmi les meilleures du marché.
+
+**Tarif type jeune permis** : **395 euros par an** en tiers simple, **670 euros** en tiers + vol, **960 euros** en tous risques.
+
+### Avantages AXA
+
+- **Solidité financière** numéro 1 en France et au monde (notation AA-)
+- **Couverture corporelle conducteur** jusqu'à **300 000 euros** en tous risques
+- **Réseau d'agents généraux** dense, conseil personnalisé en agence
+- **Pack multi-équipement** auto + habitation + moto à -15 %
+- **Service juridique étendu** en cas de litige ou de contestation
+
+### Inconvénients AXA
+
+- **Tarif 30 à 40 % plus cher** que les courtiers spécialisés sur le segment 125
+- **Surprime jeune permis maintenue 3 ans pleins**, sans dégressivité
+- **Pas d'application mobile** optimisée pour la moto
+- **Pas de remise formation 7h** intégrée
+- **Devis en ligne moins clair**, validation parfois manuelle
+
+## 10. Allianz : l'allemand premium {#allianz}
+
+![Logo Allianz](/images/assurance-125-jeune-conducteur/logos/allianz.png "Logo Allianz")
+
+**Allianz France** est la filiale française du géant allemand Allianz SE. Positionnement haut de gamme avec des tarifs au-dessus du marché, compensé par une couverture corporelle généreuse et un service client réputé. Sur le segment 125 jeune permis, Allianz reste l'option la plus chère du classement mais propose des garanties exhaustives pour qui privilégie la protection à l'économie.
+
+**Tarif type jeune permis** : **410 euros par an** en tiers simple, **695 euros** en tiers + vol, **985 euros** en tous risques.
+
+### Avantages Allianz
+
+- **Couverture corporelle conducteur** jusqu'à **350 000 euros**, plus haut plafond du marché
+- **Garantie internationale étendue** (couverture Europe + Maroc + Tunisie incluse)
+- **Service juridique premium** avec avocat dédié en cas de litige
+- **Pack auto + moto** à -12 % si Allianz détient déjà le contrat auto
+- **Application Allianz Health & Safety** avec services de prévention routière
+
+### Inconvénients Allianz
+
+- **Le plus cher du classement** sur les 3 formules
+- **Pas de spécialisation deux-roues** dans le réseau d'agents
+- **Surprime jeune permis maintenue 3 ans** avec dégressivité lente
+- **Refuse les profils résiliés** depuis moins de 24 mois
+- **Casque et équipement** plafonnés à 1 000 euros (vs 2 000 chez AMV)
 
 ## Le prix moyen de l'assurance 125 jeune conducteur en France en 2026 {#prix-moyen}
 
-Le **prix moyen de l'assurance moto 125 jeune conducteur en France en 2026** s'établit à **620 euros par an** toutes formules confondues, selon les données croisées de l'Argus de l'Assurance et de la FFSA. Ce chiffre cache une forte dispersion selon le profil et la zone géographique.
-
-### Répartition par formule
+Le **prix moyen de l'assurance moto 125 jeune conducteur en France en 2026** s'établit à **620 euros par an** toutes formules confondues, selon les données croisées de l'Argus de l'Assurance et de la FFSA. Détail par formule :
 
 - **Tiers simple** : **350 à 450 euros par an** (moyenne **390 euros**)
 - **Tiers + vol + incendie** : **520 à 680 euros par an** (moyenne **595 euros**)
 - **Tous risques** : **780 à 1 100 euros par an** (moyenne **890 euros**)
 
-### Variation selon la zone géographique
-
-Le code postal pèse lourd dans le calcul du tarif. Voici les écarts observés sur un même profil pour une formule tiers + vol :
-
-| Zone géographique | Tarif moyen tiers + vol | Écart vs moyenne nationale |
-|---|---|---|
-| Paris intra-muros (75001-75020) | 720 €/an | +21 % |
-| Île-de-France hors Paris | 645 €/an | +8 % |
-| Marseille, Lyon, Lille (métropoles) | 670 €/an | +13 % |
-| Villes moyennes (50k à 200k habitants) | 580 €/an | -2 % |
-| Zones rurales et petites villes | 450 €/an | -24 % |
-
-Les **assureurs spécialisés deux-roues** comme AMV ajustent leur grille tarifaire selon la sinistralité réelle observée par département, alors que les généralistes appliquent souvent des grilles régionales plus larges, désavantageuses en zone rurale et avantageuses en zone urbaine dense.
-
 ### L'impact du modèle de 125 sur la prime
 
-Le **modèle de moto ou scooter** assuré pèse également dans la facture. Quelques chiffres pour un profil type jeune permis Paris en formule tiers + vol :
+| Modèle | Tarif moyen tiers + vol jeune permis |
+|---|---|
+| Honda PCX 125 (scooter populaire) | **520 €/an** |
+| Silence S01 électrique | **485 €/an** |
+| Yamaha XMAX 125 (GT) | **570 €/an** |
+| Honda CB125R (roadster) | **595 €/an** |
+| Piaggio Medley 125 (sportif) | **610 €/an** |
+| Yamaha YZF-R125 (sportive) | **820 €/an** |
 
-- **Honda PCX 125 (scooter populaire)** : **520 euros par an**
-- **Yamaha XMAX 125 (GT)** : **570 euros par an**
-- **Piaggio Medley 125 (sportif)** : **610 euros par an**
-- **Yamaha YZF-R125 (sportive)** : **820 euros par an**
-- **Honda CB125R (roadster)** : **595 euros par an**
-- **Silence S01 électrique** : **485 euros par an**
-
-Les **scooters électriques 125** bénéficient d'une remise structurelle de **10 à 15 %** chez la plupart des assureurs, AMV et la Mutuelle des Motards en tête. Pour une vue d'ensemble des modèles 125, voir notre comparatif détaillé sur le [meilleur scooter 125](/blog/meilleur-scooter-125/) en 2026.
-
-## Pour qui choisir quel assureur ? {#profils}
-
-### Profil 1, le jeune permis B + 7h urbain
-
-**Recommandation : AMV ou Mutuelle des Motards**. Pour un jeune conducteur en région parisienne ou grande métropole, AMV offre le meilleur compromis tarif/garanties, avec une **assistance 0 km** rare sur le marché et une **garantie casque à 2 000 euros**. La Mutuelle des Motards reste une alternative solide pour qui privilégie l'esprit mutualiste et un service client engagé. Comme pour une [meilleure moto A2](/blog/meilleure-moto-a2/), il faut négocier la cotisation en ajoutant un garage fermé ou un antivol agréé SRA.
-
-### Profil 2, le titulaire de permis B expérimenté qui passe au 125
-
-**Recommandation : April Moto ou AMV**. Si le permis B date de plus de 10 ans sans antécédent voiture, certains assureurs proposent des conditions proches du tarif motard expérimenté. April Moto se distingue par sa **reconnaissance du bonus voiture** (jusqu'à 30 % de remise sur la prime moto 125). AMV propose une démarche similaire avec son programme fidélité, à demander explicitement lors du devis.
-
-### Profil 3, l'usage occasionnel ou saisonnier
-
-**Recommandation : assurance au kilomètre Solly Azar ou AMV**. Pour un usage limité à moins de **5 000 km par an**, les contrats au kilomètre divisent la facture par 2. AMV propose une option "moto loisir" plafonnée à 4 000 km, tarif **190 euros par an** en tiers simple pour un jeune permis. Solly Azar va plus loin avec une tarification 100 % au kilomètre via télémetric.
-
-### Profil 4, le jeune permis avec antécédent voiture problématique
-
-**Recommandation : Mutuelle des Motards ou courtier spécialisé**. En cas de résiliation pour sinistre ou de malus voiture, la Mutuelle des Motards reste l'un des rares acteurs à accepter le dossier sans surprime excessive. Le bonus voiture ne se transfère pas, mais le malus ne s'applique pas non plus sur le contrat 125 (sauf récidive). Solliciter un courtier spécialisé moto reste l'option la plus sûre pour ce profil.
+Les **scooters électriques 125** bénéficient d'une remise structurelle de **10 à 15 %** chez la plupart des assureurs, AMV et Mutuelle des Motards en tête. Pour aller plus loin sur le choix du modèle, voir notre classement des [meilleures motos A2](/blog/meilleure-moto-a2/) pour les jeunes permis moto.
 
 ## Comment réduire sa cotisation d'assurance 125 ? {#economies}
 
-Plusieurs leviers permettent de faire baisser la prime, parfois de **30 à 50 %** sur le tarif initial proposé.
+Plusieurs leviers permettent de faire baisser la prime de **30 à 50 %**.
 
 ### Les leviers techniques
 
-- **Garage fermé** : remise de **8 à 15 %** chez tous les assureurs si le 125 dort dans un parking privé fermé
-- **Antivol agréé SRA** : remise de **5 à 10 %** sur la garantie vol avec un U ou une chaîne SRA niveau 1 ou 2
-- **Stage de perfectionnement** : la **journée de pilotage AFDM** (Association pour la Formation Des Motards) donne **5 à 10 % de remise** chez AMV et la Mutuelle des Motards
-- **Bridage déclaré et certifié** : si le 125 est en réalité un 350 bridé (cas BMW C 400 X), faire valider le bridage par un agent agréé évite la surprime "cylindrée supérieure"
+- **Garage fermé** : remise de **8 à 15 %** chez tous les assureurs
+- **Antivol agréé SRA** : remise de **5 à 10 %** sur la garantie vol
+- **Stage de perfectionnement AFDM** : **5 à 10 %** chez AMV et Mutuelle des Motards
+- **Bridage déclaré et certifié** pour les modèles type BMW C 400 X
 
 ### Les leviers contractuels
 
-- **Franchise majorée** : passer la franchise vol de 250 à 500 euros fait baisser la prime de **6 à 12 %**
-- **Paiement annuel** : le **paiement annuel en une fois** évite les **20 à 40 euros de frais mensuels** facturés par les assureurs
-- **Conducteur principal correct** : déclarer le bon conducteur principal évite la nullité du contrat en cas de sinistre
-- **Réduction conducteur secondaire** : ajouter un conjoint ou parent en conducteur secondaire répartit le risque et baisse la prime de **3 à 8 %**
+- **Franchise majorée** : franchise vol de 250 à 500 euros fait baisser la prime de **6 à 12 %**
+- **Paiement annuel** : évite **20 à 40 euros de frais mensuels**
+- **Conducteur secondaire correct** : répartit le risque, baisse de **3 à 8 %**
 
 ### Les erreurs à éviter
 
-1. **Sous-déclarer le kilométrage** : risque de nullité du contrat en cas d'accident avec compteur supérieur au plafond
-2. **Oublier l'attestation formation 7h** : sans ce document, l'assureur peut refuser l'indemnisation en cas de sinistre, même si le contrat a été souscrit
-3. **Cumuler les options inutiles** : la "garantie financière en cas de prêt" est souvent vendue sans besoin réel
-4. **Choisir le moins cher sans lire les exclusions** : certains contrats à 250 euros par an excluent le vol en stationnement non sécurisé, ce qui retire 80 % de l'intérêt
+1. **Sous-déclarer le kilométrage** : risque de nullité du contrat
+2. **Oublier l'attestation formation 7h** : refus d'indemnisation possible
+3. **Cumuler les options inutiles** comme la "garantie financière en cas de prêt"
+4. **Choisir le moins cher sans lire les exclusions**
 
-Pour les acheteurs d'occasion, le même principe de vigilance s'applique qu'à l'achat d'un véhicule : voir notre guide pour [acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/), dont les points de contrôle juridiques restent valables pour un 125 d'occasion.
+Pour les acheteurs d'occasion, voir aussi notre guide pour [acheter une voiture d'occasion](/blog/acheter-voiture-occasion-guide/) dont les principes de vigilance s'appliquent au 125 d'occasion.
 
 ## Questions fréquentes {#faq}
 
 <details>
 <summary>Quel est le meilleur assureur pour un jeune conducteur 125 en 2026 ?</summary>
 
-**AMV Assurances** reste le leader du segment avec des tarifs à partir de **288 euros par an en tiers simple** pour un jeune permis 125, des garanties complètes (assistance 0 km, casque 2 000 euros, valeur neuf 24 mois) et un service client français. April Moto et la Mutuelle des Motards complètent le podium, avec des écarts de prix de **5 à 10 %** maximum sur les formules équivalentes.
+**AMV Assurances** reste le leader du segment avec un tarif à partir de **288 euros par an en tiers simple**, des garanties complètes (assistance 0 km, casque 2 000 euros, valeur neuf 24 mois) et un service client français. La **Mutuelle des Motards** et **April Moto** complètent le podium avec des écarts de **5 à 10 %** maximum.
 
 </details>
 
 <details>
 <summary>Quel est le prix moyen d'une assurance 125 jeune conducteur en France en 2026 ?</summary>
 
-Le **prix moyen de l'assurance 125 jeune conducteur en France en 2026** est de **620 euros par an** toutes formules confondues. En détail : **390 euros** en tiers simple, **595 euros** en tiers + vol + incendie, **890 euros** en tous risques. Paris et l'Île-de-France majorent ces moyennes de **20 % environ**, tandis que les zones rurales descendent à 24 % en dessous.
+Le **prix moyen de l'assurance 125 jeune conducteur en France en 2026** est de **620 euros par an** toutes formules confondues. **390 euros** en tiers simple, **595 euros** en tiers + vol + incendie, **890 euros** en tous risques. Paris et Île-de-France majorent ces moyennes de **20 % environ**, les zones rurales descendent de **24 %**.
 
 </details>
 
 <details>
 <summary>Peut-on assurer un 125 cm3 avec un permis B sans formation 7h ?</summary>
 
-Non, **la formation 7h est obligatoire depuis 2011** pour tout titulaire du permis B souhaitant conduire un 125 cm3 (sauf permis B obtenu avant le 1er janvier 1980). Sans cette formation, aucun assureur ne couvre la conduite et la garantie tombe en cas de sinistre. Coût de la formation en auto-école agréée : **250 à 400 euros** pour 2 heures de théorie et 5 heures de pratique.
+Non, **la formation 7h est obligatoire depuis 2011** pour tout titulaire du permis B souhaitant conduire un 125 cm3 (sauf permis B obtenu avant le 1er janvier 1980). Sans cette formation, aucun assureur ne couvre la conduite. Coût en auto-école agréée : **250 à 400 euros** pour 2 heures de théorie et 5 heures de pratique.
 
 </details>
 
 <details>
 <summary>Combien de temps dure la surprime jeune permis sur un contrat 125 ?</summary>
 
-La **surprime jeune permis** s'applique généralement pendant **2 à 3 ans** après l'obtention du permis A1, A2 ou de la formation 7h sur permis B. La majoration démarre à **20 à 50 %** la première année puis dégresse de **10 à 15 %** par an. Chez la Mutuelle des Motards, la dégressivité est plus rapide (2 ans complets sans surprime résiduelle), ce qui en fait un choix pertinent pour qui prévoit de garder son contrat plusieurs années.
+La **surprime jeune permis** s'applique pendant **2 à 3 ans** après l'obtention du permis A1, A2 ou de la formation 7h sur permis B. Démarrage à **20 à 50 %** la première année, puis dégressivité de **10 à 15 %** par an. La **Mutuelle des Motards** est la seule à proposer une dégressivité accélérée sur 2 ans complets.
 
 </details>
 
 <details>
 <summary>L'assurance moto 125 jeune permis est-elle plus chère qu'un scooter 125 ?</summary>
 
-À profil identique, l'assurance d'une **moto 125 cm3** coûte en moyenne **15 à 25 % plus cher** qu'un scooter 125. Raison principale : la sinistralité des motos sportives 125 (Yamaha YZF-R125, KTM Duke 125) est nettement supérieure à celle des scooters utilitaires (Honda PCX, Yamaha XMAX). Un **roadster modéré** (Honda CB125R) reste en revanche assez proche du tarif scooter, avec un écart de **10 % maximum**.
+À profil identique, l'assurance d'une **moto 125 cm3** coûte en moyenne **15 à 25 % plus cher** qu'un scooter 125. La sinistralité des motos sportives 125 (Yamaha YZF-R125, KTM Duke 125) est nettement supérieure à celle des scooters utilitaires (Honda PCX, Yamaha XMAX). Un **roadster modéré** (Honda CB125R) reste proche du tarif scooter avec **10 % maximum** d'écart.
 
 </details>
 
 <details>
 <summary>AMV est-il vraiment moins cher que les assureurs généralistes ?</summary>
 
-Oui, sur le segment **125 cm3 jeune conducteur**, AMV reste **18 à 30 % moins cher** que les assureurs généralistes (AXA, Allianz, Generali) sur les formules tous risques. Cet écart s'explique par la **spécialisation deux-roues** d'AMV depuis 1974 : courtage groupé, mutualisation du risque dans un portefeuille 100 % motard, partenariats avec les constructeurs (Honda, Yamaha, Piaggio). Les assureurs en ligne (Direct Assurance, L'olivier) se positionnent entre les deux, **8 à 15 % plus cher qu'AMV**.
+Oui, sur le segment **125 cm3 jeune conducteur**, AMV reste **18 à 30 % moins cher** que les généralistes (AXA, Allianz, Generali) sur les formules tous risques. Cet écart vient de la **spécialisation deux-roues** d'AMV depuis 1974, du courtage groupé et de la mutualisation du risque dans un portefeuille 100 % motard.
 
 </details>
 
 <details>
 <summary>Peut-on changer d'assurance 125 en cours d'année ?</summary>
 
-Oui, grâce à la **loi Hamon de 2014**, un contrat d'assurance moto peut être résilié **à tout moment après 12 mois** de souscription, sans frais ni justificatif. Le nouvel assureur se charge gratuitement des démarches. Avant 12 mois, la résiliation reste possible en cas de changement de situation (déménagement, vente du véhicule, mariage). Pour économiser sans attendre, comparer chaque année les tarifs AMV, April et Mutuelle des Motards reste la meilleure stratégie.
+Oui, grâce à la **loi Hamon de 2014**, un contrat d'assurance moto peut être résilié **à tout moment après 12 mois**, sans frais ni justificatif. Le nouvel assureur se charge gratuitement des démarches. Avant 12 mois, la résiliation reste possible en cas de changement de situation (déménagement, vente, mariage).
 
 </details>
