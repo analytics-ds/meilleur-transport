@@ -41,7 +41,7 @@ Reference profile: **24 years old, category B + 7-hour training obtained 1 year 
 
 ## 1. AMV Assurances: the historical two-wheel leader {#amv}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/amv.svg" alt="AMV Assurances logo" title="AMV Assurances logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/amv.svg" alt="AMV Assurances logo" title="AMV Assurances logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **AMV Assurances** (formerly Assurances Moto Verte) has been the **number one two-wheel specialist broker in France** since 1974. A Verspieren group subsidiary, AMV covers over **600,000 motorcyclists and scooter riders**, including a large share of young 125 drivers. Policies are negotiated with SMA SA and Filia-MAIF, which lets AMV undercut generalists by **20 to 30 percent** on the 125cc segment.
 
@@ -64,7 +64,7 @@ Reference profile: **24 years old, category B + 7-hour training obtained 1 year 
 
 ## 2. La Mutuelle des Motards: the mutual commitment {#mutuelle-motards}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png" alt="Mutuelle des Motards logo" title="Mutuelle des Motards logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png" alt="Mutuelle des Motards logo" title="Mutuelle des Motards logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 Founded in **1983 by the Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** is the only French mutual fully dedicated to two-wheels. Mutual status: no shareholders, surpluses returned to members. **70,000 active members**, with a growing young-licence share since 2020.
 
@@ -87,7 +87,7 @@ Founded in **1983 by the Fédération Française des Motards en Colère (FFMC)**
 
 ## 3. April Moto: the digital broker from April Group {#april}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/april.png" alt="April Moto logo" title="April Moto logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/april.png" alt="April Moto logo" title="April Moto logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **April Moto** is the two-wheel branch of the **April Group**, a French broker created in 1988. With **400,000 motorcycle and scooter contracts**, April Moto is AMV's direct digital competitor, with a particularly polished online journey and a car-bonus recognition policy that can crash the bill for experienced category B holders.
 
@@ -111,7 +111,7 @@ Founded in **1983 by the Fédération Française des Motards en Colère (FFMC)**
 
 ## 4. Solly Azar: the telematics-oriented broker {#solly-azar}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/solly-azar.png" alt="Solly Azar logo" title="Solly Azar logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/solly-azar.png" alt="Solly Azar logo" title="Solly Azar logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **Solly Azar** is a French broker created in 1977, acquired by **WTW (Willis Towers Watson)** in 2007. Solly Azar stands out with its **telematics** approach: a connected device installed on the 125 measures actual driving (mileage, braking, acceleration) and adjusts the premium month after month. It is the most relevant offer for very occasional usage.
 
@@ -134,7 +134,7 @@ Founded in **1983 by the Fédération Française des Motards en Colère (FFMC)**
 
 ## 5. Macif: the family mutual {#macif}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/macif.png" alt="Macif logo" title="Macif logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/macif.png" alt="Macif logo" title="Macif logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 The **Macif** is one of France's leading mutuals, founded in 1960 in Niort. On the two-wheel segment, Macif mainly targets **existing car or home members**, with a **multi-product** effect that lowers the motorcycle premium. For a new comer with no Macif file, the rate stays average.
 
@@ -157,7 +157,7 @@ The **Macif** is one of France's leading mutuals, founded in 1960 in Niort. On t
 
 ## 6. MAAF: the agency network {#maaf}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/maaf.png" alt="MAAF logo" title="MAAF logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/maaf.png" alt="MAAF logo" title="MAAF logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **MAAF Assurances** (Covéa group, which also owns MMA and GMF) is a mutual founded in 1950. Network of **over 700 agencies** nationally, MAAF mainly targets family and self-employed customers. The 125 motorcycle offer stays classic without major surprises, with appreciated in-agency customer service.
 
@@ -181,7 +181,7 @@ The **Macif** is one of France's leading mutuals, founded in 1960 in Niort. On t
 
 ## 7. Direct Assurance: the AXA pure player {#direct-assurance}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/direct-assurance.png" alt="Direct Assurance logo" title="Direct Assurance logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/direct-assurance.png" alt="Direct Assurance logo" title="Direct Assurance logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **Direct Assurance** is the 100 percent online subsidiary of the **AXA group**, created in 1992. No agencies, no intermediaries: everything goes through phone and digital, with reduced structure costs translating into rates slightly lower than parent AXA. On the young-licence 125 segment, Direct Assurance sits above specialist brokers but below traditional generalists.
 
@@ -205,7 +205,7 @@ The **Macif** is one of France's leading mutuals, founded in 1960 in Niort. On t
 
 ## 8. L'olivier Assurance: the Generali online player {#olivier}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/lolivier.png" alt="L'olivier Assurance logo" title="L'olivier Assurance logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/lolivier.png" alt="L'olivier Assurance logo" title="L'olivier Assurance logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **L'olivier Assurance** is the French subsidiary of the **Generali group**, launched in 2010 on a 100 percent online model. The 125 motorcycle offer arrived in 2018 and remains secondary to the core auto business. Competitive pricing on profiles with no antecedents, but poorly suited to complex profiles or atypical use cases.
 
@@ -229,7 +229,7 @@ The **Macif** is one of France's leading mutuals, founded in 1960 in Niort. On t
 
 ## 9. AXA: the historical generalist {#axa}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/axa.png" alt="AXA logo" title="AXA logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/axa.png" alt="AXA logo" title="AXA logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **AXA** is the leading French insurer, a historical world leader. On the young driver 125 motorcycle segment, AXA offers a standard package via its general agent network, with no marked two-wheel specialisation. The rate stays high but the group's financial solidity and bodily injury cover are among the best on the market.
 
@@ -253,7 +253,7 @@ The **Macif** is one of France's leading mutuals, founded in 1960 in Niort. On t
 
 ## 10. Allianz: the premium German option {#allianz}
 
-<img src="/images/assurance-125-jeune-conducteur/logos/allianz.png" alt="Allianz logo" title="Allianz logo" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em auto 1em;">
+<img src="/images/assurance-125-jeune-conducteur/logos/allianz.png" alt="Allianz logo" title="Allianz logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
 **Allianz France** is the French subsidiary of the German giant Allianz SE. Premium positioning with rates above the market, offset by generous bodily injury cover and renowned customer service. On the 125 young-licence segment, Allianz remains the most expensive option in the ranking but offers exhaustive coverage for those who prioritise protection over savings.
 
