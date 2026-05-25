@@ -41,7 +41,7 @@ Profil de référence : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX
 
 ## 1. AMV Assurances : le leader historique du deux-roues {#amv}
 
-![Logo AMV Assurances](/images/assurance-125-jeune-conducteur/logos/amv.svg "Logo AMV Assurances")
+<img src="/images/assurance-125-jeune-conducteur/logos/amv.svg" alt="Logo AMV Assurances" title="Logo AMV Assurances" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **AMV Assurances** (ex-Assurances Moto Verte) est le **courtier spécialisé deux-roues numéro 1 en France** depuis 1974. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes**, dont une part importante de jeunes conducteurs 125. Les contrats sont négociés auprès de la SMA SA et de la Filia-MAIF, ce qui permet à AMV d'afficher des tarifs **20 à 30 % sous les généralistes** sur le segment 125 cm3.
 
@@ -64,7 +64,7 @@ Profil de référence : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX
 
 ## 2. La Mutuelle des Motards : l'engagement mutualiste {#mutuelle-motards}
 
-![Logo Mutuelle des Motards](/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png "Logo Mutuelle des Motards")
+<img src="/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png" alt="Logo Mutuelle des Motards" title="Logo Mutuelle des Motards" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** est l'unique mutuelle française dédiée à 100 % aux deux-roues. Statut mutualiste : pas d'actionnaires, les excédents reviennent aux sociétaires. **70 000 sociétaires** actifs, dont une part jeune permis croissante depuis 2020.
 
@@ -87,7 +87,7 @@ Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**
 
 ## 3. April Moto : le courtier digital du groupe April {#april}
 
-![Logo April Moto](/images/assurance-125-jeune-conducteur/logos/april.png "Logo April Moto")
+<img src="/images/assurance-125-jeune-conducteur/logos/april.png" alt="Logo April Moto" title="Logo April Moto" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **April Moto** est la branche deux-roues du groupe **April**, courtier français créé en 1988. Avec **400 000 contrats moto et scooter** en portefeuille, April Moto se positionne comme le concurrent digital direct d'AMV, avec un parcours en ligne particulièrement abouti et une politique de reconnaissance du bonus voiture qui peut faire chuter la facture pour les permis B expérimentés.
 
@@ -111,7 +111,7 @@ Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**
 
 ## 4. Solly Azar : le courtier orienté télémetric {#solly-azar}
 
-![Logo Solly Azar](/images/assurance-125-jeune-conducteur/logos/solly-azar.png "Logo Solly Azar")
+<img src="/images/assurance-125-jeune-conducteur/logos/solly-azar.png" alt="Logo Solly Azar" title="Logo Solly Azar" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **Solly Azar** est un courtier français créé en 1977, racheté par le groupe **WTW (Willis Towers Watson)** en 2007. Solly Azar se distingue par son approche **télémetric** : un boîtier connecté installé sur le 125 mesure la conduite réelle (kilométrage, freinages, accélérations) et adapte la prime mois après mois. C'est l'offre la plus pertinente pour les usages très occasionnels.
 
@@ -134,7 +134,7 @@ Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**
 
 ## 5. Macif : le mutualiste familial {#macif}
 
-![Logo Macif](/images/assurance-125-jeune-conducteur/logos/macif.png "Logo Macif")
+<img src="/images/assurance-125-jeune-conducteur/logos/macif.png" alt="Logo Macif" title="Logo Macif" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 La **Macif** est l'un des principaux mutualistes français, créée en 1960 à Niort. Sur le segment deux-roues, la Macif s'adresse principalement aux **sociétaires déjà clients** auto ou habitation, avec un effet **multi-équipement** qui fait baisser la cotisation moto. Pour un nouveau venu sans dossier Macif, le tarif reste moyen.
 
@@ -157,7 +157,7 @@ La **Macif** est l'un des principaux mutualistes français, créée en 1960 à N
 
 ## 6. MAAF : le réseau d'agences {#maaf}
 
-![Logo MAAF](/images/assurance-125-jeune-conducteur/logos/maaf.png "Logo MAAF")
+<img src="/images/assurance-125-jeune-conducteur/logos/maaf.png" alt="Logo MAAF" title="Logo MAAF" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 La **MAAF Assurances** (groupe Covéa, qui détient aussi MMA et GMF) est un mutualiste fondé en 1950. Réseau de **plus de 700 agences** sur le territoire, la MAAF cible principalement la clientèle famille et professions libérales. L'offre moto 125 reste classique mais sans surprise majeure, avec un service client en agence apprécié.
 
@@ -181,7 +181,7 @@ La **MAAF Assurances** (groupe Covéa, qui détient aussi MMA et GMF) est un mut
 
 ## 7. Direct Assurance : le pure player du groupe AXA {#direct-assurance}
 
-![Logo Direct Assurance](/images/assurance-125-jeune-conducteur/logos/direct-assurance.png "Logo Direct Assurance")
+<img src="/images/assurance-125-jeune-conducteur/logos/direct-assurance.png" alt="Logo Direct Assurance" title="Logo Direct Assurance" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **Direct Assurance** est la filiale 100 % en ligne du groupe **AXA**, créée en 1992. Pas d'agences, pas d'intermédiaires : tout passe par le téléphone et le digital, avec des coûts de structure réduits qui se traduisent par des tarifs légèrement plus bas que la maison-mère AXA. Sur le segment jeune permis 125, Direct Assurance se positionne au-dessus des courtiers spécialisés mais en dessous des généralistes traditionnels.
 
@@ -205,7 +205,7 @@ La **MAAF Assurances** (groupe Covéa, qui détient aussi MMA et GMF) est un mut
 
 ## 8. L'olivier Assurance : l'en ligne Generali {#olivier}
 
-![Logo L'olivier Assurance](/images/assurance-125-jeune-conducteur/logos/lolivier.png "Logo L'olivier Assurance")
+<img src="/images/assurance-125-jeune-conducteur/logos/lolivier.png" alt="Logo L'olivier Assurance" title="Logo L'olivier Assurance" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **L'olivier Assurance** est la filiale française du groupe **Generali**, lancée en 2010 sur le modèle 100 % en ligne. L'offre moto 125 est arrivée en 2018 et reste secondaire par rapport au cœur de métier auto. Tarification compétitive sur les profils sans antécédent, mais peu adaptée aux profils complexes ou aux usages atypiques.
 
@@ -229,7 +229,7 @@ La **MAAF Assurances** (groupe Covéa, qui détient aussi MMA et GMF) est un mut
 
 ## 9. AXA : l'historique généraliste {#axa}
 
-![Logo AXA](/images/assurance-125-jeune-conducteur/logos/axa.png "Logo AXA")
+<img src="/images/assurance-125-jeune-conducteur/logos/axa.png" alt="Logo AXA" title="Logo AXA" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **AXA** est le premier assureur français, leader mondial historique. Sur le segment moto 125 jeune conducteur, AXA propose une offre standard via son réseau d'agents généraux, sans spécialisation deux-roues marquée. Le tarif reste élevé mais la solidité financière du groupe et la couverture des garanties corporelles sont parmi les meilleures du marché.
 
@@ -253,7 +253,7 @@ La **MAAF Assurances** (groupe Covéa, qui détient aussi MMA et GMF) est un mut
 
 ## 10. Allianz : l'allemand premium {#allianz}
 
-![Logo Allianz](/images/assurance-125-jeune-conducteur/logos/allianz.png "Logo Allianz")
+<img src="/images/assurance-125-jeune-conducteur/logos/allianz.png" alt="Logo Allianz" title="Logo Allianz" loading="lazy" style="height:64px;width:auto;max-width:240px;object-fit:contain;display:block;margin:1.5em 0 1em;">
 
 **Allianz France** est la filiale française du géant allemand Allianz SE. Positionnement haut de gamme avec des tarifs au-dessus du marché, compensé par une couverture corporelle généreuse et un service client réputé. Sur le segment 125 jeune permis, Allianz reste l'option la plus chère du classement mais propose des garanties exhaustives pour qui privilégie la protection à l'économie.
 
