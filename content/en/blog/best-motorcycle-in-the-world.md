@@ -1,10 +1,10 @@
 ---
-title: "Best motorcycle in the world in 2026: 5 superlatives for 5 visions of the peak"
+title: "What is the best motorcycle in the world in 2026?"
 seoTitle: "Best Motorcycle in the World 2026: Top 5 Superlatives (Fast, Powerful, Expensive)"
 description: "What is the best motorcycle in the world in 2026? The answer changes by criterion: fastest (Kawasaki H2R), most powerful (Ducati Superleggera), most expensive (Ecosse Spirit), most advanced (BMW M 1000 RR), most iconic. Complete comparison."
 translationKey: "best-motorcycle-in-the-world"
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

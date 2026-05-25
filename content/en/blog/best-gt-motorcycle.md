@@ -1,10 +1,10 @@
 ---
-title: "Best GT motorcycle in 2026: by displacement for 4 levels of touring"
+title: "What are the best GT motorcycles in 2026?"
 seoTitle: "Best GT Motorcycle 2026: Top by Displacement (900, 1200, 1600, 1800cc)"
 description: "Comparing the best GT motorcycles 2026 by displacement: 850-900cc (Tracer 9 GT+), 1000-1200cc (Tiger 1200, FJR 1300, Multistrada V4), 1300-1600cc (K 1600 GTL), 1800+cc (Goldwing Tour, Indian Roadmaster)."
 translationKey: "best-gt-motorcycle"
 date: 2026-06-16
-lastmod: 2026-06-16
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

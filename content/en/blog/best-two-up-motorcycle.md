@@ -1,10 +1,10 @@
 ---
-title: "Best two-up motorcycle in 2026: which bike for riding with a passenger?"
+title: "What are the best two-up motorcycles in 2026?"
 seoTitle: "Best Two-Up Motorcycle 2026: Top Models for Passenger Comfort"
 description: "Comparing the best two-up motorcycles in 2026: BMW R 1300 GS, Honda Africa Twin, Yamaha Tracer 9 GT+, Goldwing, Multistrada V4. Passenger comfort, range, touring features."
 translationKey: "best-two-up-motorcycle"
 date: 2026-05-15
-lastmod: 2026-05-15
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

@@ -1,10 +1,10 @@
 ---
-title: "Best motocross bike in 2026: which one for which rider?"
+title: "What are the best motocross bikes in 2026?"
 seoTitle: "Best Motocross Bike 2026: Top by Rider Profile (Beginner to Pro)"
 description: "Comparing the best motocross bikes 2026 by rider profile: kid, adult beginner, intermediate 125, expert 250, pro 450. KTM, Yamaha, Honda, Husqvarna, GasGas. Prices, character, picks by budget."
 translationKey: "best-motocross-bike"
 date: 2026-05-19
-lastmod: 2026-05-19
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

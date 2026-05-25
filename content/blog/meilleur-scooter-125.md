@@ -1,10 +1,10 @@
 ---
-title: "Meilleur scooter 125 en 2026 : le comparatif rapport qualité-prix"
+title: "Quel est le meilleur scooter 125 en 2026 ?"
 seoTitle: "Scooter 125 2026 : comparatif prix, conso et fiabilité"
 description: "Classement des meilleurs scooters 125 cm3 en 2026 : thermiques et électriques. Prix, consommation, équipement, permis B, conseils d'achat."
 translationKey: "meilleur-scooter-125"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers", "Motos"]

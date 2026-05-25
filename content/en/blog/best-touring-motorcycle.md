@@ -1,10 +1,10 @@
 ---
-title: "Best touring motorcycle in 2026: 4 archetypes for 4 road usages"
+title: "What are the best touring motorcycles in 2026?"
 seoTitle: "Best Touring Motorcycle 2026: The 4 Archetypes (GT, Sport, ADV, Bagger)"
 description: "Comparing the best touring motorcycles 2026 by archetype: sport-tourer (Tracer 9 GT+, Ninja H2 SX), grand-tourer (Goldwing, K 1600), adventure-tourer (GS, Africa Twin), bagger-tourer (Indian, Harley). Prices, range, picks by rider profile."
 translationKey: "best-touring-motorcycle"
 date: 2026-05-22
-lastmod: 2026-05-22
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

@@ -1,10 +1,10 @@
 ---
-title: "Meilleure moto A2 en 2026 : le top 10 par segment"
+title: "Quelle est la meilleure moto A2 en 2026 ?"
 seoTitle: "Quelle moto A2 choisir en 2026 ? Guide par segment"
 description: "Classement des meilleures motos A2 en 2026 : roadsters, trails, sportives. Bridages officiels, prix, assurance, conseils jeune permis."
 translationKey: "meilleure-moto-a2"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers", "Motos"]

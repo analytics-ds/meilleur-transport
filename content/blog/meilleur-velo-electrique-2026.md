@@ -1,10 +1,10 @@
 ---
-title: "Meilleur vélo électrique 2026 : guide et comparatif complet"
+title: "Quel est le meilleur vélo électrique en 2026 ?"
 seoTitle: "Vélo électrique 2026 : top 10 par budget et usage"
 description: "Comparatif des meilleurs vélos électriques 2026 : VAE urbain, VTC et VTT électriques classés par budget et autonomie. Guide d'achat pour particuliers."
 translationKey: "best-electric-bike-2026"
 date: 2026-04-28
-lastmod: 2026-04-28
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]

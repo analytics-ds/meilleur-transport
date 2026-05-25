@@ -1,10 +1,10 @@
 ---
-title: "Meilleure moto au monde en 2026 : 5 superlatifs pour 5 visions du sommet"
+title: "Quelle est la meilleure moto au monde en 2026 ?"
 seoTitle: "Meilleur Moto au Monde 2026 : Top 5 Superlatifs (Rapide, Puissante, Chère)"
 description: "Quelle est la meilleure moto au monde en 2026 ? La réponse change selon le critère : la plus rapide (Kawasaki H2R), la plus puissante (Ducati Superleggera), la plus chère (Ecosse Spirit), la plus aboutie (BMW M 1000 RR), la plus iconique. Comparatif complet."
 translationKey: "best-motorcycle-in-the-world"
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]

@@ -1,10 +1,10 @@
 ---
-title: "Best A2 motorcycle in 2026: the top 10 by segment"
+title: "What is the best A2 motorcycle in 2026?"
 seoTitle: "Which A2 motorcycle to pick in 2026? Guide by segment"
 description: "Ranking of the best A2 licence motorcycles in 2026: roadsters, trails, sport bikes. Official restrictions, price, insurance, young rider tips."
 translationKey: "meilleure-moto-a2"
 date: 2026-04-22
-lastmod: 2026-04-22
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals", "Motorcycles"]

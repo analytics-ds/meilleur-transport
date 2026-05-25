@@ -1,10 +1,10 @@
 ---
-title: "Meilleure moto cross 125 en 2026 : 5 questions à se poser avant d'acheter"
+title: "Quelle est la meilleure moto cross 125 en 2026 ?"
 seoTitle: "Meilleur Moto Cross 125 2026 : Top 5 par Question Clé (2T/4T, Âge, Marque)"
 description: "Comparatif des meilleures motos cross 125 cm³ 2026 : KTM 125 SX, Yamaha YZ 125, Husqvarna TC 125, GasGas MC 125. 5 questions pour bien choisir : 2 temps ou 4 temps, âge du pilote, compétition ou loisir, neuve ou occasion, marque."
 translationKey: "best-125-motocross-bike"
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]

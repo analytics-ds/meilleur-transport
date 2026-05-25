@@ -1,10 +1,10 @@
 ---
-title: "Best 50cc street legal motorcycle in 2026: which model for which rider?"
+title: "What are the best street-legal 50cc motorcycles in 2026?"
 seoTitle: "Best 50cc Street Legal Motorcycle 2026: Top by Rider Profile"
 description: "Comparing the best 50cc street legal motorcycles 2026 by rider profile: teen 14-17 with restricted licence, adult without car licence, economical commuter complement. Beta, Aprilia, Fantic, scooters. Manual or automatic, 2-stroke or 4-stroke, prices."
 translationKey: "best-50cc-street-legal-motorcycle"
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

@@ -1,10 +1,10 @@
 ---
-title: "Best naked motorcycle in 2026: 4 engine characters for 4 riding feels"
+title: "What are the best naked motorcycles in 2026?"
 seoTitle: "Best Naked Motorcycle 2026: Top by Engine Character (Twin, Triple, 4-cyl, V)"
 description: "Comparing the best naked motorcycles 2026 by engine character: parallel twin (MT-07, Hornet 750), triple (MT-09, Street Triple), inline-4 (S 1000 R, Z1000), V-twin and V4 (Streetfighter, Tuono, Super Duke). Prices, power, picks by feel."
 translationKey: "best-naked-motorcycle"
 date: 2026-05-29
-lastmod: 2026-05-29
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

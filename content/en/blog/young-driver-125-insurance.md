@@ -1,5 +1,5 @@
 ---
-title: "125cc Insurance for Young Drivers: 2026 Pricing & Comparison"
+title: "125cc Insurance for Young Drivers: 2026 Pricing and Comparison"
 description: "Young driver 125cc motorcycle insurance in France 2026: AMV, April, Mutuelle des Motards. Average pricing, plans, new-rider surcharge and savings tips."
 translationKey: "assurance-125-jeune-conducteur"
 date: 2026-05-25

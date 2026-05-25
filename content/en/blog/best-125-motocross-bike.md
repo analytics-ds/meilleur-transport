@@ -1,10 +1,10 @@
 ---
-title: "Best 125 motocross bike in 2026: 5 questions to ask before buying"
+title: "What is the best 125 motocross bike in 2026?"
 seoTitle: "Best 125 Motocross Bike 2026: Top 5 by Key Question (2T/4T, Age, Brand)"
 description: "Comparing the best 125cc motocross bikes 2026: KTM 125 SX, Yamaha YZ 125, Husqvarna TC 125, GasGas MC 125. 5 questions to choose right: 2-stroke or 4-stroke, rider age, racing or trail, new or used, brand."
 translationKey: "best-125-motocross-bike"
 date: 2026-06-12
-lastmod: 2026-06-12
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

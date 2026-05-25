@@ -1,10 +1,10 @@
 ---
-title: "Meilleure moto cross en 2026 : quelle moto pour quel pilote ?"
+title: "Quelles sont les meilleures motos cross en 2026 ?"
 seoTitle: "Meilleur moto cross 2026 : top par profil pilote (débutant à pro)"
 description: "Comparatif des meilleures motos cross 2026 par profil pilote : enfant, débutant adulte, intermédiaire 125, expert 250, pro 450. KTM, Yamaha, Honda, Husqvarna, GasGas. Prix, caractères, choix par budget."
 translationKey: "best-motocross-bike"
 date: 2026-05-19
-lastmod: 2026-05-19
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]

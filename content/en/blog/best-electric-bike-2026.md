@@ -1,10 +1,10 @@
 ---
-title: "Best electric bike 2026: complete guide and comparison"
+title: "What is the best electric bike in 2026?"
 seoTitle: "Electric bike 2026: top 10 by budget and use"
 description: "Comparison of the best electric bikes 2026: urban e-bikes, e-MTBs and e-touring bikes ranked by budget and range. Buying guide for individuals."
 translationKey: "best-electric-bike-2026"
 date: 2026-04-28
-lastmod: 2026-04-28
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

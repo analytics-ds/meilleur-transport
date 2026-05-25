@@ -1,10 +1,10 @@
 ---
-title: "Best 4-stroke enduro motorcycle in 2026: which one for which discipline?"
+title: "What are the best 4-stroke enduro motorcycles in 2026?"
 seoTitle: "Best 4-Stroke Enduro Motorcycle 2026: Top by Discipline (Trail, Race, Hard)"
 description: "Comparing the best 4-stroke enduro motorcycles 2026 by discipline: trail riding, cross-country racing, hard enduro, rally raid. KTM, Husqvarna, Beta, Sherco, Honda, Yamaha. Prices, displacement, picks by rider profile."
 translationKey: "best-4-stroke-enduro-motorcycle"
 date: 2026-05-26
-lastmod: 2026-05-26
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

@@ -1,10 +1,10 @@
 ---
-title: "Best sport motorcycle in 2026: which one to pick?"
+title: "What are the best sport motorcycles in 2026?"
 seoTitle: "Best Sport Motorcycle 2026: Top Models from A2 to Hyper-Sport"
 description: "Comparing the best sport motorcycles in 2026: Yamaha R7, Aprilia RS 660, Kawasaki ZX-10R, Ducati Panigale V4, BMW S1000RR. Price, power, license, total cost. Buyer's guide by category."
 translationKey: "best-sport-motorcycle"
 date: 2026-05-08
-lastmod: 2026-05-08
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

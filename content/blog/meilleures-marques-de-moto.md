@@ -1,10 +1,10 @@
 ---
-title: "Meilleures marques de moto en 2026 : quel constructeur choisir ?"
+title: "Quelles sont les meilleures marques de moto en 2026 ?"
 seoTitle: "Meilleures marques de moto 2026 : top 10 des constructeurs mondiaux"
 description: "Comparatif des meilleures marques de moto en 2026 : Honda, Yamaha, Kawasaki, BMW, Ducati, KTM, Triumph, Aprilia, Suzuki, Royal Enfield. Forces, modèles phares, ventes France et monde."
 translationKey: "best-motorcycle-brands"
 date: 2026-05-12
-lastmod: 2026-05-12
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]

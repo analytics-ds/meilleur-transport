@@ -1,10 +1,10 @@
 ---
-title: "Meilleure moto roadster en 2026 : 4 caractères moteur pour 4 ressentis de conduite"
+title: "Quelles sont les meilleures motos roadster en 2026 ?"
 seoTitle: "Meilleur Moto Roadster 2026 : Top par Caractère Moteur (Twin, Triple, 4 cyl, V)"
 description: "Comparatif des meilleures motos roadster 2026 par caractère moteur : twin parallèle (MT-07, Hornet 750), tricylindre (MT-09, Triple), 4 cylindres en ligne (S 1000 R, Z1000), V-twin et V4 (Streetfighter, Tuono, Super Duke). Prix, puissance, choix par ressenti."
 translationKey: "best-naked-motorcycle"
 date: 2026-05-29
-lastmod: 2026-05-29
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]

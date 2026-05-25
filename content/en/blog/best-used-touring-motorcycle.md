@@ -1,10 +1,10 @@
 ---
-title: "Best used touring motorcycle in 2026: 3 budget tiers for 3 quality levels"
+title: "What are the best used touring motorcycles in 2026?"
 seoTitle: "Best Used Touring Motorcycle 2026: Top by Budget ($8k, $14k, $22k)"
 description: "Comparing the best used touring motorcycles 2026 by budget tier: under $8k (Tracer 700, NC750X), $8-14k (Africa Twin, FJR 1300), $14-22k (R 1250 GS, Goldwing). Reliability, mileage, pre-purchase checks."
 translationKey: "best-used-touring-motorcycle"
 date: 2026-06-09
-lastmod: 2026-06-09
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]

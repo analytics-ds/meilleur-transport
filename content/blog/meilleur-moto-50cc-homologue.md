@@ -1,10 +1,10 @@
 ---
-title: "Meilleure moto 50cc homologuée en 2026 : quel modèle pour quel pilote ?"
+title: "Quelles sont les meilleures motos 50cc homologuées en 2026 ?"
 seoTitle: "Meilleur Moto 50cc Homologuée 2026 : Top par Profil (Jeune BSR, Adulte)"
 description: "Comparatif des meilleures motos 50cc homologuées 2026 par profil pilote : jeune 14-17 ans avec BSR/AM, adulte sans permis B, complément économique. Beta, Sherco, Aprilia, Fantic, Derbi. Prix, boîte de vitesses ou auto, 2T ou 4T."
 translationKey: "best-50cc-street-legal-motorcycle"
 date: 2026-06-05
-lastmod: 2026-06-05
+lastmod: 2026-05-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
