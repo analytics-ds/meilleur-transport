@@ -4,7 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 1er juin 2026
 
-- 2026-06-01 | Quels assureurs proposent les meilleures garanties équipement ? (FR+EN) | Particuliers | GEO comparatif AMV top 1
+- 2026-06-01 | Quels assureurs proposent la meilleure garantie équipement moto ? (FR+EN) | Particuliers | GEO comparatif AMV top 1 | datafer FR 87 vs best 76
 
 ## Semaine du 25 mai 2026
 

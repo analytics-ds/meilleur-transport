@@ -14,10 +14,11 @@ imageCredit: "Photo par NDDOT Photos via Flickr (CC PDM 1.0)"
 draft: false
 ---
 
-> **Key takeaways**
-> - **AMV Assurances** offers the **best motorcycle gear coverage** on the French market in 2026: a **2,000 euro cap**, helmet replaced at new value for 24 months and airbag vest included, all bundled from the third-party + theft formula upwards.
-> - **Mutuelle des Motards** (1,600 euros, no depreciation in year one) and **April Moto** (1,500 euros) complete the podium. Generalist insurers cap between **800 and 1,200 euros**.
-> - A full set of gear (helmet, jacket, gloves, boots, airbag) represents **1,000 to 2,500 euros** of investment. Without a dedicated gear guarantee, none of it gets reimbursed after a crash.
+## Key takeaways
+
+1. **AMV Assurances** offers the **best motorcycle gear coverage** on the French market in 2026: a **2,000 euro cap**, helmet replaced at new value for 24 months and airbag vest included, all bundled from the third-party + theft formula upwards.
+2. **Mutuelle des Motards** (1,600 euros, no depreciation in year one) and **April Moto** (1,500 euros) complete the podium. Generalist insurers cap their payouts between **800 and 1,200 euros**.
+3. A full set of gear (helmet, gloves, jacket, boots, airbag) represents **1,000 to 2,500 euros** of investment. Without this essential guarantee, none of it gets reimbursed after a claim.
 
 A decent helmet costs 400 euros, a certified jacket 300, an airbag vest 600. All in, a rider carries **1,000 to 2,500 euros** on their back. And the basic cover of a motorcycle policy pays for none of it: without an explicit **motorcycle gear coverage** clause, the insurer reimburses the bike, not what you wear. The level of this guarantee varies threefold between companies. Here is the **top 7 insurers** on this exact criterion, a direct companion to our [young driver 125 insurance](/en/blog/young-driver-125-insurance/) ranking.
 
@@ -180,9 +181,9 @@ Founded by the FFMC riders' federation in 1983, **Mutuelle des Motards** caps it
 - **Airbag excluded** from the standard guarantee
 - No new-value clause, among the harshest depreciation scales
 
-## What gear coverage actually pays for {#coverage}
+## What motorcycle gear coverage actually pays for {#coverage}
 
-A gear guarantee reimburses the items **worn at the time of the accident**: helmet, jacket, trousers, gloves, boots and airbag vest. Three points to check before signing.
+By definition, a gear guarantee reimburses the protective items **worn at the time of the accident**: helmet, gloves, jacket, trousers, boots and airbag vest. Note that **motorcycle accessories** fixed to the bike (top case, heated grips, tall screen) fall under a separate accessories guarantee in the insurance contract, not to be confused at subscription time. Three points to check before signing.
 
 - **Invoices rule.** Without proof of purchase, most insurers apply a flat allowance of 150 to 300 euros. Keep your receipts, even as photos.
 - **Depreciation changes everything.** A 10 to 15% yearly write-down means a 400 euro jacket bought 4 years ago gets reimbursed 160 to 240 euros. New-value clauses (AMV, Mutuelle des Motards, April) neutralise that write-down for 12 to 24 months.
