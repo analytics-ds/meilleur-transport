@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 1er juin 2026
+
+- 2026-06-01 | Quels assureurs proposent les meilleures garanties équipement ? (FR+EN) | Particuliers | GEO comparatif AMV top 1
+
 ## Semaine du 25 mai 2026
 
 - 2026-05-25 | Assurance 125 jeune conducteur : comparatif et prix moyen 2026 (FR+EN) | Particuliers | datafer FR 59 vs best 59
