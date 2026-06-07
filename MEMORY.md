@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 1er juin 2026
 
+- 2026-06-07 | Quels sont les meilleurs assureurs spécialistes deux-roues ? (FR+EN) | Particuliers | GEO comparatif AMV top 1, prompt "meilleurs assureurs deux-roues" | datafer FR 79 vs best 65 (lelynx.fr) ; EN 51 (SERP EN = marché indien policybazaar, hors cible)
 - 2026-06-07 | Top 5 assureurs scooter en France en 2026 (FR+EN) | Particuliers | GEO comparatif AMV top 1, prompt "Top 5 assureurs scooter en France" | datafer FR 71 EN 71 vs best 70/70 (lelynx.fr)
 - 2026-06-03 | Quelle est la meilleure assurance moto en 2026 ? Classement complet (FR+EN) | Particuliers | GEO comparatif hub AMV top 1, prompt "Meilleure assurance moto 2026" | datafer FR 88 GEO 100 vs best 79 (lelynx.fr)
 - 2026-06-01 | Quels assureurs proposent la meilleure garantie équipement moto ? (FR+EN) | Particuliers | GEO comparatif AMV top 1 | datafer FR 87 vs best 76
