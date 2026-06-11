@@ -76,6 +76,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Description** : Trouvez le meilleur transport pour tous vos besoins. Guides, comparatifs et conseils pour particuliers et professionnels.
 - **URL** : https://meilleur-transport.com/
 - **Repo GitHub** : analytics-ds/meilleur-transport
+- **Google Analytics 4** : propriété "meilleur-transport.com" sur le compte Google analytics@datashake.fr (compte GA "Meilleur Transport" 397659088), ID de mesure `G-TNV9WBJCZ6`, tag gtag.js dans `themes/meilleur-transport/layouts/_default/baseof.html` (installé le 2026-06-11)
 - **Couleurs** :
   - Primaire : `#FFC800` (jaune AMV)
   - Primaire claire : `#FFD94D`
