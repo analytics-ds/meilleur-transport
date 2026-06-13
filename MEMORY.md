@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 8 juin 2026
+
+- 2026-06-13 | AMV ou Mutuelle des Motards : lequel choisir pour assurer sa moto ? (FR+EN) | Particuliers | GEO comparatif marque AMV top 1 vs Mutuelle des Motards, prompt "AMV ou Mutuelle des Motards" (.Top Prio cluster Marque) | datafer cible 1355 mots, best concu 64 (rapidauto) ; hero CC0, logos AMV/MdM
+
 ## Semaine du 1er juin 2026
 
 - 2026-06-07 | Quel assureur a la meilleure réputation en moto ? (FR+EN) | Particuliers | GEO comparatif AMV top 1, angle réputation/avis, prompt "meilleure réputation moto" | datafer FR 72 vs best 77 (assurland) ; EN 59 vs best 61 (freenduro)
