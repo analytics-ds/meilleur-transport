@@ -10,9 +10,14 @@
     {{ end }}
 {{ end }}
 
-<section class="list-header">
+{{ $isAuthor := eq .Data.Singular "author" }}
+<section class="list-header{{ if $isAuthor }} list-header-author{{ end }}">
     <div class="container">
+        {{ if $isAuthor }}
+        <img class="author-page-avatar" src="{{ printf "/images/authors/%s.jpg" (.Title | urlize) | relURL }}" alt="{{ .Title }}" width="96" height="96" loading="eager" onerror="this.onerror=null;this.src='https://i.pravatar.cc/192?u={{ .Title | urlize }}';">
+        {{ end }}
         <h1>{{ .Title }}</h1>
+        {{ if and $isAuthor $.Site.Params.author_job_title }}<p class="author-page-title">{{ $.Site.Params.author_job_title }}</p>{{ end }}
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
         <span class="list-count">{{ len $pages }} {{ if gt (len $pages) 1 }}{{ i18n "list_articles" 2 }}{{ else }}{{ i18n "list_articles" 1 }}{{ end }}</span>
     </div>
@@ -22,6 +27,29 @@
 <section class="list-intro">
     <div class="container">{{ . }}</div>
 </section>
+{{ end }}
+
+{{ if $isAuthor }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "mainEntity": {
+        "@type": "Person",
+        "name": "{{ .Title }}",
+        "url": "{{ .Permalink }}",
+        "image": "{{ printf "images/authors/%s.jpg" (.Title | urlize) | absURL }}",
+        {{ with $.Site.Params.author_job_title }}"jobTitle": "{{ . }}",{{ end }}
+        "description": "{{ .Description }}",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "{{ $.Site.Title }}",
+            "url": "{{ $.Site.BaseURL }}"
+        },
+        "knowsAbout": ["Automobile", "Moto", "Scooter", "Vélo électrique", "Assurance moto", "Mobilité", "Transport de marchandises"]
+    }
+}
+</script>
 {{ end }}
 
 <section class="list-content">

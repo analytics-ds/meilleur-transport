@@ -71,14 +71,23 @@
     {{ with .Params.author }}
     "author": {
         "@type": "Person",
-        "name": "{{ . }}"{{ with $.Site.Params.author_url }},
+        "name": "{{ . }}",
+        "image": "{{ printf "images/authors/%s.jpg" (. | urlize) | absURL }}"{{ with $.Site.Params.author_url }},
         "url": "{{ . }}"{{ end }}{{ with $.Site.Params.author_job_title }},
-        "jobTitle": "{{ . }}"{{ end }}
+        "jobTitle": "{{ . }}"{{ end }},
+        "worksFor": {
+            "@type": "Organization",
+            "name": "{{ $.Site.Title }}"
+        }
     },
     {{ end }}
     "publisher": {
         "@type": "Organization",
-        "name": "{{ .Site.Title }}"
+        "name": "{{ .Site.Title }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{ "logo.png" | absURL }}"
+        }
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
@@ -139,7 +148,12 @@
     "@type": "Organization",
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}"
+    "logo": {
+        "@type": "ImageObject",
+        "url": "{{ "logo.png" | absURL }}"
+    },
+    "description": "{{ .Site.Params.description }}",
+    "knowsAbout": ["Automobile", "Moto", "Scooter", "Vélo électrique", "Assurance moto", "Mobilité", "Transport de marchandises"]
 }
 </script>
 {{ end }}

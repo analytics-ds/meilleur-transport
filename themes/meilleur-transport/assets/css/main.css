@@ -4249,3 +4249,11 @@ img {
 .article-hero-author-title{color:var(--color-text-light,#6b7280)}
 .article-hero-author a{color:inherit;text-decoration:none}
 .article-hero-author a:hover{text-decoration:underline}
+
+/* Photos auteur reelles (rondes) */
+img.article-hero-avatar{width:40px;height:40px;border-radius:50%;object-fit:cover;display:inline-block}
+img.author-box-avatar{object-fit:cover;background:none}
+
+/* En-tete page auteur */
+.list-header-author .author-page-avatar{width:96px;height:96px;border-radius:50%;object-fit:cover;margin:0 auto 16px;display:block;border:3px solid var(--color-primary,#ffc800)}
+.author-page-title{margin:4px 0 0;font-weight:600;color:var(--color-text-light,#6b7280)}

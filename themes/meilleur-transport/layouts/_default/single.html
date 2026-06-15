@@ -25,7 +25,7 @@
                     <div class="article-hero-meta">
                         {{ with .Params.author }}
                         <div class="article-hero-author">
-                            <span class="article-hero-avatar">{{ $authorInitials }}</span>
+                            <img class="article-hero-avatar" src="{{ printf "/images/authors/%s.jpg" (. | urlize) | relURL }}" alt="{{ . }}" width="40" height="40" loading="lazy" onerror="this.onerror=null;this.src='https://i.pravatar.cc/80?u={{ . | urlize }}';">
                             <span class="article-hero-author-text">
                                 <span class="article-hero-author-label">Par</span>
                                 <strong><a href="{{ printf "/authors/%s/" (. | urlize) | relLangURL }}">{{ . }}</a></strong>
@@ -101,7 +101,7 @@
                 {{ $slug := . | urlize }}
                 {{ $authorPage := site.GetPage (printf "authors/%s" $slug) }}
                 <aside class="author-box">
-                    <span class="author-box-avatar">{{ $authorInitials }}</span>
+                    <img class="author-box-avatar" src="{{ printf "/images/authors/%s.jpg" $slug | relURL }}" alt="{{ . }}" width="56" height="56" loading="lazy" onerror="this.onerror=null;this.src='https://i.pravatar.cc/112?u={{ $slug }}';">
                     <div class="author-box-body">
                         <p class="author-box-name"><a href="{{ printf "/authors/%s/" $slug | relLangURL }}">{{ . }}</a>{{ with $.Site.Params.author_job_title }}<span class="author-box-title">, {{ . }}</span>{{ end }}</p>
                         {{ with $authorPage }}{{ with .Description }}<p class="author-box-bio">{{ . }}</p>{{ end }}{{ end }}
