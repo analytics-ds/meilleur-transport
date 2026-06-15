@@ -102,7 +102,7 @@ buildFuture = false
 [params]
   theme_name = "meilleur-transport"
   author_name = "Julien Mercier"
-  author_url = ""
+  author_url = "https://meilleur-transport.com/authors/julien-mercier/"
   author_job_title = "Expert mobilité et transports"
   color_primary = "#FFC800"
   color_primary_light = "#FFD94D"

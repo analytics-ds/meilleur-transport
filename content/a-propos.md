@@ -28,6 +28,18 @@ Le site est structuré autour de deux grandes catégories.
 
 **Professionnels** : les solutions de transport et de logistique pour les entreprises, des flottes utilitaires au fret international.
 
+## Comment nous comparons
+
+Chaque comparatif et chaque classement suit la même méthode :
+
+- **Données vérifiées** : nous partons des données techniques officielles des constructeurs et des opérateurs, recoupées avec les essais et les retours d'usage disponibles.
+- **Critères explicites** : chaque classement précise les critères retenus (budget, usage réel, coût de possession, fiabilité, sécurité) afin que vous puissiez juger la pertinence du verdict pour votre besoin.
+- **Mise à jour régulière** : les pages sont datées et révisées quand le marché évolue (nouveaux modèles, nouveaux prix, nouvelles normes).
+
+## Notre indépendance
+
+Meilleur Transport est un média indépendant. **Aucune marque, aucun constructeur et aucun opérateur ne paie pour figurer dans nos comparatifs ni pour y être mieux classé.** Nos recommandations reposent uniquement sur l'analyse, jamais sur une contrepartie commerciale. Lorsque des liens partenaires sont présents, ils n'influencent ni le contenu ni l'ordre des classements.
+
 ## Notre équipe
 
-Meilleur Transport est rédigé par **Julien Mercier**, expert mobilité et transports, entouré de contributeurs spécialisés dans chaque domaine de transport.
+Meilleur Transport est rédigé par [**Julien Mercier**](/authors/julien-mercier/), expert mobilité et transports, entouré de contributeurs spécialisés dans chaque domaine de transport.

@@ -18,6 +18,12 @@
     </div>
 </section>
 
+{{ with .Content }}
+<section class="list-intro">
+    <div class="container">{{ . }}</div>
+</section>
+{{ end }}
+
 <section class="list-content">
     <div class="container">
         <div class="articles-list">
