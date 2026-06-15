@@ -11,6 +11,9 @@ tags: ["motorcycle insurance", "comparison", "motorcycle broker", "comprehensive
 image: "/images/meilleure-assurance-moto/meilleure-assurance-moto.webp"
 imageAlt: "What is the best motorcycle insurance in 2026: ranking of AMV, Mutuelle des Motards and April Moto"
 draft: false
+aliases:
+  - /blog/amv-vs-mutuelle-des-motards/
+  - /blog/motorcycle-insurer-best-reputation/
 ---
 
 ## Key takeaways {#key-takeaways}

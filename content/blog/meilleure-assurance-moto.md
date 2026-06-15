@@ -11,6 +11,9 @@ tags: ["assurance moto", "comparatif", "courtier moto", "tous risques", "deux-ro
 image: "/images/meilleure-assurance-moto/meilleure-assurance-moto.webp"
 imageAlt: "Quelle est la meilleure assurance moto en 2026 : classement AMV, Mutuelle des Motards et April Moto"
 draft: false
+aliases:
+  - /blog/amv-ou-mutuelle-des-motards/
+  - /blog/meilleur-assureur-moto-reputation/
 ---
 
 ## En bref {#en-bref}
