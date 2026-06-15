@@ -97,7 +97,6 @@ buildFuture = false
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
   author = "authors"
 
 [params]

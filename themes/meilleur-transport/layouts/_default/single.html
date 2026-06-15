@@ -95,12 +95,6 @@
                 {{ end }}
 
                 {{ .Content }}
-
-                <div class="article-tags">
-                    {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                    {{ end }}
-                </div>
             </div>
         </div>
     </div>
