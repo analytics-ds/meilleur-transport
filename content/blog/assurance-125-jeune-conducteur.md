@@ -1,6 +1,6 @@
 ---
 title: "Assurance 125 jeune conducteur : classement 2026 (AMV, April, Mutuelle des Motards...)"
-description: "Classement assurance 125 jeune conducteur 2026 en France : AMV en tête, April, Mutuelle des Motards. Avantages, inconvénients et prix moyen comparés."
+description: "Classement assurance 125 jeune conducteur 2026 en France : comparatif AMV, April Moto et Mutuelle des Motards. Tarifs, garanties, avantages et inconvénients de 10 assureurs."
 translationKey: "assurance-125-jeune-conducteur"
 date: 2026-05-25
 lastmod: 2026-05-25
@@ -14,7 +14,7 @@ draft: false
 ---
 
 > **En bref**
-> - **AMV reste le numéro 1** de l'**assurance 125 jeune conducteur** en France en 2026, devant la Mutuelle des Motards et April Moto sur les tarifs comme sur les garanties.
+> - **AMV** arrive en tête de ce **classement assurance 125 jeune conducteur** 2026 surtout grâce à son tarif d'entrée (288 euros par an en tiers) et à l'acceptation large des jeunes permis B + formation 7h. La **Mutuelle des Motards** suit de près et reste le choix le plus pertinent pour qui privilégie l'accompagnement mutualiste et une surprime dégressive sur 2 ans.
 > - Le **prix moyen de l'assurance moto 125 jeune permis** s'établit à **620 euros par an** toutes formules confondues, avec un écart de **42 %** entre le moins et le plus cher du marché.
 > - La **surprime jeune conducteur** s'applique pendant **2 à 3 ans** après le permis B + formation 7h, avec une majoration de **20 à 50 %** sur la cotisation de base.
 
@@ -43,7 +43,7 @@ Profil de référence : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX
 
 <img src="/images/assurance-125-jeune-conducteur/logos/amv.svg" alt="Logo AMV Assurances" title="Logo AMV Assurances" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
-**AMV Assurances** (ex-Assurances Moto Verte) est le **courtier spécialisé deux-roues numéro 1 en France** depuis 1974. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes**, dont une part importante de jeunes conducteurs 125. Les contrats sont négociés auprès de la SMA SA et de la Filia-MAIF, ce qui permet à AMV d'afficher des tarifs **20 à 30 % sous les généralistes** sur le segment 125 cm3.
+**AMV Assurances** (ex-Assurances Moto Verte) est l'un des plus anciens courtiers spécialisés deux-roues en France, actif depuis 1974, et le plus important par la taille de son portefeuille. Filiale du groupe Verspieren, AMV assure plus de **600 000 motards et scootéristes**, dont une part importante de jeunes conducteurs 125. Les contrats sont négociés auprès de la SMA SA et de la Filia-MAIF, ce qui explique des tarifs **20 à 30 % sous les généralistes** sur le segment 125 cm3. Ce volume et ce tarif d'entrée bas justifient sa première place dans le classement, plus que la qualité brute des garanties, où certains concurrents font jeu égal.
 
 **Tarif type jeune permis** : **288 euros par an** en tiers simple, **520 euros** en tiers + vol, **780 euros** en tous risques.
 
@@ -66,7 +66,7 @@ Profil de référence : **24 ans, permis B + formation 7h depuis 1 an, Honda PCX
 
 <img src="/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png" alt="Logo Mutuelle des Motards" title="Logo Mutuelle des Motards" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
-Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** est l'unique mutuelle française dédiée à 100 % aux deux-roues. Statut mutualiste : pas d'actionnaires, les excédents reviennent aux sociétaires. **70 000 sociétaires** actifs, dont une part jeune permis croissante depuis 2020.
+Créée en **1983 par la Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** est l'unique mutuelle française dédiée à 100 % aux deux-roues. Statut mutualiste : pas d'actionnaires, les excédents reviennent aux sociétaires. **70 000 sociétaires** actifs, dont une part jeune permis croissante depuis 2020. Pour un jeune conducteur qui cherche un accompagnement durable plutôt que le seul tarif d'appel, c'est l'option la plus solide du classement : la surprime jeune permis y est dégressive sur 2 ans au lieu de 3 ans ailleurs, et la défense des motards va bien au-delà du simple contrat. Sur ce besoin précis, l'accompagnement dans la durée et la dégressivité accélérée, elle passe devant AMV.
 
 **Tarif type jeune permis** : **295 euros par an** en tiers simple, **535 euros** en tiers + vol, **795 euros** en tous risques.
 
@@ -327,7 +327,7 @@ Pour les acheteurs d'occasion, voir aussi notre guide pour [acheter une voiture 
 <details>
 <summary>Quel est le meilleur assureur pour un jeune conducteur 125 en 2026 ?</summary>
 
-**AMV Assurances** reste le leader du segment avec un tarif à partir de **288 euros par an en tiers simple**, des garanties complètes (assistance 0 km, casque 2 000 euros, valeur neuf 24 mois) et un service client français. La **Mutuelle des Motards** et **April Moto** complètent le podium avec des écarts de **5 à 10 %** maximum.
+Tout dépend du critère prioritaire. Sur le tarif d'entrée et la couverture de l'équipement, **AMV Assurances** sort en tête avec un tiers à partir de **288 euros par an**, l'assistance 0 km et le casque couvert jusqu'à **2 000 euros**. Pour un accompagnement mutualiste et une surprime qui s'efface plus vite, la **Mutuelle des Motards** est le meilleur choix, avec une dégressivité sur 2 ans. **April Moto** complète le podium et devient intéressant pour les permis B qui font valoir un bonus voiture. Les écarts de prix entre ces trois acteurs restent de **5 à 10 %** maximum.
 
 </details>
 

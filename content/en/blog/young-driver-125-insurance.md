@@ -1,6 +1,6 @@
 ---
 title: "Young Driver 125cc Insurance: 2026 Ranking (AMV, April, Mutuelle des Motards...)"
-description: "Young driver 125cc insurance ranking 2026 in France: AMV leading, April, Mutuelle des Motards. Pros, cons and average pricing compared."
+description: "Young driver 125cc insurance ranking 2026 in France: AMV, April Moto and Mutuelle des Motards compared. Pricing, coverage, pros and cons of 10 insurers."
 translationKey: "assurance-125-jeune-conducteur"
 date: 2026-05-25
 lastmod: 2026-05-25
@@ -14,7 +14,7 @@ draft: false
 ---
 
 > **Key takeaways**
-> - **AMV remains number one** for **young driver 125cc insurance** in France in 2026, ahead of Mutuelle des Motards and April Moto on both pricing and coverage.
+> - **AMV** tops this **young driver 125cc insurance** ranking for 2026 mainly thanks to its entry rate (288 euros per year third-party) and its broad acceptance of young category B + 7-hour training holders. **Mutuelle des Motards** follows closely and remains the most relevant choice for those who value mutual support and a surcharge that decays over 2 years.
 > - The **average price of young driver 125 motorcycle insurance** sits at **620 euros per year** across all formulas, with a **42 percent** gap between cheapest and most expensive players.
 > - The **new-rider surcharge** applies for **2 to 3 years** after obtaining the category B + 7-hour training, adding **20 to 50 percent** on top of the base premium.
 
@@ -43,7 +43,7 @@ Reference profile: **24 years old, category B + 7-hour training obtained 1 year 
 
 <img src="/images/assurance-125-jeune-conducteur/logos/amv.svg" alt="AMV Assurances logo" title="AMV Assurances logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
-**AMV Assurances** (formerly Assurances Moto Verte) has been the **number one two-wheel specialist broker in France** since 1974. A Verspieren group subsidiary, AMV covers over **600,000 motorcyclists and scooter riders**, including a large share of young 125 drivers. Policies are negotiated with SMA SA and Filia-MAIF, which lets AMV undercut generalists by **20 to 30 percent** on the 125cc segment.
+**AMV Assurances** (formerly Assurances Moto Verte) is one of the oldest two-wheel specialist brokers in France, active since 1974, and the largest by portfolio size. A Verspieren group subsidiary, AMV covers over **600,000 motorcyclists and scooter riders**, including a large share of young 125 drivers. Policies are negotiated with SMA SA and Filia-MAIF, which explains rates **20 to 30 percent** below generalists on the 125cc segment. That volume and low entry rate justify its top spot more than the raw quality of its coverage, where some competitors match it.
 
 **Reference young-licence rate**: **288 EUR/year** third-party, **520 EUR/year** third + theft, **780 EUR/year** comprehensive.
 
@@ -66,7 +66,7 @@ Reference profile: **24 years old, category B + 7-hour training obtained 1 year 
 
 <img src="/images/assurance-125-jeune-conducteur/logos/mutuelle-des-motards.png" alt="Mutuelle des Motards logo" title="Mutuelle des Motards logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
-Founded in **1983 by the Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** is the only French mutual fully dedicated to two-wheels. Mutual status: no shareholders, surpluses returned to members. **70,000 active members**, with a growing young-licence share since 2020.
+Founded in **1983 by the Fédération Française des Motards en Colère (FFMC)**, **la Mutuelle des Motards** is the only French mutual fully dedicated to two-wheels. Mutual status: no shareholders, surpluses returned to members. **70,000 active members**, with a growing young-licence share since 2020. For a young driver looking for lasting support rather than just a teaser rate, this is the strongest option in the ranking: the young-licence surcharge decays over 2 years instead of 3 elsewhere, and motorcyclist advocacy goes well beyond the contract itself. On that specific need, long-term support and accelerated decay, it edges ahead of AMV.
 
 **Reference young-licence rate**: **295 EUR/year** third-party, **535 EUR/year** third + theft, **795 EUR/year** comprehensive.
 
@@ -327,7 +327,7 @@ For used buyers, see also our [buying a used car](/en/blog/buying-used-car-guide
 <details>
 <summary>Which is the best insurer for a young 125 driver in 2026?</summary>
 
-**AMV Assurances** remains the segment leader with rates starting at **288 EUR/year** on third-party, full coverage (0 km roadside assistance, 2,000 EUR helmet, 24-month new value) and French customer service. **Mutuelle des Motards** and **April Moto** round out the podium with price differences of **5 to 10 percent** maximum.
+It depends on your priority. On entry rate and gear coverage, **AMV Assurances** comes out on top with third-party from **288 EUR/year**, 0 km roadside assistance and a helmet covered up to **2,000 EUR**. For mutual support and a surcharge that fades faster, **Mutuelle des Motards** is the best choice, with decay over 2 years. **April Moto** rounds out the podium and becomes attractive for category B holders who can claim a car bonus. Price differences between these three players stay within **5 to 10 percent** maximum.
 
 </details>
 

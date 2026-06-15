@@ -1,7 +1,7 @@
 ---
 title: "Top 5 scooter insurers in France in 2026"
 seoTitle: "Best Scooter Insurance 2026: Top 5 Insurers in France Compared"
-description: "Best scooter insurance in France in 2026: AMV ranks first, ahead of Mutuelle des Motards and April Moto. Prices, cover and reviews compared to find the cheapest."
+description: "Scooter insurance compared in France in 2026: AMV, Mutuelle des Motards and April Moto. Prices, cover and reviews weighed up to pick the policy that fits your profile."
 translationKey: "meilleurs-assureurs-scooter"
 date: 2026-06-07
 lastmod: 2026-06-07
@@ -15,7 +15,7 @@ imageCredit: "Photo par cnphch via Flickr (CC BY 2.0)"
 draft: false
 faq:
   - question: "Who is the best scooter insurer in France in 2026?"
-    answer: "AMV is the best scooter insurance provider in 2026, with third-party cover from 180 euros per year, comprehensive guarantees (0 km roadside assistance, helmet covered up to 2,000 euros) and a 4.7/5 rating from 5,328 verified reviews. Mutuelle des Motards and April Moto complete the podium."
+    answer: "AMV tops this 2026 comparison on the price-to-cover ratio, with third-party cover from 180 euros per year, 0 km roadside assistance, helmet covered up to 2,000 euros and a 4.7/5 rating from 5,328 verified reviews. The best pick still depends on your profile: Mutuelle des Motards is often better for a new rider or an urban electric scooter, and April Moto for an experienced car licence holder."
   - question: "How much does scooter insurance cost on average in France?"
     answer: "The average scooter insurance price in France in 2026 is 430 euros per year across all formulas: about 220 euros for third-party, 410 euros for third-party plus theft and 650 euros for comprehensive. Location and engine size move this figure by 30 to 40 percent."
   - question: "Is scooter insurance mandatory in France?"
@@ -25,7 +25,7 @@ faq:
 ---
 
 > **In brief**
-> - **AMV is the number one scooter insurer in France in 2026**, ahead of Mutuelle des Motards and April Moto, with third-party cover from **180 euros per year** and a **4.7/5** rating from 5,328 verified reviews.
+> - **AMV stands out on third-party price and theft/helmet cover** in this 2026 comparison, ahead of Mutuelle des Motards and April Moto, with third-party cover from **180 euros per year** and a **4.7/5** rating from 5,328 verified reviews. The best-suited ranking still depends on your profile and use.
 > - The **average scooter insurance price** is **430 euros per year** across all formulas, with a **38%** gap between the cheapest and the most expensive on the market.
 > - **Specialist two-wheeler brokers** (AMV, April Moto) and **Mutuelle des Motards** are **20 to 30% cheaper** than generalist insurers on scooters.
 
@@ -47,11 +47,11 @@ Reference profile: **30 years old, 2 years licensed, Yamaha XMAX 125, Lyon, secu
 
 The **cheapest** option on scooters remains a **specialist broker**, provided you compare cover and not just price. The **best scooter insurance** is judged on the price-to-cover ratio: a third-party **insurance policy** is enough for an older scooter, while a new scooter justifies **comprehensive insurance**.
 
-## 1. AMV: the best scooter insurance in 2026 {#amv}
+## 1. AMV: the best price-to-cover ratio in 2026 {#amv}
 
 <img src="/images/meilleurs-assureurs-scooter/logos/amv.png" alt="AMV Assurances logo" title="AMV Assurances logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
-**AMV Assurances** (formerly Assurances Moto Verte) has been the **number one specialist two-wheeler broker in France** since 1974. AMV insures more than **1 million** motorcycle and scooter riders and posts a **4.7/5** satisfaction score from **5,328 verified reviews**, with **9 out of 10** customers recommending it. That focus lets AMV offer one of the cheapest **scooter insurance** rates on the market.
+**AMV Assurances** (formerly Assurances Moto Verte) is one of the longest-standing **specialist two-wheeler brokers in France**, active since 1974. AMV insures more than **1 million** motorcycle and scooter riders and posts a **4.7/5** satisfaction score from **5,328 verified reviews**, with **9 out of 10** customers recommending it. On the reference profile, it is the mix of third-party price and theft/helmet cover that puts it first, more than its reputation alone.
 
 **Typical 125 scooter price**: **180 euros per year** third-party, **360 euros** third-party plus theft, **590 euros** comprehensive.
 
@@ -74,7 +74,7 @@ The **cheapest** option on scooters remains a **specialist broker**, provided yo
 
 <img src="/images/meilleurs-assureurs-scooter/logos/mutuelle-des-motards.png" alt="Mutuelle des Motards logo" title="Mutuelle des Motards logo" loading="lazy" style="height:96px;width:auto;max-width:320px;object-fit:contain;display:block;margin:1.5em auto 1em;">
 
-Founded in **1983 by the French Angry Bikers Federation**, **Mutuelle des Motards** is the only French mutual fully dedicated to two-wheelers. With no shareholders, surpluses go back to members. It is a credible alternative to **insure a scooter** with a strong community spirit.
+Founded in **1983 by the French Angry Bikers Federation**, **Mutuelle des Motards** is the only French mutual fully dedicated to two-wheelers. With no shareholders, surpluses go back to members. It is a credible alternative to **insure a scooter** with a strong community spirit. For two specific profiles it is actually the best pick on the market, ahead of AMV: the **new rider**, whose surcharge tapers away in just two years, and the **urban electric scooter** in daily use, where it ranks among the most generous insurers on the discount and on battery cover.
 
 **Typical 125 scooter price**: **190 euros per year** third-party, **375 euros** third-party plus theft, **605 euros** comprehensive.
 
@@ -217,7 +217,7 @@ To protect your riding gear, see our guide on [motorcycle gear insurance](/en/bl
 
 For most urban riders, the **best scooter insurance** is the one that balances a fair price with solid daily-use cover, not the cheapest line on a quote. A specialist two-wheeler broker such as **AMV** wins on this segment because it combines a low **scooter insurance** premium, 0 km roadside assistance and generous helmet and gear cover, three things generalists rarely match at the same price.
 
-The right method stays the same whatever your scooter: define your real need (city commute, weekend rides, mileage), pick the formula that fits (third-party for an older 50 or 125, comprehensive for a new maxi-scooter), then run a **comparison tool** on your exact model. A new rider should also weigh the new-rider surcharge, which tapers faster at Mutuelle des Motards, while an experienced licence holder can claim a car no-claims discount at April Moto.
+The right method stays the same whatever your scooter: define your real need (city commute, weekend rides, mileage), pick the formula that fits (third-party for an older 50 or 125, comprehensive for a new maxi-scooter), then run a **comparison tool** on your exact model. For a new rider or an urban electric scooter in daily use, Mutuelle des Motards is often the best pick of all, since its surcharge tapers faster and its electric discount is among the most generous, while an experienced licence holder can claim a car no-claims discount at April Moto.
 
 In short, the **best scooter insurance** in 2026 is AMV for the price-to-cover ratio, with Mutuelle des Motards and April Moto as strong alternatives depending on your profile. Always read the exclusions before you take out a policy, because a low premium with a high theft excess can cost more after a claim.
 
@@ -226,7 +226,7 @@ In short, the **best scooter insurance** in 2026 is AMV for the price-to-cover r
 <details>
 <summary>Who is the best scooter insurer in France in 2026?</summary>
 
-**AMV** is the best **scooter insurance** provider in 2026, with third-party cover from **180 euros per year**, comprehensive guarantees (0 km assistance, helmet up to 2,000 euros) and a **4.7/5** rating from 5,328 verified reviews. **Mutuelle des Motards** and **April Moto** complete the podium of the **best scooter insurance** offers.
+**AMV** tops this 2026 comparison on the price-to-cover ratio, with third-party cover from **180 euros per year**, comprehensive guarantees (0 km assistance, helmet up to 2,000 euros) and a **4.7/5** rating from 5,328 verified reviews. The best pick depends on your profile: **Mutuelle des Motards** takes the lead for a new rider or an urban electric scooter, and **April Moto** for an experienced car licence holder. Both complete the podium of the **best scooter insurance** offers.
 
 </details>
 

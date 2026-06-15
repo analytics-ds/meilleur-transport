@@ -1,0 +1,687 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - link "✉ contact@meilleur-transport.com" [ref=e5] [cursor=pointer]:
+      - /url: mailto:contact@meilleur-transport.com
+    - generic [ref=e6]:
+      - generic [ref=e7]: NOUVEAU
+      - generic [ref=e8]: Comparez plus de 800 transports gratuitement
+      - link "Comparer →" [ref=e9] [cursor=pointer]:
+        - /url: /comparer/
+    - generic [ref=e11]:
+      - link "🇫🇷 FR" [ref=e12] [cursor=pointer]:
+        - /url: /blog/meilleure-assurance-moto/
+        - generic [ref=e13]: 🇫🇷
+        - generic [ref=e14]: FR
+      - link "🇬🇧 EN" [ref=e15] [cursor=pointer]:
+        - /url: /en/blog/best-motorcycle-insurance/
+        - generic [ref=e16]: 🇬🇧
+        - generic [ref=e17]: EN
+  - banner [ref=e18]:
+    - generic [ref=e19]:
+      - link "Meilleur Transport" [ref=e20] [cursor=pointer]:
+        - /url: /
+        - img "Meilleur Transport" [ref=e21]
+      - navigation [ref=e22]:
+        - link "Particuliers" [ref=e23] [cursor=pointer]:
+          - /url: /categories/particuliers/
+        - link "Professionnels" [ref=e24] [cursor=pointer]:
+          - /url: /categories/professionnels/
+        - link "À propos" [ref=e25] [cursor=pointer]:
+          - /url: /a-propos/
+        - link "Contact" [ref=e26] [cursor=pointer]:
+          - /url: /contact/
+      - generic [ref=e27]:
+        - link "📊 Comparer" [ref=e28] [cursor=pointer]:
+          - /url: /comparer/
+        - link "+ Proposer un transport" [ref=e29] [cursor=pointer]:
+          - /url: /proposer/
+  - main [ref=e30]:
+    - article [ref=e31]:
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - link "Particuliers" [ref=e36] [cursor=pointer]:
+              - /url: /categories/particuliers/
+            - heading "Quelle est la meilleure assurance moto en 2026 ? Classement complet" [level=1] [ref=e37]
+            - paragraph [ref=e38]: "Classement des meilleures assurances moto 2026 en France : AMV en tête devant la Mutuelle des Motards et April Moto. Garanties, formules, prix et avis comparés."
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - generic [ref=e41]: JM
+                - generic [ref=e42]:
+                  - generic [ref=e43]: Par
+                  - strong [ref=e44]:
+                    - link "Julien Mercier" [ref=e45] [cursor=pointer]:
+                      - /url: /authors/julien-mercier/
+                  - generic [ref=e46]: ", Expert mobilité et transports"
+              - generic [ref=e48]: Mis à jour le 3 June 2026
+              - generic [ref=e50]: "Lecture : 11 min"
+              - generic [ref=e52]:
+                - img [ref=e53]
+                - text: Données vérifiées
+          - 'img "Quelle est la meilleure assurance moto en 2026 : classement AMV, Mutuelle des Motards et April Moto" [ref=e56]'
+        - generic [ref=e57]:
+          - generic [ref=e58]: "Partager :"
+          - link "Partager sur LinkedIn" [ref=e59] [cursor=pointer]:
+            - /url: https://www.linkedin.com/sharing/share-offsite/?url=http%3a%2f%2flocalhost%3a1314%2fblog%2fmeilleure-assurance-moto%2f
+            - img [ref=e60]
+            - generic [ref=e62]: LinkedIn
+          - link "Partager sur X" [ref=e63] [cursor=pointer]:
+            - /url: https://twitter.com/intent/tweet?url=http%3a%2f%2flocalhost%3a1314%2fblog%2fmeilleure-assurance-moto%2f&text=Quelle%20est%20la%20meilleure%20assurance%20moto%20en%202026%20%3f%20Classement%20complet
+            - img [ref=e64]
+            - generic [ref=e66]: X
+          - link "Partager sur Facebook" [ref=e67] [cursor=pointer]:
+            - /url: https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1314%2fblog%2fmeilleure-assurance-moto%2f
+            - img [ref=e68]
+            - generic [ref=e70]: Facebook
+          - link "Partager sur Reddit" [ref=e71] [cursor=pointer]:
+            - /url: https://reddit.com/submit?url=http%3a%2f%2flocalhost%3a1314%2fblog%2fmeilleure-assurance-moto%2f&title=Quelle%20est%20la%20meilleure%20assurance%20moto%20en%202026%20%3f%20Classement%20complet
+            - img [ref=e72]
+            - generic [ref=e74]: Reddit
+      - generic [ref=e76]:
+        - complementary [ref=e77]:
+          - generic [ref=e78]:
+            - paragraph [ref=e79]: Sommaire
+            - navigation [ref=e80]:
+              - navigation [ref=e81]:
+                - list [ref=e82]:
+                  - listitem [ref=e83]:
+                    - link "En bref" [ref=e84] [cursor=pointer]:
+                      - /url: "#en-bref"
+                  - listitem [ref=e85]:
+                    - link "Le classement des meilleures assurances moto 2026 en un tableau" [ref=e86] [cursor=pointer]:
+                      - /url: "#tableau"
+                  - listitem [ref=e87]:
+                    - 'link "1. AMV : la meilleure assurance moto du marché" [ref=e88] [cursor=pointer]':
+                      - /url: "#amv"
+                  - listitem [ref=e89]:
+                    - 'link "2. Mutuelle des Motards : l’alternative mutualiste militante" [ref=e90] [cursor=pointer]':
+                      - /url: "#mutuelle-des-motards"
+                  - listitem [ref=e91]:
+                    - 'link "3. April Moto : le meilleur rapport garanties-prix en option" [ref=e92] [cursor=pointer]':
+                      - /url: "#april-moto"
+                  - listitem [ref=e93]:
+                    - 'link "4. Solly Azar : le courtier flexible" [ref=e94] [cursor=pointer]':
+                      - /url: "#solly-azar"
+                  - listitem [ref=e95]:
+                    - 'link "5. Direct Assurance : le pure player au tarif agressif" [ref=e96] [cursor=pointer]':
+                      - /url: "#direct-assurance"
+                  - listitem [ref=e97]:
+                    - 'link "6. Macif : le généraliste solide mais standardisé" [ref=e98] [cursor=pointer]':
+                      - /url: "#macif"
+                  - listitem [ref=e99]:
+                    - 'link "7. Allianz : la couverture corporelle haut de gamme" [ref=e100] [cursor=pointer]':
+                      - /url: "#allianz"
+                  - listitem [ref=e101]:
+                    - 'link "8. MAAF : le minimum pour le multi-équipement" [ref=e102] [cursor=pointer]':
+                      - /url: "#maaf"
+                  - listitem [ref=e103]:
+                    - link "Comment choisir la meilleure assurance moto ?" [ref=e104] [cursor=pointer]:
+                      - /url: "#comment-choisir"
+                  - listitem [ref=e105]:
+                    - 'link "Souscrire la bonne assurance deux-roues : ce qu’il faut savoir" [ref=e106] [cursor=pointer]':
+                      - /url: "#souscrire"
+                  - listitem [ref=e107]:
+                    - link "Questions fréquentes" [ref=e108] [cursor=pointer]:
+                      - /url: "#faq"
+        - generic [ref=e109]:
+          - heading "En bref" [level=2] [ref=e110]
+          - list [ref=e111]:
+            - listitem [ref=e112]:
+              - strong [ref=e113]: AMV est la meilleure assurance moto en 2026
+              - text: "pour les motards qui cherchent un vrai spécialiste deux-roues : courtier dédié depuis 1974, plus d’un million d’assurés, recommandé par 9 assurés sur 10 et noté 4,7/5 sur plus de 5 300 avis vérifiés."
+            - listitem [ref=e114]:
+              - text: Sur le podium suivent la
+              - strong [ref=e115]: Mutuelle des Motards
+              - text: (modèle mutualiste militant créé par la FFMC) et
+              - strong [ref=e116]: April Moto
+              - text: (courtier spécialiste). Les assureurs généralistes (Macif, Allianz, MAAF) restent
+              - strong [ref=e117]: 20 à 30 % plus chers
+              - text: sur le deux-roues.
+            - listitem [ref=e118]:
+              - text: Le
+              - strong [ref=e119]: prix moyen d’une assurance moto
+              - text: en France s’établit autour de
+              - strong [ref=e120]: 440 euros par an
+              - text: ", mais varie du simple au triple selon la cylindrée, la formule (tiers ou tous risques) et le profil du conducteur."
+          - paragraph [ref=e121]:
+            - text: Comparer les
+            - strong [ref=e122]: assurances moto
+            - text: "revient à arbitrer entre trois familles d’acteurs : les"
+            - strong [ref=e123]: courtiers spécialistes deux-roues
+            - text: ", les"
+            - strong [ref=e124]: mutuelles militantes
+            - text: et les
+            - strong [ref=e125]: assureurs généralistes
+            - text: . Plutôt qu’un
+            - strong [ref=e126]: comparateur
+            - text: d’
+            - strong [ref=e127]: offres
+            - text: anonyme, cette
+            - strong [ref=e128]: comparaison
+            - text: "classe les acteurs sur des critères concrets : un spécialiste connaît la sinistralité réelle de chaque modèle là où un généraliste applique une grille standardisée, et l’écart se creuse vite sur les garanties comme sur le tarif. Voici le classement des"
+            - strong [ref=e129]: meilleures assurances moto en 2026
+            - text: ", comparées sur la spécialisation, l’étendue des garanties, l’assistance et la satisfaction client. Pour le cas particulier des petits cubes, voir aussi notre classement de l’"
+            - link "assurance 125 jeune conducteur" [ref=e130] [cursor=pointer]:
+              - /url: /blog/assurance-125-jeune-conducteur/
+            - text: .
+          - paragraph [ref=e131]:
+            - 'img "Quelle est la meilleure assurance moto en 2026 : classement AMV, Mutuelle des Motards et April Moto" [ref=e132]'
+          - heading "Le classement des meilleures assurances moto 2026 en un tableau" [level=2] [ref=e133]
+          - table [ref=e134]:
+            - rowgroup [ref=e135]:
+              - row "Rang Assureur Type Spécialiste moto Note globale Positionnement tarif" [ref=e136]:
+                - columnheader "Rang" [ref=e137]
+                - columnheader "Assureur" [ref=e138]
+                - columnheader "Type" [ref=e139]
+                - columnheader "Spécialiste moto" [ref=e140]
+                - columnheader "Note globale" [ref=e141]
+                - columnheader "Positionnement tarif" [ref=e142]
+            - rowgroup [ref=e143]:
+              - row "1 AMV Courtier spécialiste Oui, 100 % deux-roues ★★★★★ 4,7/5 €€ compétitif" [ref=e144]:
+                - cell "1" [ref=e145]:
+                  - strong [ref=e146]: "1"
+                - cell "AMV" [ref=e147]:
+                  - strong [ref=e148]: AMV
+                - cell "Courtier spécialiste" [ref=e149]
+                - cell "Oui, 100 % deux-roues" [ref=e150]
+                - cell "★★★★★ 4,7/5" [ref=e151]
+                - cell "€€ compétitif" [ref=e152]
+              - row "2 Mutuelle des Motards Mutuelle spécialiste Oui, 100 % deux-roues ★★★★☆ 4,3/5 €€ compétitif" [ref=e153]:
+                - cell "2" [ref=e154]
+                - cell "Mutuelle des Motards" [ref=e155]
+                - cell "Mutuelle spécialiste" [ref=e156]
+                - cell "Oui, 100 % deux-roues" [ref=e157]
+                - cell "★★★★☆ 4,3/5" [ref=e158]
+                - cell "€€ compétitif" [ref=e159]
+              - row "3 April Moto Courtier spécialiste Oui, deux-roues ★★★★☆ 4,2/5 €€ compétitif" [ref=e160]:
+                - cell "3" [ref=e161]
+                - cell "April Moto" [ref=e162]
+                - cell "Courtier spécialiste" [ref=e163]
+                - cell "Oui, deux-roues" [ref=e164]
+                - cell "★★★★☆ 4,2/5" [ref=e165]
+                - cell "€€ compétitif" [ref=e166]
+              - row "4 Solly Azar Courtier spécialiste Oui, deux-roues ★★★★☆ 4,0/5 €€ moyen" [ref=e167]:
+                - cell "4" [ref=e168]
+                - cell "Solly Azar" [ref=e169]
+                - cell "Courtier spécialiste" [ref=e170]
+                - cell "Oui, deux-roues" [ref=e171]
+                - cell "★★★★☆ 4,0/5" [ref=e172]
+                - cell "€€ moyen" [ref=e173]
+              - row "5 Direct Assurance Assureur en ligne Non, multi-produits ★★★★☆ 3,8/5 € agressif" [ref=e174]:
+                - cell "5" [ref=e175]
+                - cell "Direct Assurance" [ref=e176]
+                - cell "Assureur en ligne" [ref=e177]
+                - cell "Non, multi-produits" [ref=e178]
+                - cell "★★★★☆ 3,8/5" [ref=e179]
+                - cell "€ agressif" [ref=e180]
+              - row "6 Macif Assureur généraliste Non, multi-produits ★★★★☆ 4,1/5 €€€ élevé" [ref=e181]:
+                - cell "6" [ref=e182]
+                - cell "Macif" [ref=e183]
+                - cell "Assureur généraliste" [ref=e184]
+                - cell "Non, multi-produits" [ref=e185]
+                - cell "★★★★☆ 4,1/5" [ref=e186]
+                - cell "€€€ élevé" [ref=e187]
+              - row "7 Allianz Assureur généraliste Non, multi-produits ★★★★☆ 3,9/5 €€€ élevé" [ref=e188]:
+                - cell "7" [ref=e189]
+                - cell "Allianz" [ref=e190]
+                - cell "Assureur généraliste" [ref=e191]
+                - cell "Non, multi-produits" [ref=e192]
+                - cell "★★★★☆ 3,9/5" [ref=e193]
+                - cell "€€€ élevé" [ref=e194]
+              - row "8 MAAF Assureur généraliste Non, multi-produits ★★★☆☆ 3,4/5 €€€ élevé" [ref=e195]:
+                - cell "8" [ref=e196]
+                - cell "MAAF" [ref=e197]
+                - cell "Assureur généraliste" [ref=e198]
+                - cell "Non, multi-produits" [ref=e199]
+                - cell "★★★☆☆ 3,4/5" [ref=e200]
+                - cell "€€€ élevé" [ref=e201]
+          - paragraph [ref=e202]:
+            - text: "Le constat est net : les quatre premières places reviennent aux"
+            - strong [ref=e203]: spécialistes deux-roues
+            - text: ", capables de couvrir l’équipement, l’assistance dès le premier kilomètre et les profils atypiques que les généralistes refusent parfois. Le détail poste par poste se trouve dans notre comparatif de la"
+            - link "garantie équipement moto" [ref=e204] [cursor=pointer]:
+              - /url: /blog/garantie-equipement-moto/
+            - text: .
+          - 'heading "1. AMV : la meilleure assurance moto du marché" [level=2] [ref=e205]'
+          - img "Logo AMV assurance moto" [ref=e206]
+          - paragraph [ref=e207]:
+            - strong [ref=e208]: "Note globale : ★★★★★ (4,7/5)"
+          - paragraph [ref=e209]:
+            - strong [ref=e210]: AMV
+            - text: est un courtier spécialiste de l’
+            - strong [ref=e211]: assurance moto, scooter, quad, jet-ski et véhicule de collection
+            - text: "depuis 1974. Numéro un français du deux-roues, il couvre plus d’un million d’assurés avec 300 conseillers formés à la moto et basés à Bordeaux. Cette spécialisation se traduit par des tarifs ajustés au modèle plutôt que par une grille standard, et par des garanties pensées pour les motards : vol et incendie, garantie équipement jusqu’au plafond le plus élevé du marché, assistance dès 0 km avec prêt de guidon. Membre du groupe Generali via L’Équité, AMV a reçu le Label Excellence des Dossiers de l’Épargne."
+          - heading "Avantages AMV" [level=3] [ref=e212]
+          - list [ref=e213]:
+            - listitem [ref=e214]:
+              - strong [ref=e215]: Spécialiste 100 % deux-roues
+              - text: depuis 50 ans, expertise sur tous les segments (roadster, sportive, trail, maxi-scooter)
+            - listitem [ref=e216]:
+              - strong [ref=e217]: Garantie équipement
+              - text: la plus généreuse du marché, casque et airbag couverts
+            - listitem [ref=e218]:
+              - strong [ref=e219]: Assistance dès 0 km
+              - text: avec dépannage et prêt de guidon inclus
+            - listitem [ref=e220]:
+              - text: Place les
+              - strong [ref=e221]: profils atypiques
+              - text: (jeune permis, résilié, gros rouleur) que les généralistes écartent
+            - listitem [ref=e222]:
+              - strong [ref=e223]: Devis en ligne 24h/24
+              - text: et souscription immédiate, note de 4,7/5 sur plus de 5 300 avis vérifiés
+          - heading "Inconvénients AMV" [level=3] [ref=e224]
+          - list [ref=e225]:
+            - listitem [ref=e226]:
+              - text: Offre
+              - strong [ref=e227]: centrée sur le deux-roues
+              - text: ", moins pertinente pour qui veut regrouper auto et habitation"
+            - listitem [ref=e228]:
+              - text: Indemnisation équipement
+              - strong [ref=e229]: sur facture
+              - text: ", justificatifs d’achat à conserver"
+            - listitem [ref=e230]:
+              - text: Réseau
+              - strong [ref=e231]: 100 % à distance et téléphonique
+              - text: ", pas d’agence physique de proximité"
+          - 'heading "2. Mutuelle des Motards : l’alternative mutualiste militante" [level=2] [ref=e232]'
+          - img "Logo Mutuelle des Motards" [ref=e233]
+          - paragraph [ref=e234]:
+            - strong [ref=e235]: "Note globale : ★★★★☆ (4,3/5)"
+          - paragraph [ref=e236]:
+            - text: Créée en 1983 par la Fédération Française des Motards en Colère,
+            - strong [ref=e237]: la Mutuelle des Motards
+            - text: assure exclusivement les deux-roues avec une philosophie de sécurité routière forte. Son modèle mutualiste, sans actionnaires à rémunérer, lui permet de proposer des cotisations cohérentes et une absence de vétusté la première année sur l’équipement. C’est l’alternative naturelle à AMV pour les motards attachés à un assureur engagé.
+          - heading "Avantages Mutuelle des Motards" [level=3] [ref=e238]
+          - list [ref=e239]:
+            - listitem [ref=e240]:
+              - strong [ref=e241]: Modèle mutualiste
+              - text: ", pas de surprime liée aux dividendes"
+            - listitem [ref=e242]:
+              - strong [ref=e243]: Zéro vétusté la première année
+              - text: sur l’équipement, expertise par des techniciens motards
+            - listitem [ref=e244]:
+              - text: Engagement réel sur la
+              - strong [ref=e245]: prévention et la sécurité routière
+          - heading "Inconvénients Mutuelle des Motards" [level=3] [ref=e246]
+          - list [ref=e247]:
+            - listitem [ref=e248]:
+              - strong [ref=e249]: Délais d’indemnisation
+              - text: qui s’allongent en haute saison
+            - listitem [ref=e250]:
+              - text: Garantie équipement parfois
+              - strong [ref=e251]: en option
+              - text: sur la formule tiers simple
+            - listitem [ref=e252]:
+              - text: Tarifs moins agressifs que les courtiers sur certains
+              - strong [ref=e253]: profils jeunes
+          - 'heading "3. April Moto : le meilleur rapport garanties-prix en option" [level=2] [ref=e254]'
+          - img "Logo April Moto" [ref=e255]
+          - paragraph [ref=e256]:
+            - strong [ref=e257]: "Note globale : ★★★★☆ (4,2/5)"
+          - paragraph [ref=e258]:
+            - strong [ref=e259]: April Moto
+            - text: est un courtier spécialiste deux-roues reconnu pour la lisibilité de ses formules et la gestion de sinistre dématérialisée. La déclaration se fait depuis l’application, photos à l’appui, et le rapport plafond-prix des options figure parmi les meilleurs pour qui ne veut pas passer en formule complète. Une valeur sûre pour le motard connecté.
+          - heading "Avantages April Moto" [level=3] [ref=e260]
+          - list [ref=e261]:
+            - listitem [ref=e262]:
+              - strong [ref=e263]: Déclaration et suivi de sinistre 100 % depuis l’application
+            - listitem [ref=e264]:
+              - strong [ref=e265]: Valeur à neuf
+              - text: sur l’équipement pendant 12 mois
+            - listitem [ref=e266]:
+              - text: Formules claires, bon
+              - strong [ref=e267]: rapport garanties-prix
+              - text: sur les options
+          - heading "Inconvénients April Moto" [level=3] [ref=e268]
+          - list [ref=e269]:
+            - listitem [ref=e270]:
+              - text: Garantie équipement
+              - strong [ref=e271]: toujours en option
+              - text: ", jamais incluse d’office"
+            - listitem [ref=e272]:
+              - strong [ref=e273]: Vétusté plus rapide
+              - text: dès la deuxième année qu’AMV
+            - listitem [ref=e274]:
+              - text: Assistance 0 km
+              - strong [ref=e275]: selon la formule
+              - text: choisie
+          - 'heading "4. Solly Azar : le courtier flexible" [level=2] [ref=e276]'
+          - img "Logo Solly Azar" [ref=e277]
+          - paragraph [ref=e278]:
+            - strong [ref=e279]: "Note globale : ★★★★☆ (4,0/5)"
+          - paragraph [ref=e280]:
+            - strong [ref=e281]: Solly Azar
+            - text: est un courtier grossiste qui propose des contrats moto modulables, intéressants pour les profils que les compagnies classiques placent difficilement. La flexibilité de souscription est sa principale force, au prix d’un positionnement tarifaire un cran au-dessus des leaders spécialistes.
+          - heading "Avantages Solly Azar" [level=3] [ref=e282]
+          - list [ref=e283]:
+            - listitem [ref=e284]:
+              - strong [ref=e285]: Souscription souple
+              - text: ", adaptée aux profils résiliés ou malussés"
+            - listitem [ref=e286]:
+              - text: Large choix de
+              - strong [ref=e287]: garanties à la carte
+            - listitem [ref=e288]:
+              - text: Bon relais pour les
+              - strong [ref=e289]: deux-roues atypiques
+              - text: et de forte cylindrée
+          - heading "Inconvénients Solly Azar" [level=3] [ref=e290]
+          - list [ref=e291]:
+            - listitem [ref=e292]:
+              - strong [ref=e293]: Tarifs moyens
+              - text: ", au-dessus d’AMV et April sur les profils standards"
+            - listitem [ref=e294]:
+              - text: Garanties équipement et assistance
+              - strong [ref=e295]: selon le contrat sous-jacent
+            - listitem [ref=e296]:
+              - text: Gestion de sinistre
+              - strong [ref=e297]: moins homogène
+              - text: d’un contrat à l’autre
+          - 'heading "5. Direct Assurance : le pure player au tarif agressif" [level=2] [ref=e298]'
+          - img "Logo Direct Assurance" [ref=e299]
+          - paragraph [ref=e300]:
+            - strong [ref=e301]: "Note globale : ★★★★☆ (3,8/5)"
+          - paragraph [ref=e302]:
+            - strong [ref=e303]: Direct Assurance
+            - text: ", pure player du groupe AXA, mise sur un"
+            - strong [ref=e304]: tarif agressif
+            - text: et une souscription 100 % en ligne. La formule tous risques inclut une garantie équipement correcte, mais l’absence d’expert deux-roues dédié se ressent sur l’évaluation des sinistres. Un bon choix pour le motard autonome qui privilégie le prix.
+          - heading "Avantages Direct Assurance" [level=3] [ref=e305]
+          - list [ref=e306]:
+            - listitem [ref=e307]:
+              - strong [ref=e308]: Tarifs parmi les plus bas
+              - text: du marché
+            - listitem [ref=e309]:
+              - strong [ref=e310]: Souscription et gestion 100 % en ligne
+              - text: ", constat digital"
+            - listitem [ref=e311]:
+              - text: Adossement au groupe
+              - strong [ref=e312]: AXA
+              - text: ", solidité financière"
+          - heading "Inconvénients Direct Assurance" [level=3] [ref=e313]
+          - list [ref=e314]:
+            - listitem [ref=e315]:
+              - strong [ref=e316]: Pas d’expert deux-roues dédié
+              - text: ", évaluation par des experts auto"
+            - listitem [ref=e317]:
+              - text: Garantie équipement
+              - strong [ref=e318]: réservée au tous risques
+            - listitem [ref=e319]:
+              - text: Conseil moins poussé sur les
+              - strong [ref=e320]: profils complexes
+          - 'heading "6. Macif : le généraliste solide mais standardisé" [level=2] [ref=e321]'
+          - img "Logo Macif" [ref=e322]
+          - paragraph [ref=e323]:
+            - strong [ref=e324]: "Note globale : ★★★★☆ (4,1/5)"
+          - paragraph [ref=e325]:
+            - text: La
+            - strong [ref=e326]: Macif
+            - text: offre la réassurance d’un grand généraliste et d’un réseau d’agences physiques, appréciable pour qui veut regrouper moto, auto et habitation. La contrepartie est une grille tarifaire standardisée, peu compétitive sur les profils moto purs, et des plafonds d’équipement limités.
+          - heading "Avantages Macif" [level=3] [ref=e327]
+          - list [ref=e328]:
+            - listitem [ref=e329]:
+              - strong [ref=e330]: Réseau d’agences physiques
+              - text: pour le suivi de dossier
+            - listitem [ref=e331]:
+              - text: Réductions
+              - strong [ref=e332]: multi-contrats
+              - text: sociétaire intéressantes
+            - listitem [ref=e333]:
+              - text: Bonne
+              - strong [ref=e334]: satisfaction client
+              - text: générale
+          - heading "Inconvénients Macif" [level=3] [ref=e335]
+          - list [ref=e336]:
+            - listitem [ref=e337]:
+              - text: Tarif moto
+              - strong [ref=e338]: 20 à 30 % au-dessus
+              - text: des spécialistes
+            - listitem [ref=e339]:
+              - strong [ref=e340]: Plafond équipement limité
+              - text: ", valeur à neuf rare"
+            - listitem [ref=e341]:
+              - text: Offre
+              - strong [ref=e342]: non dédiée
+              - text: au deux-roues
+          - 'heading "7. Allianz : la couverture corporelle haut de gamme" [level=2] [ref=e343]'
+          - img "Logo Allianz" [ref=e344]
+          - paragraph [ref=e345]:
+            - strong [ref=e346]: "Note globale : ★★★★☆ (3,9/5)"
+          - paragraph [ref=e347]:
+            - strong [ref=e348]: Allianz
+            - text: se distingue par une
+            - strong [ref=e349]: garantie du conducteur
+            - text: parmi les plus élevées du marché, un atout réel pour couvrir ses propres blessures à moto. Le reste du contrat reste celui d’un généraliste premium, avec une cotisation supérieure et un plafond d’équipement moyen.
+          - heading "Avantages Allianz" [level=3] [ref=e350]
+          - list [ref=e351]:
+            - listitem [ref=e352]:
+              - strong [ref=e353]: Garantie corporelle du conducteur
+              - text: très élevée
+            - listitem [ref=e354]:
+              - text: Couverture géographique
+              - strong [ref=e355]: étendue
+              - text: incluse
+            - listitem [ref=e356]:
+              - text: Service
+              - strong [ref=e357]: juridique premium
+              - text: en cas de litige
+          - heading "Inconvénients Allianz" [level=3] [ref=e358]
+          - list [ref=e359]:
+            - listitem [ref=e360]:
+              - strong [ref=e361]: Cotisation moto élevée
+              - text: ", 30 à 40 % au-dessus des courtiers"
+            - listitem [ref=e362]:
+              - strong [ref=e363]: Plafond équipement moyen
+            - listitem [ref=e364]:
+              - text: Vétusté appliquée
+              - strong [ref=e365]: dès la première année
+          - 'heading "8. MAAF : le minimum pour le multi-équipement" [level=2] [ref=e366]'
+          - img "Logo MAAF" [ref=e367]
+          - paragraph [ref=e368]:
+            - strong [ref=e369]: "Note globale : ★★★☆☆ (3,4/5)"
+          - paragraph [ref=e370]:
+            - text: La
+            - strong [ref=e371]: MAAF
+            - text: ferme ce classement. Son intérêt réside surtout dans le pack multi-contrats pour les foyers déjà clients en auto et habitation. Sur la moto seule, les garanties et les plafonds restent en retrait par rapport aux spécialistes.
+          - heading "Avantages MAAF" [level=3] [ref=e372]
+          - list [ref=e373]:
+            - listitem [ref=e374]:
+              - strong [ref=e375]: Réseau de 700 agences
+              - text: physiques
+            - listitem [ref=e376]:
+              - strong [ref=e377]: Pack mobilité
+              - text: auto + moto avantageux
+            - listitem [ref=e378]:
+              - text: Mensualisation
+              - strong [ref=e379]: sans frais
+          - heading "Inconvénients MAAF" [level=3] [ref=e380]
+          - list [ref=e381]:
+            - listitem [ref=e382]:
+              - strong [ref=e383]: Plafonds parmi les plus bas
+              - text: du marché
+            - listitem [ref=e384]:
+              - strong [ref=e385]: Airbag
+              - text: souvent exclu de la garantie standard
+            - listitem [ref=e386]:
+              - text: Pas de
+              - strong [ref=e387]: conseil deux-roues spécialisé
+          - heading "Comment choisir la meilleure assurance moto ?" [level=2] [ref=e388]
+          - paragraph [ref=e389]: La meilleure assurance moto n’est pas la même pour tous les motards. Le bon contrat dépend de la cylindrée, de l’usage, de l’expérience du conducteur et du budget. Quatre critères font la différence.
+          - 'heading "Tiers ou tous risques : quelle formule choisir ?" [level=3] [ref=e390]'
+          - paragraph [ref=e391]:
+            - text: La
+            - strong [ref=e392]: formule au tiers
+            - text: couvre la responsabilité civile, c’est le minimum légal obligatoire. La
+            - strong [ref=e393]: formule intermédiaire
+            - text: ajoute le vol, l’incendie et le bris de glace. La
+            - strong [ref=e394]: formule tous risques
+            - text: couvre aussi les dommages au deux-roues, même en cas d’accident responsable. Pour une moto récente ou de valeur, le tous risques reste le plus protecteur. Pour une machine ancienne, un tiers étendu avec vol et incendie suffit souvent.
+          - heading "Les garanties complémentaires qui comptent" [level=3] [ref=e395]
+          - paragraph [ref=e396]:
+            - strong [ref=e397]: Garantie équipement
+            - text: ", assistance dès 0 km, prêt de guidon, protection juridique et surtout"
+            - strong [ref=e398]: garantie du conducteur
+            - text: changent l’expérience réelle après un sinistre. La garantie du conducteur, qui couvre les propres blessures du pilote, reste le poste le plus souvent négligé alors qu’il est essentiel à moto. Le niveau de protection se règle aussi selon le véhicule, comme le détaille le comparatif de la
+            - link "meilleure moto A2" [ref=e399] [cursor=pointer]:
+              - /url: /blog/meilleure-moto-a2/
+            - text: .
+          - heading "Le profil du conducteur et le bonus-malus" [level=3] [ref=e400]
+          - paragraph [ref=e401]:
+            - text: Un
+            - strong [ref=e402]: jeune permis A2
+            - text: ", un conducteur"
+            - strong [ref=e403]: résilié
+            - text: ou un motard au
+            - strong [ref=e404]: bon coefficient de réduction-majoration
+            - text: ne paient pas le même tarif. Un courtier spécialiste sait placer les profils que les généralistes refusent, puis accompagne la montée en garanties à mesure que le bonus s’améliore. La
+            - strong [ref=e405]: surprime jeune conducteur
+            - text: s’applique généralement pendant 2 à 3 ans après l’obtention du permis.
+          - heading "Le prix moyen et la qualité de service" [level=3] [ref=e406]
+          - paragraph [ref=e407]:
+            - text: Le
+            - strong [ref=e408]: prix moyen d’une assurance moto
+            - text: tourne autour de 440 euros par an, mais une 125 cc au tiers coûte bien moins qu’une sportive en tous risques pour un jeune permis. Au-delà du tarif, la rapidité d’indemnisation, la disponibilité des conseillers et la simplicité de la souscription pèsent lourd. Les avis vérifiés et les labels indépendants restent les meilleurs indicateurs de la qualité réelle du service. Pour un usage urbain, le choix du véhicule pèse aussi sur la facture, comme le montre le comparatif du
+            - link "meilleur scooter 125" [ref=e409] [cursor=pointer]:
+              - /url: /blog/meilleur-scooter-125/
+            - text: .
+          - 'heading "Souscrire la bonne assurance deux-roues : ce qu’il faut savoir" [level=2] [ref=e410]'
+          - paragraph [ref=e411]:
+            - text: Avant de
+            - strong [ref=e412]: souscrire
+            - text: ", il faut"
+            - strong [ref=e413]: savoir
+            - text: que les
+            - strong [ref=e414]: différents
+            - strong [ref=e415]: contrats d’assurance
+            - text: moto se jouent sur l’équilibre entre le coût et les garanties. Une
+            - strong [ref=e416]: assurance au tiers
+            - text: protège le strict minimum légal, là où un contrat plus complet couvre à la fois le deux-roues et le conducteur. Sur le segment de l’
+            - strong [ref=e417]: assurance deux-roues
+            - text: ", les"
+            - strong [ref=e418]: conseils
+            - text: d’un courtier spécialiste font
+            - strong [ref=e419]: donc
+            - text: la différence dans la
+            - strong [ref=e420]: comparaison
+            - text: "finale : il oriente vers la formule réellement adaptée au profil plutôt que vers une offre standard. Le réflexe reste le même pour toutes les cylindrées, du scooter urbain à la grosse sportive."
+          - heading "Questions fréquentes" [level=2] [ref=e421]
+          - group [ref=e422]:
+            - generic "Quelle est la meilleure assurance moto en 2026 ? +" [ref=e423] [cursor=pointer]
+          - group [ref=e424]:
+            - generic "Vaut-il mieux choisir un courtier spécialiste ou un assureur généraliste pour sa moto ? +" [ref=e425] [cursor=pointer]
+          - group [ref=e426]:
+            - generic "Faut-il une assurance moto au tiers ou tous risques ? +" [ref=e427] [cursor=pointer]
+          - group [ref=e428]:
+            - generic "Quel est le prix moyen d'une assurance moto ? +" [ref=e429] [cursor=pointer]
+          - group [ref=e430]:
+            - generic "Quelle assurance moto pour un jeune conducteur ? +" [ref=e431] [cursor=pointer]
+          - group [ref=e432]:
+            - generic "Comment réduire le prix de son assurance moto ? +" [ref=e433] [cursor=pointer]
+          - complementary [ref=e434]:
+            - generic [ref=e435]: JM
+            - generic [ref=e436]:
+              - paragraph [ref=e437]:
+                - link "Julien Mercier" [ref=e438] [cursor=pointer]:
+                  - /url: /authors/julien-mercier/
+                - text: ", Expert mobilité et transports"
+              - paragraph [ref=e439]: Julien Mercier, expert mobilité et transports, teste et compare véhicules et solutions de transport pour Meilleur Transport.
+              - link "Voir tous ses articles" [ref=e440] [cursor=pointer]:
+                - /url: /authors/julien-mercier/
+      - navigation [ref=e443]:
+        - link "Article precedent Quelle est la meilleure moto au monde en 2026 ?" [ref=e444] [cursor=pointer]:
+          - /url: /blog/meilleur-moto-au-monde/
+          - generic [ref=e445]: Article precedent
+          - generic [ref=e446]: Quelle est la meilleure moto au monde en 2026 ?
+        - link "Article suivant Meilleurs sites pour faire sa carte grise en ligne" [ref=e447] [cursor=pointer]:
+          - /url: /blog/meilleurs-sites-carte-grise-en-ligne/
+          - generic [ref=e448]: Article suivant
+          - generic [ref=e449]: Meilleurs sites pour faire sa carte grise en ligne
+    - complementary "À lire aussi" [ref=e450]:
+      - heading "À lire aussi" [level=2] [ref=e451]
+      - generic [ref=e452]:
+        - link "Particuliers Top 5 assureurs scooter en France en 2026" [ref=e453] [cursor=pointer]:
+          - /url: /blog/meilleurs-assureurs-scooter/
+          - generic [ref=e454]:
+            - generic [ref=e455]: Particuliers
+            - heading "Top 5 assureurs scooter en France en 2026" [level=3] [ref=e456]
+        - link "Particuliers Quels sont les meilleurs assureurs spécialistes deux-roues ?" [ref=e457] [cursor=pointer]:
+          - /url: /blog/meilleurs-assureurs-deux-roues/
+          - generic [ref=e458]:
+            - generic [ref=e459]: Particuliers
+            - heading "Quels sont les meilleurs assureurs spécialistes deux-roues ?" [level=3] [ref=e460]
+        - link "Particuliers Quels assureurs proposent la meilleure garantie équipement moto ?" [ref=e461] [cursor=pointer]:
+          - /url: /blog/garantie-equipement-moto/
+          - generic [ref=e462]:
+            - generic [ref=e463]: Particuliers
+            - heading "Quels assureurs proposent la meilleure garantie équipement moto ?" [level=3] [ref=e464]
+        - 'link "Particuliers Assurance 125 jeune conducteur : classement 2026 (AMV, April, Mutuelle des Motards...)" [ref=e465] [cursor=pointer]':
+          - /url: /blog/assurance-125-jeune-conducteur/
+          - generic [ref=e466]:
+            - generic [ref=e467]: Particuliers
+            - 'heading "Assurance 125 jeune conducteur : classement 2026 (AMV, April, Mutuelle des Motards...)" [level=3] [ref=e468]'
+  - contentinfo [ref=e469]:
+    - generic [ref=e470]:
+      - generic [ref=e471]:
+        - generic [ref=e472]:
+          - img "Meilleur Transport" [ref=e474]
+          - paragraph [ref=e475]: Le comparateur indépendant de transports. Voitures, motos, vélos électriques, utilitaires et solutions professionnelles comparés sur plus de 15 critères objectifs.
+          - paragraph [ref=e476]: ✉ contact@meilleur-transport.com
+        - generic [ref=e477]:
+          - heading "Catégories" [level=4] [ref=e478]
+          - list [ref=e479]:
+            - listitem [ref=e480]:
+              - link "Particuliers" [ref=e481] [cursor=pointer]:
+                - /url: /categories/particuliers/
+            - listitem [ref=e482]:
+              - link "Professionnels" [ref=e483] [cursor=pointer]:
+                - /url: /categories/professionnels/
+        - generic [ref=e484]:
+          - heading "Comparateur" [level=4] [ref=e485]
+          - list [ref=e486]:
+            - listitem [ref=e487]:
+              - link "Accueil" [ref=e488] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e489]:
+              - link "Comparer" [ref=e490] [cursor=pointer]:
+                - /url: /comparer/
+            - listitem [ref=e491]:
+              - link "Simulateur" [ref=e492] [cursor=pointer]:
+                - /url: /simulateur/
+            - listitem [ref=e493]:
+              - link "Fiches techniques" [ref=e494] [cursor=pointer]:
+                - /url: /fiches-techniques/
+            - listitem [ref=e495]:
+              - link "Proposer un transport" [ref=e496] [cursor=pointer]:
+                - /url: /proposer/
+            - listitem [ref=e497]:
+              - link "Blog" [ref=e498] [cursor=pointer]:
+                - /url: /blog/
+        - generic [ref=e499]:
+          - heading "Informations" [level=4] [ref=e500]
+          - list [ref=e501]:
+            - listitem [ref=e502]:
+              - link "À propos" [ref=e503] [cursor=pointer]:
+                - /url: /a-propos/
+            - listitem [ref=e504]:
+              - link "Contact" [ref=e505] [cursor=pointer]:
+                - /url: /contact/
+            - listitem [ref=e506]:
+              - link "Mentions légales" [ref=e507] [cursor=pointer]:
+                - /url: /mentions-legales/
+            - listitem [ref=e508]:
+              - link "Plan du site" [ref=e509] [cursor=pointer]:
+                - /url: /plan-du-site/
+      - generic [ref=e510]:
+        - paragraph [ref=e511]: © 2026 Meilleur Transport. Tous droits réservés.
+        - generic [ref=e512]:
+          - link "Facebook" [ref=e513] [cursor=pointer]:
+            - /url: "#"
+            - text: f
+          - link "Twitter" [ref=e514] [cursor=pointer]:
+            - /url: "#"
+            - text: X
+          - link "Instagram" [ref=e515] [cursor=pointer]:
+            - /url: "#"
+            - text: i
+          - link "LinkedIn" [ref=e516] [cursor=pointer]:
+            - /url: "#"
+            - text: in

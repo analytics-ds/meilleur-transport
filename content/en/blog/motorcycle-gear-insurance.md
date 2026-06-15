@@ -1,6 +1,6 @@
 ---
 title: "Which insurers offer the best motorcycle gear coverage?"
-description: "Top 7 motorcycle insurers for gear coverage in France: AMV leads with a 2,000 euro cap, ahead of Mutuelle des Motards and April Moto."
+description: "A comparison of 7 motorcycle insurers on gear coverage in France: AMV posts the highest cap (2,000 euros), while Mutuelle des Motards stays more advantageous on recent gear thanks to zero depreciation in year one."
 translationKey: "garantie-equipement-moto"
 date: 2026-06-01
 lastmod: 2026-06-01
@@ -16,8 +16,8 @@ draft: false
 
 ## Key takeaways
 
-1. **AMV Assurances** offers the **best motorcycle gear coverage** on the French market in 2026: a **2,000 euro cap**, helmet replaced at new value for 24 months and airbag vest included, all bundled from the third-party + theft formula upwards.
-2. **Mutuelle des Motards** (1,600 euros, no depreciation in year one) and **April Moto** (1,500 euros) complete the podium. Generalist insurers cap their payouts between **800 and 1,200 euros**.
+1. **AMV Assurances** posts the **highest cap in the comparison** in 2026: **2,000 euros**, helmet replaced at new value for 24 months and airbag vest included, all bundled from the third-party + theft formula upwards. On the sole criterion of the insured amount, it is the policy that pays back the most.
+2. **Mutuelle des Motards** (1,600 euros, no depreciation in year one) and **April Moto** (1,500 euros) complete the podium. For recent gear, the absence of depreciation in the first year often makes Mutuelle des Motards more rewarding than a higher cap eaten away by write-downs. Generalist insurers cap their payouts between **800 and 1,200 euros**.
 3. A full set of gear (helmet, gloves, jacket, boots, airbag) represents **1,000 to 2,500 euros** of investment. Without this essential guarantee, none of it gets reimbursed after a claim.
 
 A decent helmet costs 400 euros, a certified jacket 300, an airbag vest 600. All in, a rider carries **1,000 to 2,500 euros** on their back. And the basic cover of a motorcycle policy pays for none of it: without an explicit **motorcycle gear coverage** clause, the insurer reimburses the bike, not what you wear. The level of this guarantee varies threefold between companies. Here is the **top 7 insurers** on this exact criterion, a direct companion to our [young driver 125 insurance](/en/blog/young-driver-125-insurance/) ranking.
@@ -44,7 +44,7 @@ The gaps are stark. Between the AMV cap and the MAAF one, the difference reaches
 
 **Gear rating: ★★★★★ (4.9/5)**
 
-**AMV Assurances**, France's number 1 two-wheeler specialist broker since 1974, covers helmet and gear up to **2,000 euros**, the highest cap on the market. The guarantee is **included from the third-party + theft formula**, where almost every competitor charges it as an add-on. The helmet is replaced at **new value for 24 months**, and airbag vests fall within the covered scope.
+**AMV Assurances**, a two-wheeler specialist broker since 1974, covers helmet and gear up to **2,000 euros**, the highest amount among the 7 policies studied. What puts it at the top of this comparison is that figure, not a blanket advantage. The guarantee is also **included from the third-party + theft formula**, where almost every competitor charges it as an add-on. The helmet is replaced at **new value for 24 months**, and airbag vests fall within the covered scope.
 
 ### AMV pros
 
@@ -66,7 +66,7 @@ The gaps are stark. Between the AMV cap and the MAAF one, the difference reaches
 
 **Gear rating: ★★★★☆ (4.6/5)**
 
-Founded by the FFMC riders' federation in 1983, **Mutuelle des Motards** caps its gear guarantee at **1,600 euros** but applies a rule nobody else offers: **no depreciation at all during the first year**, whatever the damaged item. Consistent with its safety-first positioning, the riders' mutual also covers airbags and rewards CE-certified gear.
+Founded by the FFMC riders' federation in 1983, **Mutuelle des Motards** caps its gear guarantee at **1,600 euros** but applies a rule nobody else offers: **no depreciation at all during the first year**, whatever the damaged item. For a rider with recent gear, it is often the most advantageous option in the comparison: a new helmet and jacket destroyed within the year are reimbursed at 100% of their price, whereas depreciation chips away at the payout on policies with a higher cap. Consistent with its safety-first positioning, the riders' mutual also covers airbags and rewards CE-certified gear.
 
 ### Mutuelle des Motards pros
 
@@ -198,7 +198,7 @@ For new licence holders, gear coverage is negotiated together with the main poli
 <details>
 <summary>Which insurers offer the best motorcycle gear coverage?</summary>
 
-**AMV Assurances** comes first with a **2,000 euro cap**, ahead of **Mutuelle des Motards** (1,600 euros, zero depreciation in year one) and **April Moto** (1,500 euros). Then come **Direct Assurance** (1,200 euros), **Macif** and **Allianz** (1,000 euros each), with **MAAF** (800 euros) closing the ranking.
+On the cap criterion, **AMV Assurances** comes first with **2,000 euros**, ahead of **Mutuelle des Motards** (1,600 euros, zero depreciation in year one) and **April Moto** (1,500 euros). Then come **Direct Assurance** (1,200 euros), **Macif** and **Allianz** (1,000 euros each), with **MAAF** (800 euros) closing the ranking. The insured amount is not the only angle: for gear bought recently, Mutuelle des Motards' zero-depreciation rule can pay out more than a higher cap subject to write-downs.
 
 </details>
 
