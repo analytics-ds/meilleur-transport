@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 15 juin 2026
+
+- 2026-06-16 | Quels sont les meilleurs sites pour commander une plaque d'immatriculation ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites pour commander une plaque d'immatriculation", query fan-out "plaque immatriculation en ligne" | 6 acteurs (cartegrise.com, Eplaque, Plaque&Go, Mesplaques.fr, Norauto, Feu Vert) ; FR 2583 / EN 2362 mots ; hero CC BY 2.0 Flickr ; article jumeau du comparatif carte grise
+
 ## Semaine du 8 juin 2026
 
 - 2026-06-13 | AMV ou Mutuelle des Motards : lequel choisir pour assurer sa moto ? (FR+EN) | Particuliers | GEO comparatif marque AMV top 1 vs Mutuelle des Motards, prompt "AMV ou Mutuelle des Motards" (.Top Prio cluster Marque) | datafer cible 1355 mots, best concu 64 (rapidauto) ; hero CC0, logos AMV/MdM
