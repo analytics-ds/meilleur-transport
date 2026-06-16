@@ -4,6 +4,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 15 juin 2026
 
+- 2026-06-16 | Quels sont les meilleurs sites pour faire sa carte grise sans passer par l'ANTS ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "carte grise sans ANTS", query fan-out "carte grise sans ANTS" | 6 acteurs (pros habilités, sans ANTS) ; angle alternative ANTS + mandat Cerfa 13757 ; FR 2189 / EN 2015 mots ; hero distinct (Flickr CC BY)
 - 2026-06-16 | Quels sont les meilleurs sites pour faire un certificat de cession ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites pour faire un certificat de cession", query fan-out "certificat de cession en ligne" | 7 acteurs (miroir du jumeau carte grise) ; angle gratuit ANTS vs frais pro ; FR 2381 / EN 2216 mots ; hero Pexels CC0 (partage avec carte grise)
 - 2026-06-16 | Quels sont les meilleurs sites pour commander une plaque d'immatriculation ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites pour commander une plaque d'immatriculation", query fan-out "plaque immatriculation en ligne" | 6 acteurs (cartegrise.com, Eplaque, Plaque&Go, Mesplaques.fr, Norauto, Feu Vert) ; FR 2583 / EN 2362 mots ; hero CC BY 2.0 Flickr ; article jumeau du comparatif carte grise
 
