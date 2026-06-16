@@ -9,8 +9,9 @@ author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
 tags: ["certificat de cession", "cartegrise.com", "Cerfa 15776", "déclaration de cession", "comparatif"]
-image: "https://images.pexels.com/photos/7144179/pexels-photo-7144179.jpeg?auto=compress&cs=tinysrgb&w=1200"
-imageAlt: "Remise de clés et papiers lors de la vente d'un véhicule pour le certificat de cession"
+image: "/images/blog/meilleurs-sites-certificat-de-cession.jpg"
+imageAlt: "Signature du contrat de vente d'un véhicule pour le certificat de cession"
+imageCredit: "Photo par chrismear via Flickr (CC BY 2.0)"
 kwVolume: 36
 draft: false
 ---
