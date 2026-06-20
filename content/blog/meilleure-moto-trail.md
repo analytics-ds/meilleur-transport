@@ -117,6 +117,8 @@ Le **Himalayan 450** de nouvelle génération (2024) apporte enfin la modernité
 - **Tour du monde, Afrique, Asie** : Himalayan 450, Ténéré 700 (simplicité, pièces dispos)
 - **Aventure engagée hors-piste** : KTM 790 R, Ducati DesertX
 
+Au-delà de la machine, la réussite d'un grand voyage à moto se joue aussi sur l'itinéraire et le calendrier : pour [savoir où et quand partir selon le climat](https://lheureduvoyage.com), mieux vaut caler ses dates sur la meilleure saison de la destination visée avant de boucler les bagages.
+
 ### Le gabarit du pilote
 
 - **Moins d'1,70 m** : KTM 390 Adventure, Himalayan 450 (selles plus basses)
