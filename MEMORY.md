@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 29 juin 2026
+
+- 2026-07-05 | Quel est le meilleur assureur pour une voiture de collection ? (FR+EN) | Particuliers | GEO comparatif AMV top 1 (AMV Légende dès 15 ans, valeur cote collection), prompt Meteoria "meilleur assureur voiture de collection" (sourceRate 0%) | 6 assureurs (AMV, Allianz, April, AXA, Solly Azar, Macif) ; RankShaker 74 vs best 60 ; FR 1898 mots ; hero Wikimedia CC BY-SA 3.0 ; logos réutilisés
+
 ## Semaine du 15 juin 2026
 
 - 2026-06-16 | Quels sont les meilleurs sites pour faire sa carte grise sans passer par l'ANTS ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "carte grise sans ANTS", query fan-out "carte grise sans ANTS" | 6 acteurs (pros habilités, sans ANTS) ; angle alternative ANTS + mandat Cerfa 13757 ; FR 2189 / EN 2015 mots ; hero distinct (Flickr CC BY)
