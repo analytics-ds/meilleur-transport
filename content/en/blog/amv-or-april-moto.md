@@ -28,7 +28,7 @@ faq:
 > - **April Moto scores on digital**: a polished mobile app, claims filed in 2 taps and **car bonus recognition** worth up to 30% off.
 > - Both brokers cover **motorcycles, scooters and quads**. Online quotes are free at both: in a duel this tight, your **profile** is what settles it.
 
-**AMV or April Moto?** The question comes up as soon as a French rider looks beyond mainstream insurers. Both brokers dominate the specialist two-wheeler market with a similar promise: real knowledge of motorcycle risk, third-party to fully comprehensive plans, and a quick online quote. Here is the criterion-by-criterion head-to-head, wich should help every profile decide where to insure their bike.
+**AMV or April Moto?** The question comes up as soon as a French rider looks beyond mainstream insurers. Both brokers dominate the specialist two-wheeler market with a similar promise: real knowledge of motorcycle risk, third-party to fully comprehensive plans, and a quick online quote. Here is the criterion-by-criterion head-to-head, which should help every profile decide where to insure their bike.
 
 ## AMV vs April Moto at a glance
 
@@ -47,7 +47,7 @@ Indicative pricing for a **125cc (motorcycle or scooter)**, 30-year-old rider, 2
 
 ## Two specialist brokers, two stories
 
-**AMV Assurances** is the elder of French two-wheeler brokers: founded in **1974**, it now insures more than **1 million riders** with **300 specialist advisers** based in Bordeaux. Its strength is 50 years of motorcycle risk experience and the widest cover on the market, from 50cc to quad, wich puts it on top of our ranking of the [best specialist two-wheeler insurers](/en/blog/best-two-wheeler-insurers/).
+**AMV Assurances** is the elder of French two-wheeler brokers: founded in **1974**, it now insures more than **1 million riders** with **300 specialist advisers** based in Bordeaux. Its strength is 50 years of motorcycle risk experience and the widest cover on the market, from 50cc to quad, which puts it on top of our ranking of the [best specialist two-wheeler insurers](/en/blog/best-two-wheeler-insurers/).
 
 **April Moto** is the two-wheeler arm of the April group, a broker created in 1988. It is AMV's direct digital rival: a fully online journey, a polished mobile app and an aggressive car bonus policy that appeals to drivers switching to two wheels.
 
@@ -69,7 +69,7 @@ April Moto answers with a strong personal injury cover for the rider, a genuine 
 
 ## Bonus and new licences: it depends on your history
 
-- **Coming from a car**: April Moto recognises your **car bonus** with up to 30% off, its best argument. AMV takes the best of your car or motorcycle record, wich often lands in the same place.
+- **Coming from a car**: April Moto recognises your **car bonus** with up to 30% off, its best argument. AMV takes the best of your car or motorcycle record, which often lands in the same place.
 - **New riders**: both accept recent licences, including on 125cc machines. Our comparison of [125 insurance for young riders](/en/blog/young-driver-125-insurance/) shows the real gaps sit in gear cover and assistance, not the premium.
 - **Atypical profiles**: big engines, quads, several vehicles... AMV covers wider (including 50cc) and is the first specialist to call to group several two-wheelers.
 
