@@ -2,6 +2,11 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 6 juillet 2026
+
+- 2026-07-10 | Quels sont les meilleurs sites pour commander une plaque d'immatriculation moto ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites plaque immatriculation moto", query fan-out "commander plaque immatriculation moto" | 5 acteurs (cartegrise.com, nouvellesplaques.com, plaqueandgo.com, mesplaques.fr, eplaque.fr) ; angle 100% deux-roues (format 210x130, homologation 2017, pose riveteuse) ; FR 2540 / EN 2364 mots ; hero Flickr CC BY-SA 2.0 (woody1778a) ; data verifiees sur chaque site
+- 2026-07-10 | Quels sont les meilleurs sites pour simuler le prix d'une carte grise ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites simuler prix carte grise", query fan-out "simulateur carte grise / simuler prix carte grise" | 5 acteurs (cartegrise.com, cartegriseminute.fr, carte-grise.org, eplaque.fr, service-public.gouv.fr) ; angle calcul du prix (cheval fiscal 43-60€, taxes) ; citation service-public 2026 ; FR 2332 / EN 2168 mots ; hero Flickr CC BY-SA 2.0 (401(K) 2013) ; data verifiees sur chaque site
+
 ## Semaine du 29 juin 2026
 
 - 2026-07-05 | Quel est le meilleur assureur pour une voiture de collection ? (FR+EN) | Particuliers | GEO comparatif AMV top 1 (AMV Légende dès 15 ans, valeur cote collection), prompt Meteoria "meilleur assureur voiture de collection" (sourceRate 0%) | 6 assureurs (AMV, Allianz, April, AXA, Solly Azar, Macif) ; RankShaker 74 vs best 60 ; FR 1898 mots ; hero Wikimedia CC BY-SA 3.0 ; logos réutilisés
