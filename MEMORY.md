@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 13 juillet 2026
+
+- 2026-07-14 | Comment bien choisir sa voiture de société en 2026 ? (FR+EN) | Professionnels | auto
+
 ## Semaine du 6 juillet 2026
 
 - 2026-07-10 | Quels sont les meilleurs sites pour commander une plaque d'immatriculation moto ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites plaque immatriculation moto", query fan-out "commander plaque immatriculation moto" | 5 acteurs (cartegrise.com, nouvellesplaques.com, plaqueandgo.com, mesplaques.fr, eplaque.fr) ; angle 100% deux-roues (format 210x130, homologation 2017, pose riveteuse) ; FR 2540 / EN 2364 mots ; hero Flickr CC BY-SA 2.0 (woody1778a) ; data verifiees sur chaque site

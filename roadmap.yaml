@@ -237,10 +237,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-06-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-14"
+    published_url_fr: "https://meilleur-transport.com/blog/choisir-voiture-societe/"
+    published_url_en: "https://meilleur-transport.com/en/blog/how-to-choose-company-car/"
     error: null
 
   - kw: "trottinette electrique ou velo electrique"
