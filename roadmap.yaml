@@ -248,10 +248,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-06-23"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-17"
+    published_url_fr: "https://meilleur-transport.com/blog/trottinette-electrique-ou-velo-electrique/"
+    published_url_en: "https://meilleur-transport.com/en/blog/electric-scooter-or-electric-bike/"
     error: null
 
   - kw: "location voiture longue duree professionnel"
