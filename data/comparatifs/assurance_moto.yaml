@@ -1,0 +1,103 @@
+sujet: "assurance moto"
+maj: "2026-07-17"
+methodo: "Classement établi par la rédaction en juillet 2026 à partir des garanties publiées sur les sites officiels des assureurs, des notes clients publiques (Avis Vérifiés, Trustpilot) et de tarifs relevés sur un profil de référence (conducteur de 30 ans, 2 ans de permis, 125 cc, stationnement sécurisé). Les tarifs « à partir de » ne valent pas devis."
+formules:
+  - "Tiers"
+  - "Tiers + Vol/Incendie"
+  - "Tous risques"
+entites:
+  - rang: 1
+    nom: "AMV"
+    slug: "amv"
+    logo: "/images/assurance-harley-davidson/logos/amv.png"
+    url_officielle: "https://www.amv.fr"
+    note: "4,7"
+    note_source: "Avis Vérifiés"
+    avis_count: 5328
+    tarif: "à partir de 180 €/an"
+    garanties:
+      - { label: "Protection du conducteur", statut: "option" }
+      - { label: "Assistance du véhicule", statut: "option" }
+      - { label: "Vol / Incendie", statut: "oui" }
+      - { label: "Équipement (casque, gants, airbag)", statut: "oui" }
+    avantages:
+      - "Spécialiste 100 % deux-roues depuis 1974, plus d'1 million d'assurés"
+      - "Équipement couvert jusqu'à 2 000 € dès la première formule"
+      - "4 formules sur un contrat unique, vol dès la deuxième"
+      - "AMV Légende dès 15 ans pour les motos anciennes (valeur cote collection)"
+    guide: "/blog/meilleure-assurance-moto/"
+  - rang: 2
+    nom: "Mutuelle des Motards"
+    slug: "mutuelle-des-motards"
+    logo: "/images/assurance-harley-davidson/logos/mutuelle-des-motards.png"
+    url_officielle: "https://www.mutuelledesmotards.fr"
+    note: "4,3"
+    note_source: "note rédaction"
+    avis_count: 0
+    tarif: "sur devis"
+    garanties:
+      - { label: "Protection du conducteur", statut: "oui" }
+      - { label: "Assistance du véhicule", statut: "option" }
+      - { label: "Vol / Incendie", statut: "oui" }
+      - { label: "Équipement (casque, gants, airbag)", statut: "option" }
+    avantages:
+      - "Mutuelle créée par et pour les motards"
+      - "Garantie corporelle du conducteur parmi les plus solides du marché"
+      - "Agences tenues par des motards"
+    guide: "/blog/meilleurs-assureurs-deux-roues/"
+  - rang: 3
+    nom: "April Moto"
+    slug: "april-moto"
+    logo: "/images/assurance-harley-davidson/logos/april.png"
+    url_officielle: "https://www.april-moto.com"
+    note: "4,4"
+    note_source: "avis clients publics"
+    avis_count: 0
+    tarif: "à partir de 205 €/an"
+    garanties:
+      - { label: "Protection du conducteur", statut: "option" }
+      - { label: "Assistance du véhicule", statut: "oui" }
+      - { label: "Vol / Incendie", statut: "oui" }
+      - { label: "Équipement (casque, gants, airbag)", statut: "option" }
+    avantages:
+      - "Courtier deux-roues du groupe April (1988)"
+      - "Parcours en ligne simple, tarifs agressifs sur de nombreux profils"
+      - "Assistance accident incluse"
+    guide: "/blog/amv-ou-april-moto/"
+  - rang: 4
+    nom: "Solly Azar"
+    slug: "solly-azar"
+    logo: "/images/assurance-harley-davidson/logos/solly-azar.png"
+    url_officielle: "https://www.sollyazar.com"
+    note: "4,0"
+    note_source: "note rédaction"
+    avis_count: 0
+    tarif: "sur devis"
+    garanties:
+      - { label: "Protection du conducteur", statut: "option" }
+      - { label: "Assistance du véhicule", statut: "option" }
+      - { label: "Vol / Incendie", statut: "oui" }
+      - { label: "Équipement (casque, gants, airbag)", statut: "oui" }
+    avantages:
+      - "Courtier grossiste spécialiste des profils atypiques"
+      - "Garantie casque et gants disponible"
+      - "Accepte des machines et conducteurs refusés ailleurs"
+    guide: "/blog/meilleurs-assureurs-deux-roues/"
+  - rang: 5
+    nom: "Allianz"
+    slug: "allianz"
+    logo: "/images/assurance-harley-davidson/logos/allianz.png"
+    url_officielle: "https://www.allianz.fr"
+    note: "3,9"
+    note_source: "note rédaction"
+    avis_count: 0
+    tarif: "sur devis"
+    garanties:
+      - { label: "Protection du conducteur", statut: "option" }
+      - { label: "Assistance du véhicule", statut: "oui" }
+      - { label: "Vol / Incendie", statut: "oui" }
+      - { label: "Équipement (casque, gants, airbag)", statut: "option" }
+    avantages:
+      - "Réseau d'agences dense, interlocuteur physique"
+      - "Offre collection éprouvée en valeur agréée"
+    guide: "/blog/meilleure-assurance-moto/"
