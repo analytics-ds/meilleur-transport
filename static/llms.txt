@@ -20,6 +20,7 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 
 ## Articles de référence (FR)
 
+- Quelle assurance pour une Harley-Davidson de plus de 10 ans ? : https://meilleur-transport.com/blog/assurance-harley-davidson/
 - Quel est le meilleur assureur pour une voiture de collection ? : https://meilleur-transport.com/blog/meilleur-assureur-voiture-de-collection/
 - Meilleur moto electrique en 2026 : le guide complet par usage : https://meilleur-transport.com/blog/meilleur-moto-electrique/
 - Meilleur moto 125 en 2026 : le guide complet par segment : https://meilleur-transport.com/blog/meilleur-moto-125/
@@ -60,6 +61,7 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 
 ## Version anglaise (EN)
 
+- What insurance for a Harley-Davidson over 10 years old? : https://meilleur-transport.com/en/blog/harley-davidson-insurance/
 - Homepage EN : https://meilleur-transport.com/en/
 - Blog EN : https://meilleur-transport.com/en/blog/
 - Which is the best classic car insurer? : https://meilleur-transport.com/en/blog/best-classic-car-insurer/
