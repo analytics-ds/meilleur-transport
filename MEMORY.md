@@ -2,6 +2,10 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 20 juillet 2026
+
+- 2026-07-21 | Location voiture longue durée professionnel : le guide 2026 (FR+EN) | Professionnels | auto
+
 ## Semaine du 13 juillet 2026
 
 - 2026-07-17 | Hub /assurance-moto/ : landing comparatif full-feature (FR) | Particuliers | Réplique de la structure lecomparateurassurance.com/assurance-moto (hero prix + pills véhicules, trust bar, classement 5 assureurs en cartes filtrables AMV top 1, méthodo, mission, nav rapide, éditos H2, tableau formules + accordéons, engagements, notes publiques, silo 8 guides, maillage 3 colonnes, sticky CTA) ; data-driven data/comparatifs/assurance_moto.yaml + layout hub-assurance.html ; JSON-LD @graph (WebPage HasPart, Article rédaction, ItemList classement avec AggregateRating, ItemList guides) ; structuration documentée dans la skill comparatif-pbn
