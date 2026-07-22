@@ -20,6 +20,8 @@ faq:
     answer: "Almost all require a certified lock (FUB or SRA standard), the purchase invoice, and the bike attached by its frame to a fixed point. Bicycode marking, already mandatory for new bikes sold by professionals in France, helps recover stolen bikes. A theft without a certified lock is almost always excluded from compensation."
   - question: "Can a 45 km/h speedbike be insured like a pedelec?"
     answer: "No. A speedbike is classed as a moped: it requires specific third-party liability insurance of the motorised two-wheeler type, registration and a homologated helmet. Riding a speedbike uninsured carries the same penalties as an uninsured scooter, up to a 3,750-euro fine."
+image: "/images/assurance-velo-electrique/velo-electrique-ville.webp"
+imageAlt: "Electric bike locked with a chain and U-lock in the street"
 readingTime: true
 draft: false
 ---
@@ -28,7 +30,7 @@ The **electric bike** has settled into French households, and one question comes
 
 ## Pedelec or speedbike: the distinction that changes everything
 
-A standard **pedelec** only assists while you pedal, and its motor cuts off at 25 km/h. In the eyes of the French highway code, it remains a cycle, exactly like a muscle-powered bike. The direct consequence, confirmed by Service-Public.gouv.fr: **no insurance is mandatory** to ride one.
+A standard **pedelec** only assists while pedalling, and its motor cuts off at 25 km/h. In the eyes of the French highway code, it remains a cycle, exactly like a muscle-powered bike. The direct consequence, confirmed by Service-Public.gouv.fr: **no insurance is mandatory** to ride one.
 
 The **speedbike** pushes assistance up to 45 km/h. It falls into the moped category, with everything that entails: mandatory **third-party liability** of the motorised two-wheeler type, registration, and a homologated helmet. Riding a speedbike without insurance is a standard uninsured-vehicle offence, punishable by a fine of up to 3,750 euros, exactly as for a scooter. Its insurance actually looks more like [motorised two-wheeler insurance](/en/best-motorcycle-insurance/) than a bike policy.
 
@@ -42,7 +44,7 @@ The **speedbike** pushes assistance up to 45 km/h. It falls into the moped categ
 
 ## Not mandatory does not mean not useful
 
-Even on a pedelec, causing an accident engages your liability. One knocked-over pedestrian, one scratched car door, and the sums at stake quickly exceed several thousand euros. The good news: the **third-party liability in your home insurance** generally covers these situations for a cycle. A call to your insurer settles it in two minutes, and it is the first thing to do after buying.
+Even on a pedelec, causing an accident engages the rider's liability. One knocked-over pedestrian, one scratched car door, and the sums at stake quickly exceed several thousand euros. The good news: the **third-party liability included in home insurance** generally covers these situations for a cycle. A call to the insurer settles it in two minutes, and it is the first thing to do after buying.
 
 What home insurance does not cover, however, is the bike itself. A quality e-bike commonly costs 1,500 to 3,500 euros, sometimes more: our guide to the [best electric bikes](/en/best-electric-bike-2026/) shows it well. At that value, theft cover deserves the same attention as it would for a scooter.
 

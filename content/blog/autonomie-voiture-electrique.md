@@ -20,17 +20,19 @@ faq:
     answer: "Un automobiliste français parcourt en moyenne moins de 50 km par jour. Une autonomie réelle de 250 à 300 km couvre donc largement la semaine avec une recharge, à domicile ou au travail. Le besoin de grande autonomie ne se pose vraiment que pour les longs trajets réguliers sur autoroute."
   - question: "Rouler vite réduit-il beaucoup l'autonomie ?"
     answer: "C'est le facteur le plus pénalisant. Passer de 110 à 130 km/h augmente la consommation d'environ 25 % : sur un long trajet, réduire sa vitesse de 10 km/h peut faire gagner plusieurs dizaines de kilomètres d'autonomie, souvent plus qu'un détour vers une borne rapide n'en coûte."
+image: "/images/autonomie-voiture-electrique/borne-recharge-voiture-electrique.webp"
+imageAlt: "Voiture électrique branchée à une borne de recharge publique"
 readingTime: true
 draft: false
 ---
 
-L'autonomie reste la première question posée avant l'achat d'une **voiture électrique**, loin devant le prix de la recharge. Et c'est aussi le sujet où l'écart entre la fiche technique et la réalité surprend le plus : une berline homologuée à 500 km n'affiche presque jamais 500 km au compteur. Cet article détaille ce que valent vraiment les chiffres annoncés, ce qui fait fondre les kilomètres, et comment choisir une autonomie adaptée à ses trajets plutôt qu'à ses inquiétudes.
+L'autonomie reste la première question posée avant l'achat d'une **voiture électrique**, loin devant le prix de la recharge. Et c'est aussi le sujet où l'écart entre la fiche technique et la réalité surprend le plus : une berline homologuée à 500 km n'affiche presque jamais 500 km au compteur. Cet article détaille ce que valent vraiment les chiffres annoncés, ce qui fait fondre les kilomètres, et comment choisir une autonomie adaptée aux trajets réels plutôt qu'aux inquiétudes.
 
 ## Autonomie annoncée et autonomie réelle : d'où vient l'écart
 
 Les autonomies affichées par les constructeurs proviennent du cycle d'homologation **WLTP**, un protocole de laboratoire commun à toute l'Europe. Il a le mérite de permettre la comparaison entre modèles, mais il se déroule à une vitesse moyenne de 46 km/h, sans chauffage ni climatisation, sur un profil de roulage bien plus doux qu'un trajet réel.
 
-En conditions normales d'utilisation, il faut retirer **20 à 30 % au chiffre WLTP**. Une compacte annoncée à 420 km parcourt donc 300 à 340 km en usage mixte, et sensiblement moins sur autoroute en hiver. Cet écart n'est pas un défaut caché : il est systématique, documenté, et à intégrer dès le départ dans son calcul de besoin.
+En conditions normales d'utilisation, il faut retirer **20 à 30 % au chiffre WLTP**. Une compacte annoncée à 420 km parcourt donc 300 à 340 km en usage mixte, et sensiblement moins sur autoroute en hiver. Cet écart n'est pas un défaut caché : il est systématique, documenté, et à intégrer dès le départ dans le calcul de besoin.
 
 | Autonomie WLTP annoncée | Usage mixte réel | Autoroute hiver |
 |---|---|---|
@@ -64,7 +66,7 @@ La question change pour les gros rouleurs et les habitués de l'autoroute. Là, 
 - **Réduire la vitesse sur autoroute** : rouler à 120 plutôt qu'à 130 km/h allonge l'autonomie de façon très perceptible.
 - **Préchauffer la voiture pendant la charge** : l'habitacle se met en température sur le courant du réseau, pas sur la batterie.
 - **Utiliser les sièges chauffants** plutôt que le chauffage de l'habitacle, bien moins gourmands.
-- **Vérifier la pression des pneus** chaque mois, et viser la valeur haute recommandée.
+- **Vérifier la pression des pneus** chaque mois, en visant la valeur haute recommandée.
 - **Retirer coffres de toit et porte-vélos** hors utilisation : l'aérodynamique pèse lourd à vitesse stabilisée.
 
 La mobilité électrique ne se limite d'ailleurs pas à la voiture : pour les trajets urbains courts, une [trottinette ou un vélo électrique](/trottinette-electrique-ou-velo-electrique/) complète bien un foyer déjà équipé, et le marché de la [moto électrique](/meilleur-moto-electrique/) progresse à grande vitesse.

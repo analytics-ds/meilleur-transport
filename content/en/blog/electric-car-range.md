@@ -20,17 +20,19 @@ faq:
     answer: "The average French driver covers less than 50 km a day. A real-world range of 250 to 300 km therefore covers a full week of commuting on a single charge, at home or at work. Long range only really matters for regular motorway trips."
   - question: "Does driving fast reduce range that much?"
     answer: "It is the single most damaging factor. Going from 110 to 130 km/h increases consumption by roughly 25%: on a long trip, slowing down by 10 km/h can add back several dozen kilometres of range, often more than a detour to a fast charger costs."
+image: "/images/autonomie-voiture-electrique/borne-recharge-voiture-electrique.webp"
+imageAlt: "Electric car plugged into a public charging station"
 readingTime: true
 draft: false
 ---
 
-Range remains the first question asked before buying an **electric car**, well ahead of charging costs. It is also where the gap between the spec sheet and reality surprises buyers the most: a saloon rated at 500 km almost never shows 500 km on the dashboard. This article covers what the advertised figures are really worth, what melts the kilometres away, and how to pick a range that matches your journeys rather than your worries.
+Range remains the first question asked before buying an **electric car**, well ahead of charging costs. It is also where the gap between the spec sheet and reality surprises buyers the most: a saloon rated at 500 km almost never shows 500 km on the dashboard. This article covers what the advertised figures are really worth, what melts the kilometres away, and how to pick a range that matches real journeys rather than worries.
 
 ## Advertised vs real range: where the gap comes from
 
 The range figures quoted by manufacturers come from the **WLTP** homologation cycle, a laboratory protocol shared across Europe. It makes model-to-model comparison possible, but it runs at an average speed of 46 km/h, without heating or air conditioning, on a driving profile far gentler than any real journey.
 
-In normal use, subtract **20 to 30% from the WLTP figure**. A compact rated at 420 km therefore covers 300 to 340 km in mixed driving, and noticeably less on a winter motorway. This gap is not a hidden flaw: it is systematic, well documented, and worth building into your needs assessment from day one.
+In normal use, subtract **20 to 30% from the WLTP figure**. A compact rated at 420 km therefore covers 300 to 340 km in mixed driving, and noticeably less on a winter motorway. This gap is not a hidden flaw: it is systematic, well documented, and worth building into any needs assessment from day one.
 
 | Advertised WLTP range | Real mixed driving | Winter motorway |
 |---|---|---|
