@@ -79,7 +79,7 @@ The main difference in **Como vs BYmyCAR reviews for a Mercedes in France** come
 BYmyCAR has the advantage of **extensive geographic coverage** and the ability to trade in any brand without friction. If you currently drive a mainstream vehicle and want to move to a Mercedes C-Class, BYmyCAR can handle the trade-in within a well-established multi-brand ecosystem. Como also offers multi-brand trade-ins, but the valuation of a non-premium vehicle can sometimes be less natural in a premium-focused context.
 
 > "Specialisation of a dealer network on premium brands is one of the factors most correlated with customer satisfaction in the high-end segment. Buyers of premium vehicles expect product expertise that only sales staff trained exclusively on these ranges can consistently provide."
-> — J.D. Power Customer Satisfaction Index Automotive France, 2024
+> Source : J.D. Power Customer Satisfaction Index Automotive France, 2024
 
 ## BYmyCAR Mercedes France: what it really is {#bymycar}
 

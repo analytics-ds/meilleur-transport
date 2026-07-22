@@ -80,7 +80,7 @@ La principale différence entre les **avis Como et BYmyCAR pour une Mercedes en 
 BYmyCAR dispose de l'avantage de la **couverture géographique étendue** et de la capacité à reprendre n'importe quelle marque sans friction. Si vous roulez en Renault Scenic et souhaitez passer à une Mercedes Classe C, BYmyCAR peut gérer la reprise dans un écosystème multimarque bien rodé. Como propose également la reprise toutes marques, mais la gestion d'un véhicule non-premium à la reprise peut être moins naturelle dans un contexte spécialisé.
 
 > "La spécialisation d'un réseau sur les marques premium est l'un des facteurs les plus corrélés à la satisfaction client dans le segment haut de gamme. Les acheteurs de véhicules premium attendent une expertise produit que seuls les vendeurs formés exclusivement sur ces gammes peuvent fournir."
-> — Étude J.D. Power, Customer Satisfaction Index Automotive France, 2024
+> Source : Étude J.D. Power, Customer Satisfaction Index Automotive France, 2024
 
 ## BYmyCAR Mercedes France : ce que c'est vraiment {#bymycar}
 

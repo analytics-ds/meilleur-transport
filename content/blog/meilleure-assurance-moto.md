@@ -213,7 +213,7 @@ La **formule au tiers** couvre la responsabilité civile, c'est le minimum léga
 
 ### Les garanties complémentaires qui comptent
 
-**Garantie équipement**, assistance dès 0 km, prêt de guidon, protection juridique et surtout **garantie du conducteur** changent l'expérience réelle après un sinistre. La garantie du conducteur, qui couvre les propres blessures du pilote, reste le poste le plus souvent négligé alors qu'il est essentiel à moto. Le niveau de protection se règle aussi selon le véhicule, comme le détaille le comparatif de la [meilleure moto A2](/blog/meilleure-moto-a2/).
+**Garantie équipement**, assistance dès 0 km, prêt de guidon, protection juridique et surtout **garantie du conducteur** changent l'expérience réelle après un sinistre. La garantie du conducteur, qui couvre les propres blessures du pilote, reste le poste le plus souvent négligé, alors qu'à moto c'est lui qui protège le pilote. Le niveau de protection se règle aussi selon le véhicule, comme le détaille le comparatif de la [meilleure moto A2](/blog/meilleure-moto-a2/).
 
 ### Le profil du conducteur et le bonus-malus
 

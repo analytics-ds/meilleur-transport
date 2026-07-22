@@ -28,7 +28,7 @@ La **moto sportive** est en 2026 un segment large qui couvre des modèles allant
 
 **La position de conduite** est par définition exigeante : commandes reculées, repose-pieds remontés, guidons bracelets bas. Comptez 30 minutes max de selle continue avant douleur dorsale ou poignets sur les vraies hyper-sport. Pour rouler tous les jours, mieux vaut viser une [Yamaha MT-07 ou MT-09](/blog/yamaha-mt07-vs-mt09/) en roadster.
 
-**Le budget total** intègre achat (8 000 à 35 000 €), assurance (800 à 2 500 € par an selon le permis et le modèle), entretien (vidange tous les 6 000 km, plaquettes tous les 12-15 000 km, pneus tous les 6-10 000 km — coûts élevés sur sportive).
+**Le budget total** intègre achat (8 000 à 35 000 €), assurance (800 à 2 500 € par an selon le permis et le modèle), entretien (vidange tous les 6 000 km, plaquettes tous les 12-15 000 km, pneus tous les 6-10 000 km, des coûts élevés sur sportive).
 
 ## Comparatif synthétique des meilleures moto sportive
 

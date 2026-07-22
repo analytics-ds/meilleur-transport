@@ -17,7 +17,7 @@ faq:
   - question: "Quelle est la meilleure option pour un trajet domicile-travail de 10 km ?"
     answer: "Sur cette distance, le vélo électrique est généralement plus adapté grâce à son autonomie supérieure et à son confort de conduite assis. La trottinette électrique reste pertinente si le trajet se combine avec les transports en commun ou si le stationnement final impose un engin facilement pliable et transportable."
   - question: "Le casque est-il obligatoire en trottinette électrique ou en vélo électrique ?"
-    answer: "Le casque n'est pas obligatoire au niveau national pour un usage en agglomération, que ce soit en trottinette électrique ou en vélo électrique, sauf arrêté municipal spécifique ou circulation hors agglomération. Il reste fortement recommandé dans les deux cas pour limiter les risques en cas de chute."
+    answer: "Le casque n'est pas obligatoire au niveau national pour un usage en agglomération, en trottinette électrique comme en vélo électrique, sauf arrêté municipal spécifique ou circulation hors agglomération. Il reste fortement recommandé dans les deux cas pour limiter les risques en cas de chute."
   - question: "Quel est l'engin le plus économique à l'achat ?"
     answer: "La trottinette électrique est en moyenne moins chère à l'achat, avec des modèles urbains fiables disponibles entre 400 et 1000 euros. Un vélo électrique urbain de qualité se situe plutôt entre 1500 et 3000 euros, un écart qui s'explique par la taille du moteur, la batterie et le cadre."
 readingTime: true
@@ -45,7 +45,7 @@ Ce comparatif met en évidence une logique simple : plus le trajet est court et 
 
 Le premier critère qui distingue nettement les deux engins est leur facilité de transport une fois descendu de selle ou de plateforme. Une trottinette électrique pèse en général entre 10 et 15 kg et se plie en quelques secondes, ce qui permet de la porter dans un escalier, de la glisser sous un bureau ou de l'emmener dans un train sans contrainte particulière. Cette compacité en fait l'outil de prédilection des trajets multimodaux, combinés avec le métro, le bus ou le RER.
 
-Le vélo électrique, à l'inverse, dépasse rarement les 20 kg et se plie beaucoup plus difficilement, sauf modèles spécifiques dits pliants qui restent minoritaires sur le marché. Il demande donc un espace de stationnement dédié, que ce soit un local à vélos, une cave ou un abri extérieur sécurisé. Pour les habitants de petits appartements en centre-ville, ce critère peut à lui seul faire pencher la balance vers la trottinette électrique.
+Le vélo électrique, à l'inverse, dépasse rarement les 20 kg et se plie beaucoup plus difficilement, sauf modèles spécifiques dits pliants qui restent minoritaires sur le marché. Il demande donc un espace de stationnement dédié : local à vélos, cave ou abri extérieur sécurisé. Pour les habitants de petits appartements en centre-ville, ce critère peut à lui seul faire pencher la balance vers la trottinette électrique.
 
 L'accès aux transports en commun renforce encore cet écart. Une trottinette électrique pliée se transporte sans contrainte dans un bus, un tramway ou un TER aux heures creuses comme aux heures de pointe, alors qu'un vélo électrique, même équipé d'une roue démontable, reste plus encombrant et parfois soumis à des restrictions horaires spécifiques selon les réseaux de transport.
 
@@ -53,7 +53,7 @@ L'accès aux transports en commun renforce encore cet écart. Une trottinette é
 
 Sur le papier, les deux engins affichent une vitesse maximale identique de 25 km/h, imposée par la réglementation française. Dans les faits, le ressenti de vitesse diffère fortement : la position debout sur une trottinette électrique rend les petites irrégularités de chaussée plus perceptibles, ce qui pousse souvent à rouler prudemment en dessous du plafond légal sur des revêtements dégradés.
 
-L'autonomie constitue le véritable point de bascule entre les deux solutions. Une trottinette électrique offre généralement entre 20 et 45 km selon la capacité de sa batterie, ce qui suffit largement pour des trajets courts en zone urbaine dense. Le **vélo électrique**, grâce à une batterie plus volumineuse et à l'appoint du pédalage humain, peut dépasser 100 km avec une seule charge. Pour un trajet quotidien de plus de 15 km aller-retour, ou pour des déplacements incluant du dénivelé, l'autonomie du vélo électrique devient un argument décisif.
+C'est sur l'autonomie que le choix bascule entre les deux solutions. Une trottinette électrique offre généralement entre 20 et 45 km selon la capacité de sa batterie, ce qui suffit largement pour des trajets courts en zone urbaine dense. Le **vélo électrique**, grâce à une batterie plus volumineuse et à l'appoint du pédalage humain, peut dépasser 100 km avec une seule charge. Pour un trajet quotidien de plus de 15 km aller-retour, ou pour des déplacements incluant du dénivelé, l'autonomie du vélo électrique devient un argument décisif.
 
 ## Prix d'achat : quel budget prévoir ?
 
@@ -98,7 +98,7 @@ Sur cette distance, le vélo électrique est généralement plus adapté grâce 
 <details>
 <summary>Le casque est-il obligatoire en trottinette électrique ou en vélo électrique ?</summary>
 
-Le casque n'est pas obligatoire au niveau national pour un usage en agglomération, que ce soit en trottinette électrique ou en vélo électrique, sauf arrêté municipal spécifique ou circulation hors agglomération. Il reste fortement recommandé dans les deux cas pour limiter les risques en cas de chute.
+Le casque n'est pas obligatoire au niveau national pour un usage en agglomération, en trottinette électrique comme en vélo électrique, sauf arrêté municipal spécifique ou circulation hors agglomération. Il reste fortement recommandé dans les deux cas pour limiter les risques en cas de chute.
 </details>
 
 <details>

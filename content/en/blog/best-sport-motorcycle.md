@@ -27,7 +27,7 @@ The **best sport motorcycle** in 2026 covers a wide segment from **$8,500 to $35
 
 **Riding position** is by definition demanding: rear-set controls, raised footpegs, low clip-on bars. Expect 30 minutes of saddle time max before back or wrist strain on real hyper-sport bikes. For daily riding, a [Yamaha MT-07 or MT-09](/en/blog/yamaha-mt07-vs-mt09/) naked is more livable.
 
-**Total budget** integrates purchase ($8,500-$35,000), insurance ($800-$2,500/year depending on license and model), maintenance (oil change every 4,000 miles, brake pads every 7,500-9,000 miles, tires every 3,500-6,000 miles — all costlier on sport bikes).
+**Total budget** integrates purchase ($8,500-$35,000), insurance ($800-$2,500/year depending on license and model), maintenance (oil change every 4,000 miles, brake pads every 7,500-9,000 miles, tires every 3,500-6,000 miles, all costlier on sport bikes).
 
 ## Best sport motorcycle comparison table
 

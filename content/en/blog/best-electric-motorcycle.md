@@ -82,7 +82,7 @@ The **Stark Varg** is the Swedish premium dirt bike option. **80 hp** peak (sele
 
 #### Super Soco TS Street Hunter
 
-Entry-level street-legal electric motorcycle. **4 hp**, 50cc-equivalent class, accessible on regular driver's license in many US states. 62 miles range, removable battery. Price **$4,590 USD**. Limited freeway capability — strictly an urban commuter. For lighter two-wheel options, the [best 125cc motorcycle](/en/blog/best-125cc-motorcycle/) gasoline alternatives stay competitive.
+Entry-level street-legal electric motorcycle. **4 hp**, 50cc-equivalent class, accessible on regular driver's license in many US states. 62 miles range, removable battery. Price **$4,590 USD**. Limited freeway capability: strictly an urban commuter. For lighter two-wheel options, the [best 125cc motorcycle](/en/blog/best-125cc-motorcycle/) gasoline alternatives stay competitive.
 
 #### Silence S01
 

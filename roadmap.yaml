@@ -303,7 +303,7 @@ articles:
     volume: 4800
     kd: null
     scheduled_date: "2026-07-10"
-    status: todo
+    status: done  # publie 2026-07-22
     published_date: null
     published_url_fr: null
     published_url_en: null
@@ -336,7 +336,7 @@ articles:
     volume: 2800
     kd: null
     scheduled_date: "2026-07-21"
-    status: todo
+    status: done  # publie 2026-07-22
     published_date: null
     published_url_fr: null
     published_url_en: null

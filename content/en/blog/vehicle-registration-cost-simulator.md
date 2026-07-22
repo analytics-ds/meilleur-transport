@@ -43,7 +43,7 @@ The cost of a registration certificate adds up several distinct taxes. Understan
 The total relies on five components. The **regional tax** (called Y1) is the largest: it equals the number of fiscal horsepower units multiplied by the fiscal horsepower rate voted by the region. For some vehicles, a transport-vehicle tax, a CO2 **ecological penalty** for the most polluting vehicles, and then two fixed amounts are added: a management tax and a delivery fee.
 
 > "The cost of a registration certificate includes a regional tax based on the region of residence, a fixed tax of 11 euros and a fee for delivering the certificate of 2.76 euros."
-> — Service-Public.gouv.fr, 2026
+> Source : Service-Public.gouv.fr, 2026
 
 These two fixed amounts, 11 euros of management tax and 2.76 euros of delivery, are identical everywhere in France and on every simulator. Price gaps from one vehicle to another therefore come almost exclusively from the regional tax and the penalty.
 

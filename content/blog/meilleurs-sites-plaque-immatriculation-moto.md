@@ -54,7 +54,7 @@ Le deuxième est l'homologation du matériau. Une plaque conforme est en plexigl
 Le troisième est l'exactitude du numéro. Le numéro gravé doit correspondre très exactement à celui du certificat d'immatriculation. Le département affiché, en revanche, peut être choisi librement, à condition que le logo de région et le numéro de département soient cohérents entre eux. Une erreur sur le numéro oblige à recommander la plaque.
 
 > "Depuis le 1er juillet 2017, le format 210 x 130 mm est le seul homologué pour les motos, scooters et cyclomoteurs, et rouler avec une plaque non conforme constitue une infraction passible d'une amende forfaitaire de 135 euros."
-> — Service-Public.gouv.fr, 2026
+> Source : Service-Public.gouv.fr, 2026
 
 ## 1. cartegrise.com, le guichet unique plaque et carte grise {#cartegrise}
 

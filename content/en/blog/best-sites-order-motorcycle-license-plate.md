@@ -54,7 +54,7 @@ The second is material certification. A compliant plate is made of certified ple
 The third is the accuracy of the number. The engraved number must match the registration certificate exactly. The department shown, however, can be chosen freely, as long as the region logo and department number are consistent. An error on the number means the plate has to be re-ordered.
 
 > "Since 1 July 2017, the 210 x 130 mm format is the only one certified for motorcycles, scooters and mopeds, and riding with a non-compliant plate is an offense punishable by a 135-euro fixed fine."
-> — Service-Public.gouv.fr, 2026
+> Source : Service-Public.gouv.fr, 2026
 
 ## 1. cartegrise.com, the one-stop shop for plate and registration {#cartegrise}
 

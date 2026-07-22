@@ -38,7 +38,7 @@ Pour ceux qui hésitent entre le vélo électrique et d'autres solutions de mobi
 
 ## Les critères essentiels pour choisir son VAE
 
-Avant de comparer les modèles, il convient de comprendre les variables qui font réellement la différence entre deux vélos électriques.
+Avant de comparer les modèles, mieux vaut comprendre les variables qui font réellement la différence entre deux vélos électriques.
 
 ### Moteur : moyeu ou pédalier (mid-drive)
 
