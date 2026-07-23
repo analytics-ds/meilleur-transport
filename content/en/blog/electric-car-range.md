@@ -4,7 +4,7 @@ seoTitle: "Electric Car Range: Real Figures and Practical Tips"
 description: "Real-world electric car range: WLTP vs actual figures, what drains the battery, long-lasting models and habits that add kilometres back."
 translationKey: "autonomie-voiture-electrique"
 date: 2026-07-22
-lastmod: 2026-07-22
+lastmod: 2026-07-23
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -28,7 +28,15 @@ draft: false
 
 Range remains the first question asked before buying an **electric car**, well ahead of charging costs. It is also where the gap between the spec sheet and reality surprises buyers the most: a saloon rated at 500 km almost never shows 500 km on the dashboard. This article covers what the advertised figures are really worth, what melts the kilometres away, and how to pick a range that matches real journeys rather than worries.
 
-## Advertised vs real range: where the gap comes from
+**Electric car range: the essentials**
+
+- New models advertise 300 to 700 km WLTP, around 450 km on average.
+- In real conditions, subtract 20 to 30% from the advertised figure; more on a winter motorway.
+- Speed and cold are the two most damaging factors.
+- A real-world range of 250 to 300 km covers the daily use of the vast majority of drivers.
+- The battery loses about 1.5 to 2% of capacity per year, warrantied 8 years or 160,000 km.
+
+## Electric car range: where the gap between advertised and real comes from
 
 The range figures quoted by manufacturers come from the **WLTP** homologation cycle, a laboratory protocol shared across Europe. It makes model-to-model comparison possible, but it runs at an average speed of 46 km/h, without heating or air conditioning, on a driving profile far gentler than any real journey.
 
@@ -42,6 +50,8 @@ In normal use, subtract **20 to 30% from the WLTP figure**. A compact rated at 4
 
 ## The five factors that melt kilometres away
 
+Several parameters directly affect an electric car's real-world performance, and their impact adds up.
+
 **Speed** comes first. Air resistance grows with the square of speed: going from 110 to 130 km/h pushes consumption up by about 25%. That is why an electric car that feels tireless in town can disappoint on the motorway.
 
 **Cold** comes next. Below 5°C, battery chemistry loses efficiency and the heater draws directly from the pack: winter routinely removes 20 to 30% of range. Models fitted with a **heat pump** limit the damage considerably, a spec worth checking before buying.
@@ -50,9 +60,21 @@ Then come **terrain** (a long climb consumes heavily, even if the descent regene
 
 ## Which models go the distance
 
-The 2026 market splits into three families. **City cars** (Renault 5 E-Tech, Citroën ë-C3, Fiat 500e) offer 250 to 400 km WLTP, ample for urban and suburban use. **Compacts and family saloons** (Tesla Model 3, Renault Scénic E-Tech, Peugeot e-3008) sit between 450 and 700 km depending on the battery. At the top end, a few grand tourers now exceed 700 km WLTP, at prices that still reserve them for wealthy buyers.
+The 2026 market splits into three families. **City cars** (Renault 5 E-Tech, Citroën ë-C3, Fiat 500e) offer 250 to 400 km WLTP, ample for urban and suburban use. **Compacts and family saloons** (Tesla Model 3, Renault Scénic E-Tech, Peugeot e-3008) sit between 450 and 700 km depending on the battery. At the top end, a few grand tourers climb to 700 km WLTP and beyond, at prices that still reserve them for wealthy buyers. The best ranges on the market cluster in that category: yearly rankings consistently place large saloons with 90 kWh-plus batteries at the top, a type of vehicle built for the motorway more than the city.
 
 To compare two close rivals, the duel between the [BYD Seal and the Tesla Model 3](/en/byd-seal-vs-tesla-model-3/) shows the right way to read the numbers: beyond the WLTP figure, real consumption per 100 km and charging speed make the daily difference. The same reasoning applies to [company cars](/en/how-to-choose-company-car/), where range defines professional usability.
+
+## Charging, the other half of the equation
+
+Reasoning in kilometres of range alone misses half the subject: the density of the **charging network** matters as much as battery size. France now exceeds 150,000 public charging points, and almost every motorway service area offers **fast charging**. Completing a Paris-Marseille run in an electric car is no longer an expedition: a 20-to-25-minute stop every two and a half hours is enough, roughly the rest rhythm recommended to any driver.
+
+At home, **installing** a 7.4 kW wallbox or a reinforced socket transforms the experience: the car plugs in at night like a phone and leaves every morning with a full tank of **energy** for a fraction of the price of petrol. In France, **grants** exist for home equipment, including a 500-euro tax credit for a smart charger and reduced VAT on installation. Carmakers and charging networks also offer route-planning **services** that build charging stops in automatically, often directly in the car's navigation. The real learning curve is not technical: it is mostly about **changing** reflexes, charging where the car sleeps rather than hunting for a station when the gauge drops.
+
+## Battery: how much wear over the kilometres?
+
+Battery **wear** feeds plenty of worry, for an ultimately measured impact. A lithium-ion pack loses on average 1.5 to 2% of capacity per year. To put a number on it: a car advertising 450 km WLTP when new will keep roughly 380 to 400 after eight years, a level of performance that still covers daily use very comfortably.
+
+Almost all manufacturers warranty the battery for **8 years or 160,000 km**, with a 70% minimum capacity floor. Chemistry type matters too: LFP batteries, increasingly common on entry-level models, tolerate daily charging to 100% where NMC chemistries prefer stopping at 80% day to day. A point worth checking in the manual, since it determines the range actually available each morning.
 
 ## How much range do you actually need?
 
@@ -62,6 +84,8 @@ The question changes for high-mileage drivers and motorway regulars. There, two 
 
 ## Six habits that add kilometres back
 
+A few simple habits optimise range without sacrificing any comfort:
+
 - **Anticipate rather than brake**: smooth driving maximises regeneration on lift-off.
 - **Slow down on the motorway**: driving at 120 rather than 130 km/h extends range very noticeably.
 - **Pre-heat the car while charging**: the cabin warms up on grid power, not on the battery.
@@ -70,6 +94,12 @@ The question changes for high-mileage drivers and motorway regulars. There, two 
 - **Remove roof boxes and bike racks** when unused: aerodynamics weigh heavily at cruising speed.
 
 Electric mobility goes beyond the car, too: for short urban trips, an [electric scooter or electric bike](/en/electric-scooter-or-electric-bike/) complements an equipped household well, and the [electric motorcycle](/en/best-electric-motorcycle/) market is progressing fast.
+
+## Buying used: check before you sign
+
+On the used market, the range shown in the listing is the original WLTP figure, not what the battery delivers after years of service. The right reflex is to ask for the **battery state-of-health certificate** (SoH), which most dealers and workshops can produce. A 90% SoH on a car rated at 400 km means roughly 360 km WLTP remaining, to be converted into real range with the usual 20 to 30% discount.
+
+The charging history deserves a look too: a car charged daily on high-power DC ages slightly faster than one plugged in overnight at home. Nothing disqualifying, but a negotiation argument. Finally, the **average consumption in kWh/100 km** shown on the trip computer says more than a long test drive: below 16 kWh/100 km in mixed use, the car is frugal; above 20, range will melt fast on the motorway.
 
 ## And in five years?
 

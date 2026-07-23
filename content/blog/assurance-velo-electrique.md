@@ -4,7 +4,7 @@ seoTitle: "Assurance vélo électrique : obligation, vol, prix"
 description: "L'assurance d'un vélo électrique n'est obligatoire que pour les speedbikes 45 km/h. VAE, vol, casse, responsabilité civile : ce qu'il faut couvrir et à quel prix."
 translationKey: "assurance-velo-electrique"
 date: 2026-07-22
-lastmod: 2026-07-22
+lastmod: 2026-07-23
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -28,7 +28,14 @@ draft: false
 
 Le **vélo électrique** s'est installé dans les foyers français, et une question revient à chaque achat : faut-il l'assurer ? La réponse tient en une distinction que beaucoup de vendeurs oublient de préciser : tout dépend de la vitesse à laquelle l'assistance se coupe. En dessous de 25 km/h, rien n'est imposé. Au-delà, le vélo change de catégorie juridique, et d'obligations. Reste ensuite la vraie question, celle du **vol**, premier risque du cycliste urbain, et de loin.
 
-## VAE ou speedbike : la distinction qui change tout
+**Assurance vélo électrique : l'essentiel**
+
+- Aucune assurance n'est obligatoire pour un VAE dont l'assistance se coupe à 25 km/h.
+- Le speedbike 45 km/h relève des cyclomoteurs : responsabilité civile, immatriculation et casque obligatoires.
+- La responsabilité civile de l'assurance habitation couvre en général les dommages causés en VAE.
+- Contre le vol, compter 4 à 15 euros par mois, antivol certifié FUB ou SRA exigé.
+
+## L'assurance d'un vélo électrique est-elle obligatoire ?
 
 Le **VAE** (vélo à assistance électrique) n'assiste que pendant le pédalage, et son moteur se coupe à 25 km/h. Aux yeux du code de la route, il reste un cycle, au même titre qu'un vélo musculaire. Conséquence directe, confirmée par Service-Public.gouv.fr : **aucune assurance n'est obligatoire** pour circuler avec.
 
@@ -44,13 +51,13 @@ Le **speedbike**, lui, pousse l'assistance jusqu'à 45 km/h. Il bascule dans la 
 
 ## Pas obligatoire ne veut pas dire pas utile
 
-Même en VAE, provoquer un accident engage la responsabilité du cycliste. Un piéton renversé, une portière rayée, et les sommes en jeu dépassent vite plusieurs milliers d'euros. La bonne nouvelle : la **garantie responsabilité civile de l'assurance habitation** couvre en général ces situations pour un cycle. Un appel à l'assureur permet de le vérifier en deux minutes, et c'est la première chose à faire après l'achat.
+Même en VAE, la responsabilité du cycliste est engagée dès qu'il provoque un accident. Un piéton renversé, une portière rayée, et les sommes en jeu dépassent vite plusieurs milliers d'euros. C'est pourquoi la question mérite d'être posée même lorsque la loi n'impose rien. La bonne nouvelle : la **garantie responsabilité civile de l'assurance habitation** couvre en général ces situations pour un cycle. Un appel à l'assureur permet de le vérifier en deux minutes, et c'est la première chose à faire après l'achat.
 
 Ce que l'assurance habitation ne couvre pas, en revanche, c'est le vélo lui-même. Or un VAE de qualité vaut couramment 1 500 à 3 500 euros, parfois davantage : notre guide des [meilleurs vélos électriques](/meilleur-velo-electrique-2026/) le montre bien. À ce niveau de valeur, la question de l'assurance vol se pose exactement comme pour un scooter.
 
-## Le vol, le vrai sujet du cycliste urbain
+## Le vol de vélo, le vrai sujet du cycliste urbain
 
-Plusieurs centaines de milliers de vélos sont volés chaque année en France, et les VAE sont les cibles préférées : valeur élevée, revente facile, batterie monnayable séparément. Un contrat **vol et casse** dédié coûte entre **4 et 15 euros par mois** selon la valeur du vélo et l'étendue des garanties.
+Le vol de vélo touche plusieurs centaines de milliers de propriétaires chaque année en France, et les VAE sont les cibles préférées : valeur élevée, revente facile, batterie monnayable séparément. Un contrat **vol et casse** dédié coûte entre **4 et 15 euros par mois** selon la valeur du vélo et l'étendue des garanties.
 
 Trois conditions reviennent dans presque tous les contrats, et les ignorer prive d'indemnisation :
 
@@ -60,10 +67,18 @@ Trois conditions reviennent dans presque tous les contrats, et les ignorer prive
 
 Le **marquage Bicycode**, obligatoire sur les vélos neufs vendus par des professionnels, complète le dispositif : il ne remplace pas l'antivol, mais il multiplie les chances de retrouver un vélo volé et facilite le travail de l'assureur. Certains contrats couvrent aussi la batterie seule, le poste le plus convoité.
 
-## Extension habitation ou contrat vélo dédié ?
+## Quels types de contrats pour assurer un vélo électrique ?
 
-Deux voies existent. L'**extension du contrat habitation** coûte quelques euros par mois et couvre souvent le vol, mais avec des plafonds d'indemnisation limités et parfois une exclusion du vol hors domicile. Le **contrat vélo dédié** coûte plus cher, mais couvre le vol dans la rue, la casse en circulation, et propose souvent une assistance en cas de panne à plus de quelques kilomètres du domicile.
+En pratique, trois grandes familles d'offres coexistent pour assurer un vélo électrique, et elles ne couvrent pas la même chose.
 
-Le choix se résume à la valeur du vélo. En dessous de 800 euros, l'extension habitation ou l'absence de couverture se défendent. Au-delà de 1 500 euros, le contrat dédié devient difficile à contourner : une seule nuit dehors avec un antivol premier prix peut coûter le prix de dix ans de cotisations. Entre les deux, la comparaison se joue sur les plafonds, les franchises et les exclusions de nuit, qui varient beaucoup d'un contrat à l'autre.
+L'**extension du contrat habitation** ajoute le vélo aux biens couverts, parfois avec une garantie vol limitée au domicile. Le **contrat vélo spécialisé**, proposé par les assureurs dédiés au cycle et par certaines grandes mutuelles, réunit le vol, la casse, l'assistance et, selon les formules, une garantie du conducteur qui indemnise le cycliste blessé après un accident, y compris sans tiers identifié. Enfin, pour les speedbikes, ce sont les assureurs de deux-roues motorisés qui prennent le relais : la Mutuelle des Motards, par exemple, propose des contrats spécifiques aux 45 km/h que les assureurs vélo grand public refusent souvent de couvrir.
+
+Avant de souscrire une assurance, trois vérifications s'imposent dans le contrat : le plafond d'indemnisation (certaines offres s'arrêtent à 1 000 euros, en dessous du prix de la plupart des VAE), la couverture de la **batterie**, régulièrement exclue alors qu'elle représente un tiers de la valeur du vélo, et les conditions de garde la nuit. Lorsque le vélo sert aux trajets domicile-travail quotidiens, une garantie vol qui exclut le stationnement dans la rue en journée vide le contrat de son intérêt.
+
+## Comment choisir : extension habitation ou contrat vélo dédié ?
+
+Deux voies existent pour l'essentiel des cyclistes. L'**extension du contrat habitation** coûte quelques euros par mois et couvre souvent le vol, mais avec des plafonds d'indemnisation limités et parfois une exclusion du vol hors domicile. Le **contrat vélo dédié** coûte plus cher, mais couvre le vol dans la rue, la casse en circulation, et propose souvent une assistance en cas de panne à plus de quelques kilomètres du domicile.
+
+Le choix se résume à la valeur du vélo. En dessous de 800 euros, l'extension habitation ou l'absence de couverture se défendent. Au-delà de 1 500 euros, le contrat dédié devient difficile à contourner : une seule nuit dehors avec un antivol premier prix peut coûter le prix de dix ans de cotisations. Entre les deux, la comparaison entre les offres se joue sur les plafonds, les franchises et les exclusions de nuit, qui varient beaucoup d'un contrat à l'autre. Les bons contrats se repèrent à un détail : ils indemnisent en valeur à neuf pendant au moins deux ans, quand les autres appliquent une vétusté dès le premier anniversaire du vélo.
 
 Pour les trajets urbains, la logique vaut pour tous les engins électriques : la [trottinette électrique](/trottinette-electrique-ou-velo-electrique/), elle, est soumise à l'obligation d'assurance responsabilité civile, un point que beaucoup d'utilisateurs découvrent après l'accident.
