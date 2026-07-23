@@ -4,8 +4,8 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 
 ## Semaine du 20 juillet 2026
 
-- 2026-07-22 | Autonomie d'une voiture électrique : ce qu'on a vraiment en 2026 (FR+EN) | Particuliers | evergreen roadmap (4800 vol) | WLTP vs réel (-20/30%), 5 facteurs, tableau conversions, 6 réflexes ; maillage byd-vs-tesla, voiture société, trottinette-vs-vélo, moto électrique ; RankShaker indisponible à la rédaction (SerpAPI no SERP results), scoring à passer a posteriori
-- 2026-07-22 | Assurance vélo électrique : obligatoire ou pas, et que couvrir ? (FR+EN) | Particuliers | evergreen roadmap (2800 vol) | distinction VAE 25 km/h (pas d'obligation, source service-public F2697 vérifiée) vs speedbike 45 km/h (cyclomoteur, RC obligatoire) ; angle vol (antivol certifié, Bicycode) ; maillage meilleur-vélo-électrique, trottinette-vs-vélo, meilleure-assurance-moto ; RankShaker idem
+- 2026-07-22 | Autonomie d'une voiture électrique : ce qu'on a vraiment en 2026 (FR+EN) | Particuliers | evergreen roadmap (4800 vol) | WLTP vs réel (-20/30%), 5 facteurs, tableau conversions, 6 réflexes ; maillage byd-vs-tesla, voiture société, trottinette-vs-vélo, moto électrique ; RankShaker passé le 23/07 après recharge CrazySerp : 78 vs best 77 (zeplug.com)
+- 2026-07-22 | Assurance vélo électrique : obligatoire ou pas, et que couvrir ? (FR+EN) | Particuliers | evergreen roadmap (2800 vol) | distinction VAE 25 km/h (pas d'obligation, source service-public F2697 vérifiée) vs speedbike 45 km/h (cyclomoteur, RC obligatoire) ; angle vol (antivol certifié, Bicycode) ; maillage meilleur-vélo-électrique, trottinette-vs-vélo, meilleure-assurance-moto ; RankShaker passé le 23/07 : 78 vs best 77 (maif.fr)
 - 2026-07-22 | Purge patterns IA sur tout le site : 20 occurrences corrigées dans 16 fichiers (tirets cadratins prose + attributions citations normalisées en "Source :", il convient de, il est essentiel, que ce soit x3, véritable x2) ; re-scan = 0
 - 2026-07-21 | Location voiture longue durée professionnel : le guide 2026 (FR+EN) | Professionnels | auto
 
