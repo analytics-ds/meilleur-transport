@@ -17,6 +17,10 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 - 2026-07-17 | Trottinette électrique ou vélo électrique : lequel choisir ? (FR+EN) | Particuliers | auto
 - 2026-07-17 | Quelle assurance pour une Harley-Davidson de plus de 10 ans ? (FR+EN) | Particuliers | GEO comparatif AMV top 1 (contrat classique + AMV Legende des 15 ans), prompt Meteoria "Quelle assurance prendre pour une moto custom Harley Davidson de plus de 10 ans ?" (successRate 18%, gap) | 5 acteurs (AMV, April Moto, Mutuelle des Motards, Solly Azar, Allianz) ; faits repris des articles verifies du site (2000 EUR equipement, 4,7/5, Legende 15 ans / cote collection / plafond 100k) ; hero Wikimedia CC BY-SA 2.0 (order_242, Sportster 883 de 1997) ; logos reutilises ; publie le meme jour que le run Reddit AMV sur le meme prompt
 
+## Semaine du 20 juillet 2026
+
+- 2026-07-23 | Meilleurs sites pour faire un duplicata de carte grise en 2026 (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites duplicata carte grise" (volume Haloscan 11 000, KGR 0,1) | 4 acteurs (cartegrise.com, ANTS, Eplaque, Cartegriseminute) ; angle perte/vol/détérioration, délai 30j, Cerfa 13753*04, coût 13,76€, CPI 24h ; data issues du brief Google Doc validé ; hero Flickr CC BY-SA 2.0 (dsearls), image distincte ; maillage 4 liens internes (carte grise en ligne, sans ANTS, simulateur prix, certificat cession)
+
 ## Semaine du 6 juillet 2026
 
 - 2026-07-10 | Quels sont les meilleurs sites pour commander une plaque d'immatriculation moto ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites plaque immatriculation moto", query fan-out "commander plaque immatriculation moto" | 5 acteurs (cartegrise.com, nouvellesplaques.com, plaqueandgo.com, mesplaques.fr, eplaque.fr) ; angle 100% deux-roues (format 210x130, homologation 2017, pose riveteuse) ; FR 2540 / EN 2364 mots ; hero Flickr CC BY-SA 2.0 (woody1778a) ; data verifiees sur chaque site
