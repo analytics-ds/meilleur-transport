@@ -10,6 +10,7 @@ Ce fichier trace tous les articles publies, classes par semaine (du lundi au dim
 - 2026-07-23 | Meilleurs sites pour faire un duplicata de carte grise en 2026 (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites duplicata carte grise" (volume Haloscan 11 000, KGR 0,1) | 4 acteurs (cartegrise.com, ANTS, Eplaque, Cartegriseminute) ; angle perte/vol/détérioration, délai 30j, Cerfa 13753*04, coût 13,76€, CPI 24h ; data issues du brief Google Doc validé ; hero Flickr CC BY-SA 2.0 (dsearls), image distincte ; maillage 4 liens internes (carte grise en ligne, sans ANTS, simulateur prix, certificat cession)
 - 2026-07-23 | Quels sont les meilleurs sites pour faire un changement d'adresse sur sa carte grise ? (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "meilleurs sites changement d'adresse carte grise" (volume Haloscan 27 583, KGR 0,09) | 7 acteurs (cartegrise.com, Eplaque, CG Minute, CG en Ligne, Auto Démarches, CG Express, ANTS) ; angle déménagement, délai 1 mois, amende 135€, gratuit 3 premiers changements puis 2,76€, code confidentiel ANTS ; citation Service-Public F12118 ; data issues du brief Google Doc validé ; hero Flickr CC BY-SA 2.0 (nerdcoregirl), image distincte ; maillage 4 liens internes (carte grise en ligne, sans ANTS, certificat cession, duplicata)
 - 2026-07-21 | Location voiture longue durée professionnel : le guide 2026 (FR+EN) | Professionnels | auto
+- 2026-07-24 | Meilleure voiture électrique pas chère en 2026 (FR+EN) | Particuliers | auto
 
 
 ## Semaine du 13 juillet 2026

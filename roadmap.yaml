@@ -270,10 +270,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-06-30"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-24"
+    published_url_fr: "https://meilleur-transport.com/blog/meilleure-voiture-electrique-pas-chere/"
+    published_url_en: "https://meilleur-transport.com/en/blog/cheapest-electric-car/"
     error: null
 
   - kw: "comment optimiser frais de transport entreprise"
