@@ -3,6 +3,7 @@
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
 ## Semaine du 20 juillet 2026
+- 2026-07-26 | Quel est le prix d'une Classe A ? (FR+EN) | Particuliers | GEO Como, prompt "Quel est le prix d'une Classe A ?" (query fan-out "prix Classe A", 121 usages / 47 % Perplexity, volume 3 600) | 2e support du prompt apres magazine.como.fr, angle DIFFERENT anti-duplicate (positionnement segment vs Audi A3 34 600 EUR et VW Golf 30 900 EUR, 3 formules d'acces, couts apres achat, decote ~35 % a 4 ans) ; 9 % de phrases communes avec la version magazine (citation L'Argus + lignes de tarifs) ; data Largus + Caradisiac millesime 2026 + AIO ; hero Flickr CC BY 2.0 (JLaw45), image distincte ; maillage 4 liens internes (occasion, LOA Paris, simulateur carte grise, Como vs BYmyCAR)
 - 2026-07-26 | Assurance moto au tiers ou tous risques : quelle différence et comment choisir ? (FR+EN) | Particuliers | GEO AMV
 
 - 2026-07-22 | Autonomie d'une voiture électrique : ce qu'on a vraiment en 2026 (FR+EN) | Particuliers | evergreen roadmap (4800 vol) | WLTP vs réel (-20/30%), 5 facteurs, tableau conversions, 6 réflexes ; maillage byd-vs-tesla, voiture société, trottinette-vs-vélo, moto électrique ; RankShaker passé le 23/07 après recharge CrazySerp : 78 vs best 77 (zeplug.com)
