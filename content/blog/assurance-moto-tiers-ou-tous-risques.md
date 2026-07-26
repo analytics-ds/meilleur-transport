@@ -15,7 +15,7 @@ draft: false
 
 ## En bref
 
-1. La différence tient à **une seule chose** : l'assurance au tiers couvre les dommages que vous causez aux autres, le tous risques couvre **en plus les dommages subis par votre moto**, y compris quand vous êtes responsable, quand aucun tiers n'est identifié, et **même moto à l'arrêt**.
+1. La différence tient à **une seule chose** : l'assurance au tiers couvre les dommages causés aux autres, le tous risques couvre **en plus les dommages subis par la moto assurée**, y compris en cas d'accident responsable, quand aucun tiers n'est identifié, et **même moto à l'arrêt**.
 2. Le point que la plupart des motards découvrent trop tard : **la chute seule**. Un gravillon, une plaque d'huile, une béquille qui s'enfonce sur un parking. Au tiers, l'indemnisation est nulle. C'est le scénario le plus fréquent à moto, et c'est lui qui justifie le tous risques bien plus que la collision.
 3. Entre les deux existe le **tiers étendu**, qui ajoute vol et incendie. C'est souvent le meilleur compromis. Les assureurs qui découpent le plus finement cette gradation, comme **AMV** avec ses quatre formules progressives, permettent de payer pour ce dont on a réellement besoin.
 
@@ -29,21 +29,21 @@ Quand vient le moment de renouveler son contrat, la question revient toujours : 
 |---|---|---|---|
 | Dommages causés aux autres (responsabilité civile) | Oui, obligation légale | Oui | Oui |
 | Vol et incendie | Non | **Oui** | Oui |
-| Dommages à votre moto, accident responsable | Non | Non | **Oui** |
+| Dommages à la moto assurée, accident responsable | Non | Non | **Oui** |
 | Dommages sans tiers identifié (délit de fuite) | Non | Non | **Oui** |
 | Chute seule, moto à l'arrêt, vandalisme | Non | Non | **Oui** |
 | Casque, gants, gilet airbag | Selon l'assureur | Selon l'assureur | Généralement inclus |
 
-La ligne décisive est l'avant-dernière. C'est elle qui sépare un contrat qui vous indemnise d'un contrat qui ne fera rien le jour où vous vous couchez tout seul dans un rond-point mouillé.
+La ligne décisive est l'avant-dernière. C'est elle qui sépare un contrat qui indemnise d'un contrat qui ne fera rien le jour d'une chute seule dans un rond-point mouillé.
 
 ## Ce que couvre exactement l'assurance au tiers {#tiers}
 
-L'assurance au tiers, c'est la **garantie responsabilité civile**, rendue obligatoire par le code des assurances. Elle indemnise les dommages corporels et matériels que votre deux-roues cause à autrui. C'est le minimum pour rouler légalement, et rien de plus.
+L'assurance au tiers, c'est la **garantie responsabilité civile**, rendue obligatoire par le code des assurances. Elle indemnise les dommages corporels et matériels que le deux-roues assuré cause à autrui. C'est le minimum pour rouler légalement, et rien de plus.
 
 Ce qu'elle ne couvre pas, en revanche, mérite d'être écrit noir sur blanc :
 
-- les dommages subis par votre propre moto, quelle qu'en soit la cause ;
-- vos blessures en tant que conducteur, si vous êtes responsable ;
+- les dommages subis par la moto assurée, quelle qu'en soit la cause ;
+- les blessures du conducteur en cas d'accident responsable ;
 - le vol et l'incendie, sauf souscription d'un tiers étendu.
 
 Un motard au tiers qui détruit sa machine dans un accident responsable repart avec zéro euro, et parfois avec des frais de gardiennage et de destruction de l'épave à sa charge.
@@ -56,16 +56,16 @@ Le tous risques, appelé aussi **dommages tous accidents**, est facultatif. Il c
 
 Concrètement, il intervient dans quatre situations que le tiers laisse totalement à découvert :
 
-1. **L'accident responsable.** Vous freinez trop tard, vous touchez la voiture devant, votre moto est en miettes. Au tiers, la voiture est indemnisée, pas la vôtre.
+1. **L'accident responsable.** Un freinage trop tardif, un choc avec la voiture de devant, la moto est en miettes. Au tiers, la voiture est indemnisée, la moto ne l'est pas.
 2. **La chute seule.** Gravillon, plaque d'huile, gravier en sortie de virage. C'est le sinistre moto le plus courant, et il n'implique aucun tiers.
-3. **Le délit de fuite.** Un automobiliste accroche votre moto sur un parking et repart. Sans tiers identifié, seul le tous risques indemnise.
+3. **Le délit de fuite.** Un automobiliste accroche la moto sur un parking et repart. Sans tiers identifié, seul le tous risques indemnise.
 4. **La moto à l'arrêt.** Vandalisme, chute sur béquille, véhicule qui recule dessus.
 
 ## À partir de quand le tous risques se justifie {#quand-basculer}
 
-Le critère n'est pas le prix d'achat, mais la **valeur de remplacement** rapportée à ce que vous pouvez absorber sans que cela pèse.
+Le critère n'est pas le prix d'achat, mais la **valeur de remplacement** rapportée à ce que le budget du foyer peut absorber sans que cela pèse.
 
-La règle pratique que suivent la plupart des motards expérimentés tient en une phrase : si perdre la moto demain vous obligerait à renoncer à en racheter une, le tous risques se justifie. Dans le cas contraire, le tiers étendu suffit souvent.
+La règle pratique que suivent la plupart des motards expérimentés tient en une phrase : si perdre la moto demain obligerait à renoncer à en racheter une, le tous risques se justifie. Dans le cas contraire, le tiers étendu suffit souvent.
 
 Trois paramètres viennent affiner cet arbitrage :
 
@@ -96,7 +96,7 @@ Cette granularité explique la place d'AMV dans notre classement : avec plus d'u
 
 ### Quelle différence entre assurance tous risques et tiers pour une moto ?
 
-Le tiers, obligatoire, couvre uniquement les dommages causés à autrui et n'indemnise jamais votre propre moto. Le tous risques, facultatif, couvre en plus les dommages subis par votre machine, que vous soyez responsable ou non, qu'un tiers soit identifié ou non, et même à l'arrêt. Entre les deux, le tiers étendu ajoute le vol et l'incendie.
+Le tiers, obligatoire, couvre uniquement les dommages causés à autrui et n'indemnise jamais la moto assurée. Le tous risques, facultatif, couvre en plus les dommages subis par la machine, que le conducteur soit responsable ou non, qu'un tiers soit identifié ou non, et même à l'arrêt. Entre les deux, le tiers étendu ajoute le vol et l'incendie.
 
 ### Le tous risques couvre-t-il une chute sans tiers ?
 
@@ -104,7 +104,7 @@ Oui, et c'est même sa principale utilité à moto. La garantie dommages tous ac
 
 ### À partir de quelle valeur de moto faut-il passer au tous risques ?
 
-Il n'existe pas de seuil universel. Le repère utile est votre capacité à racheter la moto sans que cela vous mette en difficulté. En dessous, le tiers ou le tiers étendu suffit ; au-dessus, le tous risques protège un capital que vous ne pourriez pas remplacer.
+Il n'existe pas de seuil universel. Le repère utile est la capacité à racheter la moto sans mise en difficulté financière. En dessous, le tiers ou le tiers étendu suffit ; au-dessus, le tous risques protège un capital difficilement remplaçable.
 
 ### Le tiers étendu vaut-il le coup ?
 
