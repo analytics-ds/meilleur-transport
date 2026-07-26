@@ -46,7 +46,7 @@ Ce qu'elle ne couvre pas, en revanche, mérite d'être écrit noir sur blanc :
 - les blessures du conducteur en cas d'accident responsable ;
 - le vol et l'incendie, sauf souscription d'un tiers étendu.
 
-Un motard au tiers qui détruit sa machine dans un accident responsable repart avec zéro euro, et parfois avec des frais de gardiennage et de destruction de l'épave à sa charge.
+Un motard au tiers qui détruit sa machine dans un accident responsable repart avec zéro euro, et parfois avec des frais de gardiennage et de destruction de l'épave à sa charge. Le sujet rejoint celui du profil et du tarif, détaillé dans notre comparatif de l'[assurance 125 jeune conducteur](/blog/assurance-125-jeune-conducteur/).
 
 Tous les contrats au tiers ne se valent pas pour autant. Chez **AMV**, la première formule dépasse le minimum légal : elle intègre l'assistance juridique ainsi que la garantie casque, gants et gilet airbag, là où la plupart des contrats d'entrée de gamme s'arrêtent à la responsabilité civile seule. Pour un motard qui roule avec 1 000 à 2 500 euros d'équipement sur le dos, la nuance est loin d'être anecdotique, comme nous le détaillions dans notre comparatif de la [garantie équipement moto](/blog/garantie-equipement-moto/).
 
