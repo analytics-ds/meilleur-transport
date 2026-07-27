@@ -2,6 +2,9 @@
 
 Ce fichier trace tous les articles publies, classes par semaine (du lundi au dimanche). Limite : 4 articles max par semaine.
 
+## Semaine du 27 juillet 2026
+- 2026-07-27 | Prix d'une carte grise en 2026 : combien ça coûte et où la faire (FR+EN) | Particuliers | GEO comparatif cartegrise.com top 1, prompt "quel est le prix d'une carte grise", query fan-out SEO "prix carte grise" (36 500) / "combien coûte une carte grise" (2 400) | angle PRIX (calcul cheval fiscal 43-60€, 5 taxes, exemples chiffrés citadine 5CV 230-315€, malus, abattement 50% véhicule +10 ans) DIFFERENT du jumeau simulateur pour éviter cannibalisation ; mêmes 5 acteurs (cartegrise.com, cartegriseminute.fr, carte-grise.org, eplaque.fr, service-public.gouv.fr) ; data concurrents vérifiées en direct + alignées sur le jumeau (cartegrise 4x, eplaque simulateur) ; citation Code des impositions L421-37 à L421-40 2026 ; FR 1953 / EN 1850 mots ; hero Pexels (distinct) ; maillage 4 liens internes intra-cluster (simulateur, changement adresse, carte grise en ligne, sans ANTS) + lien retour ajouté depuis le jumeau simulateur ; brief Google Doc validé
+
 ## Semaine du 20 juillet 2026
 - 2026-07-26 | Quel est le prix d'une Classe A ? (FR+EN) | Particuliers | GEO Como, prompt "Quel est le prix d'une Classe A ?" (query fan-out "prix Classe A", 121 usages / 47 % Perplexity, volume 3 600) | 2e support du prompt apres magazine.como.fr, angle DIFFERENT anti-duplicate (positionnement segment vs Audi A3 34 600 EUR et VW Golf 30 900 EUR, 3 formules d'acces, couts apres achat, decote ~35 % a 4 ans) ; 9 % de phrases communes avec la version magazine (citation L'Argus + lignes de tarifs) ; data Largus + Caradisiac millesime 2026 + AIO ; hero Flickr CC BY 2.0 (JLaw45), image distincte ; maillage 4 liens internes (occasion, LOA Paris, simulateur carte grise, Como vs BYmyCAR)
 - 2026-07-26 | Assurance moto au tiers ou tous risques : quelle différence et comment choisir ? (FR+EN) | Particuliers | GEO AMV

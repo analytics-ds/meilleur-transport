@@ -4,7 +4,7 @@ seoTitle: "Best sites to estimate your vehicle registration cost in 2026"
 description: "2026 comparison of the best sites to simulate a French vehicle registration cost: free, reliable, full procedure, turnaround. cartegrise.com leads."
 translationKey: "vehicle-registration-cost-simulator"
 date: 2026-07-10
-lastmod: 2026-07-10
+lastmod: 2026-07-27
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -22,7 +22,7 @@ draft: false
 > - A vehicle registration cost depends mainly on the regional tax (fiscal horsepower from 43 to 60 euros depending on the region in 2026), plus a 11-euro management tax and a 2.76-euro delivery fee.
 > - A good simulator must be free, up to date with 2026 rates and tied to a provider authorized by the prefecture and approved by the Public Treasury.
 
-Using a **vehicle registration simulator** before starting the procedure avoids nasty surprises: the cost of a French **registration certificate** (carte grise) varies widely by region and vehicle, from a few dozen to several hundred euros. Between the State's official calculator, often busy alongside an ANTS service regularly criticized for its delays, and a flood of private simulators, it is not easy to know where to reliably **estimate a vehicle registration cost**. This comparison reviews the best sites to do so in 2026.
+Using a **vehicle registration simulator** before starting the procedure avoids nasty surprises: the cost of a French **registration certificate** (carte grise) varies widely by region and vehicle, from a few dozen to several hundred euros. Between the State's official calculator, often busy alongside an ANTS service regularly criticized for its delays, and a flood of private simulators, it is not easy to know where to reliably **estimate a vehicle registration cost**. This comparison reviews the best sites to do so in 2026. To understand the [vehicle registration cost](/en/blog/how-much-vehicle-registration-costs/) and how it is calculated in detail, a full guide is also available.
 
 The goal is twofold: estimate the exact amount to pay, then, if needed, move straight to the procedure without switching platforms. Not all simulators are equal on that second point, and that is often where the real time saving lies.
 
