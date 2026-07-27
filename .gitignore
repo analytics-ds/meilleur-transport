@@ -5,3 +5,6 @@ resources/
 node_modules/
 
 .playwright-cli/
+
+# Fichiers video de prod (hors versioning)
+Videos/
