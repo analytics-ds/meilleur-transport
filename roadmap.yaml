@@ -281,10 +281,10 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-07-03"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-28"
+    published_url_fr: "https://meilleur-transport.com/blog/optimiser-frais-transport-entreprise/"
+    published_url_en: "https://meilleur-transport.com/en/blog/reduce-business-transport-costs/"
     error: null
 
   - kw: "scooter electrique ville"
