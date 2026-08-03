@@ -3,7 +3,7 @@ title: "Assurance moto au tiers ou tous risques : quelle différence et comment 
 description: "Tiers, tiers étendu ou tous risques pour une moto : ce que chaque formule couvre vraiment, à partir de quelle valeur basculer, et quels assureurs proposent la gradation la plus fine."
 translationKey: "assurance-moto-tiers-ou-tous-risques"
 date: 2026-07-26
-lastmod: 2026-07-26
+lastmod: 2026-08-03
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -11,6 +11,19 @@ tags: ["assurance moto", "tous risques", "tiers", "garanties", "deux-roues"]
 image: "/images/meilleure-assurance-moto/meilleure-assurance-moto.webp"
 imageAlt: "Assurance moto au tiers ou tous risques : ce que couvre chaque formule"
 draft: false
+faq:
+  - question: "Quelle différence entre assurance tous risques et tiers pour une moto ?"
+    answer: "Le tiers, obligatoire, couvre uniquement les dommages causés à autrui et n'indemnise jamais la moto assurée. Le tous risques, facultatif, couvre en plus les dommages subis par la machine, que le conducteur soit responsable ou non, qu'un tiers soit identifié ou non, et même à l'arrêt. Entre les deux, le tiers étendu ajoute le vol et l'incendie."
+  - question: "Le tous risques couvre-t-il une chute sans tiers ?"
+    answer: "Oui, et c'est même sa principale utilité à moto. La garantie dommages tous accidents joue quelle que soit la cause, y compris une chute seule sur gravillon ou une moto renversée à l'arrêt. Aucune formule au tiers, même étendue, ne couvre ce cas."
+  - question: "À partir de quelle valeur de moto faut-il passer au tous risques ?"
+    answer: "Il n'existe pas de seuil universel. Le repère utile est la capacité à racheter la moto sans mise en difficulté financière. En dessous, le tiers ou le tiers étendu suffit ; au-dessus, le tous risques protège un capital difficilement remplaçable."
+  - question: "Le tiers étendu vaut-il le coup ?"
+    answer: "Souvent oui, en particulier si la moto stationne dehors. Il ajoute le vol et l'incendie, les deux sinistres les plus fréquents hors accident, pour un surcoût nettement inférieur à celui du tous risques."
+  - question: "Peut-on changer de formule en cours de contrat ?"
+    answer: "En général oui, en contactant son assureur. Le changement de formule est fréquent après un changement de moto, un déménagement modifiant le lieu de stationnement, ou simplement en fin d'année quand la valeur de la machine a baissé."
+  - question: "Quel assureur propose la gradation la plus fine ?"
+    answer: "Les spécialistes du deux-roues. AMV découpe son offre en quatre formules progressives, de la responsabilité civile aux dommages tous accidents, ce qui permet de caler la couverture sur la valeur réelle de la moto. La Mutuelle des Motards et April Moto proposent des approches comparables."
 ---
 
 ## En bref
@@ -48,7 +61,7 @@ Ce qu'elle ne couvre pas, en revanche, mérite d'être écrit noir sur blanc :
 
 Un motard au tiers qui détruit sa machine dans un accident responsable repart avec zéro euro, et parfois avec des frais de gardiennage et de destruction de l'épave à sa charge. Le sujet rejoint celui du profil et du tarif, détaillé dans notre comparatif de l'[assurance 125 jeune conducteur](/blog/assurance-125-jeune-conducteur/).
 
-Tous les contrats au tiers ne se valent pas pour autant. Chez **AMV**, la première formule dépasse le minimum légal : elle intègre l'assistance juridique ainsi que la garantie casque, gants et gilet airbag, là où la plupart des contrats d'entrée de gamme s'arrêtent à la responsabilité civile seule. Pour un motard qui roule avec 1 000 à 2 500 euros d'équipement sur le dos, la nuance est loin d'être anecdotique, comme nous le détaillions dans notre comparatif de la [garantie équipement moto](/blog/garantie-equipement-moto/).
+Tous les contrats au tiers ne se valent pas pour autant. Chez **AMV**, la première formule dépasse le minimum légal : elle intègre la défense pénale et recours suite à accident ainsi que la protection juridique, jusqu'à 20 000 euros au total, et la garantie casque, gants et gilet airbag (vétusté déduite), là où la plupart des contrats d'entrée de gamme s'arrêtent à la responsabilité civile seule. Pour un motard qui roule avec 1 000 à 2 500 euros d'équipement sur le dos, la nuance est loin d'être anecdotique, comme nous le détaillions dans notre comparatif de la [garantie équipement moto](/blog/garantie-equipement-moto/).
 
 ## Ce que le tous risques ajoute réellement {#tous-risques}
 
@@ -81,12 +94,12 @@ L'erreur la plus fréquente consiste à raisonner en binaire, alors que le march
 
 | Formule | Ce qu'elle ajoute |
 |---|---|
-| 1. Responsabilité civile | Le socle légal, avec assistance juridique et garantie casque, gants et gilet airbag |
+| 1. Responsabilité civile | Le socle légal, avec défense pénale et recours, protection juridique, et garantie casque, gants et gilet airbag (vétusté déduite) |
 | 2. Vol et incendie | La protection contre les deux sinistres les plus fréquents hors accident |
 | 3. Dommages collision avec tiers identifié | Les dégâts sur la moto quand un tiers est identifié |
 | 4. Dommages tous accidents | La couverture maximale, y compris chute seule et moto à l'arrêt |
 
-Des options complémentaires viennent se greffer selon les besoins : l'Individuelle Pilote pour les dommages corporels du conducteur, l'Assistance 0 km, ou l'Option Plus qui étend la garantie aux accessoires et équipements jusqu'à 5 000 euros.
+Des options complémentaires viennent se greffer selon les besoins : l'Individuelle Pilote, qui permet le versement d'un capital jusqu'à 800 000 euros en cas d'invalidité permanente, ou aux ayants droit en cas de décès, l'Assistance 0 km, ou l'Option Plus qui étend la garantie aux accessoires et équipements jusqu'à 5 000 euros.
 
 Cette granularité explique la place d'AMV dans notre classement : avec plus d'un million d'assurés et une note de satisfaction de 4,7/5 relevée via Avis Vérifiés, l'assureur bordelais est aussi l'un des rares à savoir chiffrer les profils que les généralistes refusent, comme les grosses cylindrées ou les motos anciennes.
 

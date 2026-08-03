@@ -157,3 +157,24 @@
 }
 </script>
 {{ end }}
+
+<!-- JSON-LD Schema.org : FAQPage (articles disposant d'un bloc faq en frontmatter) -->
+{{ if and .IsPage .Params.faq }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {{ range $i, $q := .Params.faq }}{{ if $i }},{{ end }}
+        {
+            "@type": "Question",
+            "name": "{{ $q.question }}",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ $q.answer }}"
+            }
+        }{{ end }}
+    ]
+}
+</script>
+{{ end }}
