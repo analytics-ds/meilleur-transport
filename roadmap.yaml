@@ -314,10 +314,10 @@ articles:
     volume: 1000
     kd: null
     scheduled_date: "2026-07-14"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-08-04"
+    published_url_fr: "https://meilleur-transport.com/blog/avantage-en-nature-voiture/"
+    published_url_en: "https://meilleur-transport.com/en/blog/company-car-benefit-in-kind/"
     error: null
 
   - kw: "reglementation trottinette electrique"
