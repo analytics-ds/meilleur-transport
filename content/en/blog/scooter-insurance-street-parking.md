@@ -63,7 +63,7 @@ Third-party liability is the legal minimum and stays compulsory, including for a
 
 In practice, with third-party cover: a stolen scooter is not reimbursed, forced bodywork is not repaired, a torn-off mirror stays at your expense, and so does the bike laid flat on the pavement. The only thing handled is damage caused to a third party, for instance the car door scratched by the scooter as it falls.
 
-That is a legitimate choice for an old, low-value 50 cc, provided it is made knowingly. The useful test is always the same: whether you could replace the vehicle overnight without it being a problem. We set out that trade-off in our guide to [third-party versus comprehensive motorcycle insurance](/en/blog/third-party-or-comprehensive-motorcycle-insurance/).
+That is a legitimate choice on an old, low-value scooter, provided it is made knowingly. The useful test is always the same: whether you could replace the vehicle overnight without it being a problem. We set out that trade-off in our guide to [third-party versus comprehensive motorcycle insurance](/en/blog/third-party-or-comprehensive-motorcycle-insurance/).
 
 ## The covers that matter when the scooter sleeps outside {#covers}
 

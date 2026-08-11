@@ -64,7 +64,7 @@ La responsabilité civile est le minimum légal et elle reste obligatoire, y com
 
 Concrètement, avec une formule au tiers : le scooter volé n'est pas remboursé, le carénage forcé n'est pas réparé, le rétroviseur arraché reste à charge, et le deux-roues couché sur le trottoir aussi. La seule chose prise en charge est le dommage causé à un tiers, par exemple la portière rayée par le scooter en tombant.
 
-C'est un choix légitime pour un vieux 50 cm³ de faible valeur, à condition de l'assumer en connaissance de cause. Le raisonnement utile est toujours le même : la capacité à racheter le véhicule du jour au lendemain sans que cela pose problème. Nous détaillons cet arbitrage dans notre guide sur [l'assurance moto au tiers ou tous risques](/blog/assurance-moto-tiers-ou-tous-risques/).
+C'est un choix légitime sur un scooter ancien de faible valeur, à condition de l'assumer en connaissance de cause. Le raisonnement utile est toujours le même : la capacité à racheter le véhicule du jour au lendemain sans que cela pose problème. Nous détaillons cet arbitrage dans notre guide sur [l'assurance moto au tiers ou tous risques](/blog/assurance-moto-tiers-ou-tous-risques/).
 
 ## Les garanties à retenir quand le scooter dort dehors {#garanties}
 
