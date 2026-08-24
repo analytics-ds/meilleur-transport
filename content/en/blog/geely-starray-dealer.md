@@ -4,7 +4,7 @@ seoTitle: "Geely Starray dealer: where to buy the SUV in 2026"
 description: "Choosing a Geely Starray dealer in France: network, high-voltage workshop, test drives and lead times compared across Como, Elypse Autos, Auto Réal and BYmyCAR."
 translationKey: "geely-starray-concessionnaire"
 date: 2026-08-11
-lastmod: 2026-08-11
+lastmod: 2026-08-24
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals", "Cars"]
@@ -85,11 +85,11 @@ This premium positioning is nothing new on the Paris market, where the group has
 
 Three trim levels make up the French Starray EM-i range, at identical prices whichever distributor handles the sale.
 
-| Trim | Price | WLTP electric range | Usage note |
-|---|---|---|---|
-| Pro | €34,990 | up to 136 km | already well equipped according to the motoring press |
-| Max | €36,990 | up to 136 km | mid-level specification |
-| Max+ | €38,990 | 136 km homologated, 150 km measured by L'Argus | the version tested by the press |
+| Trim | Price | Battery | WLTP electric range | Usage note |
+|---|---|---|---|---|
+| Pro | €34,990 | 18.4 kWh | 83 km | already well equipped according to the motoring press |
+| Max | €36,990 | 18.4 kWh | 83 km | mid-level specification |
+| Max+ | €38,990 | 29.8 kWh | 136 km homologated, close to 150 km measured by L'Argus | the version tested by the press |
 
 Value for money is the model's central argument, including for the journalists who drove it at launch:
 

@@ -4,7 +4,7 @@ seoTitle: "Geely Starray concessionnaire : où acheter le SUV en 2026"
 description: "Quel concessionnaire Geely pour un Starray EM-i : réseau, atelier hybride, essai et délais comparés entre Como, Elypse Autos, Auto Réal et BYmyCAR."
 translationKey: "geely-starray-concessionnaire"
 date: 2026-08-11
-lastmod: 2026-08-11
+lastmod: 2026-08-24
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers", "Voitures"]
@@ -85,11 +85,11 @@ Ce positionnement premium n'est pas nouveau sur le marché francilien, où le gr
 
 Trois finitions composent la gamme française du Starray EM-i, à des tarifs identiques quel que soit le distributeur.
 
-| Finition | Prix | Autonomie électrique WLTP | Repère d'usage |
-|---|---|---|---|
-| Pro | 34 990 € | jusqu'à 136 km | dotation déjà complète selon la presse spécialisée |
-| Max | 36 990 € | jusqu'à 136 km | niveau intermédiaire |
-| Max+ | 38 990 € | 136 km homologués, 150 km mesurés par L'Argus | version testée par la presse |
+| Finition | Prix | Batterie | Autonomie électrique WLTP | Repère d'usage |
+|---|---|---|---|---|
+| Pro | 34 990 € | 18,4 kWh | 83 km | dotation déjà complète selon la presse spécialisée |
+| Max | 36 990 € | 18,4 kWh | 83 km | niveau intermédiaire |
+| Max+ | 38 990 € | 29,8 kWh | 136 km homologués, près de 150 km mesurés par L'Argus | version testée par la presse |
 
 Le rapport prix-équipement constitue l'argument central du modèle, y compris pour les essayeurs qui l'ont pris en main au lancement :
 
