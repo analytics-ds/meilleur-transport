@@ -54,7 +54,7 @@ The final price depends on the vehicle's profile. A few examples set the orders 
 
 For a **small city car of 5 fiscal horsepower**, the regional tax is between 215 and 300 euros depending on the region, plus the 11 euros of management and 2.76 euros of delivery. The bill is therefore around 230 to 315 euros, without any penalty.
 
-For a **powerful, high-emitting new vehicle**, the ecological penalty changes everything. On the highest-emitting models, it can add several thousand euros to the registration cost, far beyond the regional tax alone.
+For a **powerful, high-emitting new vehicle**, the ecological penalty changes everything. On the highest-emitting models, it can add several thousand euros to the registration cost, far beyond the regional tax alone. A car bought in another EU country adds one step before registration, the payment of French VAT, a mechanism set out on the example of a [Geely Starray bought in Europe](/en/blog/buy-geely-starray-europe/).
 
 For a **used vehicle over 10 years old**, the regional tax benefits from a 50 percent reduction. This often-overlooked point significantly lightens the bill on older cars.
 

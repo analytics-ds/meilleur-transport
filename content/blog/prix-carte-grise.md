@@ -54,7 +54,7 @@ Le prix final dépend du profil du véhicule. Quelques exemples permettent de fi
 
 Pour une **petite citadine de 5 chevaux fiscaux**, la taxe régionale se situe entre 215 et 300 euros selon la région, à laquelle s'ajoutent les 11 euros de gestion et les 2,76 euros d'acheminement. La facture tourne donc autour de 230 à 315 euros, sans malus.
 
-Pour un **véhicule neuf puissant et émetteur**, le malus écologique change complètement la donne. Sur les modèles les plus émetteurs, il peut ajouter plusieurs milliers d'euros au coût de la carte grise, bien au-delà de la seule taxe régionale.
+Pour un **véhicule neuf puissant et émetteur**, le malus écologique change complètement la donne. Sur les modèles les plus émetteurs, il peut ajouter plusieurs milliers d'euros au coût de la carte grise, bien au-delà de la seule taxe régionale. Le cas d'un véhicule acheté dans un autre pays de l'Union ajoute une étape avant l'immatriculation, le paiement de la TVA française, dont le mécanisme est détaillé sur l'exemple d'un [Geely Starray acheté en Europe](/blog/acheter-geely-starray-europe/).
 
 Pour un **véhicule d'occasion de plus de 10 ans**, la taxe régionale bénéficie d'un abattement de 50 pour cent. C'est un point souvent ignoré qui allège nettement la note sur les voitures anciennes.
 

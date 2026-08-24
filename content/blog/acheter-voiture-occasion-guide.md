@@ -72,4 +72,4 @@ Consultez nos autres guides pour compléter votre réflexion sur la [mobilité d
 
 Côté SUV, le comparatif [Dacia Bigster vs Duster](/blog/bigster-vs-duster/) détaille les points de contrôle spécifiques à cette gamme populaire, et Peugeot 3008 vs 5008 pose les mêmes questions chez Stellantis. Pour les citadines, voir Peugeot 208 vs Renault Clio 5 avec les spécificités d'occasion de ces deux best-sellers.
 
-Pour un passage à l'électrique en occasion, [Tesla Model 3 vs Model Y](/blog/tesla-model-3-vs-model-y/) explique les points de vérification propres aux Tesla (batterie, HW4, Supercharge).
+Pour un passage à l'électrique en occasion, [Tesla Model 3 vs Model Y](/blog/tesla-model-3-vs-model-y/) explique les points de vérification propres aux Tesla (batterie, HW4, Supercharge). Et pour ceux qui envisagent d'aller chercher la remise hors de France, le calcul complet d'un import est posé sur le cas d'un [Geely Starray acheté en Europe](/blog/acheter-geely-starray-europe/), frais annexes compris.

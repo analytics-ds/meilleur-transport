@@ -28,7 +28,7 @@ The purchase price is only part of the cost. Anticipate:
 
 ## Key checks before buying
 
-A technical inspection less than 6 months old is mandatory for vehicles over 4 years. Request the complete service booklet, repair invoices and the official Histovec certificate showing the vehicle's history. A road test of at least 20 minutes, in town and on the motorway, helps detect abnormal noise, vibrations or engine and gearbox weaknesses.
+A technical inspection less than 6 months old is mandatory for vehicles over 4 years. Request the complete service booklet, repair invoices and the official Histovec certificate showing the vehicle's history. A road test of at least 20 minutes, in town and on the motorway, helps detect abnormal noise, vibrations or engine and gearbox weaknesses. For anyone considering hunting the discount outside France, the full import calculation is worked through on the case of a [Geely Starray bought in Europe](/en/blog/buy-geely-starray-europe/), incidental costs included.
 
 ## Further reading
 

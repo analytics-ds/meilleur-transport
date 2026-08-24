@@ -125,7 +125,7 @@ In the south-west, Auto Réal Group is the only entry point across Bordeaux, Tou
 
 Along the Mediterranean, Baldassari Automobiles and BYmyCAR share five sites between Bouches-du-Rhône and Alpes-Maritimes, the densest cluster in the country after the Paris region.
 
-Elsewhere, the decision rests less on the distributor than on the calendar. Normandy, Brittany and Centre-Val de Loire still had no confirmed sales point in mid-2026, while the brand targets 70 addresses by the end of 2026 and 120 in 2027. Waiting for a local opening often costs less than absorbing several hundred kilometres at every workshop visit. For a family still weighing up powertrains, our overview of [hybrid 7-seater cars](/en/blog/hybrid-7-seater-car/) offers further points of comparison in the segment.
+Elsewhere, the decision rests less on the distributor than on the calendar. Normandy, Brittany and Centre-Val de Loire still had no confirmed sales point in mid-2026, while the brand targets 70 addresses by the end of 2026 and 120 in 2027. Waiting for a local opening often costs less than absorbing several hundred kilometres at every workshop visit. Buying abroad is the other option on the table, and what it actually saves is calculated in our analysis of [where to buy a Geely Starray in Europe](/en/blog/buy-geely-starray-europe/), French VAT included. For a family still weighing up powertrains, our overview of [hybrid 7-seater cars](/en/blog/hybrid-7-seater-car/) offers further points of comparison in the segment.
 
 ## Frequently asked questions {#faq}
 

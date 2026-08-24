@@ -100,7 +100,7 @@ Trois régions restaient sans distributeur officialisé à la mi-2026 : la Norma
 
 **Les conditions de reprise.** Puisque le tarif catalogue et les loyers sont fixés par l'importateur, de 366 à 419 € par mois pour le Starray EM-i et de 399 à 439 € pour le E5 en location longue durée, la valeur accordée à l'ancien véhicule devient le principal levier de négociation. Une offre de lancement à 299 € par mois a circulé au démarrage, avec un apport de 10 % sur le Starray et de 13 % sur le E5, les montages passant par CA Auto Bank et Drivalia.
 
-Sur le rapport prix-équipement, la gamme Geely se compare surtout aux autres constructeurs chinois du segment, un terrain balisé par des modèles comme le [BYD Seal face à la Tesla Model 3](/blog/byd-seal-vs-tesla-model-3/) ou par les [voitures électriques les moins chères](/blog/meilleure-voiture-electrique-pas-chere/) du marché.
+Sur le rapport prix-équipement, la gamme Geely se compare surtout aux autres constructeurs chinois du segment, un terrain balisé par des modèles comme le [BYD Seal face à la Tesla Model 3](/blog/byd-seal-vs-tesla-model-3/) ou par les [voitures électriques les moins chères](/blog/meilleure-voiture-electrique-pas-chere/) du marché. La comparaison vaut aussi d'un pays a l'autre : les prix releves pour [acheter un Geely Starray en Europe](/blog/acheter-geely-starray-europe/) montrent un ecart hors taxes inferieur a 2 000 euros entre la France, l'Espagne, la Belgique et le Portugal.
 
 ## Ce qui va changer dans le réseau d'ici 2028 {#trajectoire}
 

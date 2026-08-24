@@ -100,7 +100,7 @@ Three regions still had no confirmed distributor as of mid-2026: Normandy, Britt
 
 **Trade-in terms.** Since list prices and leasing rates are set by the importer, from €366 to €419 per month for the Starray EM-i and €399 to €439 for the E5 on long-term lease, the value placed on the old car becomes the main negotiating lever. A launch offer at €299 per month circulated at the start, with a deposit of 10% on the Starray and 13% on the E5, financing arranged through CA Auto Bank and Drivalia.
 
-On value for money, the Geely range is mainly measured against other Chinese manufacturers in the segment, ground already mapped by models such as the [BYD Seal against the Tesla Model 3](/en/blog/byd-seal-vs-tesla-model-3/) and by the [cheapest electric cars](/en/blog/cheapest-electric-car/) on the market.
+On value for money, the Geely range is mainly measured against other Chinese manufacturers in the segment, ground already mapped by models such as the [BYD Seal against the Tesla Model 3](/en/blog/byd-seal-vs-tesla-model-3/) and by the [cheapest electric cars](/en/blog/cheapest-electric-car/) on the market. The comparison also runs across borders: the prices recorded to [buy a Geely Starray in Europe](/en/blog/buy-geely-starray-europe/) show a pre-tax spread of under 2,000 € between France, Spain, Belgium and Portugal.
 
 ## How the network will change by 2028 {#trajectory}
 
