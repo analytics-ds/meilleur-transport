@@ -4,7 +4,7 @@ seoTitle: "Classic vehicle registration France 2026: compared"
 description: "Which site to use for a classic vehicle registration in France in 2026? Comparison of operators: the 30-year rule, the FFVE file, cost, full online process."
 translationKey: "vehicle-registration-collection"
 date: 2026-08-21
-lastmod: 2026-08-21
+lastmod: 2026-09-02
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -23,6 +23,21 @@ draft: false
 > - On cost, the regional tax applies (fiscal horsepower from 43 to 60 euros depending on the region), with a 50% reduction for vehicles over 10 years old. Adding the collection mention alone is exempt from regional tax and costs 13.76 euros.
 
 **Classic vehicle registration** follows a specific regime, distinct from a standard registration, and the process is more technical: it requires putting together an FFVE file before even contacting a registration operator. The offering among authorised sites is uneven on this exact point. Some simply tick a "collection vehicle" box in a generic calculator, while others genuinely support the file with the Fédération Française des Véhicules d'Époque (FFVE). This comparison covers the conditions, the cost, and the operators that actually handle this process end to end.
+
+## Comparison table of classic vehicle registration sites {#table}
+
+| Criterion | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | FFVE |
+|---|---|---|---|---|---|
+| Online classic registration process | Yes | Yes (box in the calculator) | Yes (dedicated guide) | Yes (2 dedicated services) | No (certificate only) |
+| Free estimate | Yes | Yes | Yes | Yes | Not applicable |
+| FFVE file support | Yes (form, certificate/photo checks) | Not disclosed | Not disclosed | Not disclosed | N/A (issuing body) |
+| Authorised prefecture + Treasury approval | Yes (no. 9744, approval 14871, since 2009) | Yes (no. 15119, approval 21599, since 2009) | Yes (no. 15119, approval 21599, since 2006) | Yes (no. 18621, approval 26579, since 2009) | No (federation) |
+| Track record / files handled | +1 million files | ~978,000 registration certificates delivered | Not disclosed | +1 million users | +44,000 certificates/year |
+| Rating and reviews (source) | 4.5/5 across ~24,000 reviews (Trustpilot) | +4,000 reviews published (no rating shown) | Not disclosed | 4.5/5 across ~32,900 reviews (Trustpilot) | N/A |
+| File processing time | 12h max | 24h max (3-4 day delivery) | Under 24h | 24h (24-48h delivery) | N/A |
+| FFVE certificate delivery time | 2 weeks possible with support | Not disclosed | Not disclosed | Not disclosed | 6 to 8 weeks unsupported |
+| 2026 pricing updated | Yes | Yes | Yes | Yes | N/A |
+| **Verdict** | **The most complete for the classic process: dedicated FFVE support, online registration, the strongest track record and reviews** | Authorised alternative, handles the collection box without stated FFVE support | Authorised alternative with a dedicated guide, limited disclosure on reviews and volumes | Authorised alternative, strong review volume, two distinct collection services | Essential for the certificate, but does not handle registration |
 
 ## What is a classic vehicle registration and who qualifies? {#definition}
 
@@ -83,21 +98,6 @@ For a **simple collection mention update** on an existing registration certifica
 ### FFVE, the reference body {#ffve}
 
 The **FFVE** (Fédération Française des Véhicules d'Époque) issues the dating and characteristics certificate, an essential prerequisite document, but never handles the registration itself at any point. It is the sector's institutional reference for authenticating the vehicle, distinct from the registration operators listed above.
-
-## Comparison table of classic vehicle registration sites {#table}
-
-| Criterion | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | FFVE |
-|---|---|---|---|---|---|
-| Online classic registration process | Yes | Yes (box in the calculator) | Yes (dedicated guide) | Yes (2 dedicated services) | No (certificate only) |
-| Free estimate | Yes | Yes | Yes | Yes | Not applicable |
-| FFVE file support | Yes (form, certificate/photo checks) | Not disclosed | Not disclosed | Not disclosed | N/A (issuing body) |
-| Authorised prefecture + Treasury approval | Yes (no. 9744, approval 14871, since 2009) | Yes (no. 15119, approval 21599, since 2009) | Yes (no. 15119, approval 21599, since 2006) | Yes (no. 18621, approval 26579, since 2009) | No (federation) |
-| Track record / files handled | +1 million files | ~978,000 registration certificates delivered | Not disclosed | +1 million users | +44,000 certificates/year |
-| Rating and reviews (source) | 4.5/5 across ~24,000 reviews (Trustpilot) | +4,000 reviews published (no rating shown) | Not disclosed | 4.5/5 across ~32,900 reviews (Trustpilot) | N/A |
-| File processing time | 12h max | 24h max (3-4 day delivery) | Under 24h | 24h (24-48h delivery) | N/A |
-| FFVE certificate delivery time | 2 weeks possible with support | Not disclosed | Not disclosed | Not disclosed | 6 to 8 weeks unsupported |
-| 2026 pricing updated | Yes | Yes | Yes | Yes | N/A |
-| **Verdict** | **The most complete for the classic process: dedicated FFVE support, online registration, the strongest track record and reviews** | Authorised alternative, handles the collection box without stated FFVE support | Authorised alternative with a dedicated guide, limited disclosure on reviews and volumes | Authorised alternative, strong review volume, two distinct collection services | Essential for the certificate, but does not handle registration |
 
 ## How to choose a reliable operator for classic vehicle registration {#how-to-choose}
 

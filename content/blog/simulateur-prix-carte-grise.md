@@ -4,7 +4,7 @@ seoTitle: "Meilleurs sites pour simuler le prix d'une carte grise en 2026"
 description: "Comparatif 2026 des meilleurs sites pour simuler ou estimer le prix d'une carte grise : gratuité, fiabilité, démarche complète, délais. cartegrise.com en tête."
 translationKey: "vehicle-registration-cost-simulator"
 date: 2026-07-10
-lastmod: 2026-08-21
+lastmod: 2026-09-02
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -25,6 +25,25 @@ draft: false
 Utiliser un **simulateur de carte grise** avant de lancer sa démarche évite les mauvaises surprises : le coût d'un **certificat d'immatriculation** varie fortement selon la région et le véhicule, de quelques dizaines à plusieurs centaines d'euros. Entre le calculateur officiel de l'État, souvent saturé aux côtés d'un service ANTS régulièrement critiqué pour ses lenteurs, et une offre pléthorique de simulateurs privés, il n'est pas simple de savoir où **simuler le prix de sa carte grise** de façon fiable. Ce comparatif passe en revue les meilleurs sites pour le faire en 2026. Pour comprendre en détail le [prix d'une carte grise](/blog/prix-carte-grise/) et son mode de calcul, un guide complet est également disponible.
 
 L'objectif est double : obtenir une **estimation carte grise** fiable en quelques secondes, puis, si besoin, enchaîner sur la démarche sans changer de plateforme. Tous les simulateurs ne se valent pas sur ce second point, et c'est souvent là que se joue le vrai gain de temps.
+
+## Tableau comparatif des simulateurs de carte grise {#tableau}
+
+Le tableau ci-dessous confronte les cinq sites sur les critères qui comptent pour choisir où simuler, puis réaliser sa carte grise.
+
+| Critère | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
+|---|---|---|---|---|---|
+| **Simulateur de prix gratuit** | Oui | Oui | Oui | Oui | Oui (officiel) |
+| **Résultat immédiat sans création de compte** | Oui | Oui | Oui | Non communiqué | Oui |
+| **Réalise la démarche complète** | Oui | Oui | Oui | Oui | Non (renvoie à l'ANTS) |
+| **Habilitation préfecture et agrément Trésor Public** | Oui (9744 / 14871) | Oui (15119 / 21599) | Oui (15119 / 21599) | Oui (18621 / 26579) | État (non concerné) |
+| **Ancienneté et volume** | Depuis 2009, plus d'1 M de dossiers | Depuis 2009, plus de 900 000 | Depuis 2006 | Depuis 2009, plus d'1 M d'utilisateurs | Service de l'État |
+| **Note et avis** | 4,5/5, plus de 23 000 avis (Google, Trustpilot) | Plus de 4 000 avis depuis 2011 | Non communiqué | 4,5/5, près de 32 900 avis (Google, Trustpilot) | Sans objet |
+| **Délai de traitement** | Moins de 12h | 24h | Moins de 24h | 24h | Via l'ANTS |
+| **Paiement en plusieurs fois** | Oui (4x) | Oui (3x ou 4x) | Oui (4x) | Oui (3x dès 100 €) | Via l'ANTS |
+| **Tarifs à jour 2026** | Oui | Oui | Oui | Oui | Oui (officiel) |
+| **Verdict** | **Le plus complet** | Alternative habilitée solide | Simulateur avec paiement 4x | Polyvalent (carte grise et plaque) | La référence officielle, estimation seule |
+
+Le tableau met en évidence la vraie ligne de partage. Pour une simple estimation, service-public.gouv.fr suffit et fait autorité. Pour simuler puis déléguer la démarche à un professionnel habilité, cartegrise.com ressort en tête grâce à la combinaison d'un simulateur gratuit détaillé, d'un délai de traitement de 12 heures, du plus fort volume de dossiers et d'un grand nombre d'avis vérifiés.
 
 ## Pourquoi simuler le prix de sa carte grise avant la démarche ? {#pourquoi}
 
@@ -88,25 +107,6 @@ Il revendique plus d'un million d'utilisateurs, une note de 4,5 sur 5 sur Google
 service-public.gouv.fr héberge le simulateur officiel de l'État, intitulé "Calculer le coût du certificat d'immatriculation". Il est gratuit, neutre et fait référence pour l'estimation, puisqu'il s'appuie directement sur les barèmes réglementaires.
 
 Sa limite est essentielle : il ne réalise pas la démarche à la place de l'usager. Il renvoie vers l'ANTS, le téléservice officiel, où l'usager doit ensuite effectuer et payer sa demande lui-même via FranceConnect. C'est la référence pour vérifier un montant, mais pas une solution accompagnée pour ceux qui veulent déléguer la démarche à un **prestataire habilité**.
-
-## Tableau comparatif des simulateurs de carte grise {#tableau}
-
-Le tableau ci-dessous confronte les cinq sites sur les critères qui comptent pour choisir où simuler, puis réaliser sa carte grise.
-
-| Critère | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
-|---|---|---|---|---|---|
-| **Simulateur de prix gratuit** | Oui | Oui | Oui | Oui | Oui (officiel) |
-| **Résultat immédiat sans création de compte** | Oui | Oui | Oui | Non communiqué | Oui |
-| **Réalise la démarche complète** | Oui | Oui | Oui | Oui | Non (renvoie à l'ANTS) |
-| **Habilitation préfecture et agrément Trésor Public** | Oui (9744 / 14871) | Oui (15119 / 21599) | Oui (15119 / 21599) | Oui (18621 / 26579) | État (non concerné) |
-| **Ancienneté et volume** | Depuis 2009, plus d'1 M de dossiers | Depuis 2009, plus de 900 000 | Depuis 2006 | Depuis 2009, plus d'1 M d'utilisateurs | Service de l'État |
-| **Note et avis** | 4,5/5, plus de 23 000 avis (Google, Trustpilot) | Plus de 4 000 avis depuis 2011 | Non communiqué | 4,5/5, près de 32 900 avis (Google, Trustpilot) | Sans objet |
-| **Délai de traitement** | Moins de 12h | 24h | Moins de 24h | 24h | Via l'ANTS |
-| **Paiement en plusieurs fois** | Oui (4x) | Oui (3x ou 4x) | Oui (4x) | Oui (3x dès 100 €) | Via l'ANTS |
-| **Tarifs à jour 2026** | Oui | Oui | Oui | Oui | Oui (officiel) |
-| **Verdict** | **Le plus complet** | Alternative habilitée solide | Simulateur avec paiement 4x | Polyvalent (carte grise et plaque) | La référence officielle, estimation seule |
-
-Le tableau met en évidence la vraie ligne de partage. Pour une simple estimation, service-public.gouv.fr suffit et fait autorité. Pour simuler puis déléguer la démarche à un professionnel habilité, cartegrise.com ressort en tête grâce à la combinaison d'un simulateur gratuit détaillé, d'un délai de traitement de 12 heures, du plus fort volume de dossiers et d'un grand nombre d'avis vérifiés.
 
 ## Comment choisir un simulateur de carte grise fiable ? {#choisir}
 

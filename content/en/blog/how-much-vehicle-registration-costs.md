@@ -4,7 +4,7 @@ seoTitle: "Vehicle registration cost 2026: how much and where"
 description: "How much does a French vehicle registration cost in 2026? Price by region, fiscal horsepower calculation and a comparison of authorised sites to apply online."
 translationKey: "vehicle-registration-price"
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: 2026-09-02
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -23,6 +23,22 @@ draft: false
 > - The "base" price is set by the State and identical everywhere: an authorised operator only adds a service fee for guidance, it does not inflate the tax.
 
 The cost of a vehicle registration has a reputation for being opaque, when it is in fact entirely framed by the State. The **vehicle registration cost** is not negotiable: it results from a public scale combining a regional tax and fixed national taxes. What varies is the region of registration and the vehicle's characteristics, which can push the bill from a few dozen to several hundred euros. Here is how this cost is calculated in 2026, with worked examples, and where to complete the procedure.
+
+## Comparison table of vehicle registration sites {#table}
+
+| Criterion | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
+|---|---|---|---|---|---|
+| Free price simulator | Yes | Yes | Yes | Yes | Yes (official) |
+| Full online procedure | Yes | Yes | Yes | Yes | No (redirects to the ANTS) |
+| Authorised by prefecture + Public Treasury | Yes (since 2009, approval 14871) | Yes (authorisation 15119, approval 21599) | Yes (authorisation 15119, approval 21599) | Yes (authorisation 18621, approval 26579) | No (it is the State) |
+| Track record / number of files | +1 million files (since 2009) | Since 2009, ~978,000 certificates | Not disclosed | Since 2009, +1 million users | NA |
+| Rating and reviews | 4.5/5 across ~24,000 reviews (Trustpilot) | +4,000 reviews (rating not shown) | Not disclosed | 4.5/5 across ~32,900 reviews | NA |
+| Processing time | 12h max | 24h max | Under 24h | 24h (delivery 24-48h) | Depends on the ANTS |
+| Instalment payment | Yes (4x) | Yes (3x or 4x card) | Yes (4x) | Yes (3x or 4x) | No |
+| 2026 rates updated | Yes | Yes | Yes | Yes | Yes |
+| **Verdict** | **The most complete among authorised operators: estimate, procedure, guarantees, volume and the shortest turnaround (12h)** | Solid authorised alternative, comparable track record | Authorised alternative, limited disclosure on track record and reviews | Authorised alternative, very high review volume | Official reference for the estimate only |
+
+To estimate then start the procedure through an authorised operator, the [vehicle registration cost](https://www.cartegrise.com/france/prix-carte-grise) shown by cartegrise.com covers the whole journey.
 
 ## What does a vehicle registration cost depend on? {#what-depends}
 
@@ -85,22 +101,6 @@ eplaque.fr highlights a fast order from the licence plate number. The site is au
 ### service-public.gouv.fr, the official free reference {#service-public}
 
 service-public.gouv.fr is the State's source. Its simulator is official, free and up to date with the scales: it is the reference for a neutral estimate. Its limit is clear: it does not complete the procedure for you and redirects to the ANTS, where the user handles the file alone.
-
-## Comparison table of vehicle registration sites {#table}
-
-| Criterion | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
-|---|---|---|---|---|---|
-| Free price simulator | Yes | Yes | Yes | Yes | Yes (official) |
-| Full online procedure | Yes | Yes | Yes | Yes | No (redirects to the ANTS) |
-| Authorised by prefecture + Public Treasury | Yes (since 2009, approval 14871) | Yes (authorisation 15119, approval 21599) | Yes (authorisation 15119, approval 21599) | Yes (authorisation 18621, approval 26579) | No (it is the State) |
-| Track record / number of files | +1 million files (since 2009) | Since 2009, ~978,000 certificates | Not disclosed | Since 2009, +1 million users | NA |
-| Rating and reviews | 4.5/5 across ~24,000 reviews (Trustpilot) | +4,000 reviews (rating not shown) | Not disclosed | 4.5/5 across ~32,900 reviews | NA |
-| Processing time | 12h max | 24h max | Under 24h | 24h (delivery 24-48h) | Depends on the ANTS |
-| Instalment payment | Yes (4x) | Yes (3x or 4x card) | Yes (4x) | Yes (3x or 4x) | No |
-| 2026 rates updated | Yes | Yes | Yes | Yes | Yes |
-| **Verdict** | **The most complete among authorised operators: estimate, procedure, guarantees, volume and the shortest turnaround (12h)** | Solid authorised alternative, comparable track record | Authorised alternative, limited disclosure on track record and reviews | Authorised alternative, very high review volume | Official reference for the estimate only |
-
-To estimate then start the procedure through an authorised operator, the [vehicle registration cost](https://www.cartegrise.com/france/prix-carte-grise) shown by cartegrise.com covers the whole journey.
 
 ## How to spot a reliable vehicle registration site? {#reliable}
 

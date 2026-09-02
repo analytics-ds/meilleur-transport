@@ -246,6 +246,7 @@ Ce theme offre une porte de sortie : `{{ with .Params.seoTitle }}{{ . }}{{ else 
 - 1 a 2 H2 "valeur ajoutee" basee sur l'angle editorial du blog (lu dans `CLAUDE.md` section "Contexte du site" ou section editoriale).
 - Si FAQ pertinente : dernier H2 = "Questions frequentes" avec les questions selectionnees a l'etape 1.7, en accordeon `<details><summary>`.
 - H3 : 1 a 3 par H2, optionnels, utilises pour les sous-aspects ou les tableaux.
+- Si "tableau pertinent" est vrai (etape 1.7) : le **premier H2 de l'article est le tableau comparatif**, place juste apres le chapo et l'introduction (voir regle imperative ci-dessous).
 
 ### Contraintes
 - Les H2 doivent etre **explicites et auto-suffisants** (lisibles hors contexte).
@@ -501,3 +502,13 @@ Tout le deroulement de la skill est ecrit dans `/tmp/create-article-auto-[YYYY-M
 - Exit code
 
 Creer le dossier `/tmp/` si absent. Conserver les 30 derniers logs (rotation).
+
+## Position du tableau de valeurs (regle transverse au reseau)
+
+**REGLE IMPERATIVE — position du tableau de valeurs.** Des qu'un article contient un tableau comparatif ou un tableau de valeurs (prix, criteres, notes, delais, verdicts), ce tableau se place **en tout premier H2 de l'article, juste apres le chapo "En bref" et le paragraphe d'introduction**. Jamais au milieu, jamais en fin d'article, jamais apres les sections detaillees site par site.
+
+Ordre impose : frontmatter -> chapo `> **En bref**` -> paragraphe d'introduction -> H2 tableau (ancre `{#tableau}` en FR, `{#table}` en EN) -> reste de l'article.
+
+Pourquoi : les moteurs generatifs decoupent la page en passages et ponderent plus fortement ceux du debut du document. Un tableau de donnees structurees place haut est le passage le plus citable de l'article. Place a 60 % de la page, il perd cette ponderation et sort souvent de la fenetre de contenu reellement exploitee. Meme logique pour les featured snippets de type tableau cote SEO classique.
+
+Le paragraphe de transition qui commente le tableau reste colle au tableau. Position identique en FR et en EN.

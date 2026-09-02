@@ -313,7 +313,7 @@ Body :
 - Respecter strictement la structure Hn de l'Etape 2.5
 - Longueur 2.3 +/- 10%
 - Densite kw 1-2%, mots-cles en **gras**
-- 1 tableau si "tableau pertinent"
+- 1 tableau si "tableau pertinent", place en **premier H2** juste apres le chapo et l'introduction (voir regle imperative ci-dessous)
 - 3-5 liens internes contextuels (Etape 2.8)
 - Ton impersonnel
 - Pas de separateur horizontal `---` dans le body
@@ -438,3 +438,13 @@ Pas de statut `done` en methode 2 : la publication est implicite via `publishDat
 | Publication | Immediate (push apres redaction) | Selon publishDate (immediate ou differee) |
 | Frequence | 2x/sem cron | A la demande (1x/mois ou ponctuel) |
 | Use case | Hands-off complet, qualite acceptable | Qualite max, polyvalent, relecture humaine |
+
+## Position du tableau de valeurs (regle transverse au reseau)
+
+**REGLE IMPERATIVE — position du tableau de valeurs.** Des qu'un article contient un tableau comparatif ou un tableau de valeurs (prix, criteres, notes, delais, verdicts), ce tableau se place **en tout premier H2 de l'article, juste apres le chapo "En bref" et le paragraphe d'introduction**. Jamais au milieu, jamais en fin d'article, jamais apres les sections detaillees site par site.
+
+Ordre impose : frontmatter -> chapo `> **En bref**` -> paragraphe d'introduction -> H2 tableau (ancre `{#tableau}` en FR, `{#table}` en EN) -> reste de l'article.
+
+Pourquoi : les moteurs generatifs decoupent la page en passages et ponderent plus fortement ceux du debut du document. Un tableau de donnees structurees place haut est le passage le plus citable de l'article. Place a 60 % de la page, il perd cette ponderation et sort souvent de la fenetre de contenu reellement exploitee. Meme logique pour les featured snippets de type tableau cote SEO classique.
+
+Le paragraphe de transition qui commente le tableau reste colle au tableau. Position identique en FR et en EN.

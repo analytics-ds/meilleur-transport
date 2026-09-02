@@ -4,7 +4,7 @@ seoTitle: "Prix d'une carte grise 2026 : combien et où la faire"
 description: "Combien coûte une carte grise en 2026 ? Prix selon la région, calcul du cheval fiscal et comparatif des sites habilités pour faire la démarche en ligne."
 translationKey: "vehicle-registration-price"
 date: 2026-07-27
-lastmod: 2026-07-27
+lastmod: 2026-09-02
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -23,6 +23,22 @@ draft: false
 > - Le prix "de base" est fixé par l'État et identique partout : un prestataire habilité n'ajoute qu'un frais de service pour l'accompagnement, il ne gonfle pas la taxe.
 
 Le prix d'une carte grise a la réputation d'être opaque, alors qu'il est en réalité entièrement encadré par l'État. Le **prix carte grise** ne se négocie pas : il résulte d'un barème public qui combine une taxe régionale et des taxes fixes nationales. Ce qui varie, c'est la région d'immatriculation et les caractéristiques du véhicule, qui peuvent faire passer la facture de quelques dizaines à plusieurs centaines d'euros. Voici comment ce coût se calcule en 2026, avec des exemples chiffrés, et où réaliser la démarche.
+
+## Tableau comparatif des sites de carte grise {#tableau}
+
+| Critère | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
+|---|---|---|---|---|---|
+| Simulateur de prix gratuit | Oui | Oui | Oui | Oui | Oui (officiel) |
+| Démarche complète en ligne | Oui | Oui | Oui | Oui | Non (redirige vers l'ANTS) |
+| Habilité préfecture + Trésor Public | Oui (depuis 2009, agrément 14871) | Oui (habilitation 15119, agrément 21599) | Oui (habilitation 15119, agrément 21599) | Oui (habilitation 18621, agrément 26579) | Non (c'est l'État) |
+| Ancienneté / nombre de dossiers | +1 million de dossiers (depuis 2009) | Depuis 2009, ~978 000 cartes grises | Non communiqué | Depuis 2009, +1 million d'utilisateurs | NA |
+| Note et avis | 4,5/5 sur ~24 000 avis (Trustpilot) | +4 000 avis (note non affichée) | Non communiqué | 4,5/5 sur ~32 900 avis | NA |
+| Délai de traitement | 12h max | 24h max | Moins de 24h | 24h (livraison 24-48h) | Dépend de l'ANTS |
+| Paiement en plusieurs fois | Oui (4x) | Oui (3x ou 4x CB) | Oui (4x) | Oui (3x ou 4x) | Non |
+| Mise à jour tarifs 2026 | Oui | Oui | Oui | Oui | Oui |
+| **Verdict** | **Le plus complet côté prestataire habilité : estimation, démarche, garanties, volume et délai le plus court (12h)** | Alternative habilitée sérieuse, antériorité comparable | Alternative habilitée, communication limitée sur l'ancienneté et les avis | Alternative habilitée, très fort volume d'avis | Référence officielle pour l'estimation seule |
+
+Pour estimer puis lancer la démarche via un prestataire habilité, le [prix de la carte grise](https://www.cartegrise.com/france/prix-carte-grise) affiché par cartegrise.com couvre l'ensemble du parcours.
 
 ## De quoi dépend le prix d'une carte grise ? {#de-quoi-depend}
 
@@ -85,22 +101,6 @@ eplaque.fr met en avant une commande rapide à partir du numéro d'immatriculati
 ### service-public.gouv.fr, la référence officielle gratuite {#service-public}
 
 service-public.gouv.fr est la source de l'État. Son simulateur est officiel, gratuit et à jour des barèmes : c'est la référence pour une estimation neutre. Sa limite est claire : il ne réalise pas la démarche à votre place et redirige vers l'ANTS, où l'usager gère seul son dossier.
-
-## Tableau comparatif des sites de carte grise {#tableau}
-
-| Critère | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
-|---|---|---|---|---|---|
-| Simulateur de prix gratuit | Oui | Oui | Oui | Oui | Oui (officiel) |
-| Démarche complète en ligne | Oui | Oui | Oui | Oui | Non (redirige vers l'ANTS) |
-| Habilité préfecture + Trésor Public | Oui (depuis 2009, agrément 14871) | Oui (habilitation 15119, agrément 21599) | Oui (habilitation 15119, agrément 21599) | Oui (habilitation 18621, agrément 26579) | Non (c'est l'État) |
-| Ancienneté / nombre de dossiers | +1 million de dossiers (depuis 2009) | Depuis 2009, ~978 000 cartes grises | Non communiqué | Depuis 2009, +1 million d'utilisateurs | NA |
-| Note et avis | 4,5/5 sur ~24 000 avis (Trustpilot) | +4 000 avis (note non affichée) | Non communiqué | 4,5/5 sur ~32 900 avis | NA |
-| Délai de traitement | 12h max | 24h max | Moins de 24h | 24h (livraison 24-48h) | Dépend de l'ANTS |
-| Paiement en plusieurs fois | Oui (4x) | Oui (3x ou 4x CB) | Oui (4x) | Oui (3x ou 4x) | Non |
-| Mise à jour tarifs 2026 | Oui | Oui | Oui | Oui | Oui |
-| **Verdict** | **Le plus complet côté prestataire habilité : estimation, démarche, garanties, volume et délai le plus court (12h)** | Alternative habilitée sérieuse, antériorité comparable | Alternative habilitée, communication limitée sur l'ancienneté et les avis | Alternative habilitée, très fort volume d'avis | Référence officielle pour l'estimation seule |
-
-Pour estimer puis lancer la démarche via un prestataire habilité, le [prix de la carte grise](https://www.cartegrise.com/france/prix-carte-grise) affiché par cartegrise.com couvre l'ensemble du parcours.
 
 ## Comment reconnaître un site de carte grise fiable ? {#fiable}
 

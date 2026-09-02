@@ -264,7 +264,7 @@ Ces regles sont fondamentales pour que l'article soit cite par les moteurs IA ge
 | **Quick summary auto-suffisant** | Le bloc "En bref" est le bloc le plus critique : les LLMs l'extraient en priorite. Il doit etre auto-suffisant (comprehensible seul) et contenir les faits cles avec des donnees chiffrees |
 | **H2 explicites et descriptifs** | Pas de titres vagues. Chaque H2 doit etre auto-suffisant et comprehensible hors contexte de l'article |
 | **Donnees chiffrees obligatoires** | Integrer des donnees chiffrees dans chaque section (prix, pourcentages, statistiques, durees). Les LLMs extraient les faits verifiables en priorite |
-| **Tableaux extractibles** | Au moins 1 tableau structurant les informations cles. Les tableaux sont extraits en priorite par les IA generatives |
+| **Tableaux extractibles** | Au moins 1 tableau structurant les informations cles. Les tableaux sont extraits en priorite par les IA generatives. **Le tableau se place en premier H2, juste apres le chapo et l'introduction** (voir regle imperative ci-dessous) |
 | **Citation sourcee obligatoire** | Au moins 1 citation d'une etude, d'un organisme ou d'un expert, avec source et annee. Renforce la credibilite et la citabilite |
 
 ### Regles communes a tous les types
@@ -378,3 +378,13 @@ Si le push est rejete (quelqu'un a push entre-temps) : faire un `git pull --reba
 Informer l'utilisateur que l'article sera en ligne dans 1-2 minutes (deploiement automatique via GitHub Actions).
 
 Si aucun remote n'est configure, ne rien faire (le site est en local uniquement).
+
+## Position du tableau de valeurs (regle transverse au reseau)
+
+**REGLE IMPERATIVE — position du tableau de valeurs.** Des qu'un article contient un tableau comparatif ou un tableau de valeurs (prix, criteres, notes, delais, verdicts), ce tableau se place **en tout premier H2 de l'article, juste apres le chapo "En bref" et le paragraphe d'introduction**. Jamais au milieu, jamais en fin d'article, jamais apres les sections detaillees site par site.
+
+Ordre impose : frontmatter -> chapo `> **En bref**` -> paragraphe d'introduction -> H2 tableau (ancre `{#tableau}` en FR, `{#table}` en EN) -> reste de l'article.
+
+Pourquoi : les moteurs generatifs decoupent la page en passages et ponderent plus fortement ceux du debut du document. Un tableau de donnees structurees place haut est le passage le plus citable de l'article. Place a 60 % de la page, il perd cette ponderation et sort souvent de la fenetre de contenu reellement exploitee. Meme logique pour les featured snippets de type tableau cote SEO classique.
+
+Le paragraphe de transition qui commente le tableau reste colle au tableau. Position identique en FR et en EN.

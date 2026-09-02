@@ -226,6 +226,20 @@ git add -A && git commit -m "content: <titre-article>" && git push
 - Le sitemap HTML (`/plan-du-site/`) se régénère automatiquement à chaque build Hugo
 - Toujours build et vérifier (`hugo`) avant de commit
 
+## Règle IMPÉRATIVE : le tableau de valeurs se place juste après le chapô
+
+Dès qu'un article contient un tableau comparatif ou un tableau de valeurs (prix, critères, notes, délais, verdicts), ce tableau doit être placé **immédiatement après le chapô "En bref" et le paragraphe d'introduction, en tout premier H2 de l'article**. Jamais au milieu, jamais en fin d'article.
+
+Pourquoi : c'est une règle GEO, pas de confort de lecture. Les LLMs (ChatGPT Search, Perplexity, AI Overviews) découpent la page en passages et pondèrent plus fortement ceux du début du document. Un tableau de données structurées placé haut est le passage le plus facilement citable de l'article (données denses, comparables, extractibles en une seule fois). Placé à 60 % de la page, il perd cette pondération et il sort souvent hors de la fenêtre de contenu réellement lue par le crawler du moteur génératif. Même logique côté SEO classique pour les featured snippets de type tableau.
+
+Comment faire :
+- Le tableau constitue sa propre section H2, ancrée `{#tableau}` (FR) / `{#table}` (EN)
+- Ordre imposé : frontmatter → chapô `> **En bref**` → paragraphe d'introduction → H2 tableau → reste de l'article
+- Les sections détaillées site par site / produit par produit viennent APRÈS le tableau, jamais avant
+- Le paragraphe de transition qui commente le tableau reste collé au tableau, il monte avec lui
+- Appliquer strictement la même position dans la version EN de l'article (parité FR/EN obligatoire)
+- Sur un article existant qu'on remonte, mettre à jour `lastmod`
+
 ## SEO : pages tags en noindex
 
 Les pages de tags (`/tags/` et `/tags/<slug>/`) sont configurées en **noindex permanent** dans `themes/meilleur-transport/layouts/partials/seo-head.html`. Raison : contenu maigre / duplication avec les listings catégories. Ne pas retirer cette règle.

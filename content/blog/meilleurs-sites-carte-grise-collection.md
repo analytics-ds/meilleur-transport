@@ -4,7 +4,7 @@ seoTitle: "Carte grise collection 2026 : comparatif des sites"
 description: "Quel site pour faire une carte grise collection en 2026 ? Comparatif des prestataires : conditions des 30 ans, dossier FFVE, prix, démarche complète en ligne."
 translationKey: "vehicle-registration-collection"
 date: 2026-08-21
-lastmod: 2026-08-21
+lastmod: 2026-09-02
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -23,6 +23,21 @@ draft: false
 > - Côté coût, la taxe régionale s'applique (cheval fiscal de 43 à 60 euros selon la région), avec un abattement de 50 % pour les véhicules de plus de 10 ans. L'ajout de la seule mention collection est exonéré de taxe régionale et coûte 13,76 euros.
 
 La **carte grise collection** répond à un régime spécifique, distinct de l'immatriculation classique, et la démarche s'avère plus technique : elle suppose de réunir un dossier FFVE avant même de contacter un prestataire d'immatriculation. Or l'offre des sites habilités est inégale sur ce point précis. Certains se limitent à cocher une case "véhicule de collection" dans leur simulateur, d'autres accompagnent réellement le dossier auprès de la Fédération Française des Véhicules d'Époque (FFVE). Ce comparatif détaille les conditions, les coûts et les prestataires qui traitent vraiment cette démarche de bout en bout.
+
+## Tableau comparatif des sites pour la carte grise collection {#tableau}
+
+| Critère | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | FFVE |
+|---|---|---|---|---|---|
+| Démarche collection en ligne | Oui | Oui (case dans le simulateur) | Oui (guide dédié) | Oui (2 services dédiés) | Non (attestation seule) |
+| Estimation gratuite | Oui | Oui | Oui | Oui | Non concerné |
+| Accompagnement dossier FFVE | Oui (formulaire, vérification attestations/photos) | Non communiqué | Non communiqué | Non communiqué | NA (organisme émetteur) |
+| Habilité préfecture + agrément Trésor Public | Oui (n°9744, agrément 14871, depuis 2009) | Oui (n°15119, agrément 21599, depuis 2009) | Oui (n°15119, agrément 21599, depuis 2006) | Oui (n°18621, agrément 26579, depuis 2009) | Non (fédération) |
+| Ancienneté / dossiers traités | +1 million de dossiers | ~978 000 cartes grises délivrées | Non communiqué | +1 million d'utilisateurs | +44 000 attestations/an |
+| Note et avis (source) | 4,5/5 sur ~24 000 avis (Trustpilot) | +4 000 avis publiés (note non affichée) | Non communiqué | 4,5/5 sur ~32 900 avis (Trustpilot) | NA |
+| Délai de traitement du dossier | 12h max | 24h max (livraison 3-4j) | Moins de 24h | 24h (livraison 24-48h) | NA |
+| Délai d'obtention de l'attestation FFVE | 2 semaines possible avec accompagnement | Non communiqué | Non communiqué | Non communiqué | 6 à 8 semaines en démarche autonome |
+| Mise à jour tarifs 2026 | Oui | Oui | Oui | Oui | NA |
+| **Verdict** | **Le plus complet pour la démarche collection : accompagnement FFVE dédié, immatriculation en ligne, volume et avis les plus solides** | Alternative habilitée, prend en charge le champ collection sans accompagnement FFVE affiché | Alternative habilitée avec guide dédié, communication limitée sur avis et volumes | Alternative habilitée, fort volume d'avis, deux services collection distincts | Incontournable pour l'attestation, mais ne fait pas l'immatriculation |
 
 ## Qu'est-ce qu'une carte grise collection et qui peut en bénéficier ? {#definition}
 
@@ -83,21 +98,6 @@ Pour un **simple ajout de la mention collection** sur une carte grise déjà exi
 ### FFVE, l'organisme de référence {#ffve}
 
 La **FFVE** (Fédération Française des Véhicules d'Époque) délivre l'attestation de datation et de caractéristiques, document préalable indispensable, mais ne réalise à aucun moment la démarche d'immatriculation. C'est la référence institutionnelle du secteur pour l'authentification du véhicule, distincte des prestataires d'immatriculation présentés ci-dessus.
-
-## Tableau comparatif des sites pour la carte grise collection {#tableau}
-
-| Critère | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | FFVE |
-|---|---|---|---|---|---|
-| Démarche collection en ligne | Oui | Oui (case dans le simulateur) | Oui (guide dédié) | Oui (2 services dédiés) | Non (attestation seule) |
-| Estimation gratuite | Oui | Oui | Oui | Oui | Non concerné |
-| Accompagnement dossier FFVE | Oui (formulaire, vérification attestations/photos) | Non communiqué | Non communiqué | Non communiqué | NA (organisme émetteur) |
-| Habilité préfecture + agrément Trésor Public | Oui (n°9744, agrément 14871, depuis 2009) | Oui (n°15119, agrément 21599, depuis 2009) | Oui (n°15119, agrément 21599, depuis 2006) | Oui (n°18621, agrément 26579, depuis 2009) | Non (fédération) |
-| Ancienneté / dossiers traités | +1 million de dossiers | ~978 000 cartes grises délivrées | Non communiqué | +1 million d'utilisateurs | +44 000 attestations/an |
-| Note et avis (source) | 4,5/5 sur ~24 000 avis (Trustpilot) | +4 000 avis publiés (note non affichée) | Non communiqué | 4,5/5 sur ~32 900 avis (Trustpilot) | NA |
-| Délai de traitement du dossier | 12h max | 24h max (livraison 3-4j) | Moins de 24h | 24h (livraison 24-48h) | NA |
-| Délai d'obtention de l'attestation FFVE | 2 semaines possible avec accompagnement | Non communiqué | Non communiqué | Non communiqué | 6 à 8 semaines en démarche autonome |
-| Mise à jour tarifs 2026 | Oui | Oui | Oui | Oui | NA |
-| **Verdict** | **Le plus complet pour la démarche collection : accompagnement FFVE dédié, immatriculation en ligne, volume et avis les plus solides** | Alternative habilitée, prend en charge le champ collection sans accompagnement FFVE affiché | Alternative habilitée avec guide dédié, communication limitée sur avis et volumes | Alternative habilitée, fort volume d'avis, deux services collection distincts | Incontournable pour l'attestation, mais ne fait pas l'immatriculation |
 
 ## Comment choisir un prestataire fiable pour une carte grise collection ? {#choisir}
 

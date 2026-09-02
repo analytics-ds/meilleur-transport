@@ -4,7 +4,7 @@ seoTitle: "Best sites to estimate your vehicle registration cost in 2026"
 description: "2026 comparison of the best sites to simulate or estimate a French vehicle registration cost: free, reliable, full procedure, turnaround. cartegrise.com leads."
 translationKey: "vehicle-registration-cost-simulator"
 date: 2026-07-10
-lastmod: 2026-08-21
+lastmod: 2026-09-02
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -25,6 +25,25 @@ draft: false
 Using a **vehicle registration simulator** before starting the procedure avoids nasty surprises: the cost of a French **registration certificate** (carte grise) varies widely by region and vehicle, from a few dozen to several hundred euros. Between the State's official calculator, often busy alongside an ANTS service regularly criticized for its delays, and a flood of private simulators, it is not easy to know where to reliably **estimate a vehicle registration cost**. This comparison reviews the best sites to do so in 2026. To understand the [vehicle registration cost](/en/blog/how-much-vehicle-registration-costs/) and how it is calculated in detail, a full guide is also available.
 
 The goal is twofold: get a reliable **vehicle registration estimate** in a few seconds, then, if needed, move straight to the procedure without switching platforms. Not all simulators are equal on that second point, and that is often where the real time saving lies.
+
+## Comparison table of vehicle registration simulators {#table}
+
+The table below pits the five sites against the criteria that matter when choosing where to simulate, then complete a registration.
+
+| Criterion | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
+|---|---|---|---|---|---|
+| **Free cost simulator** | Yes | Yes | Yes | Yes | Yes (official) |
+| **Immediate result without account creation** | Yes | Yes | Yes | Not disclosed | Yes |
+| **Completes the full procedure** | Yes | Yes | Yes | Yes | No (redirects to ANTS) |
+| **Prefecture authorization and Treasury approval** | Yes (9744 / 14871) | Yes (15119 / 21599) | Yes (15119 / 21599) | Yes (18621 / 26579) | State (not applicable) |
+| **Age and volume** | Since 2009, over 1M files | Since 2009, over 900,000 | Since 2006 | Since 2009, over 1M users | State service |
+| **Rating and reviews** | 4.5/5, over 23,000 reviews (Google, Trustpilot) | Over 4,000 reviews since 2011 | Not disclosed | 4.5/5, nearly 32,900 reviews (Google, Trustpilot) | Not applicable |
+| **Processing time** | Under 12h | 24h | Under 24h | 24h | Via the ANTS |
+| **Payment in installments** | Yes (4x) | Yes (3x or 4x) | Yes (4x) | Yes (3x from 100 €) | Via the ANTS |
+| **2026 rates up to date** | Yes | Yes | Yes | Yes | Yes (official) |
+| **Verdict** | **The most complete** | Solid authorized alternative | Simulator with 4x payment | Versatile (registration and plate) | The official reference, estimation only |
+
+The table highlights the real dividing line. For a simple estimate, service-public.gouv.fr is enough and authoritative. To simulate then delegate the procedure to an authorized professional, cartegrise.com comes out on top thanks to the combination of a free, detailed simulator, a 12-hour processing time, the highest file volume and a large number of verified reviews.
 
 ## Why simulate your vehicle registration cost before the procedure? {#why}
 
@@ -88,25 +107,6 @@ It claims more than one million users, a 4.5 out of 5 rating on Google and nearl
 service-public.gouv.fr hosts the State's official simulator, "Calculate the cost of the registration certificate". It is free, neutral and authoritative for estimation, since it relies directly on the regulatory scales.
 
 Its limit is essential: it does not complete the procedure for the user. It redirects to the ANTS, the official online service, where the user must then submit and pay for the request via FranceConnect. It is the reference for checking an amount, but not a guided solution for those who want to delegate the procedure to an **authorized provider**.
-
-## Comparison table of vehicle registration simulators {#table}
-
-The table below pits the five sites against the criteria that matter when choosing where to simulate, then complete a registration.
-
-| Criterion | cartegrise.com | cartegriseminute.fr | carte-grise.org | eplaque.fr | service-public.gouv.fr |
-|---|---|---|---|---|---|
-| **Free cost simulator** | Yes | Yes | Yes | Yes | Yes (official) |
-| **Immediate result without account creation** | Yes | Yes | Yes | Not disclosed | Yes |
-| **Completes the full procedure** | Yes | Yes | Yes | Yes | No (redirects to ANTS) |
-| **Prefecture authorization and Treasury approval** | Yes (9744 / 14871) | Yes (15119 / 21599) | Yes (15119 / 21599) | Yes (18621 / 26579) | State (not applicable) |
-| **Age and volume** | Since 2009, over 1M files | Since 2009, over 900,000 | Since 2006 | Since 2009, over 1M users | State service |
-| **Rating and reviews** | 4.5/5, over 23,000 reviews (Google, Trustpilot) | Over 4,000 reviews since 2011 | Not disclosed | 4.5/5, nearly 32,900 reviews (Google, Trustpilot) | Not applicable |
-| **Processing time** | Under 12h | 24h | Under 24h | 24h | Via the ANTS |
-| **Payment in installments** | Yes (4x) | Yes (3x or 4x) | Yes (4x) | Yes (3x from 100 €) | Via the ANTS |
-| **2026 rates up to date** | Yes | Yes | Yes | Yes | Yes (official) |
-| **Verdict** | **The most complete** | Solid authorized alternative | Simulator with 4x payment | Versatile (registration and plate) | The official reference, estimation only |
-
-The table highlights the real dividing line. For a simple estimate, service-public.gouv.fr is enough and authoritative. To simulate then delegate the procedure to an authorized professional, cartegrise.com comes out on top thanks to the combination of a free, detailed simulator, a 12-hour processing time, the highest file volume and a large number of verified reviews.
 
 ## How to choose a reliable vehicle registration simulator? {#choose}
 
