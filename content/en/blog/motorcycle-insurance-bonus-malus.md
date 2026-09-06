@@ -115,3 +115,29 @@ That is where the choice of insurer weighs more than the coefficient itself, par
 For a wider view of what the market offers, our comparison of the **[best motorcycle insurance](/en/blog/best-motorcycle-insurance/)** sets out the selection criteria beyond the headline price.
 
 *Source: Service-Public.fr, factsheet F2655 "Bonus-malus (assurance automobile)", consulted 24 August 2026.*
+
+## Frequently asked questions {#faq}
+
+### How does the bonus-malus work for motorcycle insurance in France?
+
+The bonus-malus, formally the reduction-increase coefficient, starts at 1 when you take out a policy and multiplies the reference premium. Every claim-free year multiplies it by 0.95, a 5% reduction, down to a floor of 0.50 which is the maximum 50% discount. Every at-fault accident multiplies it by 1.25, a 25% increase, halved to 12.5% when responsibility is shared. The result is rounded down to two decimal places. Note that mopeds and light motorcycles are excluded from the statutory system.
+
+### How long does it take to get back to a coefficient of 1 after an at-fault claim?
+
+Two years. After an at-fault accident, the coefficient returns to 1 provided no new at-fault accident occurs during two consecutive years. This fast-track rule applies both after a 25% increase and after a 12.5% increase for shared responsibility. Once back at 1, the 5% annual reduction resumes as normal.
+
+### Does the bonus-malus follow the rider or the motorcycle?
+
+The rider. The coefficient attaches to the person rather than the vehicle, so it follows you when you change bikes and when you change insurer. The proof is the relevé d'information, issued by your insurer every year at renewal: it states your coefficient and lists at-fault claims over the five preceding annual periods.
+
+### Does the bonus-malus apply to a 50cc scooter or a 125?
+
+Not in the legal sense. The French public service explicitly lists mopeds and light motorcycles among the vehicles excluded from the bonus-malus system, alongside motor quadricycles and classic vehicles over thirty years old. An insurer remains free to apply its own discount or surcharge scale on those policies, but that is not the statutory coefficient and the rules vary between companies.
+
+### Does a non-fault accident increase the malus?
+
+No. Only claims where your liability is engaged count towards the calculation. An accident in which you bear no responsibility triggers no increase at all. Where responsibility is shared between riders, the increase is halved to 12.5% instead of 25%.
+
+### What happens to the bonus if you stop insuring your motorcycle for several months?
+
+If the gap is under three months and no at-fault claim occurred during the year, you still receive the 5% improvement when you take out your next policy. Beyond three months you keep the coefficient you held before the interruption, but the insurer may choose to treat you as a new rider if the gap has been very long.

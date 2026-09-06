@@ -82,3 +82,25 @@ Two routes exist for most cyclists. The **home insurance extension** costs a few
 The choice comes down to the bike's value. Below 800 euros, the home extension, or no cover at all, is defensible. Above 1,500 euros, the dedicated policy becomes hard to avoid: one night outside with a budget lock can cost ten years of premiums. In between, comparing offers comes down to ceilings, deductibles and night-time exclusions, which vary widely between contracts. Good policies show one telling detail: they compensate at new-for-old value for at least two years, while the others apply depreciation from the bike's first birthday.
 
 For urban journeys the logic applies to every electric vehicle: the [electric scooter](/en/electric-scooter-or-electric-bike/), for its part, is subject to mandatory third-party liability insurance in France, something many riders discover after the accident.
+
+## Frequently asked questions {#faq}
+
+### Is insurance mandatory for an electric bike?
+
+Not for a standard pedelec whose assistance cuts off at 25 km/h: it belongs to the cycle category, with no insurance obligation in France. It becomes mandatory for a speedbike assisting up to 45 km/h, which is classed as a moped: specific third-party liability, registration and a homologated helmet are then required.
+
+### Does my home insurance liability cover my e-bike?
+
+Generally yes, for damage you cause to others while riding a pedelec limited to 25 km/h. A call to your insurer confirms it. However, that cover includes neither theft of the bike, nor damage to it, nor your own injuries: those protections require a dedicated bike policy.
+
+### How much does electric bike insurance cost?
+
+Expect between 4 and 15 euros per month depending on the bike's value and the chosen cover. Theft-only cover for a 2,000-euro e-bike sits at the low end; a theft, damage and assistance package for a high-end model approaches the top. Some home insurance policies also offer a cheaper bike extension, though often with low payout ceilings.
+
+### What do insurers require to cover bike theft?
+
+Almost all require a certified lock (FUB or SRA standard), the purchase invoice, and the bike attached by its frame to a fixed point. Bicycode marking, already mandatory for new bikes sold by professionals in France, helps recover stolen bikes. A theft without a certified lock is almost always excluded from compensation.
+
+### Can a 45 km/h speedbike be insured like a pedelec?
+
+No. A speedbike is classed as a moped: it requires specific third-party liability insurance of the motorised two-wheeler type, registration and a homologated helmet. Riding a speedbike uninsured carries the same penalties as an uninsured scooter, up to a 3,750-euro fine.

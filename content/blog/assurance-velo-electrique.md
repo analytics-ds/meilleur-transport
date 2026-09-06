@@ -82,3 +82,25 @@ Deux voies existent pour l'essentiel des cyclistes. L'**extension du contrat hab
 Le choix se résume à la valeur du vélo. En dessous de 800 euros, l'extension habitation ou l'absence de couverture se défendent. Au-delà de 1 500 euros, le contrat dédié devient difficile à contourner : une seule nuit dehors avec un antivol premier prix peut coûter le prix de dix ans de cotisations. Entre les deux, la comparaison entre les offres se joue sur les plafonds, les franchises et les exclusions de nuit, qui varient beaucoup d'un contrat à l'autre. Les bons contrats se repèrent à un détail : ils indemnisent en valeur à neuf pendant au moins deux ans, quand les autres appliquent une vétusté dès le premier anniversaire du vélo.
 
 Pour les trajets urbains, la logique vaut pour tous les engins électriques : la [trottinette électrique](/trottinette-electrique-ou-velo-electrique/), elle, est soumise à l'obligation d'assurance responsabilité civile, un point que beaucoup d'utilisateurs découvrent après l'accident.
+
+## Questions fréquentes {#faq}
+
+### L'assurance d'un vélo électrique est-elle obligatoire ?
+
+Pas pour un VAE classique dont l'assistance se coupe à 25 km/h : il appartient à la catégorie des cycles, sans obligation d'assurance. Elle devient obligatoire pour un speedbike dont l'assistance monte à 45 km/h, considéré comme un cyclomoteur : responsabilité civile spécifique, immatriculation et casque homologué sont alors imposés.
+
+### Ma responsabilité civile habitation couvre-t-elle mon VAE ?
+
+En général oui, pour les dommages que vous causez à autrui en circulant avec un VAE de moins de 25 km/h. Un appel à votre assureur suffit à le confirmer. En revanche, cette garantie ne couvre ni le vol du vélo, ni sa casse, ni vos propres blessures : ces protections passent par un contrat vélo dédié.
+
+### Combien coûte une assurance vélo électrique ?
+
+Comptez entre 4 et 15 euros par mois selon la valeur du vélo et les garanties choisies. Un contrat vol seul pour un VAE de 2 000 euros se situe en bas de fourchette ; une formule vol, casse et assistance pour un modèle haut de gamme se rapproche du haut. Certains contrats habitation proposent aussi une extension vélo moins chère mais souvent plafonnée.
+
+### Que demande un assureur pour couvrir un vélo contre le vol ?
+
+Presque tous exigent un antivol certifié (norme FUB ou SRA), la facture d'achat, et un vélo attaché à un point fixe par le cadre. Le marquage Bicycode, déjà obligatoire pour les vélos neufs vendus par des professionnels, facilite la restitution en cas de vol. Un vol sans antivol certifié est presque toujours exclu de l'indemnisation.
+
+### Un speedbike 45 km/h peut-il s'assurer comme un VAE ?
+
+Non. Le speedbike relève des cyclomoteurs : il exige une assurance responsabilité civile spécifique de type deux-roues motorisé, une immatriculation et le port d'un casque homologué. Rouler sans assurance avec un speedbike expose aux mêmes sanctions qu'un scooter non assuré, jusqu'à 3 750 euros d'amende.

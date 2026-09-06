@@ -104,3 +104,25 @@ L'historique de recharge mérite aussi un regard : une voiture chargée quotidie
 ## Et dans cinq ans ?
 
 Les batteries progressent d'environ 5 à 8 % de densité énergétique par an, et les premières cellules solides annoncées pour la fin de la décennie promettent un saut supplémentaire. Autrement dit, l'angoisse de l'autonomie appartient de plus en plus au passé : le vrai sujet de l'acheteur de 2026 n'est plus « combien de kilomètres », mais « quelle recharge, où, et à quel prix ».
+
+## Questions fréquentes {#faq}
+
+### Quelle est l'autonomie moyenne d'une voiture électrique en 2026 ?
+
+Les modèles vendus neufs affichent entre 300 et 700 km d'autonomie WLTP, avec une moyenne autour de 450 km. En conditions réelles, comptez 20 à 30 % de moins : une voiture homologuée à 450 km parcourt plutôt 320 à 380 km selon la saison, la vitesse et le relief.
+
+### Pourquoi l'autonomie réelle est-elle inférieure au chiffre annoncé ?
+
+Le cycle d'homologation WLTP se déroule en laboratoire, à une vitesse moyenne de 46 km/h, sans chauffage ni climatisation. Sur autoroute à 130 km/h, la consommation grimpe fortement, et le froid peut retirer 20 à 30 % d'autonomie supplémentaires. Les deux effets cumulés expliquent l'écart constaté par les conducteurs.
+
+### L'autonomie d'une batterie diminue-t-elle avec le temps ?
+
+Oui, mais moins vite qu'on ne le craint souvent. Une batterie lithium-ion perd en général 1,5 à 2 % de capacité par an. La plupart des constructeurs garantissent la batterie 8 ans ou 160 000 km, avec un seuil minimal de 70 % de capacité conservée.
+
+### Quelle autonomie faut-il vraiment pour un usage quotidien ?
+
+Un automobiliste français parcourt en moyenne moins de 50 km par jour. Une autonomie réelle de 250 à 300 km couvre donc largement la semaine avec une recharge, à domicile ou au travail. Le besoin de grande autonomie ne se pose vraiment que pour les longs trajets réguliers sur autoroute.
+
+### Rouler vite réduit-il beaucoup l'autonomie ?
+
+C'est le facteur le plus pénalisant. Passer de 110 à 130 km/h augmente la consommation d'environ 25 % : sur un long trajet, réduire sa vitesse de 10 km/h peut faire gagner plusieurs dizaines de kilomètres d'autonomie, souvent plus qu'un détour vers une borne rapide n'en coûte.

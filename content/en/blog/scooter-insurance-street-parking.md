@@ -114,3 +114,29 @@ On this profile, the value of a two-wheeler specialist lies in how finely the ra
 La Mutuelle des Motards and April Moto take comparable approaches on two-wheelers. Since pricing and cover details move regularly, it is better to check at the point of purchase than to rely on a fixed ranking. Our [comparison of scooter insurers](/en/blog/best-scooter-insurers/) covers the five main offers on the market.
 
 One final criterion, more useful than the headline price: how clearly the theft claim conditions are set out. A policy that states in black and white which lock is required, which documents are needed and what waiting period applies saves you the nasty surprise on claim day. One that stays vague on those three points is selling a promise you cannot check until it is too late.
+
+## Frequently asked questions {#faq}
+
+### Which cover should you choose for a scooter parked in a city?
+
+Three covers really matter when a scooter sleeps outside: theft and attempted theft, fire, and accidental damage. The first two handle the most frequent urban losses; the third is the only one that pays out when a scooter is knocked over or scratched by an unidentified party, a very common event on a pavement and never covered by third-party cover. Add equipment cover, useful because helmet and gloves often stay with the bike. At AMV, these sit across four progressive policy levels, and rider equipment is covered from the entry level: up to 250 euros for the helmet, 70 euros for gloves and 500 euros for an airbag vest, less wear and tear.
+
+### Does a scooter parked on the street have to be insured?
+
+Yes. The insurance requirement applies to the vehicle, not to how it is used. A registered scooter must carry at least third-party cover even if it never moves, even if it sits parked for months. The reason is practical: while stationary it can still cause damage, for instance by falling onto a car or a passer-by. Suspending cover over winter is therefore not an option without risking an uninsured-vehicle offence.
+
+### Does third-party cover include theft of a scooter parked outside?
+
+Never. Third-party cover only pays for damage caused to others; it never compensates any loss suffered by the insured scooter, theft included. You need a policy that includes theft cover, often sold as third-party fire and theft, which remains the best protection-to-price ratio when the bike is parked on a public road.
+
+### Which cover applies to a scooter knocked over in a car park?
+
+Accidental damage cover, found in the more complete policies. It is the only one that responds when the scooter is knocked over, scratched or struck while stationary with no third party identified, which is the most common case in a city. Neither third-party nor third-party fire and theft pays out here: fire and theft covers only fire and theft, not damage.
+
+### Do you need an approved lock to be paid out after a theft?
+
+Usually yes, and this is the leading cause of rejected claims. Most policies make theft cover conditional on an approved lock and ask for the purchase invoice, sometimes the key, at claim stage. Read that clause before the loss, not after: a non-approved lock, or an approved lock that was not in use on the night, is enough to void the claim.
+
+### Does the parking location change the price of scooter insurance?
+
+Yes, and it is one of the heaviest rating factors, alongside the model and licence seniority. A scooter parked on a public road in a large city costs noticeably more to insure than the same model brought into a locked garage every evening, because theft and damage frequencies are not remotely comparable. It is also the most effective lever for bringing a premium down.

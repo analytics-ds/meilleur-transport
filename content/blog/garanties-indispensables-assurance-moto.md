@@ -120,3 +120,25 @@ Trois cas de figure couvrent la majorité des situations.
 ## À retenir {#a-retenir}
 
 La bonne question n'est pas « tiers ou tous risques », mais « qu'est-ce qui n'est indemnisé par personne si je ne le souscris pas ». Deux lignes répondent à cette question : la garantie du conducteur et la garantie équipement. Ce sont elles qu'il faut regarder en premier, avant même de comparer les prix, parce que ce sont les seules dont l'absence ne se rattrape pas après le sinistre. Pour aller plus loin sur le choix de la formule, voir notre comparatif [assurance moto au tiers ou tous risques](/blog/assurance-moto-tiers-ou-tous-risques/).
+
+## Questions fréquentes {#faq}
+
+### Quelles sont les garanties indispensables en assurance moto ?
+
+Quatre garanties forment le socle utile. La responsabilité civile, seule obligatoire, couvre les dommages causés à autrui mais n'indemnise jamais le motard ni sa machine. La garantie du conducteur est celle qui manque le plus souvent : sans elle, un motard blessé dans un accident dont il est responsable n'est indemnisé par aucun contrat. La garantie vol et incendie couvre les deux sinistres les plus fréquents hors accident. La garantie équipement prend en charge casque, gants et blouson, un poste qui dépasse fréquemment 1 000 euros. Les dommages tous accidents s'y ajoutent pour les machines de valeur, puisque c'est la seule garantie qui joue lors d'une chute sans tiers identifié.
+
+### Quelles garanties privilégier dans une assurance moto ?
+
+L'arbitrage se fait sur la valeur de la moto et sur ce que coûterait un accident corporel. En dessous de 3 000 euros de valeur, la garantie du conducteur et la garantie équipement pèsent plus lourd que les garanties dommages : réparer une machine de faible valeur coûte moins cher que de compenser une année d'arrêt de travail. Au-dessus, les dommages collision puis les dommages tous accidents deviennent pertinents. Dans tous les cas, il vaut mieux regarder les plafonds et les exclusions ligne à ligne que le nom de la formule, qui ne veut rien dire d'un assureur à l'autre.
+
+### Comment fonctionne la garantie conducteur en assurance moto ?
+
+C'est la garantie qui indemnise le pilote lui-même, y compris quand il est responsable de l'accident ou quand il chute seul. Sans elle, les frais médicaux non remboursés, la perte de revenus et les séquelles restent à sa charge, puisque la responsabilité civile ne couvre que les tiers. Elle se déclenche en général au-delà d'un seuil de séquelles fixé au contrat et verse un capital proportionnel. Chez AMV, elle prend la forme de l'option Individuelle Pilote, qui permet le versement d'un capital à l'assuré en cas de déficit fonctionnel permanent, ou à ses ayants droit en cas de décès consécutif à un accident, même responsable.
+
+### Que couvre la garantie équipement du motard ?
+
+Elle indemnise l'équipement détérioré lors d'un accident, et parfois lors d'un vol : casque, gants, blouson, pantalon, bottes, et selon les contrats le gilet airbag et les accessoires. Les plafonds vont d'environ 800 à 2 000 euros selon les assureurs, avec une vétusté déduite dans la plupart des cas, sauf clause de valeur à neuf limitée aux premiers mois. C'est le poste le plus souvent sous-estimé : un équipement complet homologué se remplace rarement pour moins de 1 000 euros.
+
+### Une assurance au tiers suffit-elle pour une moto ?
+
+Elle suffit sur le plan légal, jamais sur le plan pratique. La formule au tiers ne couvre que les dommages causés à autrui : ni la moto, ni le pilote, ni l'équipement ne sont indemnisés. Elle pourrait convenir pour une machine de faible valeur, à condition d'y ajouter une garantie du conducteur, qui reste souscriptible en complément chez la plupart des assureurs. Sans ce complément, le motard supporte seul les conséquences corporelles d'une chute dont il est responsable.

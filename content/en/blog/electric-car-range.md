@@ -104,3 +104,25 @@ The charging history deserves a look too: a car charged daily on high-power DC a
 ## And in five years?
 
 Batteries gain roughly 5 to 8% energy density per year, and the first solid-state cells announced for the end of the decade promise a further jump. In other words, range anxiety increasingly belongs to the past: the real question for a 2026 buyer is no longer "how many kilometres", but "what charging, where, and at what price".
+
+## Frequently asked questions {#faq}
+
+### What is the average range of an electric car in 2026?
+
+New models advertise between 300 and 700 km of WLTP range, with an average around 450 km. In real conditions, expect 20 to 30% less: a car rated at 450 km actually covers 320 to 380 km depending on season, speed and terrain.
+
+### Why is real range lower than the advertised figure?
+
+The WLTP homologation cycle runs in a laboratory at an average speed of 46 km/h, with no heating or air conditioning. At 130 km/h on the motorway, consumption rises sharply, and cold weather can remove another 20 to 30% of range. Both effects combined explain the gap drivers experience.
+
+### Does battery range degrade over time?
+
+Yes, but more slowly than often feared. A lithium-ion battery typically loses 1.5 to 2% of capacity per year. Most manufacturers warranty the battery for 8 years or 160,000 km, with a guaranteed floor of 70% remaining capacity.
+
+### How much range do you actually need for daily use?
+
+The average French driver covers less than 50 km a day. A real-world range of 250 to 300 km therefore covers a full week of commuting on a single charge, at home or at work. Long range only really matters for regular motorway trips.
+
+### Does driving fast reduce range that much?
+
+It is the single most damaging factor. Going from 110 to 130 km/h increases consumption by roughly 25%: on a long trip, slowing down by 10 km/h can add back several dozen kilometres of range, often more than a detour to a fast charger costs.

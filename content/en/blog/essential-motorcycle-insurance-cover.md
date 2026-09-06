@@ -120,3 +120,25 @@ Three cases cover most situations.
 ## The takeaway {#takeaway}
 
 The right question is not "third party or comprehensive", it is "what is compensated by nobody if I do not buy it". Two lines answer that: rider injury cover and gear cover. Those are the ones to look at first, before comparing prices, because they are the only ones you cannot fix after the claim. For more on choosing the policy level, see our comparison of [third-party or comprehensive motorcycle insurance](/en/blog/third-party-or-comprehensive-motorcycle-insurance/).
+
+## Frequently asked questions {#faq}
+
+### Which motorcycle insurance cover is essential?
+
+Four guarantees make up the useful core. Third-party liability, the only compulsory one, pays for damage caused to others but never covers the rider or the machine. Rider injury cover is the one most often missing: without it, a rider hurt in a crash he caused is compensated by nobody. Theft and fire cover the two most common losses outside a crash. Riding gear cover pays for helmet, gloves and jacket, a line that regularly exceeds 1,000 euros. Comprehensive damage cover is added for higher-value machines, since it is the only guarantee that responds to a solo fall with no third party involved.
+
+### Which cover should you prioritise on a motorcycle policy?
+
+The trade-off depends on the value of the bike and on what a bodily injury would actually cost. Below roughly 3,000 euros of value, rider injury cover and gear cover matter more than damage cover: repairing a low-value machine costs less than replacing a year of lost income. Above that, collision damage and then comprehensive damage become relevant. In every case, reading the limits and exclusions line by line is more useful than comparing policy names, which mean nothing from one insurer to the next.
+
+### How does rider injury cover work on a motorcycle policy?
+
+It compensates the rider himself, including when he caused the crash or fell on his own. Without it, unreimbursed medical costs, lost income and long-term consequences stay with him, because third-party liability only pays other people. It usually triggers above a threshold of permanent impairment set in the policy and pays a proportional lump sum. At AMV it takes the form of the Individuelle Pilote option, which pays a lump sum to the policyholder in the event of permanent functional impairment, or to his beneficiaries in the event of death following a crash, even one he caused.
+
+### What does motorcycle riding gear cover include?
+
+It pays for gear damaged in a crash, and in some policies in a theft: helmet, gloves, jacket, trousers, boots, and depending on the contract the airbag vest and accessories. Limits range from about 800 to 2,000 euros depending on the insurer, with depreciation applied in most cases, except for replacement-value clauses limited to the first months of ownership. It is the most underestimated line of the policy: a full approved set of gear rarely costs less than 1,000 euros to replace.
+
+### Is third-party cover enough for a motorcycle?
+
+It is enough legally, never practically. A third-party policy only covers damage caused to others: neither the bike, nor the rider, nor the gear is compensated. It could suit a low-value machine, provided rider injury cover is added, which most insurers sell separately. Without that addition, the rider carries the full bodily consequences of a fall he caused.
