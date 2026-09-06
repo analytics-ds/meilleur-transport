@@ -132,3 +132,25 @@ Trois chiffres résument l'essentiel du dossier : **deux jours ouvrés** pour d�
 Deux documents décident du reste. Le récépissé de dépôt de plainte, sans lequel rien ne démarre. Et la facture de l'antivol homologué, accompagnée du justificatif de gravage, qui ne conditionne pas le droit à indemnisation mais en réduit directement le coût. Les photographier à l'avance, avec la carte grise, est le geste de prévention le plus rentable du dossier.
 
 *Sources : conditions et procédures publiées par les assureurs cités ; service-public.gouv.fr sur le bonus-malus et le vol de véhicule (consulté le 31 août 2026).*
+
+## Questions fréquentes {#faq}
+
+### Que faire en cas de vol de sa moto pour être indemnisé ?
+
+La chronologie compte autant que le fond du dossier. Le premier réflexe est de vérifier que le deux-roues n'a pas été mis en fourrière ou déplacé, puis de déposer plainte : seul le propriétaire peut le faire, même si la moto était prêtée au moment des faits. Le dépôt enregistre le véhicule au Fichier des objets et véhicules signalés et au Système d'immatriculation des véhicules, ce qui bloque toute nouvelle immatriculation. L'assureur doit ensuite être informé au plus tard dans les deux jours ouvrés suivant la découverte du vol, récépissé de plainte à l'appui. Le dossier d'indemnisation se constitue en parallèle, et le versement n'intervient qu'à l'issue d'un délai de 30 jours pendant lequel la moto peut encore être retrouvée.
+
+### Quel est le délai pour déclarer le vol de sa moto à son assurance ?
+
+Deux jours ouvrés à compter de la découverte du vol, soit un délai bien plus court que les cinq jours ouvrés applicables à la plupart des autres sinistres. C'est le point de rupture du dossier : un retard sur ce délai peut à lui seul entraîner un refus d'indemnisation, indépendamment de la qualité des pièces fournies. La déclaration se fait en général depuis l'espace client de l'assureur, à la rubrique de déclaration de sinistre, l'envoi postal restant possible. Le dépôt de plainte doit précéder la déclaration, puisque le récépissé en fait partie.
+
+### Comment est calculée l'indemnisation d'une moto volée ?
+
+Sur la valeur du véhicule au jour du vol, dite valeur à dire d'expert, et non sur le prix payé à l'achat. Le cabinet d'expertise retient l'ancienneté, le kilométrage et l'état d'entretien, ce qui explique le poids des factures d'entretien dans le dossier. La franchise vol prévue au contrat est déduite de ce montant. Certains contrats prévoient une indemnisation en valeur à neuf pendant les premiers mois suivant l'achat, souvent six mois, extensible à dix-huit mois par une option. Le versement suppose la remise à l'expert des clés du véhicule et de la carte grise.
+
+### Le vol d'une moto fait-il monter le bonus-malus ?
+
+Non. Seuls les sinistres dans lesquels la responsabilité du conducteur est retenue, en totalité ou en partie, entrent dans le calcul du coefficient de réduction-majoration. Le vol, l'incendie et le bris de glace en sont exclus. Le relevé d'information délivré chaque année ne mentionne d'ailleurs que les sinistres responsables des cinq dernières périodes annuelles : un vol n'y figure pas à ce titre. Ce qu'un nouvel assureur peut consulter, en revanche, c'est le nombre de sinistres déclarés dans son propre historique de gestion, information distincte du coefficient et sans barème réglementaire.
+
+### Le vol d'accessoires seuls est-il couvert par la garantie vol ?
+
+Pas par la garantie vol du véhicule. Un échappement, un top case ou un équipement dérobés sans que la moto soit volée relèvent de la garantie accessoires et équipements, qui constitue une option distincte dans la quasi-totalité des contrats, avec son propre plafond et une vétusté déduite. La question déterminante n'est donc pas de savoir si la pièce était d'origine, mais si les accessoires hors-série ont été déclarés au contrat à la souscription. La facture d'achat mentionnant les équipements montés à la livraison est la pièce qui permet de le prouver.

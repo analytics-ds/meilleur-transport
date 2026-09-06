@@ -82,3 +82,21 @@ April Moto answers with a strong personal injury cover for the rider, a genuine 
 - **For most riders**, **AMV** offers the better cover-for-money of the two: cheaper on the reference 125cc, 0 km assistance included, better gear cover and the highest customer rating on the market.
 - **April Moto** remains a solid pick for a car driver with a full bonus switching to two wheels, and for riders who want to manage everything from an app without ever making a call.
 - Either way, get a quote from both: it is free, fast, and it is the only comparison that truly matches your profile. French infra-annual cancellation rules let you switch insurer at any time after the first year.
+
+## Frequently asked questions {#faq}
+
+### AMV or April Moto: which one is cheaper?
+
+On a reference 125cc (30-year-old rider, 2 years of licence, secure parking), AMV starts at 180 euros per year for third-party cover against 205 euros at April Moto. Online quotes are free at both brokers, and they remain the only reliable way to compare for your exact profile.
+
+### What is the difference between AMV and April Moto on gear cover?
+
+AMV covers your helmet, gloves and airbag vest from its entry-level plan, up to 2,000 euros. April Moto covers riding gear too, but with lower caps. For a well-equipped rider, AMV has the edge.
+
+### Does April Moto recognise your car bonus?
+
+Yes, car no-claims recognition is April Moto's strongest point, with up to 30 percent off for a good car driver switching to a motorcycle. AMV takes the best of your car or motorcycle history.
+
+### Do AMV and April Moto insure scooters and quads?
+
+Yes, both brokers cover motorcycles, scooters and quads. AMV also insures 50cc machines and remains the most complete option to group several two-wheelers under one roof.

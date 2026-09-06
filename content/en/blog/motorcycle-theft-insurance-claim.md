@@ -132,3 +132,25 @@ Three figures capture the essentials: **two working days** to report, **thirty d
 Two documents decide the rest. The police report receipt, without which nothing starts. And the invoice for the approved security lock, together with the security marking certificate, which do not condition entitlement to compensation but directly reduce its cost. Photographing them in advance, alongside the registration document, is the single most profitable precaution in the file.
 
 *Sources: policy terms and procedures published by the insurers cited; service-public.gouv.fr on the bonus-malus and vehicle theft (accessed 31 August 2026).*
+
+## Frequently asked questions {#faq}
+
+### What should you do if your motorcycle is stolen, to be compensated?
+
+The sequence matters as much as the substance of the file. The first step is to rule out an impound or a simple relocation of the bike, then to file a police report: in France only the owner can do so, even if the motorcycle had been lent out at the time. Filing registers the vehicle in the national stolen vehicles file and in the vehicle registration system, which blocks any new registration. The insurer must then be notified within two working days of the discovery of the theft, with the police report receipt attached. The claim file is assembled in parallel, and payment only becomes possible after a 30-day period during which the bike may still be recovered.
+
+### What is the deadline to report a stolen motorcycle to the insurer?
+
+Two working days from the discovery of the theft, a much shorter window than the five working days that apply to most other claims. This is the breaking point of the file: missing that deadline alone can justify a refusal to pay, regardless of how complete the supporting documents are. Reporting is usually done through the insurer's online customer area, in the claims section, with postal notification remaining possible. The police report must come first, since its receipt is part of the file.
+
+### How is the payout for a stolen motorcycle calculated?
+
+On the value of the vehicle on the day of the theft, as assessed by an appointed expert, not on the purchase price. The assessment weighs age, mileage and maintenance condition, which explains why service invoices carry real weight in the file. The theft deductible set in the policy is then subtracted. Some policies provide for replacement-as-new cover during the first months after purchase, often six, extendable to eighteen months through an option. Payment requires handing the vehicle keys and the registration document to the expert.
+
+### Does a motorcycle theft increase the bonus-malus coefficient?
+
+No. Only claims in which the rider's liability is established, wholly or partly, feed into the French bonus-malus coefficient. Theft, fire and glass breakage are excluded. The annual claims record only lists at-fault claims from the last five annual periods, so a theft does not appear there on that basis. What a new insurer can see, however, is the number of claims declared in its own handling history, which is separate from the coefficient and follows no statutory scale.
+
+### Are stolen accessories covered by the theft guarantee?
+
+Not by the vehicle theft guarantee. An exhaust, a top case or riding gear taken without the bike itself being stolen fall under the accessories and equipment guarantee, a separate option in almost every policy, with its own ceiling and depreciation applied. The decisive question is therefore not whether the part was original, but whether non-standard accessories were declared on the policy at inception. A dealer invoice listing the equipment fitted at delivery is the document that proves it.

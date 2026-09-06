@@ -86,3 +86,21 @@ April Moto **répond** avec une garantie corporelle du conducteur étoffée, un 
 - **Pour la majorité des motards et scootéristes**, **AMV** offre le meilleur rapport garanties/prix du duo : moins cher sur le 125 de référence, assistance 0 km incluse, **équipements** mieux couverts et la meilleure note **de confiance** du marché. C'est le choix le plus **simple** pour rouler en toute sérénité.
 - **April Moto** reste pertinent pour un automobiliste au bonus 50 qui passe au deux-roues (remise bonus voiture) et pour ceux qui veulent tout gérer depuis une appli, sans jamais **prendre** le téléphone.
 - Dans tous les cas, faites établir un **devis assurance moto** chez les deux : c'est gratuit, rapide, et c'est le seul comparatif qui vaille pour votre **profil** exact. Vous pouvez ensuite **changer** en cours d'année, la résiliation infra-annuelle s'applique à l'assurance deux-roues.
+
+## Questions fréquentes {#faq}
+
+### AMV ou April Moto : lequel est le moins cher ?
+
+Sur un 125 de référence (conducteur de 30 ans, 2 ans de permis, stationnement sécurisé), AMV affiche un tarif au tiers dès 180 euros par an contre 205 euros chez April Moto. Le devis en ligne est gratuit chez les deux courtiers, et c'est le seul moyen d'obtenir le vrai tarif de votre profil, car l'écart varie selon le véhicule et le bonus.
+
+### Quelle différence entre AMV et April Moto sur les garanties équipement ?
+
+AMV couvre le casque, les gants et le gilet airbag dès la première formule, jusqu'à 2 000 euros. Chez April Moto, l'équipement est couvert mais avec des plafonds inférieurs. Pour un motard bien équipé, l'avantage revient à AMV.
+
+### April Moto reprend-il le bonus voiture ?
+
+Oui, la reconnaissance du bonus voiture est le point fort d'April Moto, avec jusqu'à 30 pour cent de remise pour un bon conducteur auto qui se met à la moto. AMV reprend de son côté le meilleur bonus entre votre historique auto et moto.
+
+### AMV et April Moto assurent-ils les scooters et les quads ?
+
+Oui, les deux courtiers couvrent moto, scooter et quad. AMV assure aussi les 50 cm3 et reste l'acteur le plus complet pour regrouper plusieurs deux-roues, du scooter de ville au quad.

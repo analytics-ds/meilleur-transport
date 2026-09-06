@@ -115,3 +115,29 @@ C'est là que le choix de l'assureur pèse plus que le coefficient lui-même, en
 Pour un panorama plus large des offres du marché, notre comparatif des **[meilleures assurances moto](/blog/meilleure-assurance-moto/)** détaille les critères de sélection au-delà du seul tarif affiché.
 
 *Sources : Service-Public.fr, fiche F2655 « Bonus-malus (assurance automobile) », consultée le 24 août 2026.*
+
+## Questions fréquentes {#faq}
+
+### Comment fonctionne le bonus-malus en assurance moto ?
+
+Le bonus-malus, ou coefficient de réduction-majoration, part de 1 à la souscription et multiplie la prime de référence. Chaque année sans accident responsable, il est multiplié par 0,95, soit une baisse de 5 %, jusqu'à un plancher de 0,50 qui correspond à la réduction maximale de 50 %. Chaque accident responsable le multiplie par 1,25, soit une majoration de 25 %, ramenée à 12,5 % quand la responsabilité est partagée. Le coefficient est arrondi par défaut à deux chiffres après la virgule. Attention : les cyclomoteurs et les motocyclettes légères sont exclus du système légal.
+
+### Combien de temps faut-il pour revenir à un coefficient de 1 après un sinistre responsable ?
+
+Deux ans. Après un accident responsable, le coefficient revient à 1 si aucun nouvel accident responsable ne survient pendant deux années consécutives. C'est la règle dite de descente rapide, et elle s'applique aussi bien après une majoration de 25 % qu'après une majoration de 12,5 % pour responsabilité partagée. Passé ce retour à 1, la baisse de 5 % par année sans sinistre reprend normalement.
+
+### Le bonus-malus suit-il le conducteur ou la moto ?
+
+Le conducteur. Le coefficient est attaché à la personne, pas au véhicule, ce qui veut dire qu'il vous suit quand vous changez de moto et quand vous changez d'assureur. C'est le relevé d'information, délivré chaque année par l'assureur à l'échéance du contrat, qui fait foi : il mentionne le coefficient et la liste des sinistres responsables des cinq périodes annuelles précédentes.
+
+### Le bonus-malus s'applique-t-il à un scooter 50 cm³ ou à une 125 ?
+
+Non, pas au sens légal. Le service public range explicitement le cyclomoteur et la motocyclette légère parmi les véhicules exclus du système du bonus-malus, au même titre que les quadricycles à moteur et les véhicules de collection de plus de trente ans. Un assureur reste libre d'appliquer sa propre grille de réduction ou de majoration sur ces contrats, mais ce n'est alors pas le coefficient réglementaire, et les règles peuvent différer d'une compagnie à l'autre.
+
+### Un accident non responsable fait-il monter le malus ?
+
+Non. Seuls les sinistres où votre responsabilité est engagée entrent dans le calcul. Un accident dans lequel vous n'avez aucune part de responsabilité n'entraîne aucune majoration du coefficient. Quand la responsabilité est partagée entre les conducteurs, la majoration est réduite de moitié, à 12,5 % au lieu de 25 %.
+
+### Que devient le bonus si l'on arrête d'assurer sa moto pendant plusieurs mois ?
+
+Si l'interruption est inférieure à trois mois et qu'aucun sinistre responsable n'est survenu dans l'année, vous bénéficiez quand même de l'évolution de 5 % en souscrivant le contrat suivant. Au delà de trois mois, vous conservez le coefficient que vous aviez avant l'interruption, mais l'assureur peut décider de vous traiter comme un nouveau conducteur si la coupure a été très longue.

@@ -115,3 +115,29 @@ Sur ce profil, l'intérêt d'un spécialiste du deux-roues tient à la finesse d
 La Mutuelle des Motards et April Moto proposent des approches comparables sur le deux-roues. Les tarifs et le détail des garanties évoluant régulièrement, mieux vaut vérifier au moment de la souscription que se fier à un classement figé. Notre [comparatif des assureurs scooter](/blog/meilleurs-assureurs-scooter/) détaille les cinq principales offres du marché.
 
 Un dernier critère, plus utile que le prix affiché : la clarté des conditions d'indemnisation vol. Un contrat qui indique noir sur blanc le type d'antivol exigé, les pièces à fournir et le délai de carence évite la mauvaise surprise du jour du sinistre. Un contrat qui reste flou sur ces trois points vend une promesse difficile à vérifier avant qu'il ne soit trop tard.
+
+## Questions fréquentes {#faq}
+
+### Quelles garanties choisir pour un scooter en stationnement urbain ?
+
+Trois garanties comptent vraiment quand le scooter dort dehors : le vol et la tentative de vol, l'incendie, et les dommages tous accidents. Les deux premières couvrent les sinistres les plus fréquents en ville ; la troisième est la seule qui indemnise un scooter renversé ou rayé par un auteur inconnu, cas très courant sur un trottoir et jamais couvert par une formule au tiers. S'y ajoute la garantie équipements, utile parce que casque et gants restent souvent avec le véhicule. Chez AMV, ces garanties se retrouvent dans quatre formules progressives, et les équipements du conducteur sont couverts dès la première, à hauteur de 250 euros pour le casque, 70 euros pour les gants et 500 euros pour le gilet airbag, vétusté déduite.
+
+### Un scooter stationné dans la rue doit-il être assuré ?
+
+Oui. L'obligation d'assurance porte sur le véhicule, pas sur son usage. Un scooter immatriculé doit être couvert au minimum en responsabilité civile même s'il ne roule pas, même s'il reste garé plusieurs mois. La raison est concrète : à l'arrêt, il peut encore causer des dommages, par exemple en tombant sur une voiture ou sur un passant. Suspendre son assurance pendant l'hiver n'est donc pas possible sans risquer le défaut d'assurance.
+
+### L'assurance au tiers couvre-t-elle le vol d'un scooter garé dehors ?
+
+Non, jamais. La formule au tiers ne couvre que les dommages causés à autrui, elle n'indemnise aucun dommage subi par le scooter assuré, vol compris. Il faut une formule intégrant la garantie vol, souvent appelée tiers étendu ou vol-incendie, qui reste le meilleur rapport protection-prix quand le deux-roues stationne sur la voie publique.
+
+### Quelle garantie couvre un scooter renversé sur un parking ?
+
+La garantie dommages tous accidents, présente dans les formules les plus complètes. C'est la seule qui joue quand le scooter est renversé, rayé ou heurté à l'arrêt sans qu'aucun tiers ne soit identifié, ce qui est le cas le plus fréquent en ville. Ni le tiers ni le tiers étendu n'indemnisent ce sinistre : le vol-incendie ne couvre que le vol et le feu, pas les dégradations.
+
+### Faut-il un antivol agréé pour être indemnisé en cas de vol ?
+
+Le plus souvent oui, et c'est la première cause de refus d'indemnisation. La majorité des contrats conditionnent la garantie vol à l'usage d'un antivol homologué, en général agréé SRA, et exigent la production de la facture et parfois de la clé. Il faut lire cette clause avant le sinistre, pas après : un antivol non agréé, ou agréé mais non utilisé au moment du vol, suffit à faire tomber l'indemnisation.
+
+### Le lieu de stationnement change-t-il le prix de l'assurance scooter ?
+
+Oui, c'est même l'un des critères les plus lourds, au même titre que le modèle et l'antériorité du permis. Un scooter garé sur la voie publique dans une grande ville coûte nettement plus cher à assurer que le même modèle rentré chaque soir dans un garage fermé, parce que la fréquence de vol et de dégradation n'a rien à voir. C'est aussi le levier le plus efficace pour faire baisser une prime.
