@@ -8,7 +8,7 @@
 <meta name="bingbot" content="noindex, follow">
 {{- else }}
 <!-- Toutes les autres pages : indexables -->
-<meta name="robots" content="index, follow">
+{{/* pbn-legal-noindex */}}{{- if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ else }}<meta name="robots" content="index, follow">{{ end }}
 <meta name="googlebot" content="index, follow">
 <meta name="bingbot" content="index, follow">
 {{- end }}
