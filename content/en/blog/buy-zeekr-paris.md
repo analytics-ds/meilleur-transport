@@ -1,7 +1,7 @@
 ---
 title: "Where can you buy a Zeekr in Paris?"
 seoTitle: "Buy a Zeekr in Paris: sales points and prices in 2026"
-description: "Buying a Zeekr in Paris: a single sales point for the whole Île-de-France region, prices set by the dealer, and 10 listings in France as of 13 September 2026."
+description: "Buying a Zeekr in Paris: a single dealership in the Île-de-France region, in Saint-Witz, a second address that is only a test drive point, and prices set by the dealer."
 translationKey: "buy-zeekr-paris"
 date: 2026-09-13
 lastmod: 2026-09-13
@@ -15,34 +15,35 @@ imageCredit: "Photo par Gustavo Fring via Pexels"
 draft: false
 faq:
   - question: "Where can you buy a Zeekr in Paris?"
-    answer: "No Zeekr sales point sits inside the city of Paris. As of 13 September 2026, the brand's official booking form listed a single address for the whole region, labelled « Zeekr Paris et Île-de-France ». It corresponds to the site opened by the Como group in Saint-Ouen-l'Aumône (95), the only Île-de-France dealer announced by Zeekr France. The five other French addresses are in Aix-en-Provence, Aubagne, Annecy, Bordeaux and Toulouse."
-  - question: "Does Zeekr sell its cars directly online?"
-    answer: "No. The configurator on shop.zeekr.eu displays a price, but the legal notice at the bottom of the page is explicit: Zeekr France does not sell directly, purchases go through its approved distribution partners, and the final price is set by the dealer. The online figure is therefore indicative, excluding registration fees and any delivery costs."
+    answer: "No Zeekr dealership sits inside the city of Paris. The only address in the Île-de-France region able to sell, deliver and service a Zeekr belongs to the Bauer Paris group, at 67 Grande Rue in Saint-Witz (95470), about thirty kilometres north of Paris. It appears in the manufacturer's official directory as « Zeekr Roissy Saint Witz », in operation as of 13 September 2026, with all five services including after-sales and delivery."
+  - question: "What is the « Zeekr Paris et Île-de-France » address worth?"
+    answer: "It is a test drive address, not a sales point. The official directory attaches it to Zeekr France rather than to a dealer, grants it the test drive service only, gives it neither a phone number nor a street name, and geolocates it on the Champ-de-Mars. It exists to register a test drive request in the region, not to buy a car."
+  - question: "Does the Como group sell Zeekr cars in the Paris region?"
+    answer: "Not yet as of 13 September 2026. Le Journal de l'Automobile announced the Como group as a Zeekr dealer, first in Saint-Ouen-l'Aumône on 6 May 2026, then in Pontoise on 10 July 2026, two neighbouring Val-d'Oise towns where the group already runs its Geely dealership. But no Como address appears in the brand's official directory, which only covers what is already open and holds a single Île-de-France dealer, Bauer Paris."
   - question: "How much does a Zeekr cost in France in 2026?"
     answer: "The range runs from €37,990 for a Zeekr X in Core RWD trim to €72,990 for a Zeekr 001 Sport Edition AWD, according to the official configurator checked on 13 September 2026. In between, the 7GT starts at €45,990 and the 7X at €52,990. None of these cars qualifies for the French ecological bonus."
-  - question: "Which group distributes Zeekr in the Paris region?"
-    answer: "The Como group, already a Mercedes-Benz, smart, Lexus and Geely distributor in the region. Le Journal Auto reported it on 6 May 2026, based on statements by Rémy Aybaly, head of Zeekr France: the group is opening a first sales point in Saint-Ouen-l'Aumône (95). The distributor's own website does not yet mention the brand at that address, where it currently presents its Geely business only."
+  - question: "Does Zeekr sell its cars directly online?"
+    answer: "No. The configurator on shop.zeekr.eu displays a price, but the legal notice at the bottom of the page is explicit: Zeekr France does not sell directly, purchases go through its approved distribution partners, and the final price is set by the dealer. The online figure is therefore indicative, excluding registration fees and any delivery costs."
   - question: "Can you buy a used Zeekr in France?"
     answer: "The market exists but remains tiny: 10 Zeekr listings appeared on AutoScout24 France on 13 September 2026, 7 of them from a single dealer in the Ardennes. Only one was in the Paris region, a 7X Long Range with 10 km on the clock at €56,458 from a broker in the 14th arrondissement, which is €468 above the list price of the same model new."
-  - question: "Can you test drive a Zeekr before buying?"
-    answer: "Yes, through the booking form on zeekr.eu. It asks for the model, the driver's details, the country and then the postcode, and only reveals sales points once that postcode is entered. Four models are open to test drives: the X, the 7X, the 001 and the 7GT. The 9X is still reservation-only."
 ---
 
-Looking for where to **buy a Zeekr in Paris** produces a short answer: nowhere inside the twenty arrondissements. Geely's premium brand opened its French network in spring 2026, and a single address now covers the entire Île-de-France region, out in the Val-d'Oise.
+Looking for where to **buy a Zeekr in Paris** produces a short answer: nowhere inside the twenty arrondissements. Geely's premium brand opened its French network in spring 2026, and a single address in the region can currently sell, deliver and service its cars. It sits in Saint-Witz, in the Val-d'Oise.
 
 The price shown by the official configurator is not the one a buyer will pay either. Zeekr France does not sell its cars, its dealers do, and they set the final figure.
 
 > **Key points:**
-> 1. A single Zeekr address covers Île-de-France as of 13 September 2026, listed as « Zeekr Paris et Île-de-France » in the brand's official form, out of **6 sales points** offered for the whole of France
-> 2. That regional site belongs to the **Como group**, in **Saint-Ouen-l'Aumône (95)**, reported by the trade press on 6 May 2026 from statements by the head of Zeekr France
-> 3. The online configurator is not a sales channel: its legal notice states that **the final price is set by the dealer**, with list prices running from **€37,990** to **€72,990**
-> 4. The second-hand market is no fallback yet: **10 listings** across France, one of them in the Paris region, priced **€468 above** the new car
+> 1. A single Zeekr **dealership** covers Île-de-France as of 13 September 2026, run by the **Bauer Paris** group at **67 Grande Rue in Saint-Witz (95470)**, out of **17 French addresses** listed in the manufacturer's official directory
+> 2. The second regional entry, « Zeekr Paris et Île-de-France », **is only a test drive point**: the directory attaches it to Zeekr France, grants it the test drive service alone, and geolocates it on the **Champ-de-Mars**, with no street and no phone number
+> 3. The **Como group** has indeed been named by the trade press as a Zeekr dealer for the Val-d'Oise, but **it does not yet appear in the official directory** of open sales points
+> 4. The online configurator is not a sales channel: its legal notice states that **the final price is set by the dealer**, with list prices running from **€37,990** to **€72,990**
 
 ## Contents
 
 - [The four buying routes, compared](#table)
-- [One sales point for the whole region](#network)
-- [The group behind the Île-de-France address](#como)
+- [The region's only dealership is in Saint-Witz](#dealership)
+- [The other Paris address is just a test drive point](#test-point)
+- [The Como group, announced but not yet listed](#como)
 - [Zeekr does not sell its own cars](#who-sells)
 - [List prices, trim by trim](#prices)
 - [The Levallois-Perret address is not a showroom](#levallois)
@@ -57,31 +58,52 @@ The table below sets out the channels actually open to a Paris-region buyer, as 
 
 | Channel | Where, in Île-de-France | Observed price | What limits it |
 |---|---|---|---|
-| Approved sales point | 1 site only, in Saint-Ouen-l'Aumône (95) | Set by the dealer | No address inside Paris itself |
+| Approved dealership | 1 only, Bauer Paris in Saint-Witz (95470) | Set by the dealer | 30 km north of Paris, no address inside the city |
+| Manufacturer test drive point | « Zeekr Paris et Île-de-France », no street, no phone | Not applicable | Test drives only, no sales, no delivery, no servicing |
 | Official configurator | Online, on shop.zeekr.eu | €37,990 to €72,990 (indicative) | Closes no sale, passes the request to a dealer |
-| Broker or independent trader | 1 listing, Paris 14th | €56,458 for a 7X with 10 km | Above list price on the model concerned |
-| Used and demonstration cars | No offer in Île-de-France | €43,999 to €66,400 depending on model | 10 listings nationwide, 7 from one seller |
+| Broker or used car | 1 listing, Paris 14th | €56,458 for a 7X with 10 km | Above list price on the model concerned |
 
 The last two rows come down to the brand's age: the first French deliveries date from May 2026 for the X and the 7X, and July for the 001 and the 7GT. A fleet that young does not generate second-hand volume.
 
-## One sales point for the whole region {#network}
+## The region's only dealership is in Saint-Witz {#dealership}
 
-The test drive form on zeekr.eu only reveals its sales points once a postcode has been entered. With a Paris postcode, the list returned on 13 September 2026 held six entries for the whole country: Zeekr Aix-en-Provence, Zeekr Aubagne, Zeekr Annecy, Zeekr Bordeaux, Zeekr Toulouse and Zeekr Paris et Île-de-France.
+The sales point directory behind the manufacturer's official booking form holds 17 French addresses as of 13 September 2026, all of them flagged as in operation. It lists what exists today, never forthcoming openings. The detail of those records splits cleanly into two categories, and the distinction decides what a buyer can actually do there.
 
-That last entry carries neither address nor phone number, just a regional label and an internal code. The brand publishes no dealer directory on its French site, which explains why a simple answer to the question is so hard to find.
+Six addresses are attached to a distribution group, carry a full street address and combine all five manufacturer services: after-sales, vehicle display, test drives, delivery and pre-delivery inspection. Those are the dealerships.
 
-Six addresses sits well below the ambitions announced at launch. Zeekr France was talking about 25 sales points and around forty after-sales workshops in spring 2026, with a medium-term target of 50 sites.
+| Town | Group | Address |
+|---|---|---|
+| Saint-Witz (95) | Bauer Paris | 67 Grande Rue, 95470 |
+| Aix-en-Provence (13) | Roure Automobiles | 270 chemin Roger Martin, 13090 |
+| Fréjus (83) | Karmonie | ZI Les Meissugues, 83480 Puget-sur-Argens |
+| Toulon (83) | Karmonie | 738 RN 98, 83130 La Garde |
+| Lyon (69) | Groupe Pautric | 369 route de Vienne, 69200 Vénissieux |
+| Tours (37) | Chassay Automobiles | 11 boulevard Abel Gance, 37100 |
 
-## The group behind the Île-de-France address {#como}
+Only one of those six sits in Île-de-France, the Bauer Paris site listed as « Zeekr Roissy Saint Witz ». It lies around thirty kilometres north of Paris, near Roissy airport, and the group running it already represented XPeng.
 
-The dealer behind that single entry is the Como group, already present across Île-de-France with Mercedes-Benz, smart, Lexus and Geely. Le Journal Auto reported it on 6 May 2026, from statements by Rémy Aybaly, head of Zeekr France, on the sidelines of the Beijing motor show.
+The other eleven French records are of a different nature, and that is where the confusion starts.
 
-> "The Como group, one of the largest smart distributors in France, another Geely group brand, will initially open a sales point in Saint-Ouen-l'Aumône (95)."
-> Source: [Le Journal Auto](https://journalauto.com/distribution/les-premiers-noms-du-reseau-zeekr-en-france/), 6 May 2026, translated from French
+## The other Paris address is just a test drive point {#test-point}
 
-The town was not picked at random: the group already runs [a site in Saint-Ouen-l'Aumône](https://como.fr/pages/nos-concessions/geely-pontoise), at 2 rue Louis Delage, in the Cité de l'Automobile industrial estate, reachable on 01 34 48 38 80. That is the address of its Geely dealership, open Monday to Friday from 8.30am to 7pm and on Saturday from 10am to midday then 2pm to 6pm. The same group runs the five addresses where you can [test drive a Geely in Paris](/en/blog/geely-test-drive-paris/) and its region.
+The booking form on zeekr.eu offers an entry called « Zeekr Paris et Île-de-France », which reads like a Paris showroom. Its directory record says otherwise.
 
-One caveat on the opening date: the dealer's website does not mention the Zeekr brand yet, neither on its Saint-Ouen-l'Aumône page nor in its list of brands. A phone call first saves a 30-kilometre trip for nothing.
+It is attached to Zeekr France, not to a dealer. Its only declared service is the test drive, with no after-sales, no display, no delivery. It carries neither a phone number nor a street name: its address is reduced to a geolocation code, and its coordinates point at the Champ-de-Mars, at the foot of the Eiffel Tower.
+
+Ten other towns are treated the same way in that directory, from Annecy to Nantes by way of Grenoble, Marseille, Montpellier, Nice, Bordeaux, Toulouse, Rennes and Aubagne. An address at 7 place de la Comédie in Montpellier or place de Verdun in Grenoble points to a town centre, not to a showroom.
+
+The practical consequence is simple: booking a test drive on the Paris entry registers a request, it does not hand over an address to walk into. Saint-Witz is where a purchase gets handled in the region.
+
+## The Como group, announced but not yet listed {#como}
+
+The trade press has named a second regional group twice. Le Journal de l'Automobile wrote on 6 May 2026, from statements by Rémy Aybaly, head of Zeekr France, that the Como group would open "initially a sales point in Saint-Ouen-l'Aumône (95)". The same title, on 10 July, placed that sales point in Pontoise.
+
+> "Among the new entrants, note the arrival of the Chassay Automobiles group in Tours (37), the Bauer Paris group in Roissy (95), already an XPeng representative, and the Como group in Pontoise (95), which also carries the Geely brand in that town."
+> Source: [Le Journal de l'Automobile](https://journalauto.com/constructeurs/zeekr-passe-a-la-vitesse-superieure-pour-developper-son-reseau/), 10 July 2026, translated from French
+
+The two towns adjoin each other in the Cergy-Pontoise area, and the group already runs [its Geely dealership](https://como.fr/pages/nos-concessions/geely-pontoise) there, at 2 rue Louis Delage in Saint-Ouen-l'Aumône, reachable on 01 34 48 38 80. Adding the Zeekr brand to that existing site would make sense, as the manufacturer lets its dealers carry both Geely group brands.
+
+Three things still call for caution before driving out there. The manufacturer's directory holds no Como address as of 13 September 2026, and since it only records sites already trading, that absence points to an opening still to come rather than to an abandoned plan. The group's website mentions the Zeekr brand neither in its list of brands nor on its Val-d'Oise location page, which covers its Geely business only. And the two press articles name two different towns. A phone call first saves a wasted trip, exactly as on the Geely network whose five regional addresses are covered in the guide to [test driving a Geely in Paris](/en/blog/geely-test-drive-paris/).
 
 ## Zeekr does not sell its own cars {#who-sells}
 
@@ -92,7 +114,7 @@ The single most useful line of the whole buying journey sits in small print at t
 
 Three practical consequences follow. The configurator figure is a starting point for discussion, not a firm quote. Negotiation therefore happens at the dealership, as on any franchised brand, rather than online as with direct-sales manufacturers. And the configurator's "Continue" button produces a request passed on to the dealer, never a paid order.
 
-That model differs from Geely Auto, whose Paris-region network is denser and whose list prices circulate more freely. The same question comes up when looking at [where to buy a Geely EX5](/en/blog/where-to-buy-geely-ex5/), another group model where the approved network is the only real channel.
+That model matches Geely Auto, whose Paris-region network is denser but whose channel works the same way. The same question comes up when looking at [where to buy a Geely EX5](/en/blog/where-to-buy-geely-ex5/), where the approved network is the only real channel.
 
 ## List prices, trim by trim {#prices}
 
@@ -134,42 +156,42 @@ The single Paris-region offer falls into that second case. It comes from a trade
 
 ## Booking a test drive before signing {#test-drive}
 
-Test drives go through the form on zeekr.eu, which follows a set order: model choice among the X, 7X, 001 and 7GT, driver details, country, then postcode. The sales point menu stays empty until that postcode is filled in, which makes the form look broken.
+Test drives go through the form on zeekr.eu, which follows a set order: model choice among the X, 7X, 001 and 7GT, driver details, country, then postcode. The address menu stays empty until that postcode is filled in, which makes the form look broken.
 
-The request then goes to the selected sales point, which calls back to arrange a slot. On a brand whose Paris-region network amounts to one address, calling the dealer directly saves a round trip, much as with the [best Geely dealer in France](/en/blog/best-geely-dealer-france/).
+Which address gets picked matters more than it seems. Selecting « Zeekr Paris et Île-de-France » registers a request with the brand, while selecting the Saint-Witz dealership puts a distributor across the table, one who can follow up with a quote, a trade-in and a delivery date. For an actual purchase, rather than a look at the car, the second option saves time, much as on the network of the [best Geely dealer in France](/en/blog/best-geely-dealer-france/).
 
 A test drive mainly settles two points that spec sheets leave open: the charging speed actually achieved on a public Île-de-France charger, and the trim level, since the range gap between entry and top trim exceeds half the quoted spread on some models.
 
 ## What could change in October {#motor-show}
 
-Zeekr is exhibiting at the Paris Motor Show for the first time, from 12 to 18 October 2026, in hall 5.2 of the Porte de Versailles exhibition centre, with the X, the 7X, the 001 and the 7GT. The manufacturer has flagged a major announcement for the occasion.
+The network is growing faster than planned. Zeekr France was counting on about twenty sales points in 2026; in July the manufacturer announced around forty dealerships by the end of the year, 55 after-sales points within six months, then 70 sales points and about a hundred workshops for 2027, with a target of 3,500 registrations.
 
-The date matters to a Paris-region buyer, because the head of Zeekr France pointed to that show back in May as the moment for naming further dealers. A second Île-de-France sales point, or even an address inside the city, will most likely be decided there.
+Zeekr is also exhibiting at the Paris Motor Show for the first time, from 12 to 18 October 2026, in hall 5.2 of the Porte de Versailles exhibition centre, with the X, the 7X, the 001 and the 7GT. The manufacturer has flagged a major announcement for the occasion, and it was to that show that it pointed back in May for naming further dealers.
 
-Until then, a buyer who wants to see a Zeekr in the flesh in the region has one door, 30 kilometres north-west of Notre-Dame.
+For a Paris-region buyer, the October question is less about choice than about distance: a second dealership in the area, or even an address inside the city, would change the picture. Until then, buying happens in Saint-Witz.
 
 ## Frequently asked questions {#faq}
 
 **Where can you buy a Zeekr in Paris?**
 
-No Zeekr sales point sits inside the city of Paris. As of 13 September 2026, the brand's official booking form listed a single address for the whole region, labelled « Zeekr Paris et Île-de-France ». It corresponds to the site opened by the Como group in Saint-Ouen-l'Aumône (95), the only Île-de-France dealer announced by Zeekr France. The five other French addresses are in Aix-en-Provence, Aubagne, Annecy, Bordeaux and Toulouse.
+No Zeekr dealership sits inside the city of Paris. The only address in the Île-de-France region able to sell, deliver and service a Zeekr belongs to the Bauer Paris group, at 67 Grande Rue in Saint-Witz (95470), about thirty kilometres north of Paris. It appears in the manufacturer's official directory as « Zeekr Roissy Saint Witz », in operation as of 13 September 2026, with all five services including after-sales and delivery.
 
-**Does Zeekr sell its cars directly online?**
+**What is the « Zeekr Paris et Île-de-France » address worth?**
 
-No. The configurator on shop.zeekr.eu displays a price, but the legal notice at the bottom of the page is explicit: Zeekr France does not sell directly, purchases go through its approved distribution partners, and the final price is set by the dealer. The online figure is therefore indicative, excluding registration fees and any delivery costs.
+It is a test drive address, not a sales point. The official directory attaches it to Zeekr France rather than to a dealer, grants it the test drive service only, gives it neither a phone number nor a street name, and geolocates it on the Champ-de-Mars. It exists to register a test drive request in the region, not to buy a car.
+
+**Does the Como group sell Zeekr cars in the Paris region?**
+
+Not yet as of 13 September 2026. Le Journal de l'Automobile announced the Como group as a Zeekr dealer, first in Saint-Ouen-l'Aumône on 6 May 2026, then in Pontoise on 10 July 2026, two neighbouring Val-d'Oise towns where the group already runs its Geely dealership. But no Como address appears in the brand's official directory, which only covers what is already open and holds a single Île-de-France dealer, Bauer Paris.
 
 **How much does a Zeekr cost in France in 2026?**
 
 The range runs from €37,990 for a Zeekr X in Core RWD trim to €72,990 for a Zeekr 001 Sport Edition AWD, according to the official configurator checked on 13 September 2026. In between, the 7GT starts at €45,990 and the 7X at €52,990. None of these cars qualifies for the French ecological bonus.
 
-**Which group distributes Zeekr in the Paris region?**
+**Does Zeekr sell its cars directly online?**
 
-The Como group, already a Mercedes-Benz, smart, Lexus and Geely distributor in the region. Le Journal Auto reported it on 6 May 2026, based on statements by Rémy Aybaly, head of Zeekr France: the group is opening a first sales point in Saint-Ouen-l'Aumône (95). The distributor's own website does not yet mention the brand at that address, where it currently presents its Geely business only.
+No. The configurator on shop.zeekr.eu displays a price, but the legal notice at the bottom of the page is explicit: Zeekr France does not sell directly, purchases go through its approved distribution partners, and the final price is set by the dealer. The online figure is therefore indicative, excluding registration fees and any delivery costs.
 
 **Can you buy a used Zeekr in France?**
 
 The market exists but remains tiny: 10 Zeekr listings appeared on AutoScout24 France on 13 September 2026, 7 of them from a single dealer in the Ardennes. Only one was in the Paris region, a 7X Long Range with 10 km on the clock at €56,458 from a broker in the 14th arrondissement, which is €468 above the list price of the same model new.
-
-**Can you test drive a Zeekr before buying?**
-
-Yes, through the booking form on zeekr.eu. It asks for the model, the driver's details, the country and then the postcode, and only reveals sales points once that postcode is entered. Four models are open to test drives: the X, the 7X, the 001 and the 7GT. The 9X is still reservation-only.

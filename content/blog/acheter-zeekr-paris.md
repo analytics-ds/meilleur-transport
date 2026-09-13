@@ -1,7 +1,7 @@
 ---
 title: "Où acheter une Zeekr à Paris ?"
 seoTitle: "Acheter une Zeekr à Paris : points de vente et prix 2026"
-description: "Acheter une Zeekr à Paris : un seul point de vente pour toute l'Île-de-France, des prix fixés par le distributeur et 10 annonces en France au 13 septembre 2026."
+description: "Acheter une Zeekr à Paris : une seule concession en Île-de-France, à Saint-Witz, une deuxième adresse qui n'est qu'un point d'essai, et des prix fixés par le distributeur."
 translationKey: "buy-zeekr-paris"
 date: 2026-09-13
 lastmod: 2026-09-13
@@ -15,34 +15,35 @@ imageCredit: "Photo par Gustavo Fring via Pexels"
 draft: false
 faq:
   - question: "Où acheter une Zeekr à Paris ?"
-    answer: "Aucun point de vente Zeekr ne se trouve dans Paris intra-muros. Le formulaire officiel de la marque ne référençait qu'une seule adresse pour toute la région au 13 septembre 2026, sous le libellé « Zeekr Paris et Île-de-France ». Elle correspond au site ouvert par le groupe Como à Saint-Ouen-l'Aumône (95), seul distributeur francilien annoncé par Zeekr France. Les cinq autres adresses du pays sont à Aix-en-Provence, Aubagne, Annecy, Bordeaux et Toulouse."
-  - question: "Zeekr vend-elle ses voitures directement en ligne ?"
-    answer: "Non. Le configurateur de shop.zeekr.eu affiche un prix, mais la mention légale au bas de la page est explicite : « Zeekr France ne vend pas directement, l'achat est réalisé auprès de nos partenaires de distribution agréés. Le prix final sera fixé par le distributeur. » Le montant affiché en ligne est donc indicatif, hors frais d'immatriculation et hors frais éventuels de livraison."
+    answer: "Aucune concession Zeekr ne se trouve dans Paris intra-muros. La seule adresse d'Île-de-France capable de vendre, livrer et entretenir une Zeekr est celle du groupe Bauer Paris, au 67 Grande Rue à Saint-Witz (95470), à une trentaine de kilomètres au nord de Paris. Elle figure au référentiel officiel du constructeur sous le nom « Zeekr Roissy Saint Witz », en statut en opération au 13 septembre 2026, avec les cinq services complets dont l'après-vente et la livraison."
+  - question: "Que vaut l'adresse « Zeekr Paris et Île-de-France » ?"
+    answer: "C'est une adresse d'essai, pas un point de vente. Le référentiel officiel la rattache à Zeekr France et non à un distributeur, ne lui accorde que le service d'essai, ne lui donne ni numéro de téléphone ni rue, et la géolocalise sur les coordonnées du Champ-de-Mars. Elle sert à enregistrer une demande d'essai dans la région, pas à acheter une voiture."
+  - question: "Le groupe Como vend-il des Zeekr en Île-de-France ?"
+    answer: "Pas encore au 13 septembre 2026. Le Journal de l'Automobile a annoncé le groupe Como comme distributeur Zeekr, d'abord à Saint-Ouen-l'Aumône le 6 mai 2026, puis à Pontoise le 10 juillet 2026, deux communes voisines du Val-d'Oise où le groupe exploite déjà sa concession Geely. Mais aucune adresse Como ne figure au référentiel officiel de la marque, qui ne liste que l'existant et ne retient qu'un seul distributeur francilien, Bauer Paris."
   - question: "Combien coûte une Zeekr en France en 2026 ?"
     answer: "La gamme s'étend de 37 990 € pour un Zeekr X en finition Core RWD à 72 990 € pour un Zeekr 001 Sport Edition AWD, d'après le configurateur officiel relevé le 13 septembre 2026. Entre les deux, le 7GT démarre à 45 990 € et le 7X à 52 990 €. Aucune de ces voitures n'ouvre droit au bonus écologique français."
-  - question: "Quel groupe distribue Zeekr en Île-de-France ?"
-    answer: "Le groupe Como, déjà distributeur Mercedes-Benz, smart, Lexus et Geely dans la région. Le Journal Auto l'a rapporté le 6 mai 2026, d'après les annonces de Rémy Aybaly, directeur de Zeekr France : le groupe ouvre « dans un premier temps un point de vente à Saint-Ouen-l'Aumône (95) ». Le site du distributeur ne communique pas encore sur cette marque, il ne présente à cette adresse que son activité Geely."
+  - question: "Zeekr vend-elle ses voitures directement en ligne ?"
+    answer: "Non. Le configurateur de shop.zeekr.eu affiche un prix, mais la mention légale au bas de la page est explicite : « Zeekr France ne vend pas directement, l'achat est réalisé auprès de nos partenaires de distribution agréés. Le prix final sera fixé par le distributeur. » Le montant affiché en ligne est donc indicatif, hors frais d'immatriculation et hors frais éventuels de livraison."
   - question: "Peut-on acheter une Zeekr d'occasion en France ?"
     answer: "Le marché existe mais reste minuscule : 10 annonces Zeekr figuraient sur AutoScout24 France le 13 septembre 2026, dont 7 chez un seul vendeur des Ardennes. Une seule se trouvait en région parisienne, un 7X Long Range de 10 km à 56 458 € chez un mandataire du 14e arrondissement, soit 468 € de plus que le prix catalogue du même modèle neuf."
-  - question: "Peut-on essayer une Zeekr avant d'acheter ?"
-    answer: "Oui, via le formulaire d'essai de zeekr.eu. Il demande le modèle, les coordonnées du conducteur, le pays puis le code postal, et ne propose les points de vente qu'une fois ce code postal saisi. Quatre modèles sont ouverts à l'essai : le X, le 7X, le 001 et le 7GT. Le 9X, lui, n'est encore proposé qu'en réservation."
 ---
 
-Chercher où acheter une **Zeekr à Paris** mène à une réponse courte : nulle part dans les vingt arrondissements. La marque premium du groupe Geely a ouvert son réseau français au printemps 2026, et une seule adresse couvre aujourd'hui toute l'Île-de-France, dans le Val-d'Oise.
+Chercher où acheter une **Zeekr à Paris** mène à une réponse courte : nulle part dans les vingt arrondissements. La marque premium du groupe Geely a ouvert son réseau français au printemps 2026, et une seule adresse francilienne sait aujourd'hui vendre, livrer et entretenir ses voitures. Elle se situe à Saint-Witz, dans le Val-d'Oise.
 
-Le prix affiché par le configurateur officiel n'est pas non plus celui que le client paiera. Zeekr France ne vend pas ses voitures, ce sont ses distributeurs qui le font, et ce sont eux qui arrêtent le montant final.
+Le prix affiché par le configurateur officiel n'est pas non plus celui que l'acheteur paiera. Zeekr France ne vend pas ses voitures, ses distributeurs le font, et ce sont eux qui arrêtent le montant final.
 
 > **En bref :**
-> 1. Une seule adresse Zeekr couvre l'Île-de-France au 13 septembre 2026, référencée « Zeekr Paris et Île-de-France » dans le formulaire officiel de la marque, sur **6 points de vente** proposés pour toute la France
-> 2. Ce site francilien est celui du **groupe Como**, à **Saint-Ouen-l'Aumône (95)**, annoncé par le directeur de Zeekr France dans la presse professionnelle le 6 mai 2026
-> 3. Le configurateur en ligne n'est pas un canal de vente : sa mention légale précise que **le prix final est fixé par le distributeur**, et les tarifs s'échelonnent de **37 990 €** à **72 990 €**
-> 4. Le marché de seconde main ne dépanne pas encore : **10 annonces** en France, une seule en région parisienne, à **468 € au-dessus** du prix du neuf
+> 1. Une seule **concession** Zeekr couvre l'Île-de-France au 13 septembre 2026, celle du groupe **Bauer Paris** au **67 Grande Rue à Saint-Witz (95470)**, sur **17 adresses françaises** référencées au fichier officiel du constructeur
+> 2. La deuxième entrée francilienne, « Zeekr Paris et Île-de-France », **n'est qu'un point d'essai** : le fichier officiel la rattache à Zeekr France, ne lui accorde que le service d'essai et la géolocalise sur le **Champ-de-Mars**, sans rue ni téléphone
+> 3. Le **groupe Como** a bien été annoncé par la presse professionnelle comme distributeur Zeekr du Val-d'Oise, mais **il n'apparaît pas encore au fichier officiel** des points de vente ouverts
+> 4. Le configurateur en ligne n'est pas un canal de vente : sa mention légale précise que **le prix final est fixé par le distributeur**, et les tarifs s'échelonnent de **37 990 €** à **72 990 €**
 
 ## Sommaire
 
 - [Les quatre voies d'achat, comparées](#tableau)
-- [Un seul point de vente pour toute la région](#reseau)
-- [Le groupe qui tient l'adresse francilienne](#como)
+- [La seule concession francilienne est à Saint-Witz](#concession)
+- [L'autre adresse parisienne n'est qu'un point d'essai](#point-essai)
+- [Le groupe Como, annoncé mais pas encore référencé](#como)
 - [Zeekr ne vend pas ses voitures](#qui-vend)
 - [Les prix catalogue, finition par finition](#prix)
 - [L'adresse de Levallois-Perret n'est pas un showroom](#levallois)
@@ -57,31 +58,52 @@ Le tableau ci-dessous récapitule les canaux réellement disponibles pour un ach
 
 | Canal | Où, en Île-de-France | Prix constaté | Ce qui le limite |
 |---|---|---|---|
-| Point de vente agréé | 1 seul site, à Saint-Ouen-l'Aumône (95) | Fixé par le distributeur | Aucune adresse dans Paris intra-muros |
+| Concession agréée | 1 seule, Bauer Paris à Saint-Witz (95470) | Fixé par le distributeur | 30 km au nord de Paris, aucune adresse intra-muros |
+| Point d'essai de la marque | « Zeekr Paris et Île-de-France », sans rue ni téléphone | Sans objet | Essai uniquement, ne vend pas, ne livre pas, n'entretient pas |
 | Configurateur officiel | En ligne, sur shop.zeekr.eu | 37 990 € à 72 990 € (indicatif) | Ne conclut aucune vente, transmet au distributeur |
-| Mandataire ou négociant | 1 annonce, Paris 14e | 56 458 € pour un 7X de 10 km | Plus cher que le catalogue sur le modèle concerné |
-| Occasion et véhicules de démonstration | Aucune offre en Île-de-France | 43 999 € à 66 400 € selon le modèle | 10 annonces dans toute la France, dont 7 chez un seul vendeur |
+| Mandataire ou occasion | 1 annonce, Paris 14e | 56 458 € pour un 7X de 10 km | Plus cher que le catalogue sur le modèle concerné |
 
 Les deux dernières lignes tiennent à l'âge de la marque : les premières livraisons françaises datent de mai 2026 pour le X et le 7X, et de juillet pour le 001 et le 7GT. Un parc de cette taille ne produit pas encore de volume en seconde main.
 
-## Un seul point de vente pour toute la région {#reseau}
+## La seule concession francilienne est à Saint-Witz {#concession}
 
-Le formulaire d'essai de zeekr.eu ne dévoile ses points de vente qu'après saisie d'un code postal. Avec un code parisien, la liste renvoyée le 13 septembre 2026 comptait six entrées pour la France entière : Zeekr Aix-en-Provence, Zeekr Aubagne, Zeekr Annecy, Zeekr Bordeaux, Zeekr Toulouse et Zeekr Paris et Île-de-France.
+Le référentiel de points de vente qui alimente le formulaire d'essai officiel du constructeur compte 17 adresses françaises au 13 septembre 2026, toutes en statut « en opération ». Il ne liste que l'existant, jamais les ouvertures à venir. Le détail de ces fiches sépare nettement deux catégories, et la distinction décide de ce qu'un acheteur peut y faire.
 
-Cette dernière fiche ne porte ni adresse ni téléphone, seulement un libellé régional et un code interne. La marque ne publie aucun annuaire de points de vente sur son site français, ce qui explique la difficulté à trouver une réponse simple à la question.
+Six adresses sont rattachées à un groupe de distribution, portent une rue complète et cumulent les cinq services du constructeur : après-vente, exposition des véhicules, essai, livraison et préparation avant livraison. Ce sont les concessions.
 
-Six adresses, c'est nettement en dessous des ambitions affichées au lancement. Zeekr France annonçait 25 points de vente et une quarantaine d'ateliers après-vente au printemps 2026, avec un objectif de 50 sites à moyen terme.
+| Ville | Groupe | Adresse |
+|---|---|---|
+| Saint-Witz (95) | Bauer Paris | 67 Grande Rue, 95470 |
+| Aix-en-Provence (13) | Roure Automobiles | 270 chemin Roger Martin, 13090 |
+| Fréjus (83) | Karmonie | ZI Les Meissugues, 83480 Puget-sur-Argens |
+| Toulon (83) | Karmonie | 738 RN 98, 83130 La Garde |
+| Lyon (69) | Groupe Pautric | 369 route de Vienne, 69200 Vénissieux |
+| Tours (37) | Chassay Automobiles | 11 boulevard Abel Gance, 37100 |
 
-## Le groupe qui tient l'adresse francilienne {#como}
+Une seule de ces six adresses se trouve en Île-de-France, celle du groupe Bauer Paris, référencée « Zeekr Roissy Saint Witz ». Le site est à une trentaine de kilomètres au nord de Paris, à proximité de l'aéroport de Roissy, et le groupe qui l'exploite représentait déjà XPeng.
 
-Le distributeur derrière cette fiche unique est le groupe Como, déjà présent en Île-de-France sur Mercedes-Benz, smart, Lexus et Geely. Le Journal Auto l'a rapporté le 6 mai 2026, à partir des annonces de Rémy Aybaly, directeur de Zeekr France, en marge du salon de Pékin.
+Les onze autres fiches françaises sont d'une nature différente, et c'est là que se joue le malentendu.
 
-> « Le groupe Como, l'un des plus importants distributeurs smart de France, autre marque du groupe Geely, ouvrira dans un premier temps un point de vente à Saint-Ouen-l'Aumône (95). »
-> Source : [Le Journal Auto](https://journalauto.com/distribution/les-premiers-noms-du-reseau-zeekr-en-france/), 6 mai 2026, d'après les annonces du directeur de Zeekr France
+## L'autre adresse parisienne n'est qu'un point d'essai {#point-essai}
 
-La commune n'a pas été choisie au hasard : le groupe y exploite déjà [un site à Saint-Ouen-l'Aumône](https://como.fr/pages/nos-concessions/geely-pontoise), au 2 rue Louis Delage, dans la zone industrielle Cité de l'Automobile, joignable au 01 34 48 38 80. C'est l'adresse de sa concession Geely, ouverte du lundi au vendredi de 8h30 à 19h et le samedi de 10h à 12h puis de 14h à 18h. Ce même groupe exploite les cinq adresses où [essayer une Geely à Paris](/blog/essai-geely-paris/) et sa région.
+Le formulaire d'essai de zeekr.eu propose une entrée intitulée « Zeekr Paris et Île-de-France », ce qui laisse croire à un showroom parisien. Sa fiche au référentiel dit autre chose.
 
-Une réserve s'impose sur la date d'ouverture : le site du distributeur ne mentionne pas encore la marque Zeekr, ni sur sa page d'établissement de Saint-Ouen-l'Aumône, ni dans la liste de ses marques. Un appel préalable évite un déplacement de 30 kilomètres pour rien.
+Elle est rattachée à Zeekr France, pas à un distributeur. Son unique service déclaré est l'essai, sans après-vente, sans exposition, sans livraison. Elle n'a ni numéro de téléphone, ni nom de rue : son adresse se réduit à un code de géolocalisation, et ses coordonnées pointent sur le Champ-de-Mars, au pied de la tour Eiffel.
+
+Dix autres villes sont logées à la même enseigne dans ce référentiel, d'Annecy à Nantes en passant par Grenoble, Marseille, Montpellier, Nice, Bordeaux, Toulouse, Rennes et Aubagne. Une adresse au 7 place de la Comédie à Montpellier ou place de Verdun à Grenoble désigne un centre-ville, pas un hall d'exposition.
+
+La conséquence pratique est simple : réserver un essai sur l'entrée parisienne enregistre une demande, elle ne donne pas une adresse où se présenter. C'est la concession de Saint-Witz qui traite un achat en Île-de-France.
+
+## Le groupe Como, annoncé mais pas encore référencé {#como}
+
+La presse professionnelle a nommé un second groupe francilien à deux reprises. Le Journal de l'Automobile écrivait le 6 mai 2026, d'après les annonces de Rémy Aybaly, directeur de Zeekr France, que le groupe Como ouvrirait « dans un premier temps un point de vente à Saint-Ouen-l'Aumône (95) ». Le même titre, le 10 juillet, situait ce point de vente à Pontoise.
+
+> « Parmi les nouveaux entrants, signalons l'arrivée du groupe Chassay Automobiles à Tours (37), le groupe Bauer Paris à Roissy (95), déjà représentant XPeng, et le groupe Como à Pontoise (95), qui distribue aussi le panneau Geely dans cette ville. »
+> Source : [Le Journal de l'Automobile](https://journalauto.com/constructeurs/zeekr-passe-a-la-vitesse-superieure-pour-developper-son-reseau/), 10 juillet 2026
+
+Les deux communes se touchent dans l'agglomération de Cergy-Pontoise, et le groupe y exploite déjà [sa concession Geely](https://como.fr/pages/nos-concessions/geely-pontoise), au 2 rue Louis Delage à Saint-Ouen-l'Aumône, joignable au 01 34 48 38 80. Adosser le panneau Zeekr à ce site existant serait cohérent, la marque autorisant ses distributeurs à cumuler les deux enseignes du groupe Geely.
+
+Trois éléments invitent malgré tout à la prudence avant de s'y déplacer. Le référentiel du constructeur ne mentionne aucune adresse Como au 13 septembre 2026, or il ne recense que les sites déjà ouverts : l'absence signale donc une ouverture qui n'a pas encore eu lieu, pas forcément un projet abandonné. Le site du groupe ne mentionne la marque Zeekr ni dans sa liste de marques, ni sur sa page d'établissement du Val-d'Oise, qui ne présente que l'activité Geely. Et les deux articles de presse ne désignent pas la même commune. Un appel préalable évite un trajet pour rien, exactement comme sur le réseau Geely dont les cinq adresses franciliennes sont détaillées dans le guide pour [essayer une Geely à Paris](/blog/essai-geely-paris/).
 
 ## Zeekr ne vend pas ses voitures {#qui-vend}
 
@@ -92,7 +114,7 @@ La mention la plus utile de tout le parcours d'achat se trouve en petits caract�
 
 Trois conséquences pratiques en découlent. Le montant du configurateur sert de base de discussion, pas de tarif ferme. La négociation se joue donc en concession, comme sur n'importe quelle marque à réseau, et non en ligne comme chez les constructeurs à vente directe. Et le bouton « Continuer » du configurateur produit une demande transmise au distributeur, jamais une commande payée.
 
-Ce modèle diffère de celui de Geely Auto, dont le réseau francilien est plus dense mais dont les prix catalogue circulent mieux. Le sujet se pose dans les mêmes termes pour [acheter un Geely EX5 en France](/blog/acheter-geely-ex5-france/), autre modèle du groupe où le réseau agréé constitue le seul canal réel.
+Ce modèle rejoint celui de Geely Auto, dont le réseau francilien est plus dense mais dont le canal reste le même. Le sujet se pose dans les mêmes termes pour [acheter un Geely EX5 en France](/blog/acheter-geely-ex5-france/), où le réseau agréé constitue le seul canal réel.
 
 ## Les prix catalogue, finition par finition {#prix}
 
@@ -134,42 +156,42 @@ L'unique offre francilienne relève de ce second cas. Elle provient d'un négoci
 
 ## Réserver un essai avant de signer {#essai}
 
-L'essai passe par le formulaire de zeekr.eu, qui suit un ordre précis : choix du modèle parmi le X, le 7X, le 001 et le 7GT, coordonnées du conducteur, pays, puis code postal. Le menu des points de vente reste vide tant que ce code postal n'est pas renseigné, ce qui donne l'impression d'un formulaire cassé.
+L'essai passe par le formulaire de zeekr.eu, qui suit un ordre précis : choix du modèle parmi le X, le 7X, le 001 et le 7GT, coordonnées du conducteur, pays, puis code postal. Le menu des adresses reste vide tant que ce code postal n'est pas renseigné, ce qui donne l'impression d'un formulaire cassé.
 
-La demande part ensuite vers le point de vente sélectionné, qui rappelle pour fixer le créneau. Sur une marque dont le réseau francilien tient en une adresse, l'appel direct au distributeur fait gagner un aller-retour, à la manière de ce qui se pratique chez le [meilleur concessionnaire Geely en France](/blog/concessionnaire-geely-france/).
+Le choix de l'adresse compte plus qu'il n'y paraît. Sélectionner « Zeekr Paris et Île-de-France » enregistre une demande auprès de la marque, alors que sélectionner la concession de Saint-Witz met en face un distributeur qui pourra enchaîner sur un devis, une reprise et un délai de livraison. Pour un projet d'achat, et pas seulement pour voir la voiture, c'est la seconde option qui fait gagner du temps, comme sur le réseau du [meilleur concessionnaire Geely en France](/blog/concessionnaire-geely-france/).
 
 Un essai sert surtout à trancher deux points que les fiches techniques ne règlent pas : la vitesse de recharge réellement obtenue sur une borne publique d'Île-de-France, et la finition retenue, puisque l'écart d'autonomie entre l'entrée de gamme et le haut de gamme dépasse la moitié de l'amplitude annoncée sur certains modèles.
 
 ## Ce qui peut bouger en octobre {#mondial}
 
-Zeekr expose pour la première fois au Mondial de l'Auto, du 12 au 18 octobre 2026, hall 5.2 du parc des expositions de la porte de Versailles, avec le X, le 7X, le 001 et le 7GT. Le constructeur annonce une communication importante à cette occasion.
+Le réseau grossit plus vite que prévu. Zeekr France tablait sur une vingtaine de points de vente en 2026, le constructeur annonçait en juillet une quarantaine de concessions d'ici la fin de l'année, 55 points d'après-vente à six mois, puis 70 points de vente et une centaine d'ateliers pour 2027, avec un objectif de 3 500 immatriculations.
 
-Le rendez-vous compte pour un acheteur francilien, parce que le directeur de Zeekr France y avait renvoyé l'annonce de nouveaux distributeurs dès le mois de mai. Un deuxième point de vente en Île-de-France, voire une adresse intra-muros, se jouera vraisemblablement là.
+Zeekr expose par ailleurs pour la première fois au Mondial de l'Auto, du 12 au 18 octobre 2026, hall 5.2 du parc des expositions de la porte de Versailles, avec le X, le 7X, le 001 et le 7GT. Le constructeur annonce une communication importante à cette occasion, et c'est à ce salon qu'il avait renvoyé dès le mois de mai l'annonce de nouveaux distributeurs.
 
-En attendant, un acheteur qui veut voir une Zeekr en vrai dans la région n'a qu'une porte, à 30 kilomètres au nord-ouest de Notre-Dame.
+Pour un acheteur francilien, la question posée en octobre sera moins celle du choix que celle de la distance : une deuxième concession dans la région, voire une adresse intra-muros, changerait la donne. En attendant, l'achat se joue à Saint-Witz.
 
 ## Questions fréquentes {#questions-frequentes}
 
 **Où acheter une Zeekr à Paris ?**
 
-Aucun point de vente Zeekr ne se trouve dans Paris intra-muros. Le formulaire officiel de la marque ne référençait qu'une seule adresse pour toute la région au 13 septembre 2026, sous le libellé « Zeekr Paris et Île-de-France ». Elle correspond au site ouvert par le groupe Como à Saint-Ouen-l'Aumône (95), seul distributeur francilien annoncé par Zeekr France. Les cinq autres adresses du pays sont à Aix-en-Provence, Aubagne, Annecy, Bordeaux et Toulouse.
+Aucune concession Zeekr ne se trouve dans Paris intra-muros. La seule adresse d'Île-de-France capable de vendre, livrer et entretenir une Zeekr est celle du groupe Bauer Paris, au 67 Grande Rue à Saint-Witz (95470), à une trentaine de kilomètres au nord de Paris. Elle figure au référentiel officiel du constructeur sous le nom « Zeekr Roissy Saint Witz », en statut en opération au 13 septembre 2026, avec les cinq services complets dont l'après-vente et la livraison.
 
-**Zeekr vend-elle ses voitures directement en ligne ?**
+**Que vaut l'adresse « Zeekr Paris et Île-de-France » ?**
 
-Non. Le configurateur de shop.zeekr.eu affiche un prix, mais la mention légale au bas de la page est explicite : « Zeekr France ne vend pas directement, l'achat est réalisé auprès de nos partenaires de distribution agréés. Le prix final sera fixé par le distributeur. » Le montant affiché en ligne est donc indicatif, hors frais d'immatriculation et hors frais éventuels de livraison.
+C'est une adresse d'essai, pas un point de vente. Le référentiel officiel la rattache à Zeekr France et non à un distributeur, ne lui accorde que le service d'essai, ne lui donne ni numéro de téléphone ni rue, et la géolocalise sur les coordonnées du Champ-de-Mars. Elle sert à enregistrer une demande d'essai dans la région, pas à acheter une voiture.
+
+**Le groupe Como vend-il des Zeekr en Île-de-France ?**
+
+Pas encore au 13 septembre 2026. Le Journal de l'Automobile a annoncé le groupe Como comme distributeur Zeekr, d'abord à Saint-Ouen-l'Aumône le 6 mai 2026, puis à Pontoise le 10 juillet 2026, deux communes voisines du Val-d'Oise où le groupe exploite déjà sa concession Geely. Mais aucune adresse Como ne figure au référentiel officiel de la marque, qui ne liste que l'existant et ne retient qu'un seul distributeur francilien, Bauer Paris.
 
 **Combien coûte une Zeekr en France en 2026 ?**
 
 La gamme s'étend de 37 990 € pour un Zeekr X en finition Core RWD à 72 990 € pour un Zeekr 001 Sport Edition AWD, d'après le configurateur officiel relevé le 13 septembre 2026. Entre les deux, le 7GT démarre à 45 990 € et le 7X à 52 990 €. Aucune de ces voitures n'ouvre droit au bonus écologique français.
 
-**Quel groupe distribue Zeekr en Île-de-France ?**
+**Zeekr vend-elle ses voitures directement en ligne ?**
 
-Le groupe Como, déjà distributeur Mercedes-Benz, smart, Lexus et Geely dans la région. Le Journal Auto l'a rapporté le 6 mai 2026, d'après les annonces de Rémy Aybaly, directeur de Zeekr France : le groupe ouvre « dans un premier temps un point de vente à Saint-Ouen-l'Aumône (95) ». Le site du distributeur ne communique pas encore sur cette marque, il ne présente à cette adresse que son activité Geely.
+Non. Le configurateur de shop.zeekr.eu affiche un prix, mais la mention légale au bas de la page est explicite : « Zeekr France ne vend pas directement, l'achat est réalisé auprès de nos partenaires de distribution agréés. Le prix final sera fixé par le distributeur. » Le montant affiché en ligne est donc indicatif, hors frais d'immatriculation et hors frais éventuels de livraison.
 
 **Peut-on acheter une Zeekr d'occasion en France ?**
 
 Le marché existe mais reste minuscule : 10 annonces Zeekr figuraient sur AutoScout24 France le 13 septembre 2026, dont 7 chez un seul vendeur des Ardennes. Une seule se trouvait en région parisienne, un 7X Long Range de 10 km à 56 458 € chez un mandataire du 14e arrondissement, soit 468 € de plus que le prix catalogue du même modèle neuf.
-
-**Peut-on essayer une Zeekr avant d'acheter ?**
-
-Oui, via le formulaire d'essai de zeekr.eu. Il demande le modèle, les coordonnées du conducteur, le pays puis le code postal, et ne propose les points de vente qu'une fois ce code postal saisi. Quatre modèles sont ouverts à l'essai : le X, le 7X, le 001 et le 7GT. Le 9X, lui, n'est encore proposé qu'en réservation.
