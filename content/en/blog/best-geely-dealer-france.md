@@ -4,7 +4,7 @@ seoTitle: "Best Geely Dealer: 2026 Comparison of the Networks"
 description: "Comparison of the 7 groups distributing Geely in France: number of sites, regions covered, workshops, 8-year warranty and delivery lead times."
 translationKey: "best-geely-dealer-france"
 date: 2026-08-03
-lastmod: 2026-08-03
+lastmod: 2026-09-13
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals", "Cars"]
@@ -56,7 +56,7 @@ Geely Auto France operates no outlets of its own. The brand, launched in late Ap
 | **BYmyCAR** | 2 | Villeneuve-Loubet, Le Cannet | multi-brand | both sites in the same department |
 | **Select Auto** | 1 | La Rochelle | multi-brand | no fallback if a car is off the road |
 
-The table settles one question straight away. Comparing Como and Select Auto has no practical bearing on a purchase, since their territories do not overlap. Ranking by size measures how solid a partner is, not the quality of service thirty kilometres from home.
+The table settles one question straight away. Comparing Como and Select Auto has no practical bearing on a purchase, since their territories do not overlap. Ranking by size measures how solid a partner is, not the quality of service thirty kilometres from home. That same group has since been signed by Zeekr for the Paris region, with a single sales point whose terms are set out in the guide to [buying a Zeekr in Paris](/en/blog/buy-zeekr-paris/).
 
 The group's profile, however, is comparable. Elypse Autos already operated Volvo, Polestar and Lynk & Co, three brands held by the same shareholder as Geely. Diagnostic tools, mechanic training and parts logistics partly rest on shared foundations. Como applies the standards of Mercedes-Benz, smart and Lexus, with around 500 staff and in the region of 8,500 vehicles delivered per year.
 

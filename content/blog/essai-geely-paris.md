@@ -4,7 +4,7 @@ seoTitle: "Essai Geely à Paris : les 5 adresses d'Île-de-France"
 description: "Essai Geely à Paris : 5 points de vente en Île-de-France, un seul dans Paris intra-muros, et 3 modèles ouverts à la réservation en 2026."
 translationKey: "geely-test-drive-paris"
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-09-13
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers", "Voitures"]
@@ -127,7 +127,7 @@ Le E5 est dans la situation inverse. Aucune annonce de ce modèle ne figurait su
 
 Reste la location. Le constructeur affiche le Starray EM-i à 299 € par mois et le E5 au même loyer de départ, sur 48 mois et 40 000 km, la peinture métallisée portant ces montants à 307 € et 316 €. Ces offres ne s'apprécient pas au loyer mensuel mais au coût total, premier loyer majoré compris, un calcul que détaille notre analyse du [concessionnaire Geely Starray](/blog/geely-starray-concessionnaire/) et de sa marge de négociation.
 
-Dernier repère chiffré à garder en tête au moment de choisir son adresse d'essai : le réseau visait 70 points de vente pour la fin 2026, il en affichait 46 début septembre. Les cinq sites franciliens actuels ne seront donc pas les seuls très longtemps, et la concurrence entre distributeurs de la région commencera le jour où un second groupe s'y installera.
+Dernier repère chiffré à garder en tête au moment de choisir son adresse d'essai : le réseau visait 70 points de vente pour la fin 2026, il en affichait 46 début septembre. Les cinq sites franciliens actuels ne seront donc pas les seuls très longtemps, et la concurrence entre distributeurs de la région commencera le jour où un second groupe s'y installera. Le même groupe a par ailleurs été retenu par Zeekr, la marque premium du même actionnaire, dont le réseau francilien se limite pour l'instant à une seule adresse : le détail des canaux pour [acheter une Zeekr à Paris](/blog/acheter-zeekr-paris/) suit une logique très différente.
 
 ## Questions fréquentes {#questions-frequentes}
 

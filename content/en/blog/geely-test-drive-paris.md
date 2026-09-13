@@ -4,7 +4,7 @@ seoTitle: "Geely test drive in Paris: the 5 Île-de-France locations"
 description: "Geely test drive in Paris: 5 sales points across Île-de-France, only one inside the city, and 3 models open to booking in 2026."
 translationKey: "geely-test-drive-paris"
 date: 2026-09-06
-lastmod: 2026-09-06
+lastmod: 2026-09-13
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals", "Cars"]
@@ -127,7 +127,7 @@ The E5 is in the opposite position. No listing for that model appeared on AutoSc
 
 That leaves leasing. The manufacturer lists the Starray EM-i at €299 per month and the E5 at the same entry rate, over 48 months and 40,000 km, with metallic paint pushing those figures to €307 and €316. Such offers are judged on total cost including the initial payment, not on the monthly figure alone, a calculation detailed in our analysis of the [Geely Starray dealer](/en/blog/geely-starray-dealer/) network and its negotiating room.
 
-One last figure worth keeping in mind when picking a test drive address: the network was targeting 70 sales points by the end of 2026, and showed 46 in early September. The five regional sites will therefore not stay alone for long, and competition between distributors in the area will start the day a second group opens there.
+One last figure worth keeping in mind when picking a test drive address: the network was targeting 70 sales points by the end of 2026, and showed 46 in early September. The five regional sites will therefore not stay alone for long, and competition between distributors in the area will start the day a second group opens there. The same group has also been signed by Zeekr, the premium brand owned by the same shareholder, whose Paris-region network is down to a single address: the channels available to [buy a Zeekr in Paris](/en/blog/buy-zeekr-paris/) follow a very different logic.
 
 ## Frequently asked questions {#faq}
 

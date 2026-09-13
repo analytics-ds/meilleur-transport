@@ -4,7 +4,7 @@ seoTitle: "Buy a Geely EX5 in France: where and at what price in 2026"
 description: "Buying a Geely EX5 in France: the model is sold as the E5, through 42 authorised dealers, with no broker and no used stock available."
 translationKey: "buy-geely-ex5-france"
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-09-13
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals", "Cars"]
@@ -140,6 +140,8 @@ That absence shifts the whole ground of the negotiation. On an eligible model, p
 Three points are worth checking at the order desk. Allocation lead time first, which depends on the quota granted to that sales point rather than national stock. Availability of a demonstrator second, since not every showroom has one yet. Registration cost last, which falls to the buyer and is calculated on the regional tax horsepower rate, a line item covered in the guide to **[vehicle registration costs](/en/blog/how-much-vehicle-registration-costs/)**.
 
 One question the price list does not settle remains: the warranty, advertised at up to 8 years, attaches to the car, but claiming it assumes an approved workshop within reasonable reach. With 42 addresses for the whole country, the network map weighs as much in the decision as the spec sheet.
+
+The environmental score rule hits the group's premium brand just as hard, since none of its models qualifies either. Its network is tighter still, as the survey of sales points available to [buy a Zeekr in Paris](/en/blog/buy-zeekr-paris/) shows.
 
 ## Frequently asked questions {#questions}
 

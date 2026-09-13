@@ -4,7 +4,7 @@ seoTitle: "Acheter un Geely EX5 en France : où et à quel prix en 2026"
 description: "Acheter un Geely EX5 en France : le modèle se vend sous le nom E5, dans 42 points de vente agréés, sans mandataire ni occasion disponible."
 translationKey: "buy-geely-ex5-france"
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-09-13
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers", "Voitures"]
@@ -140,6 +140,8 @@ Cette absence déplace entièrement le terrain de la négociation. Sur un modèl
 Trois points se vérifient utilement au moment de la commande. Le délai d'allocation d'abord, qui dépend du quota alloué au point de vente et non du stock national. La disponibilité d'un véhicule d'essai ensuite, tous les halls n'en disposant pas encore. Le coût de la carte grise enfin, qui reste à la charge de l'acheteur et se calcule sur le cheval fiscal régional, un poste détaillé dans le guide du **[prix d'une carte grise](/blog/prix-carte-grise/)**.
 
 Reste une question que le catalogue ne tranche pas : la garantie annoncée jusqu'à 8 ans est attachée au véhicule, mais son exercice suppose un atelier agréé à distance raisonnable. Avec 42 adresses pour toute la France, la carte du réseau pèse autant dans la décision que la fiche technique.
+
+La règle du score environnemental frappe de la même façon la marque premium du groupe, dont aucun modèle n'est éligible non plus. Le réseau y est encore plus serré, comme le montre le relevé des points de vente pour [acheter une Zeekr à Paris](/blog/acheter-zeekr-paris/).
 
 ## Questions fréquentes {#questions-frequentes}
 

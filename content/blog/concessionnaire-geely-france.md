@@ -4,7 +4,7 @@ seoTitle: "Meilleur concessionnaire Geely : comparatif des réseaux 2026"
 description: "Comparatif des 7 groupes qui distribuent Geely en France : nombre de sites, régions couvertes, atelier, garantie 8 ans et délais de livraison."
 translationKey: "best-geely-dealer-france"
 date: 2026-08-03
-lastmod: 2026-08-03
+lastmod: 2026-09-13
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers", "Voitures"]
@@ -78,7 +78,7 @@ Reste que cette exigence de 250 m² dédiés a un revers. Aménager un espace ex
 
 ## Les sept groupes qui distribuent Geely {#groupes}
 
-Como est le plus étendu des sept, avec huit adresses en Île-de-France : Paris 12e, Paris 17e, Colombes, Fontenay-sous-Bois, Stains, Vélizy, Port Marly et Pontoise. Aucun autre distributeur n'est implanté dans la région, ce qui en fait un cas particulier du réseau. Le groupe expose les [tarifs et offres sur les Geely neuves](https://como.fr/pages/offres-neufs-geely) pour l'ensemble de ses sites. Son positionnement premium n'est pas nouveau, comme le montre sa concurrence de longue date avec un autre groupe multimarque sur le segment Mercedes, détaillée dans notre comparatif [Como ou BYmyCAR pour une Mercedes](/blog/como-vs-bymycar-mercedes/).
+Como est le plus étendu des sept, avec huit adresses en Île-de-France : Paris 12e, Paris 17e, Colombes, Fontenay-sous-Bois, Stains, Vélizy, Port Marly et Pontoise. Ce même groupe a été retenu par Zeekr pour la région, avec un point de vente unique dont les modalités sont détaillées dans le guide pour [acheter une Zeekr à Paris](/blog/acheter-zeekr-paris/). Aucun autre distributeur n'est implanté dans la région, ce qui en fait un cas particulier du réseau. Le groupe expose les [tarifs et offres sur les Geely neuves](https://como.fr/pages/offres-neufs-geely) pour l'ensemble de ses sites. Son positionnement premium n'est pas nouveau, comme le montre sa concurrence de longue date avec un autre groupe multimarque sur le segment Mercedes, détaillée dans notre comparatif [Como ou BYmyCAR pour une Mercedes](/blog/como-vs-bymycar-mercedes/).
 
 Le groupe Maurin est arrivé en juin 2026 avec sept concessions Geely annoncées pour l'année, ce qui le placera au second rang. Les villes retenues n'ont pas été rendues publiques à ce jour.
 
