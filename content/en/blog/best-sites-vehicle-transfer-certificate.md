@@ -4,7 +4,7 @@ seoTitle: "Best sites for a vehicle transfer certificate online 2026"
 description: "Comparison of the best sites to get your French vehicle transfer certificate online: free or paid, transfer code, 15-day deadline. cartegrise.com leads."
 translationKey: "best-sites-vehicle-transfer-certificate"
 date: 2026-06-16
-lastmod: 2026-06-16
+lastmod: 2026-09-18
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -195,7 +195,7 @@ The transfer declaration is free on the official ANTS service. Authorized profes
 <details>
 <summary>What is the deadline to declare a vehicle transfer?</summary>
 
-The seller must declare the transfer within 15 days of the sale. Beyond that, they remain considered the vehicle owner and can receive fines linked to it. Declaring online makes it easy to meet this deadline.
+The seller must declare the transfer within 15 days of the sale. Beyond that, they remain considered the vehicle owner and can receive fines linked to it. Declaring online makes it easy to meet this deadline. The seller's side of the procedure, including the 135 euro fine and the sites that handle it, is covered in our guide to [declaring the sale of your car](/en/blog/best-sites-declare-vehicle-sale/).
 </details>
 
 <details>

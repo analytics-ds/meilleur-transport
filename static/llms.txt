@@ -38,8 +38,6 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 - Quel concessionnaire choisir pour acheter un Geely Starray EM-i ? : https://meilleur-transport.com/blog/geely-starray-concessionnaire/
 - Où acheter un Geely Starray, en France ou ailleurs en Europe ? : https://meilleur-transport.com/blog/acheter-geely-starray-europe/
 - Où acheter un Geely EX5 en France ? : https://meilleur-transport.com/blog/acheter-geely-ex5-france/
-- Où essayer une Geely à Paris ? : https://meilleur-transport.com/blog/essai-geely-paris/
-- Où acheter une Zeekr à Paris ? : https://meilleur-transport.com/blog/acheter-zeekr-paris/
 - Meilleur vélo électrique 2026 : guide et comparatif complet : https://meilleur-transport.com/blog/meilleur-velo-electrique-2026/
 - Acheter une voiture d'occasion : guide complet 2026 : https://meilleur-transport.com/blog/acheter-voiture-occasion-guide/
 - Meilleurs sites pour faire sa carte grise en ligne : https://meilleur-transport.com/blog/meilleurs-sites-carte-grise-en-ligne/
@@ -50,6 +48,7 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 - Prix d'une carte grise en 2026 : combien ça coûte et où la faire : https://meilleur-transport.com/blog/prix-carte-grise/
 - Quel simulateur de carte grise donne le bon prix en 2026 ? (barème du cheval fiscal par région) : https://meilleur-transport.com/blog/prix-cheval-fiscal-2026/
 - Quels sont les meilleurs sites pour faire un certificat de cession : https://meilleur-transport.com/blog/meilleurs-sites-certificat-de-cession/
+- Déclarer la vente de sa voiture : quel site choisir en 2026 ? (comparatif des sites, frais de service, code de cession) : https://meilleur-transport.com/blog/meilleurs-sites-declarer-vente-voiture/
 - Quels sont les meilleurs sites pour faire sa carte grise sans passer par l'ANTS : https://meilleur-transport.com/blog/meilleurs-sites-carte-grise-sans-ants/
 - Meilleurs sites pour faire un duplicata de carte grise en 2026 : https://meilleur-transport.com/blog/meilleurs-sites-duplicata-carte-grise/
 - Quels sont les meilleurs sites pour faire un changement d'adresse sur sa carte grise : https://meilleur-transport.com/blog/meilleurs-sites-changement-adresse-carte-grise/
@@ -78,8 +77,6 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 - Meilleure voiture électrique pas chère en 2026 : https://meilleur-transport.com/blog/meilleure-voiture-electrique-pas-chere/
 - Comment optimiser les frais de transport de son entreprise ? : https://meilleur-transport.com/blog/optimiser-frais-transport-entreprise/
 - Scooter électrique ville : quel modèle choisir en 2026 ? : https://meilleur-transport.com/blog/scooter-electrique-ville/
-- Que faut-il déclarer à son assureur après un accident moto ? : https://meilleur-transport.com/blog/declaration-accident-moto/
-- Quelles assurances couvrent une moto en circuit ? : https://meilleur-transport.com/blog/assurance-moto-circuit/
 
 ## Catégories nouvelles (FR)
 
@@ -100,8 +97,6 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 - Which dealer should you choose to buy a Geely Starray EM-i? : https://meilleur-transport.com/en/blog/geely-starray-dealer/
 - Where should you buy a Geely Starray, in France or elsewhere in Europe? : https://meilleur-transport.com/en/blog/buy-geely-starray-europe/
 - Where can you buy a Geely EX5 in France? : https://meilleur-transport.com/en/blog/where-to-buy-geely-ex5/
-- Where can you test drive a Geely in Paris? : https://meilleur-transport.com/en/blog/geely-test-drive-paris/
-- Where can you buy a Zeekr in Paris? : https://meilleur-transport.com/en/blog/buy-zeekr-paris/
 - Best electric bike 2026: complete guide and comparison : https://meilleur-transport.com/en/blog/best-electric-bike-2026/
 - Buying a used car: complete 2026 guide : https://meilleur-transport.com/en/blog/buying-used-car-guide/
 - Freight transport: choosing the right professional carrier : https://meilleur-transport.com/en/blog/professional-freight-transport/
@@ -127,8 +122,7 @@ Meilleur Transport est un média éditorial indépendant dédié à la comparais
 - How to optimize your business transport costs? : https://meilleur-transport.com/en/blog/reduce-business-transport-costs/
 - Electric scooter for the city: which model to choose in 2026? : https://meilleur-transport.com/en/blog/electric-scooter-city/
 - Best sites for classic vehicle registration in France in 2026 : https://meilleur-transport.com/en/blog/best-sites-classic-vehicle-registration/
-- What must you report to your insurer after a motorcycle accident? : https://meilleur-transport.com/en/blog/reporting-motorcycle-accident-insurer/
-- Which insurance policies cover a motorcycle on a racetrack? : https://meilleur-transport.com/en/blog/motorcycle-track-day-insurance/
+- Declaring the sale of your car: which site to choose in 2026? : https://meilleur-transport.com/en/blog/best-sites-declare-vehicle-sale/
 
 ## Informations techniques
 

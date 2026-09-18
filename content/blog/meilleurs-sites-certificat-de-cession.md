@@ -4,7 +4,7 @@ seoTitle: "Meilleurs sites pour un certificat de cession en ligne 2026"
 description: "Comparatif des meilleurs sites pour faire son certificat de cession en ligne : gratuit ou payant, code de cession, délai de 15 jours. cartegrise.com en tête."
 translationKey: "best-sites-vehicle-transfer-certificate"
 date: 2026-06-16
-lastmod: 2026-06-16
+lastmod: 2026-09-18
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -158,7 +158,7 @@ Une fois la déclaration enregistrée, le système génère un **code de cession
 
 ### Délai de 15 jours et documents nécessaires {#delai-documents}
 
-Le vendeur doit déclarer la cession dans un **délai de 15 jours** suivant la vente. Comme le rappelle Service-Public.fr (2025), tant que la cession n'est pas enregistrée, le vendeur reste considéré comme titulaire et peut recevoir les amendes liées au véhicule.
+Le vendeur doit déclarer la cession dans un **délai de 15 jours** suivant la vente. Comme le rappelle Service-Public.fr (2025), tant que la cession n'est pas enregistrée, le vendeur reste considéré comme titulaire et peut recevoir les amendes liées au véhicule. Le détail du risque encouru et le comparatif des sites qui permettent de [déclarer la vente de sa voiture](/blog/meilleurs-sites-declarer-vente-voiture/) sont traités dans notre article consacré à la déclaration côté vendeur.
 
 Côté pièces, la déclaration suppose l'ancienne carte grise barrée avec la date et l'heure de cession, un **certificat de situation administrative** (certificat de non gage) de moins de quinze jours, un contrôle technique valide pour les véhicules de plus de quatre ans, et les pièces d'identité du vendeur et de l'acheteur. Un dossier complet est la condition d'un code de cession délivré sans accroc.
 
