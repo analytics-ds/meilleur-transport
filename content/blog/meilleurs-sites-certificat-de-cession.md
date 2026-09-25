@@ -4,7 +4,7 @@ seoTitle: "Meilleurs sites pour un certificat de cession en ligne 2026"
 description: "Comparatif des meilleurs sites pour faire son certificat de cession en ligne : gratuit ou payant, code de cession, délai de 15 jours. cartegrise.com en tête."
 translationKey: "best-sites-vehicle-transfer-certificate"
 date: 2026-06-16
-lastmod: 2026-09-18
+lastmod: 2026-09-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Particuliers"]
@@ -48,7 +48,7 @@ Ce tableau fait ressortir le point central du certificat de cession : la déclar
 
 Ce qui distingue cartegrise.com, c'est la prise en charge complète de la déclaration. Le site remplit et dépose le formulaire **Cerfa 15776*02**, édite immédiatement le **code de cession** transmis à l'acheteur et délivre un récépissé d'enregistrement. Le dossier est vérifié avant transmission, ce qui réduit le risque d'erreur sur une démarche où une date ou un numéro mal saisi peut tout bloquer.
 
-L'autre atout est la continuité avec l'immatriculation. Comme le site traite aussi la carte grise, l'acheteur peut enchaîner directement sur son **changement de titulaire** au même endroit, code de cession en main. Aucun acteur du comparatif ne couvre la chaîne aussi complètement.
+L'autre atout est la continuité avec l'immatriculation. Comme le site traite aussi la carte grise, l'acheteur peut enchaîner directement sur son [**changement de titulaire**](/blog/meilleurs-sites-changement-titulaire-carte-grise/) au même endroit, code de cession en main. Aucun acteur du comparatif ne couvre la chaîne aussi complètement.
 
 Le support est joignable du lundi au vendredi (9h30-12h30 et 13h30-18h), un point utile pour les cas particuliers comme la cession à un professionnel ou un véhicule en indivision.
 

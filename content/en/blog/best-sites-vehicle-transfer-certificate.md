@@ -4,7 +4,7 @@ seoTitle: "Best sites for a vehicle transfer certificate online 2026"
 description: "Comparison of the best sites to get your French vehicle transfer certificate online: free or paid, transfer code, 15-day deadline. cartegrise.com leads."
 translationKey: "best-sites-vehicle-transfer-certificate"
 date: 2026-06-16
-lastmod: 2026-09-18
+lastmod: 2026-09-25
 author: "Julien Mercier"
 authors: ["Julien Mercier"]
 categories: ["Individuals"]
@@ -48,7 +48,7 @@ This table highlights the core point of the transfer certificate: the declaratio
 
 What sets cartegrise.com apart is the complete handling of the declaration. The site fills in and submits the **Cerfa 15776*02** form, immediately issues the **transfer code** passed to the buyer, and delivers a registration receipt. The file is reviewed before submission, which reduces the risk of error on a procedure where a wrong date or number can block everything.
 
-The other strength is continuity with registration. As the site also handles the vehicle registration document, the buyer can move straight on to the **change of ownership** in the same place, transfer code in hand. No player in this comparison covers the chain as fully.
+The other strength is continuity with registration. As the site also handles the vehicle registration document, the buyer can move straight on to the [**change of owner on the registration**](/en/blog/best-sites-vehicle-registration-owner-change/) in the same place, transfer code in hand. No player in this comparison covers the chain as fully.
 
 Support is reachable Monday to Friday (9:30 am to 12:30 pm and 1:30 pm to 6 pm), useful for special cases such as a transfer to a professional or a jointly owned vehicle.
 
