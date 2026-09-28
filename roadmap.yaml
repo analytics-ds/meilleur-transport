@@ -324,7 +324,7 @@ articles:
     category: "Particuliers"
     volume: 1333
     kd: null
-    scheduled_date: "2026-07-17"
+    scheduled_date: "2026-09-28"
     status: todo
     published_date: null
     published_url_fr: null
@@ -346,7 +346,7 @@ articles:
     category: "Professionnels"
     volume: 291
     kd: null
-    scheduled_date: "2026-07-24"
+    scheduled_date: "2026-09-29"
     status: todo
     published_date: null
     published_url_fr: null
@@ -357,7 +357,7 @@ articles:
     category: "Particuliers"
     volume: 1100
     kd: null
-    scheduled_date: "2026-07-28"
+    scheduled_date: "2026-10-02"
     status: todo
     published_date: null
     published_url_fr: null
@@ -368,7 +368,7 @@ articles:
     category: "Particuliers"
     volume: 4100
     kd: null
-    scheduled_date: "2026-07-31"
+    scheduled_date: "2026-10-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -379,7 +379,7 @@ articles:
     category: "Professionnels"
     volume: 145
     kd: null
-    scheduled_date: "2026-08-04"
+    scheduled_date: "2026-10-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -390,7 +390,7 @@ articles:
     category: "Particuliers"
     volume: 16200
     kd: null
-    scheduled_date: "2026-08-07"
+    scheduled_date: "2026-10-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -401,7 +401,7 @@ articles:
     category: "Particuliers"
     volume: 1300
     kd: null
-    scheduled_date: "2026-08-11"
+    scheduled_date: "2026-10-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -412,7 +412,7 @@ articles:
     category: "Professionnels"
     volume: 170
     kd: null
-    scheduled_date: "2026-08-14"
+    scheduled_date: "2026-10-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -423,7 +423,7 @@ articles:
     category: "Particuliers"
     volume: 3100
     kd: null
-    scheduled_date: "2026-08-18"
+    scheduled_date: "2026-10-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -434,7 +434,7 @@ articles:
     category: "Particuliers"
     volume: 1200
     kd: null
-    scheduled_date: "2026-08-21"
+    scheduled_date: "2026-10-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -445,7 +445,7 @@ articles:
     category: "Professionnels"
     volume: 210
     kd: null
-    scheduled_date: "2026-08-25"
+    scheduled_date: "2026-10-30"
     status: todo
     published_date: null
     published_url_fr: null
@@ -456,7 +456,7 @@ articles:
     category: "Particuliers"
     volume: 1200
     kd: null
-    scheduled_date: "2026-08-28"
+    scheduled_date: "2026-11-03"
     status: todo
     published_date: null
     published_url_fr: null
@@ -467,7 +467,7 @@ articles:
     category: "Particuliers"
     volume: 4600
     kd: null
-    scheduled_date: "2026-09-01"
+    scheduled_date: "2026-11-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -478,7 +478,7 @@ articles:
     category: "Particuliers"
     volume: 2400
     kd: null
-    scheduled_date: "2026-09-04"
+    scheduled_date: "2026-11-10"
     status: todo
     published_date: null
     published_url_fr: null
@@ -489,7 +489,7 @@ articles:
     category: "Professionnels"
     volume: 260
     kd: null
-    scheduled_date: "2026-09-08"
+    scheduled_date: "2026-11-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -500,7 +500,7 @@ articles:
     category: "Particuliers"
     volume: 800
     kd: null
-    scheduled_date: "2026-09-11"
+    scheduled_date: "2026-11-17"
     status: todo
     published_date: null
     published_url_fr: null
@@ -511,7 +511,7 @@ articles:
     category: "Particuliers"
     volume: 2200
     kd: null
-    scheduled_date: "2026-09-15"
+    scheduled_date: "2026-11-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -522,7 +522,7 @@ articles:
     category: "Professionnels"
     volume: 191
     kd: null
-    scheduled_date: "2026-09-18"
+    scheduled_date: "2026-11-24"
     status: todo
     published_date: null
     published_url_fr: null
@@ -533,7 +533,7 @@ articles:
     category: "Particuliers"
     volume: 536
     kd: null
-    scheduled_date: "2026-09-22"
+    scheduled_date: "2026-11-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -544,7 +544,7 @@ articles:
     category: "Particuliers"
     volume: 41600
     kd: null
-    scheduled_date: "2026-09-25"
+    scheduled_date: "2026-12-01"
     status: todo
     published_date: null
     published_url_fr: null
@@ -555,7 +555,7 @@ articles:
     category: "Particuliers"
     volume: 1900
     kd: null
-    scheduled_date: "2026-09-29"
+    scheduled_date: "2026-12-04"
     status: todo
     published_date: null
     published_url_fr: null
@@ -566,7 +566,7 @@ articles:
     category: "Particuliers"
     volume: 500
     kd: null
-    scheduled_date: "2026-10-02"
+    scheduled_date: "2026-12-08"
     status: todo
     published_date: null
     published_url_fr: null
@@ -577,7 +577,7 @@ articles:
     category: "Particuliers"
     volume: 390
     kd: null
-    scheduled_date: "2026-10-06"
+    scheduled_date: "2026-12-11"
     status: todo
     published_date: null
     published_url_fr: null
@@ -588,7 +588,7 @@ articles:
     category: "Particuliers"
     volume: 1100
     kd: null
-    scheduled_date: "2026-10-09"
+    scheduled_date: "2026-12-15"
     status: todo
     published_date: null
     published_url_fr: null
@@ -599,7 +599,7 @@ articles:
     category: "Particuliers"
     volume: 1000
     kd: null
-    scheduled_date: "2026-10-13"
+    scheduled_date: "2026-12-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -610,7 +610,7 @@ articles:
     category: "Particuliers"
     volume: 700
     kd: null
-    scheduled_date: "2026-10-16"
+    scheduled_date: "2026-12-22"
     status: todo
     published_date: null
     published_url_fr: null
@@ -621,7 +621,7 @@ articles:
     category: "Particuliers"
     volume: 300
     kd: null
-    scheduled_date: "2026-10-20"
+    scheduled_date: "2026-12-25"
     status: todo
     published_date: null
     published_url_fr: null
