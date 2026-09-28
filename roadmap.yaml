@@ -325,10 +325,10 @@ articles:
     volume: 1333
     kd: null
     scheduled_date: "2026-09-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-28"
+    published_url_fr: "https://meilleur-transport.com/blog/reglementation-trottinette-electrique/"
+    published_url_en: "https://meilleur-transport.com/en/blog/electric-scooter-regulations/"
     error: null
 
   - kw: "assurance velo electrique"
