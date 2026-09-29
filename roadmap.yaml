@@ -347,10 +347,10 @@ articles:
     volume: 291
     kd: null
     scheduled_date: "2026-09-29"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-29"
+    published_url_fr: "https://meilleur-transport.com/blog/amortissement-vehicule-societe/"
+    published_url_en: "https://meilleur-transport.com/en/blog/company-car-depreciation/"
     error: null
 
   - kw: "prix permis moto a2"
